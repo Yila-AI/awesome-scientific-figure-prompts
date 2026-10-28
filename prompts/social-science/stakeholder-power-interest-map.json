@@ -1,0 +1,20 @@
+{
+  "id": "stakeholder-power-interest-map",
+  "theme": "social-science",
+  "technique": "四象限矩阵，图标代表各方",
+  "technique_en": "four-quadrant grid with icons for each group",
+  "featured": false,
+  "added": "2026-10-28",
+  "author": "Yila-AI",
+  "author_url": "https://github.com/Yila-AI",
+  "title": {
+    "zh": "利益相关者地图（权力—利益矩阵）",
+    "en": "Stakeholder map (power–interest grid)"
+  },
+  "style": "D",
+  "size": "1:1",
+  "content": {
+    "en": "Create a stakeholder map of 【a public health program】 as a power–interest grid: a square divided into four quadrants. The vertical axis is power, increasing upward, and the horizontal axis is interest, increasing to the right, with arrowheads only and no numbers or scale.\n1. Top right, manage closely: 【a government health agency and funders (a building and a money-bag icon)】.\n2. Top left, keep satisfied: 【regulators and media (a gavel and a camera icon)】.\n3. Bottom right, keep informed: 【patients and community groups (people icons)】.\n4. Bottom left, monitor: 【the general public (a crowd icon)】.\nEach quadrant has its strategy name written once in its corner; the stakeholders are icons without names.\nWrite each label only once in the whole figure.\nLabels, each used once, no other text: 【Power, Interest, Manage closely, Keep satisfied, Keep informed, Monitor】.",
+    "zh": "画一张【公共卫生项目】的利益相关者地图，用权力—利益矩阵表示：一个正方形分成四个象限。纵轴是权力，向上增大；横轴是利益，向右增大；坐标轴只画箭头，不写数字或刻度。\n1. 右上，重点管理：【政府卫生部门和资助方（建筑和钱袋图标）】。\n2. 左上，保持满意：【监管机构和媒体（法槌和摄像机图标）】。\n3. 右下，及时告知：【患者和社区团体（人形图标）】。\n4. 左下，持续关注：【普通公众（人群图标）】。\n每个象限的角上写一次策略名；利益相关者只画图标，不写名字。\n整张图里每个标签只写一次。\n标签（每个只出现一次，不加其他文字）：【Power, Interest, Manage closely, Keep satisfied, Keep informed, Monitor】。"
+  }
+}

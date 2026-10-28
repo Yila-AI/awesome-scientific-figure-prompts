@@ -1,0 +1,20 @@
+{
+  "id": "neuron-synapse",
+  "theme": "medical-illustration",
+  "technique": "整个神经元加突触放大",
+  "technique_en": "whole neuron plus a synapse close-up",
+  "featured": false,
+  "added": "2026-10-28",
+  "author": "Yila-AI",
+  "author_url": "https://github.com/Yila-AI",
+  "title": {
+    "zh": "神经元与突触传递",
+    "en": "Neuron and synaptic transmission"
+  },
+  "style": "S",
+  "size": "16:9",
+  "content": {
+    "en": "Create a scientific illustration of 【a neuron and synaptic transmission】:\n1. Left: 【a whole neuron with branching dendrites, a cell body with a nucleus, and a long axon wrapped in segments of myelin sheath, ending in an axon terminal】.\n2. Right, a circular magnified inset of the synapse: 【an electrical signal arrives at the axon terminal; Ca2+ flows in as small dots; synaptic vesicles fuse with the membrane and release neurotransmitter into the synaptic cleft; the neurotransmitter binds receptors on the membrane of the next neuron】.\nWrite each label only once in the whole figure.\nLabels, each used once, no other text: 【Dendrite, Cell body, Axon, Myelin sheath, Synaptic vesicle, Neurotransmitter, Synaptic cleft, Receptor】.",
+    "zh": "画一张【神经元与突触传递】的科学插画：\n1. 左：【一个完整的神经元，有分支状树突、带细胞核的胞体，以及一根被分段髓鞘包裹的长轴突，末端是轴突终末】。\n2. 右，一个圆形突触放大插图：【电信号到达轴突终末；Ca2+ 以小点形式流入；突触囊泡与膜融合，把神经递质释放到突触间隙；神经递质结合下一个神经元膜上的受体】。\n整张图里每个标签只写一次。\n标签（每个只出现一次，不加其他文字）：【Dendrite, Cell body, Axon, Myelin sheath, Synaptic vesicle, Neurotransmitter, Synaptic cleft, Receptor】。"
+  }
+}

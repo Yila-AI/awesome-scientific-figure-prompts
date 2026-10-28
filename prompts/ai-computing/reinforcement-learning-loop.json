@@ -1,0 +1,20 @@
+{
+  "id": "reinforcement-learning-loop",
+  "theme": "ai-computing",
+  "technique": "上下两框的闭环",
+  "technique_en": "a closed loop between two boxes",
+  "featured": false,
+  "added": "2026-10-28",
+  "author": "Yila-AI",
+  "author_url": "https://github.com/Yila-AI",
+  "title": {
+    "zh": "强化学习：智能体—环境交互",
+    "en": "Reinforcement learning: agent–environment loop"
+  },
+  "style": "D",
+  "size": "4:3",
+  "content": {
+    "en": "Create a schematic of 【the reinforcement learning loop】: an agent box (a small robot icon) at the top and an environment box (a small maze) at the bottom, joined into one loop. Draw each relationship exactly as listed and nothing more:\n1. 【The agent sends an action down to the environment along the right side of the loop.】\n2. 【The environment sends the new state and a reward up to the agent along the left side of the loop.】\n3. 【Inside the agent, a small policy box chooses the action from the state.】\n4. 【A short dashed arrow from the reward to the policy shows the reward updating the policy.】\nThere are no T-bars in this figure. Do not write the numbered sentences in the figure. Write each label only once in the whole figure.\nLabels, each used once, no other text: 【Agent, Environment, Action, State, Reward, Policy】.",
+    "zh": "画一张【强化学习循环】示意图：上方是智能体框（小机器人图标），下方是环境框（一个小迷宫），两者连成一个闭环。严格按下面列出的关系画，不多画：\n1. 【智能体沿闭环右侧向下把动作发给环境。】\n2. 【环境沿闭环左侧向上把新状态和奖励发给智能体。】\n3. 【智能体内部有一个小策略框，根据状态选择动作。】\n4. 【一条短虚线箭头从奖励指向策略，表示奖励用于更新策略。】\n图中没有 T 形线。不要把编号句子写进图里。整张图里每个标签只写一次。\n标签（每个只出现一次，不加其他文字）：【Agent, Environment, Action, State, Reward, Policy】。"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "gnn-message-passing",
+  "theme": "ai-computing",
+  "technique": "邻居发消息、聚合、更新",
+  "technique_en": "neighbors send, aggregate, update",
+  "featured": false,
+  "added": "2026-10-28",
+  "author": "Yila-AI",
+  "author_url": "https://github.com/Yila-AI",
+  "title": {
+    "zh": "图神经网络：消息传递",
+    "en": "Graph neural network: message passing"
+  },
+  "style": "D",
+  "size": "16:9",
+  "content": {
+    "en": "Create a schematic of 【message passing in a graph neural network】, read from left to right in three panels:\n1. Left: 【a small graph of six circular nodes joined by lines; one node is dark blue (the target node) and its three directly connected neighbors are light blue】.\n2. Middle: 【the three neighbors each send a small envelope along their edge into one aggregate box (a summation sign) beside the target node】.\n3. Right: 【an update box combines the aggregate with the target node's own state, and the target node comes out in a deeper color as a new node embedding】.\nLabel the target node only in the left panel.\nWrite each label only once in the whole figure.\nIf a component appears in more than one place or panel, write its label only at its first appearance; every other copy has no text. No label may appear twice anywhere in the figure. Spell every label exactly as given and add no titles. All message arrows point inward, from each neighbor node to the central target node.\nLabels, each used once, no other text: 【Target node, Neighbors, Messages, Aggregate, Update, Node embedding】.",
+    "zh": "画一张【图神经网络消息传递】示意图，从左往右三个面板：\n1. 左：【一个由六个圆形节点和连线组成的小图；一个节点是深蓝色（目标节点），与它直接相连的三个邻居是浅蓝色】。\n2. 中：【三个邻居各沿自己的边送出一个小信封，汇入目标节点旁边的一个聚合框（求和符号）】。\n3. 右：【一个更新框把聚合结果和目标节点自身的状态合在一起，目标节点以更深的颜色输出，成为新的节点嵌入】。\n目标节点只在左侧面板标注。\n整张图里每个标签只写一次。\n如果同一组件在多处或多个面板出现，只在第一次出现时写标签，其余副本不写字。整张图里任何标签都不能出现两次。每个标签拼写与给定完全一致，不加标题。所有消息箭头都向内，从每个邻居节点指向中央目标节点。\n标签（每个只出现一次，不加其他文字）：【Target node, Neighbors, Messages, Aggregate, Update, Node embedding】。"
+  }
+}

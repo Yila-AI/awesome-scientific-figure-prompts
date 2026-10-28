@@ -1,0 +1,20 @@
+{
+  "id": "ecosystem-services-framework",
+  "theme": "earth-environment",
+  "technique": "支持服务支撑三类服务，汇向人类福祉",
+  "technique_en": "supporting services under three service types, leading to well-being",
+  "featured": false,
+  "added": "2026-10-28",
+  "author": "Yila-AI",
+  "author_url": "https://github.com/Yila-AI",
+  "title": {
+    "zh": "生态系统服务框架",
+    "en": "Ecosystem services framework"
+  },
+  "style": "D",
+  "size": "16:9",
+  "content": {
+    "en": "Create a framework diagram of 【ecosystem services】 following the Millennium Ecosystem Assessment, read from left to right, each box with one icon. Draw each relationship exactly as listed and nothing more:\n1. 【Ecosystem (a forest, a river and a field) → supporting services (a tall vertical box with soil and nutrient-cycle icons).】\n2. 【Supporting services → each of three boxes stacked from top to bottom: provisioning services (food, water and timber icons), regulating services (climate, flood-control and pollination icons) and cultural services (hiking and inspiration icons).】\n3. 【Each of the three boxes → human well-being (a group of people icons) on the right.】\n4. 【A dashed arrow runs along the bottom from human well-being back to the ecosystem, passing through a box for drivers of change (a factory and a bulldozer icon).】\nThere are no T-bars in this figure. Do not write the numbered sentences in the figure. Write each label only once in the whole figure.\nInside the service boxes use icons only, with no small words under the icons. Spell every label exactly as given.\nLabels, each used once, no other text: 【Ecosystem, Supporting services, Provisioning services, Regulating services, Cultural services, Human well-being, Drivers of change】.",
+    "zh": "画一张【生态系统服务】框架图，参照千年生态系统评估，从左往右读，每个框配一个图标。严格按下面列出的关系画，不多画：\n1. 【生态系统（森林、河流和农田）→ 支持服务（一个竖长框，配土壤和养分循环图标）。】\n2. 【支持服务 → 上下排列的三个框：供给服务（食物、水和木材图标）、调节服务（气候、防洪和授粉图标）、文化服务（徒步和灵感图标）。】\n3. 【三个框分别 → 右侧的人类福祉（一组人形图标）。】\n4. 【一条虚线箭头沿底部从人类福祉回到生态系统，途经一个变化驱动因素框（工厂和推土机图标）。】\n图中没有 T 形线。不要把编号句子写进图里。整张图里每个标签只写一次。\n服务框内只用图标，图标下不写小字。每个标签拼写与给定完全一致。\n标签（每个只出现一次，不加其他文字）：【Ecosystem, Supporting services, Provisioning services, Regulating services, Cultural services, Human well-being, Drivers of change】。"
+  }
+}

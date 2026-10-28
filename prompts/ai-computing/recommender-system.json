@@ -1,0 +1,20 @@
+{
+  "id": "recommender-system",
+  "theme": "ai-computing",
+  "technique": "漏斗加反馈环",
+  "technique_en": "a funnel plus a feedback loop",
+  "featured": false,
+  "added": "2026-10-28",
+  "author": "Yila-AI",
+  "author_url": "https://github.com/Yila-AI",
+  "title": {
+    "zh": "推荐系统：召回—排序—反馈",
+    "en": "Recommender system: retrieval, ranking and feedback"
+  },
+  "style": "D",
+  "size": "16:9",
+  "content": {
+    "en": "Create a system diagram of 【a recommender system】, read from left to right. Draw each relationship exactly as listed and nothing more:\n1. 【User behavior (small click, view and cart icons) and the item catalog (a large grid of item cards) both feed into candidate generation.】\n2. 【Candidate generation is a funnel that narrows the whole catalog to a small set of candidates.】\n3. 【The candidates → a ranking model (a small network) → recommendations shown on a phone screen as a few item cards.】\n4. 【A dashed arrow runs from the phone back to user behavior, showing the user's new clicks as feedback.】\nThere are no T-bars in this figure. Do not write the numbered sentences in the figure. Write each label only once in the whole figure.\nLabels, each used once, no other text: 【User behavior, Item catalog, Candidate generation, Ranking model, Recommendations, Feedback】.",
+    "zh": "画一张【推荐系统】系统图，从左往右读。严格按下面列出的关系画，不多画：\n1. 【用户行为（小的点击、浏览、加购图标）和商品库（一大片商品卡片网格）都进入候选召回。】\n2. 【候选召回画成一个漏斗，把整个商品库收窄成一小批候选。】\n3. 【候选 → 排序模型（一个小网络）→ 推荐结果，显示在手机屏幕上的几张商品卡片。】\n4. 【一条虚线箭头从手机回到用户行为，表示用户新的点击作为反馈。】\n图中没有 T 形线。不要把编号句子写进图里。整张图里每个标签只写一次。\n标签（每个只出现一次，不加其他文字）：【User behavior, Item catalog, Candidate generation, Ranking model, Recommendations, Feedback】。"
+  }
+}

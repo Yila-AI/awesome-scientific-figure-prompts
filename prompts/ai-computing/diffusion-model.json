@@ -1,0 +1,20 @@
+{
+  "id": "diffusion-model",
+  "theme": "ai-computing",
+  "technique": "一行图像，上下两条方向相反的箭头",
+  "technique_en": "one row of images with opposite arrows above and below",
+  "featured": false,
+  "added": "2026-10-28",
+  "author": "Yila-AI",
+  "author_url": "https://github.com/Yila-AI",
+  "title": {
+    "zh": "扩散模型：前向加噪与反向去噪",
+    "en": "Diffusion model: forward noising and reverse denoising"
+  },
+  "style": "D",
+  "size": "16:9",
+  "content": {
+    "en": "Create a schematic of 【a diffusion model for image generation】: one horizontal row of five small images. The leftmost is a clear picture of 【a flower】; moving right, each image has more speckled noise, and the rightmost is pure gray static.\n1. Above the row, one long arrow points from left to right: the forward process adds noise step by step.\n2. Below the row, one long arrow points from right to left: the reverse process removes noise step by step.\n3. The lower arrow passes through one small box for the denoising network, placed under the middle of the row.\nOnly the leftmost and rightmost images get labels.\nWrite each label only once in the whole figure.\nLabels, each used once, no other text: 【Clean image, Pure noise, Forward process: add noise, Reverse process: denoise, Denoising network】.",
+    "zh": "画一张【用于图像生成的扩散模型】示意图：一行五张小图。最左边是一张清晰的【花】的图片；越往右噪点越多，最右边是纯灰色的雪花噪声。\n1. 这一行上方一条长箭头从左指向右：前向过程逐步加噪。\n2. 这一行下方一条长箭头从右指向左：反向过程逐步去噪。\n3. 下方箭头经过一个代表去噪网络的小框，小框放在这一行中间的正下方。\n只有最左和最右两张图加标签。\n整张图里每个标签只写一次。\n标签（每个只出现一次，不加其他文字）：【Clean image, Pure noise, Forward process: add noise, Reverse process: denoise, Denoising network】。"
+  }
+}

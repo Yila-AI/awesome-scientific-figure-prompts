@@ -1,0 +1,20 @@
+{
+  "id": "learning-analytics-workflow",
+  "theme": "social-science",
+  "technique": "每步一个面板，只写步骤名",
+  "technique_en": "one panel per step, step names only",
+  "featured": false,
+  "added": "2026-10-28",
+  "author": "Yila-AI",
+  "author_url": "https://github.com/Yila-AI",
+  "title": {
+    "zh": "学习分析流程",
+    "en": "Learning analytics workflow"
+  },
+  "style": "W",
+  "size": "16:9",
+  "content": {
+    "en": "Create a workflow figure for 【learning analytics in a course】, 6 steps from left to right:\n1. 【Data collection: a learning platform logging clicks, submissions and forum posts】\n2. 【Data preparation: a broom sweeping a messy table into a tidy one】\n3. 【Analysis: a small network model over student icons】\n4. 【Dashboard: a screen with abstract colored bars and no numbers】\n5. 【Intervention: a teacher sending a supportive message to one student】\n6. 【Impact evaluation: a circular arrow back toward the student icons】\nDo not write the numbered sentences in the figure.\nStep names, each used once, no other text: 【Data collection, Data preparation, Analysis, Dashboard, Intervention, Impact evaluation】.",
+    "zh": "画一张【课程中的学习分析】的流程图，从左往右六步：\n1. 【数据采集：学习平台记录点击、提交和论坛发帖】\n2. 【数据准备：扫帚把杂乱的表格整理整齐】\n3. 【分析建模：学生图标上方一个小网络模型】\n4. 【仪表盘：屏幕上几根抽象的彩色条，不写数字】\n5. 【干预：教师给一名学生发送鼓励消息】\n6. 【效果评估：一个回到学生图标的循环箭头】\n不要把编号句子写进图里。\n步骤名（每个只出现一次，不加其他文字）：【Data collection, Data preparation, Analysis, Dashboard, Intervention, Impact evaluation】。"
+  }
+}

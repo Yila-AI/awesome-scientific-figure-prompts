@@ -1,0 +1,20 @@
+{
+  "id": "three-layer-framework",
+  "theme": "research-design",
+  "technique": "上中下三层，逐层支撑",
+  "technique_en": "three stacked layers, each supporting the one above",
+  "featured": false,
+  "added": "2026-10-28",
+  "author": "Yila-AI",
+  "author_url": "https://github.com/Yila-AI",
+  "title": {
+    "zh": "三层框架：目标—内容—方法",
+    "en": "Three-layer framework: objectives, content, methods"
+  },
+  "style": "D",
+  "size": "4:3",
+  "content": {
+    "en": "Create a research framework for 【a study on early diagnosis of liver cancer】 as three horizontal layers stacked from top to bottom, each a light colored band with its layer name at the far left:\n1. Top band: one wide box with a target icon for the overall objective.\n2. Middle band: three side-by-side boxes for the research contents: 【mechanism, biomarkers, intervention】.\n3. Bottom band: three method icons, one under each content box: 【a culture dish, a group of patient icons, a mouse】, drawn without text.\nUpward arrows run from each method icon to the content box above it, and from each content box to the objective.\nWrite each label only once in the whole figure.\nLabels, each used once, no other text: 【Objectives, Research content, Methods, Mechanism, Biomarkers, Intervention】.",
+    "zh": "画一张【肝癌早期诊断研究】的研究框架图，上中下三层横向色带，每层最左侧写层名：\n1. 上层：一个宽框，配靶心图标，代表总目标。\n2. 中层：三个并排的框，代表研究内容：【机制、生物标志物、干预】。\n3. 下层：三个方法图标，分别位于三个内容框正下方：【培养皿、一组病人图标、小鼠】，不加文字。\n向上的箭头从每个方法图标指向上方的内容框，再从每个内容框指向总目标。\n整张图里每个标签只写一次。\n标签（每个只出现一次，不加其他文字）：【Objectives, Research content, Methods, Mechanism, Biomarkers, Intervention】。"
+  }
+}

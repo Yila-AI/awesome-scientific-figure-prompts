@@ -1,0 +1,20 @@
+{
+  "id": "retina-layers",
+  "theme": "medical-illustration",
+  "technique": "竖向截面，光与信号反向",
+  "technique_en": "vertical section, light and signal in opposite directions",
+  "featured": false,
+  "added": "2026-10-28",
+  "author": "Yila-AI",
+  "author_url": "https://github.com/Yila-AI",
+  "title": {
+    "zh": "视网膜分层结构",
+    "en": "Layers of the retina"
+  },
+  "style": "S",
+  "size": "3:4",
+  "content": {
+    "en": "Create a vertical cross-section illustration of 【the retina】, with the inner side (facing the vitreous) at the top and the back of the eye at the bottom. From top to bottom: optic nerve fibers, ganglion cells, bipolar cells, then rods and cones, then the retinal pigment epithelium and the choroid with blood vessels. A yellow arrow on the left points down to show light passing through the layers; a purple arrow on the right points up to show the signal traveling from rods and cones to bipolar cells to ganglion cells.\nWrite each label only once in the whole figure.\nLabels, each used once, no other text: 【Light, Optic nerve fibers, Ganglion cell, Bipolar cell, Rod, Cone, Retinal pigment epithelium, Choroid】.",
+    "zh": "画一张【视网膜】的竖向截面插画，上方是朝向玻璃体的内侧，下方是眼球后壁。从上到下依次是：视神经纤维、神经节细胞、双极细胞，然后是视杆细胞和视锥细胞，再往下是视网膜色素上皮和带血管的脉络膜。左侧一条黄色箭头向下，表示光穿过各层；右侧一条紫色箭头向上，表示信号从视杆、视锥细胞传到双极细胞，再传到神经节细胞。\n整张图里每个标签只写一次。\n标签（每个只出现一次，不加其他文字）：【Light, Optic nerve fibers, Ganglion cell, Bipolar cell, Rod, Cone, Retinal pigment epithelium, Choroid】。"
+  }
+}

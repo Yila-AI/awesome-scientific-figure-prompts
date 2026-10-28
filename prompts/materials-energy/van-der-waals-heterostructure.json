@@ -1,0 +1,20 @@
+{
+  "id": "van-der-waals-heterostructure",
+  "theme": "materials-energy",
+  "technique": "左侧分层爆炸图，右侧组装堆叠",
+  "technique_en": "exploded layers on the left, assembled stack on the right",
+  "featured": false,
+  "added": "2026-10-28",
+  "author": "Yila-AI",
+  "author_url": "https://github.com/Yila-AI",
+  "title": {
+    "zh": "二维材料范德华异质结",
+    "en": "2D material van der Waals heterostructure"
+  },
+  "style": "S",
+  "size": "16:9",
+  "content": {
+    "en": "Create a scientific illustration of 【a van der Waals heterostructure built from 2D materials】:\n1. Left: 【an exploded view of four layers floating apart, joined by dashed vertical guide lines; from top to bottom: graphene (a gray honeycomb of small balls), hBN (a honeycomb of alternating blue and pink balls), MoS2 (a three-sublayer sheet of yellow and purple balls), and a flat substrate】.\n2. Right: 【the same layers pressed into one assembled stack, shown at an angle, with a small side-view inset that shows the thin gap between two layers】.\nLabel the layers only in the exploded view; the assembled stack gets one label for the whole.\nWrite each label only once in the whole figure.\nLabels, each used once, no other text: 【Graphene, hBN, MoS2, Substrate, van der Waals gap, Heterostructure】.",
+    "zh": "画一张【由二维材料构建的范德华异质结】科学插画：\n1. 左：【四层材料分开悬浮的爆炸图，用竖直虚线辅助线连起来；从上到下依次是：石墨烯（灰色小球组成的蜂窝）、hBN（蓝粉相间的小球组成的蜂窝）、MoS2（黄紫小球组成的三亚层薄片）和一块平整的衬底】。\n2. 右：【同样几层压合成一个组装好的堆叠，斜着展示，并配一个小侧视放大框，显示两层之间的细小间隙】。\n各层只在爆炸图中标注；组装好的堆叠整体只写一个标签。\n整张图里每个标签只写一次。\n标签（每个只出现一次，不加其他文字）：【Graphene, hBN, MoS2, Substrate, van der Waals gap, Heterostructure】。"
+  }
+}

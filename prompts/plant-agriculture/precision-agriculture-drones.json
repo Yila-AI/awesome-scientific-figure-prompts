@@ -1,0 +1,20 @@
+{
+  "id": "precision-agriculture-drones",
+  "theme": "plant-agriculture",
+  "technique": "监测—分析—变量施药闭环",
+  "technique_en": "scan, analyze, then spray only where needed",
+  "featured": false,
+  "added": "2026-10-28",
+  "author": "Yila-AI",
+  "author_url": "https://github.com/Yila-AI",
+  "title": {
+    "zh": "无人机精准农业",
+    "en": "Precision agriculture with drones"
+  },
+  "style": "S",
+  "size": "16:9",
+  "content": {
+    "en": "Create a scientific illustration of 【precision agriculture with drones】 over a crop field, read from left to right. Draw each relationship exactly as listed and nothing more:\n1. 【A survey drone flies over the field and scans it with a multispectral camera (a pale scan cone pointing down at the crops).】\n2. 【Soil sensors in the field send data wirelessly up to a cloud icon.】\n3. 【Survey drone → cloud analysis (a wireless arrow from the drone to the cloud).】\n4. 【Cloud analysis → a crop health map on a farmer's tablet, with green, yellow and red zones and no numbers.】\n5. 【Crop health map → a spraying drone that sprays only over the yellow and red zones of the field.】\nThere are no T-bars in this figure. Do not write the numbered sentences in the figure. Write each label only once in the whole figure.\nLabels, each used once, no other text: 【Survey drone, Multispectral imaging, Soil sensors, Cloud analysis, Crop health map, Variable-rate spraying】.",
+    "zh": "画一张【无人机精准农业】的科学插画，背景是一片农田，从左往右读。严格按下面列出的关系画，不多画：\n1. 【一架巡检无人机飞过农田，用多光谱相机扫描（一个指向作物的浅色扫描锥）。】\n2. 【田里的土壤传感器把数据无线发送到一个云图标。】\n3. 【巡检无人机 → 云端分析（从无人机指向云的无线箭头）。】\n4. 【云端分析 → 农户平板上的作物长势图，分成绿、黄、红三种区域，不写数字。】\n5. 【作物长势图 → 一架植保无人机，只在田里黄色和红色区域上方喷洒。】\n图中没有 T 形线。不要把编号句子写进图里。整张图里每个标签只写一次。\n标签（每个只出现一次，不加其他文字）：【Survey drone, Multispectral imaging, Soil sensors, Cloud analysis, Crop health map, Variable-rate spraying】。"
+  }
+}

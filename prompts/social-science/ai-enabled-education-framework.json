@@ -1,0 +1,20 @@
+{
+  "id": "ai-enabled-education-framework",
+  "theme": "social-science",
+  "technique": "数据层—AI 能力层—用户层，伦理贯穿",
+  "technique_en": "data, AI capability and user layers with ethics alongside",
+  "featured": false,
+  "added": "2026-10-28",
+  "author": "Yila-AI",
+  "author_url": "https://github.com/Yila-AI",
+  "title": {
+    "zh": "AI 赋能教育框架",
+    "en": "AI-enabled education framework"
+  },
+  "style": "D",
+  "size": "16:9",
+  "content": {
+    "en": "Create a layered framework diagram of 【AI-enabled education】, with icons and short labels only:\n1. Bottom layer: 【learning data (a database fed by assignment, quiz and click icons)】.\n2. Middle layer, four boxes side by side: 【learner modeling (a person with a gauge icon), adaptive recommendation (a path splitting toward a star), automated feedback (a comment bubble with a check mark), AI tutor (a chat bubble with a robot)】.\n3. Top layer: 【students and teachers (two people icons)】.\n4. A tall bar along the right side spanning all three layers: 【ethics and privacy (a shield with a lock)】.\nArrows: learning data → middle layer → students and teachers. A dashed arrow runs down the left side from students and teachers back to learning data, showing that new interactions become new data.\nWrite each label only once in the whole figure.\nLabels, each used once, no other text: 【Learning data, Learner modeling, Adaptive recommendation, Automated feedback, AI tutor, Students and teachers, Ethics and privacy】.",
+    "zh": "画一张【AI 赋能教育】的分层框架图，只用图标和简短标签：\n1. 底层：【学习数据（一个数据库，作业、测验和点击图标汇入其中）】。\n2. 中间层，四个并排的框：【学习者建模（人形加仪表盘图标）、自适应推荐（一条分岔通向星标的路径）、自动反馈（带对勾的评论气泡）、AI 导师（带机器人的对话气泡）】。\n3. 顶层：【学生和教师（两个人形图标）】。\n4. 右侧一条贯穿三层的竖长条：【伦理与隐私（带锁的盾牌）】。\n箭头：学习数据 → 中间层 → 学生和教师。一条虚线箭头沿左侧从学生和教师回到学习数据，表示新的互动又变成新的数据。\n整张图里每个标签只写一次。\n标签（每个只出现一次，不加其他文字）：【Learning data, Learner modeling, Adaptive recommendation, Automated feedback, AI tutor, Students and teachers, Ethics and privacy】。"
+  }
+}

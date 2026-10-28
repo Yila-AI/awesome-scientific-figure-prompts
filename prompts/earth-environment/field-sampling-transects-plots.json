@@ -1,0 +1,20 @@
+{
+  "id": "field-sampling-transects-plots",
+  "theme": "earth-environment",
+  "technique": "俯视样区加嵌套样方放大",
+  "technique_en": "aerial study area plus a nested-plot inset",
+  "featured": false,
+  "added": "2026-10-28",
+  "author": "Yila-AI",
+  "author_url": "https://github.com/Yila-AI",
+  "title": {
+    "zh": "野外采样设计：样线与样方",
+    "en": "Field sampling design: transects and plots"
+  },
+  "style": "S",
+  "size": "16:9",
+  "content": {
+    "en": "Create an aerial-view illustration of 【a field sampling design for a vegetation survey】 across a study area that changes from forest on the left to grassland on the right.\n1. 【Three parallel straight lines cross the area from left to right as transects, with a GPS pin at the start of each line.】\n2. 【Small square plots (quadrats) sit at even spacing along each transect.】\n3. A circular magnified inset on the right shows 【one large plot with nested smaller plots in one corner: a tree plot, a shrub subplot inside it and a herb subplot inside that, plus a soil corer icon】.\nWrite 'Transect' beside one line only, 'Quadrat' beside one square only and 'GPS point' beside one pin only.\nWrite each label only once in the whole figure.\nLabels, each used once, no other text: 【Transect, Quadrat, GPS point, Tree plot, Shrub subplot, Herb subplot, Soil core】.",
+    "zh": "画一张【植被调查野外采样设计】的俯视插画，样区从左边的森林过渡到右边的草地。\n1. 【三条平行的直线从左到右穿过样区，作为样线，每条线起点有一个 GPS 定位针。】\n2. 【每条样线上等间距排着几个小方形样方。】\n3. 右侧一个圆形放大插图显示【一个大样方，一角嵌套着更小的样方：乔木样方里套灌木小样方，灌木小样方里再套草本小样方，旁边一个土钻图标】。\n只在一条线旁写 Transect，只在一个方块旁写 Quadrat，只在一个定位针旁写 GPS point。\n整张图里每个标签只写一次。\n标签（每个只出现一次，不加其他文字）：【Transect, Quadrat, GPS point, Tree plot, Shrub subplot, Herb subplot, Soil core】。"
+  }
+}

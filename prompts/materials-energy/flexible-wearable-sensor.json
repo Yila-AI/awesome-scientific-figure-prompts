@@ -1,0 +1,20 @@
+{
+  "id": "flexible-wearable-sensor",
+  "theme": "materials-energy",
+  "technique": "佩戴场景加分层爆炸图",
+  "technique_en": "worn on the body plus an exploded layer view",
+  "featured": false,
+  "added": "2026-10-28",
+  "author": "Yila-AI",
+  "author_url": "https://github.com/Yila-AI",
+  "title": {
+    "zh": "柔性可穿戴传感器",
+    "en": "Flexible wearable sensor"
+  },
+  "style": "S",
+  "size": "16:9",
+  "content": {
+    "en": "Create a scientific illustration of 【a flexible wearable pulse sensor】:\n1. Left: 【a thin, skin-like patch on a person's wrist, gently bending with the skin】.\n2. Middle: 【an exploded view of the patch with four layers, from top to bottom: a clear encapsulation layer, a sensing layer made of a fine network of conductive nanowires, wavy serpentine electrodes, and a soft stretchable substrate】.\n3. Right: 【a small wireless module on the edge of the patch sends signals (a wifi icon) to a smartphone whose screen shows only a heart icon】.\nWrite each label only once in the whole figure.\nLabels, each used once, no other text: 【Encapsulation layer, Sensing layer, Serpentine electrodes, Stretchable substrate, Wireless module, Smartphone】.",
+    "zh": "画一张【柔性可穿戴脉搏传感器】的科学插画：\n1. 左：【一片像皮肤一样薄的贴片贴在手腕上，随皮肤轻轻弯曲】。\n2. 中：【贴片的分层爆炸图，共四层，从上到下：透明封装层、由细密导电纳米线网络构成的传感层、波浪形蛇形电极、柔软可拉伸的衬底】。\n3. 右：【贴片边缘的小无线模块发出信号（wifi 图标），传到一部智能手机，手机屏幕上只显示一个心形图标】。\n整张图里每个标签只写一次。\n标签（每个只出现一次，不加其他文字）：【Encapsulation layer, Sensing layer, Serpentine electrodes, Stretchable substrate, Wireless module, Smartphone】。"
+  }
+}

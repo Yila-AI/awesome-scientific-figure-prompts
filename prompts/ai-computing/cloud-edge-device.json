@@ -1,0 +1,20 @@
+{
+  "id": "cloud-edge-device",
+  "theme": "ai-computing",
+  "technique": "三层上下堆叠，双向数据流",
+  "technique_en": "three stacked tiers with two-way flow",
+  "featured": false,
+  "added": "2026-10-28",
+  "author": "Yila-AI",
+  "author_url": "https://github.com/Yila-AI",
+  "title": {
+    "zh": "云—边—端协同计算",
+    "en": "Cloud–edge–device computing"
+  },
+  "style": "D",
+  "size": "3:4",
+  "content": {
+    "en": "Create a three-tier architecture diagram of 【cloud–edge–device computing】, stacked from top to bottom:\n1. Top tier: 【a cloud data center (a cloud over server racks), doing model training and storage】.\n2. Middle tier: 【a few edge servers next to a cell tower, doing real-time processing】.\n3. Bottom tier: 【end devices: a phone, a camera and a car】.\n4. 【Upward arrows on the left side carry data from devices to the edge and from the edge to the cloud.】\n5. 【Downward arrows on the right side carry models and commands from the cloud to the edge and from the edge to the devices.】\nWrite each arrow label once, beside one of its arrows.\nWrite each label only once in the whole figure.\nLabels, each used once, no other text: 【Cloud, Edge, Devices, Training and storage, Real-time processing, Data upload, Models and commands】.",
+    "zh": "画一张【云—边—端协同计算】的三层架构图，从上往下排列：\n1. 顶层：【云数据中心（云朵下面一排服务器机柜），负责模型训练和存储】。\n2. 中间层：【几台挨着通信基站的边缘服务器，负责实时处理】。\n3. 底层：【终端设备：手机、摄像头和汽车】。\n4. 【左侧向上的箭头把数据从终端送到边缘、再从边缘送到云。】\n5. 【右侧向下的箭头把模型和指令从云送到边缘、再从边缘送到终端。】\n每类箭头的标签只在其中一根旁边写一次。\n整张图里每个标签只写一次。\n标签（每个只出现一次，不加其他文字）：【Cloud, Edge, Devices, Training and storage, Real-time processing, Data upload, Models and commands】。"
+  }
+}

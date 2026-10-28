@@ -1,0 +1,20 @@
+{
+  "id": "delphi-method",
+  "theme": "research-design",
+  "technique": "每步一个面板，只写步骤名",
+  "technique_en": "one panel per step, step names only",
+  "featured": false,
+  "added": "2026-10-28",
+  "author": "Yila-AI",
+  "author_url": "https://github.com/Yila-AI",
+  "title": {
+    "zh": "德尔菲法流程",
+    "en": "Delphi method workflow"
+  },
+  "style": "W",
+  "size": "16:9",
+  "content": {
+    "en": "Create a workflow figure for 【a Delphi consensus study】, 6 steps from left to right:\n1. 【Expert panel: a circle of expert icons, each kept apart from the others】\n2. 【First round: an open questionnaire on a clipboard】\n3. 【Feedback: an anonymous summary sheet sent back to every expert】\n4. 【Second round: experts rating items with star icons】\n5. 【Third round: experts re-rating after seeing the group summary】\n6. 【Consensus: many arrows converging on one check mark】\nDo not write the numbered sentences in the figure.\nStep names, each used once, no other text: 【Expert panel, First round, Feedback, Second round, Third round, Consensus】.",
+    "zh": "画一张【德尔菲专家共识研究】的流程图，从左往右六步：\n1. 【专家小组：一圈彼此分开的专家图标】\n2. 【第一轮：写字板上的开放式问卷】\n3. 【反馈：一份匿名汇总表发回给每位专家】\n4. 【第二轮：专家用星形图标给条目打分】\n5. 【第三轮：专家看过汇总后重新打分】\n6. 【达成共识：许多箭头汇向一个对勾】\n不要把编号句子写进图里。\n步骤名（每个只出现一次，不加其他文字）：【Expert panel, First round, Feedback, Second round, Third round, Consensus】。"
+  }
+}

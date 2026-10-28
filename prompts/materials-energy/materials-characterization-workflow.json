@@ -1,0 +1,20 @@
+{
+  "id": "materials-characterization-workflow",
+  "theme": "materials-energy",
+  "technique": "每步一个面板，只写步骤名",
+  "technique_en": "one panel per step, step names only",
+  "featured": false,
+  "added": "2026-10-28",
+  "author": "Yila-AI",
+  "author_url": "https://github.com/Yila-AI",
+  "title": {
+    "zh": "材料表征流程",
+    "en": "Materials characterization workflow"
+  },
+  "style": "W",
+  "size": "16:9",
+  "content": {
+    "en": "Create a workflow figure for 【characterizing a new material】, 6 steps from left to right:\n1. 【Sample preparation: a powder in a dish and a pressed pellet】\n2. 【XRD: an X-ray tube and a detector on an arc around a flat sample】\n3. 【SEM: an electron beam scanning across a rough sample surface】\n4. 【TEM: an electron beam passing through a very thin slice】\n5. 【XPS: X-rays hitting a surface and small electrons flying off】\n6. 【Combined analysis: puzzle pieces fitting together】\nDo not write the numbered sentences in the figure.\nStep names, each used once, no other text: 【Sample preparation, XRD, SEM, TEM, XPS, Combined analysis】.",
+    "zh": "画一张【新材料表征】的流程图，从左往右六步：\n1. 【样品制备：皿中的粉末和压好的圆片】\n2. 【XRD：X 射线管和探测器沿圆弧围着平板样品】\n3. 【SEM：电子束扫过粗糙的样品表面】\n4. 【TEM：电子束穿过一片很薄的切片】\n5. 【XPS：X 射线照到表面，小电子飞出】\n6. 【综合分析：几块拼图拼在一起】\n不要把编号句子写进图里。\n步骤名（每个只出现一次，不加其他文字）：【Sample preparation, XRD, SEM, TEM, XPS, Combined analysis】。"
+  }
+}

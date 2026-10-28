@@ -1,0 +1,20 @@
+{
+  "id": "enzyme-induced-fit",
+  "theme": "chemistry-instruments",
+  "technique": "结合—契合—释放三联图",
+  "technique_en": "three panels: binding, fitting, release",
+  "featured": false,
+  "added": "2026-10-28",
+  "author": "Yila-AI",
+  "author_url": "https://github.com/Yila-AI",
+  "title": {
+    "zh": "酶催化与诱导契合",
+    "en": "Enzyme catalysis and induced fit"
+  },
+  "style": "B",
+  "size": "16:9",
+  "content": {
+    "en": "Create an illustration of 【enzyme catalysis by induced fit】, read from left to right in three panels:\n1. 【A large soft-shaped enzyme with an open cleft (the active site), and a small substrate shape approaching that does not yet match the cleft exactly.】\n2. 【The substrate sits in the active site and the enzyme closes around it, changing shape to grip it tightly, forming the enzyme–substrate complex.】\n3. 【The substrate has split into two product pieces that drift away, and the enzyme is open again.】\nAn arrow labeled induced fit joins panel 1 to panel 2. A thin curved arrow under the panels runs from the last enzyme back to the first, showing the enzyme is reused. Label the enzyme and active site only in the first panel.\nWrite each label only once in the whole figure.\nLabels, each used once, no other text: 【Enzyme, Active site, Substrate, Induced fit, Enzyme–substrate complex, Products】.",
+    "zh": "画一张【诱导契合模式下的酶催化】插图，从左往右三个面板：\n1. 【一个形状柔和的大酶分子，带一个张开的凹槽（活性位点），一个小的底物形状正在靠近，与凹槽还不完全吻合。】\n2. 【底物进入活性位点，酶围绕它合拢、改变形状把它紧紧握住，形成酶-底物复合物。】\n3. 【底物裂成两块产物漂走，酶重新张开。】\n第一和第二面板之间用一条标有 induced fit 的箭头相连。面板下方一条细弧形箭头从最后一个酶回到第一个酶，表示酶可重复使用。酶和活性位点只在第一个面板标注。\n整张图里每个标签只写一次。\n标签（每个只出现一次，不加其他文字）：【Enzyme, Active site, Substrate, Induced fit, Enzyme–substrate complex, Products】。"
+  }
+}

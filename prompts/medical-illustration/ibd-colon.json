@@ -1,0 +1,20 @@
+{
+  "id": "ibd-colon",
+  "theme": "medical-illustration",
+  "technique": "左右两段黏膜对照",
+  "technique_en": "two mucosa sections side by side",
+  "featured": false,
+  "added": "2026-10-28",
+  "author": "Yila-AI",
+  "author_url": "https://github.com/Yila-AI",
+  "title": {
+    "zh": "炎症性肠病：健康结肠 vs 发炎结肠",
+    "en": "Inflammatory bowel disease: healthy versus inflamed colon"
+  },
+  "style": "S",
+  "size": "16:9",
+  "content": {
+    "en": "Create a side-by-side cross-section illustration of 【the colon mucosa in ulcerative colitis】:\n1. Left, healthy colon: 【regular, evenly spaced crypts full of goblet cells, a thick mucus layer on the surface keeping gut bacteria away from the epithelium】.\n2. Right, inflamed colon: 【a thin, broken mucus layer with bacteria touching the epithelium, fewer goblet cells, distorted crypts, one crypt filled with neutrophils (crypt abscess), an ulcer where the surface is lost, and many immune cells crowding the tissue below】.\nEach structure is labeled in only one of the two panels.\nWrite each label only once in the whole figure.\nLabels, each used once, no other text: 【Healthy colon, Inflamed colon, Mucus layer, Goblet cell, Crypt, Crypt abscess, Ulcer, Immune cells】.",
+    "zh": "画一张【溃疡性结肠炎结肠黏膜】的左右对照截面插画：\n1. 左，健康结肠：【隐窝规则、间距均匀，充满杯状细胞；表面一层厚黏液，把肠道细菌隔离在上皮之外】。\n2. 右，发炎结肠：【黏液层变薄破损，细菌接触上皮；杯状细胞减少，隐窝变形；一个隐窝里塞满中性粒细胞（隐窝脓肿）；一处表面缺失形成溃疡；下方组织里挤满免疫细胞】。\n每个结构只在其中一个面板里标注。\n整张图里每个标签只写一次。\n标签（每个只出现一次，不加其他文字）：【Healthy colon, Inflamed colon, Mucus layer, Goblet cell, Crypt, Crypt abscess, Ulcer, Immune cells】。"
+  }
+}

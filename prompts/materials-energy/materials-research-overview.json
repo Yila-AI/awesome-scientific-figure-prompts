@@ -1,0 +1,20 @@
+{
+  "id": "materials-research-overview",
+  "theme": "materials-energy",
+  "technique": "四个环节围成闭环",
+  "technique_en": "four stages in a closed loop",
+  "featured": false,
+  "added": "2026-10-28",
+  "author": "Yila-AI",
+  "author_url": "https://github.com/Yila-AI",
+  "title": {
+    "zh": "材料研究总体思路：制备—表征—性能—机理",
+    "en": "Materials research overview: preparation, characterization, performance, mechanism"
+  },
+  "style": "D",
+  "size": "16:9",
+  "content": {
+    "en": "Create an overview diagram of 【a materials research project】: four rounded panels arranged in a loop around one central material icon (a small faceted crystal), each panel with one icon. Draw each relationship exactly as listed and nothing more:\n1. 【Preparation (a furnace and a beaker) at the top left → characterization (a microscope and a diffractometer) at the top right.】\n2. 【Characterization → performance (a test rig with a gauge icon) at the bottom right.】\n3. 【Performance → mechanism (a magnifier over a few atoms) at the bottom left.】\n4. 【A dashed arrow from mechanism back to preparation, labeled rational design, shows that understanding guides the next round.】\nThere are no T-bars in this figure. Do not write the numbered sentences in the figure. Write each label only once in the whole figure.\nLabels, each used once, no other text: 【Material, Preparation, Characterization, Performance, Mechanism, Rational design】.",
+    "zh": "画一张【材料研究课题】的总体思路图：四个圆角面板围成一个环，环中央是一个材料图标（一块小的多面晶体），每个面板一个图标。严格按下面列出的关系画，不多画：\n1. 【左上的制备（加热炉和烧杯）→ 右上的表征（显微镜和衍射仪）。】\n2. 【表征 → 右下的性能（带仪表图标的测试台）。】\n3. 【性能 → 左下的机理（放大镜对着几个原子）。】\n4. 【一条从机理回到制备的虚线箭头，标注 rational design，表示认识指导下一轮设计。】\n图中没有 T 形线。不要把编号句子写进图里。整张图里每个标签只写一次。\n标签（每个只出现一次，不加其他文字）：【Material, Preparation, Characterization, Performance, Mechanism, Rational design】。"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "carbon-capture-storage",
+  "theme": "earth-environment",
+  "technique": "地表设施加地下岩层剖面",
+  "technique_en": "surface facilities over an underground rock cutaway",
+  "featured": false,
+  "added": "2026-10-28",
+  "author": "Yila-AI",
+  "author_url": "https://github.com/Yila-AI",
+  "title": {
+    "zh": "碳捕集与封存（CCS）",
+    "en": "Carbon capture and storage (CCS)"
+  },
+  "style": "S",
+  "size": "16:9",
+  "content": {
+    "en": "Create a scientific illustration of 【carbon capture and storage】: a landscape with a cutaway of the rock layers underground, read from left to right. Draw each relationship exactly as listed and nothing more:\n1. 【A power plant and a cement plant on the left send their flue gas to a capture unit, which separates out CO2.】\n2. 【Capture unit → compression station.】\n3. 【Compression station → a pipeline running across the land to an injection well on the right (arrows pointing from left to right along the pipe).】\n4. 【The injection well carries CO2 down through the rock layers into a deep porous sandstone layer filled with salty water (arrows pointing down): saline aquifer.】\n5. 【A dense, impermeable rock layer directly above the storage layer keeps the CO2 trapped: caprock.】\n6. 【A monitoring well beside the injection well reaches the storage layer to check for leaks.】\nThere are no T-bars in this figure. Do not write the numbered sentences in the figure. Write each label only once in the whole figure.\nLabels, each used once, no other text: 【CO2 capture, Compression, Pipeline transport, Injection well, Caprock, Saline aquifer, Monitoring well】.",
+    "zh": "画一张【碳捕集与封存】的科学插画：地表景观加地下岩层剖面，从左往右读。严格按下面列出的关系画，不多画：\n1. 【左侧的发电厂和水泥厂把烟气送到捕集装置，分离出 CO2。】\n2. 【捕集装置 → 压缩站。】\n3. 【压缩站 → 一条横穿地面的管道，通到右侧的注入井（沿管道从左指向右的箭头）。】\n4. 【注入井把 CO2 向下穿过岩层，送进深处充满咸水的多孔砂岩层（向下的箭头）：咸水层。】\n5. 【封存层正上方一层致密、不透水的岩层把 CO2 封住：盖层。】\n6. 【注入井旁一口监测井通到封存层，检查是否泄漏。】\n图中没有 T 形线。不要把编号句子写进图里。整张图里每个标签只写一次。\n标签（每个只出现一次，不加其他文字）：【CO2 capture, Compression, Pipeline transport, Injection well, Caprock, Saline aquifer, Monitoring well】。"
+  }
+}

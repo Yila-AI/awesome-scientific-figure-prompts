@@ -1,0 +1,20 @@
+{
+  "id": "skin-layers",
+  "theme": "medical-illustration",
+  "technique": "立体块状截面",
+  "technique_en": "a 3D block cross-section",
+  "featured": false,
+  "added": "2026-10-28",
+  "author": "Yila-AI",
+  "author_url": "https://github.com/Yila-AI",
+  "title": {
+    "zh": "皮肤分层结构",
+    "en": "Layers of the skin"
+  },
+  "style": "S",
+  "size": "4:3",
+  "content": {
+    "en": "Create a cross-section illustration of 【human skin】 as a 3D block, with three layers from top to bottom: a thin epidermis, a thicker dermis, and a hypodermis of rounded fat cells. One hair grows from a hair follicle in the dermis, with a sebaceous gland beside it. A coiled sweat gland sits deep in the dermis with its duct opening at the surface. Red and blue blood vessels and one yellow nerve run through the dermis.\nWrite each label only once in the whole figure.\nLabels, each used once, no other text: 【Epidermis, Dermis, Hypodermis, Hair follicle, Sebaceous gland, Sweat gland, Blood vessel, Nerve】.",
+    "zh": "画一张【人体皮肤】的立体块状截面插画，从上到下三层：薄的表皮、较厚的真皮、由圆形脂肪细胞组成的皮下组织。一根毛发从真皮中的毛囊长出，旁边有一个皮脂腺。真皮深处有一个盘绕的汗腺，导管开口于皮肤表面。红色和蓝色血管以及一根黄色神经穿过真皮。\n整张图里每个标签只写一次。\n标签（每个只出现一次，不加其他文字）：【Epidermis, Dermis, Hypodermis, Hair follicle, Sebaceous gland, Sweat gland, Blood vessel, Nerve】。"
+  }
+}

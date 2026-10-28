@@ -1,0 +1,20 @@
+{
+  "id": "self-healing-polymer",
+  "theme": "materials-energy",
+  "technique": "完好—断裂—修复三联图",
+  "technique_en": "three panels: intact, cracked, healed",
+  "featured": false,
+  "added": "2026-10-28",
+  "author": "Yila-AI",
+  "author_url": "https://github.com/Yila-AI",
+  "title": {
+    "zh": "自修复高分子",
+    "en": "Self-healing polymer"
+  },
+  "style": "B",
+  "size": "16:9",
+  "content": {
+    "en": "Create an illustration of 【a self-healing polymer】, read from left to right in three panels:\n1. 【An intact network: wavy polymer chains cross-linked by many reversible bonds, each drawn as a pair of small matching dots.】\n2. 【A crack splits the network; the reversible bonds at the crack faces are broken, leaving unpaired dots on both sides.】\n3. 【After heat or light (a small icon on the arrow between panels 2 and 3), chains move across the crack and the dots pair up again; only a faint line remains where the crack was.】\nLabel the polymer chain and the reversible bond only in the first panel.\nWrite each label only once in the whole figure.\nLabels, each used once, no other text: 【Intact network, Crack, Healed network, Polymer chain, Reversible bond, Heat or light】.",
+    "zh": "画一张【自修复高分子】插图，从左往右三个面板：\n1. 【完好的网络：波浪状的高分子链由许多可逆键交联，每个可逆键画成一对相配的小圆点。】\n2. 【一道裂纹把网络分开；裂纹两侧的可逆键断开，两边留下不成对的小圆点。】\n3. 【经过加热或光照（第二和第三面板之间箭头上的一个小图标）后，分子链跨过裂纹移动，小圆点重新配对；原来裂纹处只剩一条淡淡的线。】\n高分子链和可逆键只在第一个面板标注。\n整张图里每个标签只写一次。\n标签（每个只出现一次，不加其他文字）：【Intact network, Crack, Healed network, Polymer chain, Reversible bond, Heat or light】。"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "bronfenbrenner-ecological-systems",
+  "theme": "social-science",
+  "technique": "同心圆层层外扩，外加时间箭头",
+  "technique_en": "concentric rings plus an outer time arrow",
+  "featured": false,
+  "added": "2026-10-28",
+  "author": "Yila-AI",
+  "author_url": "https://github.com/Yila-AI",
+  "title": {
+    "zh": "布朗芬布伦纳生态系统理论",
+    "en": "Bronfenbrenner's ecological systems theory"
+  },
+  "style": "D",
+  "size": "1:1",
+  "content": {
+    "en": "Create a diagram of 【Bronfenbrenner's ecological systems theory】 as four concentric rings around a child, each ring a different soft color, plus a time arrow outside them. Each system name is written once, inside its own ring.\n1. Center: 【a child】.\n2. Microsystem, the first ring: 【family, school, peers and neighborhood icons around the child】.\n3. Mesosystem, the second ring: 【thin two-way lines linking the microsystem settings, such as home and school】.\n4. Exosystem, the third ring: 【a parent's workplace, local services and mass media icons】.\n5. Macrosystem, the outermost ring: 【culture, values and laws, shown as a flag, a book and a balance-scale icon】.\n6. Chronosystem: 【one curved arrow running clockwise around the outside of all rings, showing change over time】.\nWrite each label only once in the whole figure.\nLabels, each used once, no other text: 【Individual, Microsystem, Mesosystem, Exosystem, Macrosystem, Chronosystem】.",
+    "zh": "画一张【布朗芬布伦纳生态系统理论】图：围绕一个儿童画四个同心圆环，每环一种柔和的颜色，最外面再加一条时间箭头。每个系统名只在它自己的环里写一次。\n1. 中心：【一个儿童】。\n2. 微观系统，第一环：【儿童周围的家庭、学校、同伴和邻里图标】。\n3. 中间系统，第二环：【连接各微观系统场景（如家庭与学校）的细双向线】。\n4. 外层系统，第三环：【父母的工作单位、社区服务和大众媒体图标】。\n5. 宏观系统，最外环：【文化、价值观和法律，用旗帜、书本和天平图标表示】。\n6. 时间系统：【一条沿所有圆环外侧顺时针绕行的弧形箭头，表示随时间的变化】。\n整张图里每个标签只写一次。\n标签（每个只出现一次，不加其他文字）：【Individual, Microsystem, Mesosystem, Exosystem, Macrosystem, Chronosystem】。"
+  }
+}

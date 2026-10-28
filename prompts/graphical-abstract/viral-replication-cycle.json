@@ -1,0 +1,20 @@
+{
+  "id": "viral-replication-cycle",
+  "theme": "graphical-abstract",
+  "technique": "绕细胞一圈的七个阶段",
+  "technique_en": "seven stages around one cell",
+  "featured": false,
+  "added": "2026-10-28",
+  "author": "Yila-AI",
+  "author_url": "https://github.com/Yila-AI",
+  "title": {
+    "zh": "病毒入侵与复制周期",
+    "en": "Viral entry and replication cycle"
+  },
+  "style": "B",
+  "size": "1:1",
+  "content": {
+    "en": "Create a graphical abstract of 【the replication cycle of a coronavirus】 as a clockwise cycle around one large host cell, each stage a small scene:\n1. 【Attachment: the virus spike binds ACE2 on the cell membrane.】\n2. 【Entry: the virus is taken into the cell.】\n3. 【Uncoating: the viral RNA is released into the cytoplasm.】\n4. 【Translation: ribosomes make viral proteins from the RNA.】\n5. 【Replication: the viral RNA is copied in small membrane vesicles.】\n6. 【Assembly: new virus particles form from RNA and proteins.】\n7. 【Release: new particles leave the cell by exocytosis.】\nLabel each component only where it first appears; repeated copies keep the same shape and color without text.\nWrite each label only once in the whole figure.\nIf a component appears in more than one place or panel, write its label only at its first appearance; every other copy has no text. No label may appear twice anywhere in the figure. Spell every label exactly as given and add no titles.\nLabels, each used once, no other text: 【ACE2, Attachment, Entry, Uncoating, Translation, Replication, Assembly, Release】.",
+    "zh": "画一张【冠状病毒复制周期】的图文摘要，围绕一个大宿主细胞画成顺时针循环，每个阶段一个小场景：\n1. 【吸附：病毒刺突结合细胞膜上的 ACE2。】\n2. 【进入：病毒被带入细胞。】\n3. 【脱壳：病毒 RNA 释放到胞质。】\n4. 【翻译：核糖体以 RNA 为模板合成病毒蛋白。】\n5. 【复制：病毒 RNA 在小膜泡里被复制。】\n6. 【组装：RNA 和蛋白组装成新的病毒颗粒。】\n7. 【释放：新颗粒经胞吐离开细胞。】\n每个组件只在第一次出现的地方标注；重复出现的副本保持同样的形状和颜色，不加文字。\n整张图里每个标签只写一次。\n如果同一组件在多处或多个面板出现，只在第一次出现时写标签，其余副本不写字。整张图里任何标签都不能出现两次。每个标签拼写与给定完全一致，不加标题。\n标签（每个只出现一次，不加其他文字）：【ACE2, Attachment, Entry, Uncoating, Translation, Replication, Assembly, Release】。"
+  }
+}

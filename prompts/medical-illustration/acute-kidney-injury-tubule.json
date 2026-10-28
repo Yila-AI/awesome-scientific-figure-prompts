@@ -1,0 +1,20 @@
+{
+  "id": "acute-kidney-injury-tubule",
+  "theme": "medical-illustration",
+  "technique": "一段肾小管，左正常右损伤",
+  "technique_en": "one tubule segment, normal on the left, injured on the right",
+  "featured": false,
+  "added": "2026-10-28",
+  "author": "Yila-AI",
+  "author_url": "https://github.com/Yila-AI",
+  "title": {
+    "zh": "急性肾损伤：肾小管上皮损伤",
+    "en": "Acute kidney injury: tubular damage"
+  },
+  "style": "S",
+  "size": "16:9",
+  "content": {
+    "en": "Create a longitudinal cross-section illustration of 【a proximal tubule in acute kidney injury】, read from left to right:\n1. Above the tubule, two trigger icons: 【a blood vessel with a narrowing for ischemia, and a pill bottle for nephrotoxins】.\n2. Left part of the tubule: 【tall, healthy epithelial cells with an intact brush border facing the lumen】.\n3. Right part: 【swollen, flattened cells that have lost their brush border; some dead cells detach into the lumen (shed cells) and clump into a cast that blocks the tubule】.\n4. Below the tubule: 【a peritubular capillary with immune cells leaving it and entering the tissue】.\nWrite each label only once in the whole figure.\nLabels, each used once, no other text: 【Ischemia, Nephrotoxins, Brush border, Shed cells, Cast, Peritubular capillary, Immune cells】.",
+    "zh": "画一张【急性肾损伤时近端肾小管】的纵切面插画，从左往右读：\n1. 肾小管上方两个诱因图标：【一根变窄的血管代表缺血，一个药瓶代表肾毒性物质】。\n2. 肾小管左段：【高柱状的健康上皮细胞，朝向管腔的刷状缘完整】。\n3. 右段：【细胞肿胀变扁、刷状缘消失；部分死亡细胞脱落到管腔（脱落细胞），聚成管型堵住肾小管】。\n4. 肾小管下方：【一根管周毛细血管，免疫细胞从中渗出，进入组织】。\n整张图里每个标签只写一次。\n标签（每个只出现一次，不加其他文字）：【Ischemia, Nephrotoxins, Brush border, Shed cells, Cast, Peritubular capillary, Immune cells】。"
+  }
+}

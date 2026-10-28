@@ -1,0 +1,20 @@
+{
+  "id": "remote-sensing-workflow",
+  "theme": "earth-environment",
+  "technique": "每步一个面板，只写步骤名",
+  "technique_en": "one panel per step, step names only",
+  "featured": false,
+  "added": "2026-10-28",
+  "author": "Yila-AI",
+  "author_url": "https://github.com/Yila-AI",
+  "title": {
+    "zh": "遥感影像处理流程",
+    "en": "Remote sensing processing workflow"
+  },
+  "style": "W",
+  "size": "16:9",
+  "content": {
+    "en": "Create a workflow figure for 【a satellite remote sensing study】, 6 steps from left to right:\n1. 【Image acquisition: a satellite above a patch of land】\n2. 【Preprocessing: a hazy image becoming clear and snapping onto a map grid】\n3. 【Feature extraction: stacked colored image bands merging into one layer】\n4. 【Classification: the image turning into patches of a few flat colors for land types】\n5. 【Accuracy assessment: field points with check marks over the classified map】\n6. 【Mapping and analysis: a finished map with a north arrow beside a magnifier】\nDo not write the numbered sentences in the figure.\nStep names, each used once, no other text: 【Image acquisition, Preprocessing, Feature extraction, Classification, Accuracy assessment, Mapping and analysis】.",
+    "zh": "画一张【卫星遥感研究】的流程图，从左往右六步：\n1. 【影像获取：一颗卫星位于一片土地上方】\n2. 【预处理：朦胧的影像变清晰，并对齐到地图网格上】\n3. 【特征提取：几层彩色波段叠在一起，合成一层】\n4. 【分类：影像变成几种纯色块，代表不同地类】\n5. 【精度评价：分类图上几个带对勾的野外核查点】\n6. 【制图与分析：一张带指北针的成图，旁边一个放大镜】\n不要把编号句子写进图里。\n步骤名（每个只出现一次，不加其他文字）：【Image acquisition, Preprocessing, Feature extraction, Classification, Accuracy assessment, Mapping and analysis】。"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "c3-vs-c4-photosynthesis",
+  "theme": "plant-agriculture",
+  "technique": "左右两个叶片截面对照",
+  "technique_en": "two leaf cross-sections side by side",
+  "featured": false,
+  "added": "2026-10-28",
+  "author": "Yila-AI",
+  "author_url": "https://github.com/Yila-AI",
+  "title": {
+    "zh": "C3 与 C4 光合作用对比",
+    "en": "C3 versus C4 photosynthesis"
+  },
+  "style": "S",
+  "size": "16:9",
+  "content": {
+    "en": "Create a side-by-side scientific illustration comparing 【C3 and C4 photosynthesis】 in leaf cross-sections. In both panels, draw Rubisco as the same small green enzyme shape and the Calvin cycle as a small circular arrow without text.\n1. Left panel, C3 plant: 【loosely packed mesophyll cells; CO2 enters through a stoma and goes straight to Rubisco and the Calvin cycle in a mesophyll chloroplast; an O2 molecule also binds Rubisco, shown as a side arrow for photorespiration】.\n2. Right panel, C4 plant: 【Kranz anatomy, a ring of mesophyll cells around a ring of bundle sheath cells around a vein. In a mesophyll cell, PEP carboxylase fixes CO2 into malate; malate → a bundle sheath cell, where it releases CO2 to Rubisco and the Calvin cycle; a return arrow goes back to the mesophyll cell】.\nWrite 'Rubisco' and 'Photorespiration' only in the left panel, and 'Mesophyll cell' and 'Bundle sheath cell' only in the right panel.\nWrite each label only once in the whole figure.\nLabels, each used once, no other text: 【C3 plant, C4 plant, Rubisco, Photorespiration, PEP carboxylase, Malate, Mesophyll cell, Bundle sheath cell】.",
+    "zh": "画一张左右对照的科学插画，用叶片截面比较【C3 与 C4 光合作用】。两个面板里，Rubisco 都画成同样的绿色小酶形状，卡尔文循环都画成一个不写字的小环形箭头。\n1. 左面板，C3 植物：【叶肉细胞排列疏松；CO2 经气孔进入，直接到达叶肉细胞叶绿体中的 Rubisco 和卡尔文循环；一个 O2 分子也结合到 Rubisco 上，用一条侧向箭头表示光呼吸】。\n2. 右面板，C4 植物：【花环结构，一圈叶肉细胞包着一圈维管束鞘细胞，中间是叶脉。叶肉细胞中，PEP 羧化酶把 CO2 固定成苹果酸；苹果酸 → 维管束鞘细胞，在那里释放 CO2 给 Rubisco 和卡尔文循环；一条回程箭头返回叶肉细胞】。\nRubisco 和 Photorespiration 只写在左面板，Mesophyll cell 和 Bundle sheath cell 只写在右面板。\n整张图里每个标签只写一次。\n标签（每个只出现一次，不加其他文字）：【C3 plant, C4 plant, Rubisco, Photorespiration, PEP carboxylase, Malate, Mesophyll cell, Bundle sheath cell】。"
+  }
+}

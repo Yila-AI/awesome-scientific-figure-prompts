@@ -1,0 +1,20 @@
+{
+  "id": "he-staining",
+  "theme": "experimental-workflow",
+  "technique": "每步一个面板，只写步骤名",
+  "technique_en": "one panel per step, step names only",
+  "featured": false,
+  "added": "2026-10-28",
+  "author": "Yila-AI",
+  "author_url": "https://github.com/Yila-AI",
+  "title": {
+    "zh": "H&E 染色组织学流程",
+    "en": "H&E staining histology workflow"
+  },
+  "style": "W",
+  "size": "16:9",
+  "content": {
+    "en": "Create a workflow figure for 【routine H&E histology】, 7 steps from left to right:\n1. 【Tissue collection: a small tissue piece in a cassette】\n2. 【Fixation: the cassette in a jar of formalin】\n3. 【Paraffin embedding: the tissue set in a wax block】\n4. 【Sectioning: a microtome cutting a thin ribbon of slices】\n5. 【Mounting: a slice floated onto a glass slide】\n6. 【Staining: nuclei turning purple and cytoplasm pink】\n7. 【Microscopy: a microscope over the slide】\nDo not write the numbered sentences in the figure.\nStep names, each used once, no other text: 【Tissue collection, Fixation, Paraffin embedding, Sectioning, Mounting, Staining, Microscopy】.",
+    "zh": "画一张【常规 H&E 组织学检查】的流程图，从左往右七步：\n1. 【取材：包埋盒里的一小块组织】\n2. 【固定：包埋盒放进福尔马林瓶】\n3. 【石蜡包埋：组织封进蜡块】\n4. 【切片：切片机切出一条薄片带】\n5. 【贴片：切片漂到载玻片上】\n6. 【染色：细胞核染成紫色，胞质染成粉色】\n7. 【镜检：显微镜对着载玻片】\n不要把编号句子写进图里。\n步骤名（每个只出现一次，不加其他文字）：【Tissue collection, Fixation, Paraffin embedding, Sectioning, Mounting, Staining, Microscopy】。"
+  }
+}

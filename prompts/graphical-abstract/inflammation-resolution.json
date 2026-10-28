@@ -1,0 +1,20 @@
+{
+  "id": "inflammation-resolution",
+  "theme": "graphical-abstract",
+  "technique": "启动期到消退期的时间轴",
+  "technique_en": "a time axis from onset to resolution",
+  "featured": false,
+  "added": "2026-10-28",
+  "author": "Yila-AI",
+  "author_url": "https://github.com/Yila-AI",
+  "title": {
+    "zh": "炎症消退",
+    "en": "Resolution of inflammation"
+  },
+  "style": "B",
+  "size": "16:9",
+  "content": {
+    "en": "Create a graphical abstract of 【the resolution of inflammation】 along a horizontal time axis, the left half shaded light red for onset and the right half light green for resolution:\n1. Left: 【neutrophils rushing into injured tissue, with leukotrienes as small red dots】.\n2. Middle: 【a switch in lipid mediators, the red dots giving way to lipoxins and resolvins as small green dots】.\n3. Right: 【an apoptotic neutrophil being engulfed by a macrophage (efferocytosis), and the tissue returning to a neat, repaired layer】.\nWrite each label only once in the whole figure.\nLabels, each used once, no other text: 【Neutrophil, Leukotrienes, Lipoxins, Resolvins, Apoptotic neutrophil, Macrophage, Efferocytosis, Tissue repair】.",
+    "zh": "画一张【炎症消退】的图文摘要，沿一条横向时间轴展开，左半边浅红色代表启动期，右半边浅绿色代表消退期：\n1. 左：【中性粒细胞涌入受损组织，白三烯画成红色小点】。\n2. 中：【脂质介质发生转换，红点让位于脂氧素和消退素，画成绿色小点】。\n3. 右：【凋亡的中性粒细胞被巨噬细胞吞噬（胞葬作用），组织恢复成整齐修复的一层】。\n整张图里每个标签只写一次。\n标签（每个只出现一次，不加其他文字）：【Neutrophil, Leukotrienes, Lipoxins, Resolvins, Apoptotic neutrophil, Macrophage, Efferocytosis, Tissue repair】。"
+  }
+}

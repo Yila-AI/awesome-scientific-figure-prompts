@@ -1,0 +1,20 @@
+{
+  "id": "seed-germination-stages",
+  "theme": "plant-agriculture",
+  "technique": "同一土壤截面上的六个阶段",
+  "technique_en": "six stages along one soil cross-section",
+  "featured": false,
+  "added": "2026-10-28",
+  "author": "Yila-AI",
+  "author_url": "https://github.com/Yila-AI",
+  "title": {
+    "zh": "种子萌发阶段",
+    "en": "Seed germination stages"
+  },
+  "style": "S",
+  "size": "16:9",
+  "content": {
+    "en": "Create a scientific illustration of 【the germination of a bean seed】 as six stages from left to right along one soil cross-section, with the soil surface as a horizontal line:\n1. 【A dry, dormant seed in the soil.】\n2. 【The seed swollen after taking up water, with small blue water arrows pointing into it.】\n3. 【The radicle breaking through the seed coat and growing downward.】\n4. 【The hypocotyl elongating as a hook that pushes up toward the soil surface, with root hairs on the young root.】\n5. 【The hook straightened above the soil, lifting the two cotyledons into the light.】\n6. 【A seedling with its first true leaves open above the cotyledons and a branched root below.】\nEach stage has one label below it.\nWrite each label only once in the whole figure.\nLabels, each used once, no other text: 【Dry seed, Imbibition, Radicle emergence, Hypocotyl hook, Cotyledon emergence, Seedling】.",
+    "zh": "画一张【菜豆种子萌发】的科学插画：沿同一个土壤截面从左往右排六个阶段，土壤表面是一条水平线：\n1. 【土里一粒干燥、休眠的种子。】\n2. 【吸水后膨胀的种子，几支蓝色小水滴箭头指向种子。】\n3. 【胚根突破种皮，向下生长。】\n4. 【下胚轴伸长，弯成钩状向土面顶出，幼根上长出根毛。】\n5. 【弯钩在土面上方伸直，把两片子叶托到光下。】\n6. 【一株幼苗，子叶上方展开第一对真叶，下方是分枝的根。】\n每个阶段下方写一个标签。\n整张图里每个标签只写一次。\n标签（每个只出现一次，不加其他文字）：【Dry seed, Imbibition, Radicle emergence, Hypocotyl hook, Cotyledon emergence, Seedling】。"
+  }
+}

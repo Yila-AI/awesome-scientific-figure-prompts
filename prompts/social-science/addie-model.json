@@ -1,0 +1,20 @@
+{
+  "id": "addie-model",
+  "theme": "social-science",
+  "technique": "四阶段成环，评价居中",
+  "technique_en": "four phases in a circle, evaluation in the center",
+  "featured": false,
+  "added": "2026-10-28",
+  "author": "Yila-AI",
+  "author_url": "https://github.com/Yila-AI",
+  "title": {
+    "zh": "ADDIE 教学设计模型",
+    "en": "ADDIE instructional design model"
+  },
+  "style": "D",
+  "size": "1:1",
+  "content": {
+    "en": "Create a model diagram of 【the ADDIE instructional design model】 as a clean circle of boxes, each box with one icon. Draw each relationship exactly as listed and nothing more:\n1. 【Four phase boxes sit clockwise on a circle: analysis at the top (a magnifier), design at the right (a pencil and a blueprint), development at the bottom (a laptop and a toolbox), implementation at the left (a classroom).】\n2. 【Clockwise arrows: analysis → design → development → implementation → analysis.】\n3. 【Evaluation (a checklist) sits in the center and is joined to each of the four phases by a two-way dashed arrow.】\nThere are no T-bars in this figure. Do not write the numbered sentences in the figure. Write each label only once in the whole figure.\nLabels, each used once, no other text: 【Analysis, Design, Development, Implementation, Evaluation】.",
+    "zh": "画一张【ADDIE 教学设计模型】图，用一圈干净的方框组成环，每个框配一个图标。严格按下面列出的关系画，不多画：\n1. 【四个阶段框顺时针排在圆环上：顶部是分析（放大镜），右侧是设计（铅笔和蓝图），底部是开发（笔记本电脑和工具箱），左侧是实施（教室）。】\n2. 【顺时针箭头：分析 → 设计 → 开发 → 实施 → 分析。】\n3. 【评价（清单图标）位于中央，用双向虚线箭头分别连到四个阶段。】\n图中没有 T 形线。不要把编号句子写进图里。整张图里每个标签只写一次。\n标签（每个只出现一次，不加其他文字）：【Analysis, Design, Development, Implementation, Evaluation】。"
+  }
+}

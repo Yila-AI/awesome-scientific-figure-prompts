@@ -1,0 +1,20 @@
+{
+  "id": "ev-powertrain",
+  "theme": "engineering-systems",
+  "technique": "俯视车身轮廓内的能量流",
+  "technique_en": "energy flow inside a top-view car outline",
+  "featured": false,
+  "added": "2026-10-28",
+  "author": "Yila-AI",
+  "author_url": "https://github.com/Yila-AI",
+  "title": {
+    "zh": "电动汽车动力系统",
+    "en": "Electric vehicle powertrain"
+  },
+  "style": "D",
+  "size": "16:9",
+  "content": {
+    "en": "Create a system diagram of 【a battery electric vehicle powertrain】 drawn inside a light top-view outline of a car, read from left to right. Draw each relationship exactly as listed and nothing more:\n1. 【Charging port → on-board charger (turns AC into DC) → battery pack.】\n2. 【A battery management system box sits on the battery pack and monitors it (a short dashed line).】\n3. 【Battery pack → inverter (turns DC into AC) → electric motor → reduction gear → wheels.】\n4. 【During braking, a dashed arrow carries energy back from the motor through the inverter into the battery pack.】\nThere are no T-bars in this figure. Do not write the numbered sentences in the figure. Write each label only once in the whole figure.\nIf a component appears in more than one place or panel, write its label only at its first appearance; every other copy has no text. No label may appear twice anywhere in the figure. Spell every label exactly as given and add no titles.\nLabels, each used once, no other text: 【Charging port, On-board charger, Battery pack, BMS, Inverter, Electric motor, Reduction gear, Wheels】.",
+    "zh": "画一张【纯电动汽车动力系统】图，画在一个浅色的汽车俯视轮廓里，从左往右读。严格按下面列出的关系画，不多画：\n1. 【充电口 → 车载充电机（把交流电转为直流电）→ 电池包。】\n2. 【电池管理系统框位于电池包上，监控电池包（一条短虚线）。】\n3. 【电池包 → 逆变器（把直流电转为交流电）→ 电机 → 减速器 → 车轮。】\n4. 【制动时，一条虚线箭头把能量从电机经逆变器送回电池包。】\n图中没有 T 形线。不要把编号句子写进图里。整张图里每个标签只写一次。\n如果同一组件在多处或多个面板出现，只在第一次出现时写标签，其余副本不写字。整张图里任何标签都不能出现两次。每个标签拼写与给定完全一致，不加标题。\n标签（每个只出现一次，不加其他文字）：【Charging port, On-board charger, Battery pack, BMS, Inverter, Electric motor, Reduction gear, Wheels】。"
+  }
+}

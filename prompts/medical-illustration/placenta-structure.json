@@ -1,0 +1,20 @@
+{
+  "id": "placenta-structure",
+  "theme": "medical-illustration",
+  "technique": "胎盘截面加绒毛放大",
+  "technique_en": "placenta cross-section plus a villus close-up",
+  "featured": false,
+  "added": "2026-10-28",
+  "author": "Yila-AI",
+  "author_url": "https://github.com/Yila-AI",
+  "title": {
+    "zh": "胎盘结构",
+    "en": "Placenta structure"
+  },
+  "style": "S",
+  "size": "16:9",
+  "content": {
+    "en": "Create a scientific illustration of 【the human placenta】:\n1. Left, a cross-section: 【the umbilical cord rises from the chorionic plate at the top; tree-like chorionic villi hang down into the intervillous space, which fills with maternal blood from spiral arteries in the decidua basalis at the bottom】. Draw the umbilical arteries blue (carrying deoxygenated blood from the fetus) and the umbilical vein red.\n2. Right, a circular magnified inset of one villus: 【an outer syncytiotrophoblast layer bathed in maternal blood, with fetal capillaries inside】.\nWrite each label only once in the whole figure.\nIf a component appears in more than one place or panel, write its label only at its first appearance; every other copy has no text. No label may appear twice anywhere in the figure. Spell every label exactly as given and add no titles.\nLabels, each used once, no other text: 【Umbilical cord, Chorionic plate, Chorionic villi, Intervillous space, Spiral artery, Decidua basalis, Syncytiotrophoblast, Fetal capillary】.",
+    "zh": "画一张【人类胎盘】的科学插画：\n1. 左，截面图：【脐带从顶部的绒毛膜板伸出；树枝状的绒毛向下垂入绒毛间隙，间隙里充满来自底部底蜕膜中螺旋动脉的母体血液】。脐动脉画成蓝色（把缺氧血从胎儿运出），脐静脉画成红色。\n2. 右，一个绒毛的圆形放大插图：【外层是浸在母体血液中的合体滋养层，内部是胎儿毛细血管】。\n整张图里每个标签只写一次。\n如果同一组件在多处或多个面板出现，只在第一次出现时写标签，其余副本不写字。整张图里任何标签都不能出现两次。每个标签拼写与给定完全一致，不加标题。\n标签（每个只出现一次，不加其他文字）：【Umbilical cord, Chorionic plate, Chorionic villi, Intervillous space, Spiral artery, Decidua basalis, Syncytiotrophoblast, Fetal capillary】。"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "crispr-crop-breeding",
+  "theme": "plant-agriculture",
+  "technique": "每步一个面板，只写步骤名",
+  "technique_en": "one panel per step, step names only",
+  "featured": false,
+  "added": "2026-10-28",
+  "author": "Yila-AI",
+  "author_url": "https://github.com/Yila-AI",
+  "title": {
+    "zh": "CRISPR 基因编辑作物育种流程",
+    "en": "CRISPR gene-edited crop breeding workflow"
+  },
+  "style": "W",
+  "size": "16:9",
+  "content": {
+    "en": "Create a workflow figure for 【breeding a gene-edited crop with CRISPR】, 8 steps from left to right:\n1. 【Target gene: a highlighted gene on a DNA strand next to a crop plant】\n2. 【Guide RNA design: a short RNA strand lining up with the DNA】\n3. 【Vector construction: a circular plasmid carrying Cas9 and the guide RNA】\n4. 【Transformation: Agrobacterium delivering the plasmid into plant tissue in a dish】\n5. 【Regeneration: small shoots growing from callus in a dish】\n6. 【Genotyping: a DNA sequence with a small edited gap marked】\n7. 【Transgene-free selection: several offspring seedlings with the Cas9-free one circled】\n8. 【Field evaluation: rows of edited plants growing in a field】\nDo not write the numbered sentences in the figure.\nStep names, each used once, no other text: 【Target gene, Guide RNA design, Vector construction, Transformation, Regeneration, Genotyping, Transgene-free selection, Field evaluation】.",
+    "zh": "画一张【用 CRISPR 培育基因编辑作物】的流程图，从左往右八步：\n1. 【目标基因：作物旁一条 DNA 链，其中一段基因被高亮】\n2. 【向导 RNA 设计：一段短 RNA 与 DNA 对齐】\n3. 【载体构建：携带 Cas9 和向导 RNA 的环状质粒】\n4. 【遗传转化：农杆菌把质粒送入培养皿中的植物组织】\n5. 【再生：培养皿中的愈伤组织长出小芽】\n6. 【基因型鉴定：一段 DNA 序列，标出编辑造成的小缺口】\n7. 【去除转基因：几株后代幼苗，圈出不含 Cas9 的那株】\n8. 【田间评价：田里一行行编辑后的植株】\n不要把编号句子写进图里。\n步骤名（每个只出现一次，不加其他文字）：【Target gene, Guide RNA design, Vector construction, Transformation, Regeneration, Genotyping, Transgene-free selection, Field evaluation】。"
+  }
+}

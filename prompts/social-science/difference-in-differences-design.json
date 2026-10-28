@@ -1,0 +1,20 @@
+{
+  "id": "difference-in-differences-design",
+  "theme": "social-science",
+  "technique": "两组 × 前后的 2×2 设计",
+  "technique_en": "two groups by before and after",
+  "featured": false,
+  "added": "2026-10-28",
+  "author": "Yila-AI",
+  "author_url": "https://github.com/Yila-AI",
+  "title": {
+    "zh": "双重差分（DID）政策评估设计",
+    "en": "Difference-in-differences policy evaluation design"
+  },
+  "style": "D",
+  "size": "16:9",
+  "content": {
+    "en": "Create a conceptual study design diagram of 【a difference-in-differences evaluation of a policy】, with no axes, no plotted lines, no values and no numbers.\n1. A grid of two rows and two columns: rows for 【the treatment group (people icons in a region that adopts the policy) and the control group (people icons in a similar region that does not)】, columns for before and after.\n2. A vertical dashed line between the two columns, with a small stamp icon on the treatment row only, marks when the policy starts.\n3. In each row, one arrow points from the before cell to the after cell, showing that group's change over time.\n4. On the right, both row arrows feed into one box with a minus sign: the treatment group's change minus the control group's change.\n5. Below the grid, a small panel shows two parallel dashed arrows side by side, for the assumption that both groups would have changed alike without the policy.\nWrite each label only once in the whole figure.\nLabels, each used once, no other text: 【Treatment group, Control group, Before, After, Policy, Difference-in-differences, Parallel trends assumption】.",
+    "zh": "画一张【政策双重差分评估】的概念性研究设计图，不画坐标轴、不画数据折线、不写数值和数字。\n1. 一个两行两列的网格：两行分别是【处理组（实施该政策地区的人形图标）和对照组（未实施政策的相似地区的人形图标）】，两列分别是政策前和政策后。\n2. 两列之间一条竖直虚线，只在处理组那一行上放一个小印章图标，表示政策开始的时间。\n3. 每一行都有一条从政策前格子指向政策后格子的箭头，表示该组随时间的变化。\n4. 右侧，两行的箭头汇入一个带减号的框：处理组的变化减去对照组的变化。\n5. 网格下方一个小面板，画两条并排的平行虚线箭头，表示没有政策时两组会同样变化的假设。\n整张图里每个标签只写一次。\n标签（每个只出现一次，不加其他文字）：【Treatment group, Control group, Before, After, Policy, Difference-in-differences, Parallel trends assumption】。"
+  }
+}

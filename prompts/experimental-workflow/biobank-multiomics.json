@@ -1,0 +1,20 @@
+{
+  "id": "biobank-multiomics",
+  "theme": "experimental-workflow",
+  "technique": "每步一个面板，只写步骤名",
+  "technique_en": "one panel per step, step names only",
+  "featured": false,
+  "added": "2026-10-28",
+  "author": "Yila-AI",
+  "author_url": "https://github.com/Yila-AI",
+  "title": {
+    "zh": "临床生物样本库与多组学分析流程",
+    "en": "Clinical biobank and multi-omics profiling workflow"
+  },
+  "style": "W",
+  "size": "16:9",
+  "content": {
+    "en": "Create a workflow figure for 【a clinical biobank with multi-omics profiling】, 7 steps from left to right:\n1. 【Recruitment: a patient signing a consent form】\n2. 【Sample collection: blood, tissue and urine tubes】\n3. 【Processing: tubes split into small barcoded aliquots】\n4. 【Storage: an ultra-low freezer and a liquid nitrogen tank】\n5. 【Multi-omics profiling: four icons for DNA, RNA, protein and metabolites】\n6. 【Data integration: omics layers linked to a clinical record】\n7. 【Discovery: a lightbulb over a small network】\nDo not write the numbered sentences in the figure.\nIf a component appears in more than one place or panel, write its label only at its first appearance; every other copy has no text. No label may appear twice anywhere in the figure. Spell every label exactly as given and add no titles. Draw every molecule as a simple colored circle, with no chemical structures or letters.\nStep names, each used once, no other text: 【Recruitment, Sample collection, Processing, Storage, Multi-omics profiling, Data integration, Discovery】.",
+    "zh": "画一张【临床生物样本库与多组学分析】的流程图，从左往右七步：\n1. 【招募：病人签署知情同意书】\n2. 【样本采集：血液、组织和尿液管】\n3. 【处理：样本分装成带条码的小管】\n4. 【储存：超低温冰箱和液氮罐】\n5. 【多组学检测：DNA、RNA、蛋白质和代谢物四个图标】\n6. 【数据整合：各组学层与临床病历相连】\n7. 【发现：小网络上方一个灯泡】\n不要把编号句子写进图里。\n如果同一组件在多处或多个面板出现，只在第一次出现时写标签，其余副本不写字。整张图里任何标签都不能出现两次。每个标签拼写与给定完全一致，不加标题。所有分子都画成简单的彩色圆点，不画化学结构、不写字母。\n步骤名（每个只出现一次，不加其他文字）：【Recruitment, Sample collection, Processing, Storage, Multi-omics profiling, Data integration, Discovery】。"
+  }
+}

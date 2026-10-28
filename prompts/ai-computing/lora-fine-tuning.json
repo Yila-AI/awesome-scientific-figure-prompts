@@ -1,0 +1,20 @@
+{
+  "id": "lora-fine-tuning",
+  "theme": "ai-computing",
+  "technique": "冻结主干旁加低秩旁路",
+  "technique_en": "a low-rank side path beside frozen weights",
+  "featured": false,
+  "added": "2026-10-28",
+  "author": "Yila-AI",
+  "author_url": "https://github.com/Yila-AI",
+  "title": {
+    "zh": "大模型 LoRA 微调",
+    "en": "LoRA fine-tuning of a large language model"
+  },
+  "style": "D",
+  "size": "16:9",
+  "content": {
+    "en": "Create a schematic of 【LoRA fine-tuning of a large language model】:\n1. Far left: 【a small stack of layers for the large language model; dashed zoom lines lead from one layer to the main diagram on the right】.\n2. Main diagram, read from bottom to top: 【the input x enters at the bottom and splits into two parallel paths】.\n3. Left path: 【a large gray square for the pretrained weights, with a small lock icon showing they are frozen】.\n4. Right path: 【a trapezoid A that narrows upward, then a trapezoid B that widens upward, both bright orange with a small flame icon showing they are trainable】.\n5. 【The two paths meet at a plus circle at the top, giving the output h.】\nWrite each label only once in the whole figure.\nLabels, each used once, no other text: 【Large language model, x, Pretrained weights (frozen), A, B, Trainable, h】.",
+    "zh": "画一张【大语言模型 LoRA 微调】示意图：\n1. 最左侧：【一小叠层代表大语言模型；从其中一层引出虚线放大线，连到右边的主图】。\n2. 主图从下往上读：【输入 x 从底部进入，分成两条并行路径】。\n3. 左路：【一个大的灰色方块代表预训练权重，带一个小锁图标，表示冻结】。\n4. 右路：【一个向上收窄的梯形 A，再接一个向上变宽的梯形 B，都是亮橙色，带小火焰图标，表示可训练】。\n5. 【两条路径在顶部的加号圆圈处汇合，得到输出 h。】\n整张图里每个标签只写一次。\n标签（每个只出现一次，不加其他文字）：【Large language model, x, Pretrained weights (frozen), A, B, Trainable, h】。"
+  }
+}

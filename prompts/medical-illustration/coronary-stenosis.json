@@ -1,0 +1,20 @@
+{
+  "id": "coronary-stenosis",
+  "theme": "medical-illustration",
+  "technique": "心脏整体加血管截面放大",
+  "technique_en": "whole heart plus a vessel cross-section inset",
+  "featured": false,
+  "added": "2026-10-28",
+  "author": "Yila-AI",
+  "author_url": "https://github.com/Yila-AI",
+  "title": {
+    "zh": "冠状动脉狭窄",
+    "en": "Coronary artery stenosis"
+  },
+  "style": "S",
+  "size": "16:9",
+  "content": {
+    "en": "Create a scientific illustration of 【coronary artery stenosis】: on the left, the front of the heart with the aorta at the top and the coronary arteries running over its surface. A plaque narrows the left anterior descending artery partway down, and the heart muscle below the narrowing is shaded pale purple as ischemic myocardium. On the right, a circular magnified inset shows a cross-section of the narrowed artery: a yellow plaque filling most of the wall, leaving a small narrowed lumen with a few red blood cells.\nWrite each label only once in the whole figure.\nLabels, each used once, no other text: 【Aorta, Right coronary artery, Left anterior descending artery, Plaque, Narrowed lumen, Ischemic myocardium】.",
+    "zh": "画一张【冠状动脉狭窄】的科学插画：左侧是心脏正面，主动脉在顶部，冠状动脉沿心脏表面走行。左前降支中段被斑块堵窄，狭窄处以下的心肌画成浅紫色，代表缺血心肌。右侧一个圆形放大插图，显示狭窄动脉的横截面：黄色斑块占据大部分管壁，只剩一个狭小的管腔，里面有几个红细胞。\n整张图里每个标签只写一次。\n标签（每个只出现一次，不加其他文字）：【Aorta, Right coronary artery, Left anterior descending artery, Plaque, Narrowed lumen, Ischemic myocardium】。"
+  }
+}

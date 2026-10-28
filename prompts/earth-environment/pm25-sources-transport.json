@@ -1,0 +1,20 @@
+{
+  "id": "pm25-sources-transport",
+  "theme": "earth-environment",
+  "technique": "从排放源到下风向城市",
+  "technique_en": "from emission sources to a downwind city",
+  "featured": false,
+  "added": "2026-10-28",
+  "author": "Yila-AI",
+  "author_url": "https://github.com/Yila-AI",
+  "title": {
+    "zh": "PM2.5 来源与传输",
+    "en": "PM2.5 sources and transport"
+  },
+  "style": "S",
+  "size": "16:9",
+  "content": {
+    "en": "Create a scientific illustration of 【the sources and transport of PM2.5】 across a landscape, read from left to right: a highway, a factory and farmland on the left, a city on the right, and wind blowing from left to right. Draw each relationship exactly as listed and nothing more:\n1. 【Traffic on the highway and the factory chimney emit primary PM2.5 directly into the air (small gray dots rising).】\n2. 【Traffic, the factory and the farmland also release precursor gases (faint colored wisps rising).】\n3. 【In the air, the precursor gases react and turn into secondary PM2.5 (the wisps becoming tiny dots).】\n4. 【Wind carries the particle haze from left to right toward the city: regional transport.】\n5. 【Some particles fall back to the ground or are washed out by rain: deposition.】\n6. 【People in the city breathe in the particles: inhalation.】\nDo not draw graphs, maps with values, or any numbers other than the 2.5 in PM2.5.\nThere are no T-bars in this figure. Do not write the numbered sentences in the figure. Write each label only once in the whole figure.\nLabels, each used once, no other text: 【Traffic, Industry, Primary PM2.5, Precursor gases, Secondary PM2.5, Regional transport, Deposition, Inhalation】.",
+    "zh": "画一张【PM2.5 的来源与传输】科学插画，从左往右是一幅景观：左边是公路、工厂和农田，右边是城市，风从左往右吹。严格按下面列出的关系画，不多画：\n1. 【公路上的车辆和工厂烟囱直接向空中排放一次 PM2.5（灰色小点上升）。】\n2. 【车辆、工厂和农田还释放前体气体（淡彩色的气流上升）。】\n3. 【前体气体在空气中反应，转化为二次 PM2.5（气流变成细小颗粒）。】\n4. 【风把颗粒物霾从左往右带向城市：区域传输。】\n5. 【一部分颗粒落回地面或被雨水冲刷：沉降。】\n6. 【城市里的人吸入颗粒物：吸入。】\n不画图表，不画带数值的地图，除 PM2.5 里的 2.5 外不写任何数字。\n图中没有 T 形线。不要把编号句子写进图里。整张图里每个标签只写一次。\n标签（每个只出现一次，不加其他文字）：【Traffic, Industry, Primary PM2.5, Precursor gases, Secondary PM2.5, Regional transport, Deposition, Inhalation】。"
+  }
+}

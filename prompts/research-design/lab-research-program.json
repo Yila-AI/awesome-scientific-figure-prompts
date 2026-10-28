@@ -1,0 +1,20 @@
+{
+  "id": "lab-research-program",
+  "theme": "research-design",
+  "technique": "核心问题居中，方向环绕",
+  "technique_en": "one core question in the center, directions around it",
+  "featured": false,
+  "added": "2026-10-28",
+  "author": "Yila-AI",
+  "author_url": "https://github.com/Yila-AI",
+  "title": {
+    "zh": "课题组研究方向总览",
+    "en": "Lab research program overview"
+  },
+  "style": "D",
+  "size": "1:1",
+  "content": {
+    "en": "Create a research program overview for 【a lab studying tumor immunity】: one large circle in the center for the core question, with a small lightbulb icon. Around it, four rounded boxes evenly spaced, each linked to the center by a thick arrow and each with one icon:\n【mechanism (a molecule), disease models (a mouse), technology development (a microchip), clinical translation (a hospital)】.\nThin dashed arrows link each box to its two neighbors, forming an outer ring that shows the directions feed each other.\nWrite each label only once in the whole figure.\nLabels, each used once, no other text: 【Core question, Mechanism, Disease models, Technology development, Clinical translation】.",
+    "zh": "画一张【肿瘤免疫课题组】的研究方向总览图：中央一个大圆代表核心问题，配一个小灯泡图标。四周均匀排列四个圆角框，每个框用粗箭头连到中心，各配一个图标：\n【机制（分子）、疾病模型（小鼠）、技术开发（芯片）、临床转化（医院）】。\n细虚线箭头把每个框和左右相邻的两个框连起来，形成外圈，表示各方向互相支撑。\n整张图里每个标签只写一次。\n标签（每个只出现一次，不加其他文字）：【Core question, Mechanism, Disease models, Technology development, Clinical translation】。"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "scale-development-validation",
+  "theme": "social-science",
+  "technique": "每步一个面板，只写步骤名",
+  "technique_en": "one panel per step, step names only",
+  "featured": false,
+  "added": "2026-10-28",
+  "author": "Yila-AI",
+  "author_url": "https://github.com/Yila-AI",
+  "title": {
+    "zh": "量表编制与验证流程",
+    "en": "Scale development and validation workflow"
+  },
+  "style": "W",
+  "size": "16:9",
+  "content": {
+    "en": "Create a workflow figure for 【scale development and validation】, 7 steps from left to right:\n1. 【Item generation: a lightbulb over a list of draft items】\n2. 【Expert review: a panel of experts checking the items】\n3. 【Pilot testing: a few people filling in the questionnaire】\n4. 【Exploratory factor analysis: scattered items grouping into a few clusters】\n5. 【Confirmatory factor analysis: ovals for factors with arrows to item boxes】\n6. 【Reliability: a tight cluster of darts on a target】\n7. 【Validity: darts hitting the center of a target】\nDo not write the numbered sentences in the figure.\nStep names, each used once, no other text: 【Item generation, Expert review, Pilot testing, Exploratory factor analysis, Confirmatory factor analysis, Reliability, Validity】.",
+    "zh": "画一张【量表编制与验证】的流程图，从左往右七步：\n1. 【条目生成：一张草拟条目清单上方的灯泡】\n2. 【专家评审：几位专家在审阅条目】\n3. 【预测试：几个人在填写问卷】\n4. 【探索性因子分析：零散的条目聚成几簇】\n5. 【验证性因子分析：代表因子的椭圆用箭头指向条目方框】\n6. 【信度检验：飞镖紧密集中在靶上一处】\n7. 【效度检验：飞镖正中靶心】\n不要把编号句子写进图里。\n步骤名（每个只出现一次，不加其他文字）：【Item generation, Expert review, Pilot testing, Exploratory factor analysis, Confirmatory factor analysis, Reliability, Validity】。"
+  }
+}

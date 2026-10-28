@@ -1,0 +1,20 @@
+{
+  "id": "organ-on-a-chip",
+  "theme": "experimental-workflow",
+  "technique": "每步一个面板，只写步骤名",
+  "technique_en": "one panel per step, step names only",
+  "featured": false,
+  "added": "2026-10-28",
+  "author": "Yila-AI",
+  "author_url": "https://github.com/Yila-AI",
+  "title": {
+    "zh": "器官芯片实验流程",
+    "en": "Organ-on-a-chip workflow"
+  },
+  "style": "W",
+  "size": "16:9",
+  "content": {
+    "en": "Create a workflow figure for 【an organ-on-a-chip study】, 6 steps from left to right:\n1. 【Chip fabrication: a clear chip with two parallel channels】\n2. 【Cell seeding: epithelial cells in the top channel and endothelial cells in the bottom, separated by a porous membrane】\n3. 【Perfusion: a pump pushing medium through both channels】\n4. 【Mechanical cues: the side chambers stretching the membrane in a breathing motion】\n5. 【Drug exposure: a dropper adding a drug to the flow】\n6. 【Readouts: a microscope over the chip and a tube collecting outflow】\nDo not write the numbered sentences in the figure.\nStep names, each used once, no other text: 【Chip fabrication, Cell seeding, Perfusion, Mechanical cues, Drug exposure, Readouts】.",
+    "zh": "画一张【器官芯片研究】的流程图，从左往右六步：\n1. 【芯片制作：一块带两条平行通道的透明芯片】\n2. 【细胞接种：上通道种上皮细胞，下通道种内皮细胞，中间隔一层多孔膜】\n3. 【灌流：泵推动培养基流过两条通道】\n4. 【力学刺激：两侧腔室像呼吸一样拉伸膜】\n5. 【药物暴露：滴管往液流里加药】\n6. 【检测：显微镜观察芯片，试管收集流出液】\n不要把编号句子写进图里。\n步骤名（每个只出现一次，不加其他文字）：【Chip fabrication, Cell seeding, Perfusion, Mechanical cues, Drug exposure, Readouts】。"
+  }
+}

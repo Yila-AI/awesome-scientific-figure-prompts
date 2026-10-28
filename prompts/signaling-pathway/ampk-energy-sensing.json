@@ -1,0 +1,20 @@
+{
+  "id": "ampk-energy-sensing",
+  "theme": "signaling-pathway",
+  "technique": "激活与抑制分两栏",
+  "technique_en": "activated and inhibited targets in two columns",
+  "featured": false,
+  "added": "2026-10-28",
+  "author": "Yila-AI",
+  "author_url": "https://github.com/Yila-AI",
+  "title": {
+    "zh": "AMPK 能量感应",
+    "en": "AMPK energy sensing"
+  },
+  "style": "A",
+  "size": "16:9",
+  "content": {
+    "en": "Create a signaling schematic of 【AMPK energy sensing】 in one cell, read from left to right.\n1. On the left, a low-battery icon for a rising AMP/ATP ratio, and LKB1 adding a small 'P' circle to AMPK; both point with arrows to AMPK in the middle.\n2. On the right, two columns. The upper column, in a light green panel titled Activated, holds 【ULK1 and GLUT4】; a green arrow runs from AMPK to this panel.\n3. The lower column, in a light red panel titled Inhibited, holds 【mTORC1 and ACC】; a single red arrow runs from AMPK to this panel.\nDraw no other lines between the proteins.\nWrite each label only once in the whole figure.\nLabels, each used once, no other text: 【AMP/ATP, LKB1, AMPK, Activated, Inhibited, ULK1, GLUT4, mTORC1, ACC】.",
+    "zh": "画一张【AMPK 能量感应】的信号示意图，在一个细胞内，从左往右读。\n1. 左侧一个低电量图标代表 AMP/ATP 比值升高，LKB1 给 AMPK 加上一个带 P 的小圆点；两者都用箭头指向中央的 AMPK。\n2. 右侧上下两栏。上栏是标题为 Activated 的浅绿色面板，里面放【ULK1 和 GLUT4】；一条绿色箭头从 AMPK 指向这个面板。\n3. 下栏是标题为 Inhibited 的浅红色面板，里面放【mTORC1 和 ACC】；一条红色箭头从 AMPK 指向这个面板。\n蛋白之间不画其他连线。\n整张图里每个标签只写一次。\n标签（每个只出现一次，不加其他文字）：【AMP/ATP, LKB1, AMPK, Activated, Inhibited, ULK1, GLUT4, mTORC1, ACC】。"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "continuous-flow-chemistry",
+  "theme": "chemistry-instruments",
+  "technique": "泵—混合—反应盘管—在线检测",
+  "technique_en": "pumps, mixer, coil reactor, in-line analysis",
+  "featured": false,
+  "added": "2026-10-28",
+  "author": "Yila-AI",
+  "author_url": "https://github.com/Yila-AI",
+  "title": {
+    "zh": "连续流化学装置",
+    "en": "Continuous flow chemistry setup"
+  },
+  "style": "S",
+  "size": "16:9",
+  "content": {
+    "en": "Create a scientific illustration of 【a continuous flow chemistry setup】, read from left to right, with liquid moving through thin tubing in that direction:\n1. 【Two syringe pumps stacked on the left, one holding reagent A (blue) and one holding reagent B (yellow).】\n2. 【The two streams meet at a small T-shaped mixer and become green.】\n3. 【The mixed stream flows through a coiled tube reactor sitting in a heating block.】\n4. 【It then passes a back-pressure regulator and an in-line analysis cell (a small detector box clipped onto the tube).】\n5. 【The product drips into a collection flask on the right.】\nUse one label for both pumps.\nWrite each label only once in the whole figure.\nLabels, each used once, no other text: 【Syringe pumps, Reagent A, Reagent B, Mixer, Coil reactor, Back-pressure regulator, In-line analysis, Product】.",
+    "zh": "画一张【连续流化学装置】的科学插画，从左往右读，液体沿细管朝这个方向流动：\n1. 【左侧上下两台注射泵，一台装试剂 A（蓝色），一台装试剂 B（黄色）。】\n2. 【两股液流在一个小 T 形混合器处汇合，变成绿色。】\n3. 【混合液流过放在加热模块里的盘管反应器。】\n4. 【随后经过背压阀和在线检测池（一个夹在管路上的小检测器盒）。】\n5. 【产物滴入右侧的收集烧瓶。】\n两台泵共用一个标签。\n整张图里每个标签只写一次。\n标签（每个只出现一次，不加其他文字）：【Syringe pumps, Reagent A, Reagent B, Mixer, Coil reactor, Back-pressure regulator, In-line analysis, Product】。"
+  }
+}

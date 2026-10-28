@@ -1,0 +1,20 @@
+{
+  "id": "gwas-workflow",
+  "theme": "experimental-workflow",
+  "technique": "每步一个面板，只写步骤名",
+  "technique_en": "one panel per step, step names only",
+  "featured": false,
+  "added": "2026-10-28",
+  "author": "Yila-AI",
+  "author_url": "https://github.com/Yila-AI",
+  "title": {
+    "zh": "全基因组关联研究（GWAS）流程",
+    "en": "Genome-wide association study (GWAS) workflow"
+  },
+  "style": "W",
+  "size": "16:9",
+  "content": {
+    "en": "Create a workflow figure for 【a genome-wide association study】, 7 steps from left to right:\n1. 【Cohort: a group of cases and a group of controls】\n2. 【DNA collection: a blood tube and a saliva tube】\n3. 【Genotyping: a SNP chip with a grid of colored dots】\n4. 【Quality control: a filter removing a few faulty samples】\n5. 【Association testing: a balance comparing variants between cases and controls】\n6. 【Risk locus: one highlighted spot on a chromosome】\n7. 【Replication: a second, independent cohort】\nDo not write the numbered sentences in the figure.\nStep names, each used once, no other text: 【Cohort, DNA collection, Genotyping, Quality control, Association testing, Risk locus, Replication】.",
+    "zh": "画一张【全基因组关联研究】的流程图，从左往右七步：\n1. 【队列：一组病例和一组对照】\n2. 【DNA 采集：血液管和唾液管】\n3. 【基因分型：带彩色点阵的 SNP 芯片】\n4. 【质量控制：过滤器去掉几个有问题的样本】\n5. 【关联分析：天平比较病例和对照中的变异】\n6. 【风险位点：染色体上一个高亮的位置】\n7. 【重复验证：另一个独立队列】\n不要把编号句子写进图里。\n步骤名（每个只出现一次，不加其他文字）：【Cohort, DNA collection, Genotyping, Quality control, Association testing, Risk locus, Replication】。"
+  }
+}

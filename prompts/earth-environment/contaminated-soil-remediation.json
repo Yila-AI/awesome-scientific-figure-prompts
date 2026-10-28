@@ -1,0 +1,20 @@
+{
+  "id": "contaminated-soil-remediation",
+  "theme": "earth-environment",
+  "technique": "左侧污染截面，右侧四种修复方式",
+  "technique_en": "polluted soil cross-section with four remediation panels",
+  "featured": false,
+  "added": "2026-10-28",
+  "author": "Yila-AI",
+  "author_url": "https://github.com/Yila-AI",
+  "title": {
+    "zh": "污染土壤与修复方式",
+    "en": "Contaminated soil and remediation options"
+  },
+  "style": "S",
+  "size": "16:9",
+  "content": {
+    "en": "Create a scientific illustration of 【contaminated soil and its remediation options】. Left: 【a soil cross-section beneath an old factory site, with dark specks of heavy metals and oily brown patches of organic pollutants spreading through the soil】. Right: four small panels in two rows and two columns, each joined to the soil by one thin arrow pointing from the soil to the panel:\n1. 【Soil washing: an excavator loading soil into a washing tank.】\n2. 【Chemical stabilization: an amendment mixed into the soil, locking the dark specks inside soil grains.】\n3. 【Bioremediation: microbes breaking down the oily patches.】\n4. 【Phytoremediation: plants drawing metals up from their roots into their shoots.】\nDraw icons only, with no tables or numbers.\nWrite each label only once in the whole figure.\nLabels, each used once, no other text: 【Contaminated soil, Heavy metals, Organic pollutants, Soil washing, Chemical stabilization, Bioremediation, Phytoremediation】.",
+    "zh": "画一张【污染土壤及其修复方式】的科学插画。左侧：【旧工厂场地下方的土壤截面，土壤里散布着代表重金属的深色颗粒和代表有机污染物的油状褐色斑块】。右侧：四个小面板排成两行两列，每个面板用一条从土壤指向面板的细箭头相连：\n1. 【土壤淋洗：挖掘机把土装进清洗槽。】\n2. 【化学稳定化：把改良剂拌进土壤，深色颗粒被锁在土粒里。】\n3. 【生物修复：微生物分解油状斑块。】\n4. 【植物修复：植物把金属从根部吸收到茎叶中。】\n只画图标，不画表格，不写数字。\n整张图里每个标签只写一次。\n标签（每个只出现一次，不加其他文字）：【Contaminated soil, Heavy metals, Organic pollutants, Soil washing, Chemical stabilization, Bioremediation, Phytoremediation】。"
+  }
+}

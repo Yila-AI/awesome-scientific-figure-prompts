@@ -1,0 +1,20 @@
+{
+  "id": "bridge-health-monitoring",
+  "theme": "engineering-systems",
+  "technique": "桥上布设传感器，数据传到监测中心",
+  "technique_en": "sensors on the bridge, data to a monitoring center",
+  "featured": false,
+  "added": "2026-10-28",
+  "author": "Yila-AI",
+  "author_url": "https://github.com/Yila-AI",
+  "title": {
+    "zh": "桥梁结构健康监测",
+    "en": "Bridge structural health monitoring"
+  },
+  "style": "S",
+  "size": "16:9",
+  "content": {
+    "en": "Create a scientific illustration of 【structural health monitoring of a cable-stayed bridge】:\n1. 【A cable-stayed bridge over a river, with small sensor icons placed along it: accelerometers on the deck, strain gauges on the girders, a GNSS antenna on top of the tower and an anemometer on the tower.】\n2. 【Data travels from the sensors to a data acquisition box at the base of the tower.】\n3. 【The box sends the data wirelessly to a cloud server, which sends it on to a monitoring center on the right: an engineer at a screen that shows only a 3D outline of the bridge, with no charts.】\nDraw several sensors of each type but label one of each type only.\nWrite each label only once in the whole figure.\nIf a component appears in more than one place or panel, write its label only at its first appearance; every other copy has no text. No label may appear twice anywhere in the figure. Spell every label exactly as given and add no titles. Data arrows run only from the sensors to the data center, never toward the sensors.\nLabels, each used once, no other text: 【Accelerometer, Strain gauge, GNSS, Anemometer, Data acquisition, Cloud server, Monitoring center】.",
+    "zh": "画一张【斜拉桥结构健康监测】的科学插画：\n1. 【一座横跨河流的斜拉桥，沿桥布置小传感器图标：桥面上的加速度计、主梁上的应变计、塔顶的 GNSS 天线和塔上的风速计。】\n2. 【数据从传感器传到塔底的数据采集箱。】\n3. 【采集箱把数据无线发送到云服务器，再传到右侧的监测中心：一位工程师坐在屏幕前，屏幕上只显示桥的三维轮廓，不画图表。】\n每类传感器可以画多个，但每类只标注一个。\n整张图里每个标签只写一次。\n如果同一组件在多处或多个面板出现，只在第一次出现时写标签，其余副本不写字。整张图里任何标签都不能出现两次。每个标签拼写与给定完全一致，不加标题。数据箭头只从传感器指向数据中心，不指向传感器。\n标签（每个只出现一次，不加其他文字）：【Accelerometer, Strain gauge, GNSS, Anemometer, Data acquisition, Cloud server, Monitoring center】。"
+  }
+}

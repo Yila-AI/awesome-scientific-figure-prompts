@@ -1,0 +1,20 @@
+{
+  "id": "cross-sectional-design",
+  "theme": "research-design",
+  "technique": "单一时间点的快照",
+  "technique_en": "a snapshot at one point in time",
+  "featured": false,
+  "added": "2026-10-28",
+  "author": "Yila-AI",
+  "author_url": "https://github.com/Yila-AI",
+  "title": {
+    "zh": "横断面研究设计",
+    "en": "Cross-sectional study design"
+  },
+  "style": "D",
+  "size": "16:9",
+  "content": {
+    "en": "Create a study design diagram of 【a cross-sectional study】, read from left to right:\n1. On the left, a large circle of many small people icons for the target population; an arrow leads to a smaller circle of people icons for the sample.\n2. Along the bottom, a horizontal time arrow with one vertical line marking a single moment and a small camera icon on it, showing that everything is measured at the same time.\n3. On the right, four groups of people icons in two rows and two columns: rows are exposed (dark icons) and unexposed (light icons); columns are with the outcome (a red mark) and without it.\nWrite each label only once in the whole figure.\nIf a component appears in more than one place or panel, write its label only at its first appearance; every other copy has no text. No label may appear twice anywhere in the figure. Spell every label exactly as given and add no titles.\nLabels, each used once, no other text: 【Target population, Sample, Single time point, Exposed, Unexposed, With outcome, Without outcome】.",
+    "zh": "画一张【横断面研究】的设计图，从左往右读：\n1. 左侧一个大圆，里面是许多小人形图标，代表目标人群；一条箭头指向一个较小的圆，代表样本。\n2. 底部一条横向时间箭头，上面一条竖线标出单一时间点，竖线上有一个小相机图标，表示所有指标在同一时间测量。\n3. 右侧四组人形图标，排成两行两列：行是暴露（深色图标）和未暴露（浅色图标）；列是有结局（红色标记）和无结局。\n整张图里每个标签只写一次。\n如果同一组件在多处或多个面板出现，只在第一次出现时写标签，其余副本不写字。整张图里任何标签都不能出现两次。每个标签拼写与给定完全一致，不加标题。\n标签（每个只出现一次，不加其他文字）：【Target population, Sample, Single time point, Exposed, Unexposed, With outcome, Without outcome】。"
+  }
+}

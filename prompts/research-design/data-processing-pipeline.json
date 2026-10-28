@@ -1,0 +1,20 @@
+{
+  "id": "data-processing-pipeline",
+  "theme": "research-design",
+  "technique": "每步一个面板，只写步骤名",
+  "technique_en": "one panel per step, step names only",
+  "featured": false,
+  "added": "2026-10-28",
+  "author": "Yila-AI",
+  "author_url": "https://github.com/Yila-AI",
+  "title": {
+    "zh": "通用数据处理流程",
+    "en": "Generic data processing pipeline"
+  },
+  "style": "W",
+  "size": "16:9",
+  "content": {
+    "en": "Create a workflow figure for 【a data processing pipeline】, 7 steps from left to right:\n1. 【Raw data: files, a sensor and a database flowing in】\n2. 【Cleaning: a broom sweeping stray dots out of a table】\n3. 【Integration: several small tables merging into one】\n4. 【Normalization: uneven bars becoming the same height, drawn as icons only】\n5. 【Feature extraction: a funnel pulling a few key columns from a table】\n6. 【Analysis: a small model with gears】\n7. 【Output: a document with a check mark】\nDo not write the numbered sentences in the figure.\nStep names, each used once, no other text: 【Raw data, Cleaning, Integration, Normalization, Feature extraction, Analysis, Output】.",
+    "zh": "画一张【数据处理】的流程图，从左往右七步：\n1. 【原始数据：文件、传感器和数据库汇入】\n2. 【清洗：扫帚把表格里的杂点扫掉】\n3. 【整合：几张小表合并成一张】\n4. 【标准化：高低不齐的条变成一样高（只画图标）】\n5. 【特征提取：漏斗从表格中筛出几列关键数据】\n6. 【分析：一个带齿轮的小模型】\n7. 【输出：一份带对勾的文档】\n不要把编号句子写进图里。\n步骤名（每个只出现一次，不加其他文字）：【Raw data, Cleaning, Integration, Normalization, Feature extraction, Analysis, Output】。"
+  }
+}

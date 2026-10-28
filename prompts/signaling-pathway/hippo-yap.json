@@ -1,0 +1,20 @@
+{
+  "id": "hippo-yap",
+  "theme": "signaling-pathway",
+  "technique": "激酶级联把 YAP 留在胞质",
+  "technique_en": "kinase cascade keeping YAP in the cytoplasm",
+  "featured": false,
+  "added": "2026-10-28",
+  "author": "Yila-AI",
+  "author_url": "https://github.com/Yila-AI",
+  "title": {
+    "zh": "Hippo/YAP 信号通路",
+    "en": "Hippo/YAP signaling pathway"
+  },
+  "style": "A",
+  "size": "4:3",
+  "content": {
+    "en": "Create a signaling pathway schematic of 【Hippo/YAP signaling】 in one epithelial cell touching its neighbors on both sides, read from top to bottom. Draw each relationship exactly as listed and nothing more:\n1. 【Cell–cell contact at the sides of the cell activates MST1/2.】\n2. 【MST1/2 phosphorylates LATS1/2 (small 'P' circle).】\n3. 【LATS1/2 inhibits YAP/TAZ by phosphorylating it (red T-bar, with a small 'P' circle on YAP/TAZ).】\n4. 【14-3-3 binds phosphorylated YAP/TAZ and keeps it in the cytoplasm.】\n5. 【When the pathway is off, YAP/TAZ enters the nucleus (dashed arrow) and binds TEAD.】\n6. 【YAP/TAZ and TEAD together turn on growth genes.】\nDraw YAP/TAZ only once, in the cytoplasm; the dashed arrow shows where it goes when the pathway is off.\nUse red T-bars only where listed; each T-bar starts at the inhibitor and its flat end touches the inhibited target. Every other arrow is a solid activation arrow. Do not write the numbered sentences in the figure. Write each label only once in the whole figure.\nLabels, each used once, no other text: 【Cell contact, MST1/2, LATS1/2, YAP/TAZ, 14-3-3, TEAD, Growth genes】.",
+    "zh": "画一张【Hippo/YAP 信号】的通路示意图，画一个上皮细胞，左右两侧紧贴相邻细胞，从上往下读。严格按下面列出的关系画，不多画：\n1. 【细胞两侧的细胞间接触激活 MST1/2。】\n2. 【MST1/2 磷酸化 LATS1/2（带 P 的小圆点）。】\n3. 【LATS1/2 通过磷酸化抑制 YAP/TAZ（红色 T 形线，YAP/TAZ 上带一个 P 小圆点）。】\n4. 【14-3-3 结合磷酸化的 YAP/TAZ，把它留在胞质。】\n5. 【通路关闭时，YAP/TAZ 进入细胞核（虚线箭头），结合 TEAD。】\n6. 【YAP/TAZ 与 TEAD 一起开启生长相关基因。】\nYAP/TAZ 只画一次，画在胞质里；虚线箭头表示通路关闭时它的去向。\n只在列出的地方用红色 T 形线：从抑制者出发，平头端碰到被抑制的对象。其他箭头都是实线激活箭头。不要把编号句子写进图里。整张图里每个标签只写一次。\n标签（每个只出现一次，不加其他文字）：【Cell contact, MST1/2, LATS1/2, YAP/TAZ, 14-3-3, TEAD, Growth genes】。"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "atac-seq",
+  "theme": "experimental-workflow",
+  "technique": "每步一个面板，只写步骤名",
+  "technique_en": "one panel per step, step names only",
+  "featured": false,
+  "added": "2026-10-28",
+  "author": "Yila-AI",
+  "author_url": "https://github.com/Yila-AI",
+  "title": {
+    "zh": "ATAC-seq 流程",
+    "en": "ATAC-seq workflow"
+  },
+  "style": "W",
+  "size": "16:9",
+  "content": {
+    "en": "Create a workflow figure for 【an ATAC-seq experiment】, 6 steps from left to right:\n1. 【Nuclei isolation: nuclei released from cells】\n2. 【Tagmentation: Tn5 cutting DNA between nucleosomes and adding adapters in open regions】\n3. 【DNA purification: tagged fragments collected in a tube】\n4. 【PCR amplification: fragments copied in a thermal cycler】\n5. 【Sequencing: a sequencer】\n6. 【Open chromatin: reads stacking up in the gaps between nucleosomes】\nDo not write the numbered sentences in the figure.\nStep names, each used once, no other text: 【Nuclei isolation, Tagmentation, DNA purification, PCR amplification, Sequencing, Open chromatin】.",
+    "zh": "画一张【ATAC-seq 实验】的流程图，从左往右六步：\n1. 【细胞核分离：从细胞中释放细胞核】\n2. 【片段化标记：Tn5 在开放区域的核小体之间切开 DNA 并加上接头】\n3. 【DNA 纯化：把带标记的片段收集到试管里】\n4. 【PCR 扩增：在 PCR 仪中扩增片段】\n5. 【测序：一台测序仪】\n6. 【开放染色质：读段堆叠在核小体之间的空隙处】\n不要把编号句子写进图里。\n步骤名（每个只出现一次，不加其他文字）：【Nuclei isolation, Tagmentation, DNA purification, PCR amplification, Sequencing, Open chromatin】。"
+  }
+}

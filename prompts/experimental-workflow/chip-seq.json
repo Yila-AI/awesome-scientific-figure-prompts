@@ -1,0 +1,20 @@
+{
+  "id": "chip-seq",
+  "theme": "experimental-workflow",
+  "technique": "每步一个面板，只写步骤名",
+  "technique_en": "one panel per step, step names only",
+  "featured": false,
+  "added": "2026-10-28",
+  "author": "Yila-AI",
+  "author_url": "https://github.com/Yila-AI",
+  "title": {
+    "zh": "ChIP-seq 流程",
+    "en": "ChIP-seq workflow"
+  },
+  "style": "W",
+  "size": "16:9",
+  "content": {
+    "en": "Create a workflow figure for 【a ChIP-seq experiment】, 7 steps from left to right:\n1. 【Crosslinking: proteins fixed onto DNA in cells】\n2. 【Chromatin shearing: DNA cut into short pieces by sonication】\n3. 【Immunoprecipitation: an antibody pulling down one protein with its DNA on beads】\n4. 【DNA purification: the crosslinks reversed and free DNA collected in a tube】\n5. 【Library preparation: short DNA pieces with adapters at both ends】\n6. 【Sequencing: a sequencer】\n7. 【Peak calling: short reads stacking up at one spot on a DNA line】\nDo not write the numbered sentences in the figure.\nStep names, each used once, no other text: 【Crosslinking, Chromatin shearing, Immunoprecipitation, DNA purification, Library preparation, Sequencing, Peak calling】.",
+    "zh": "画一张【ChIP-seq 实验】的流程图，从左往右七步：\n1. 【交联：把细胞中的蛋白质固定在 DNA 上】\n2. 【染色质打断：超声把 DNA 切成短片段】\n3. 【免疫沉淀：抗体借助磁珠拉下一种蛋白及其结合的 DNA】\n4. 【DNA 纯化：解交联，把游离 DNA 收集到试管里】\n5. 【建库：两端带接头的短 DNA 片段】\n6. 【测序：一台测序仪】\n7. 【峰识别：短读段在 DNA 线上的一处堆叠起来】\n不要把编号句子写进图里。\n步骤名（每个只出现一次，不加其他文字）：【Crosslinking, Chromatin shearing, Immunoprecipitation, DNA purification, Library preparation, Sequencing, Peak calling】。"
+  }
+}

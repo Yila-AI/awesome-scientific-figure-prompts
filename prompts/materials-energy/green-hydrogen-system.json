@@ -1,0 +1,20 @@
+{
+  "id": "green-hydrogen-system",
+  "theme": "materials-energy",
+  "technique": "从左到右的系统链条",
+  "technique_en": "a left-to-right system chain",
+  "featured": false,
+  "added": "2026-10-28",
+  "author": "Yila-AI",
+  "author_url": "https://github.com/Yila-AI",
+  "title": {
+    "zh": "绿氢系统：从可再生电力到终端利用",
+    "en": "Green hydrogen system: from renewable power to end use"
+  },
+  "style": "D",
+  "size": "16:9",
+  "content": {
+    "en": "Create a system diagram of 【a green hydrogen system】, read from left to right, each unit a rounded box with one icon. Draw each relationship exactly as listed and nothing more:\n1. 【Renewable power (wind turbines and solar panels) sends electricity to the electrolyzer.】\n2. 【Water flows into the electrolyzer from below; oxygen leaves it as a by-product through a small upward arrow.】\n3. 【The electrolyzer sends hydrogen to hydrogen storage (a compressor and a tank).】\n4. 【Hydrogen storage supplies three end uses stacked on the right: transport (a fuel cell truck), industry (a factory) and power generation (a turbine feeding back to the grid).】\nThere are no T-bars in this figure. Do not write the numbered sentences in the figure. Write each label only once in the whole figure.\nIf a component appears in more than one place or panel, write its label only at its first appearance; every other copy has no text. No label may appear twice anywhere in the figure. Spell every label exactly as given and add no titles.\nLabels, each used once, no other text: 【Renewable power, Water, Electrolyzer, Oxygen, Hydrogen storage, Transport, Industry, Power generation】.",
+    "zh": "画一张【绿氢系统】的系统图，从左往右读，每个单元是一个带图标的圆角框。严格按下面列出的关系画，不多画：\n1. 【可再生电力（风机和光伏板）把电送到电解槽。】\n2. 【水从下方流入电解槽；氧气作为副产物通过一个向上的小箭头离开。】\n3. 【电解槽把氢气送到储氢单元（压缩机和储罐）。】\n4. 【储氢单元供应右侧上下排列的三种终端用途：交通（燃料电池卡车）、工业（工厂）和发电（燃气轮机，电力回送电网）。】\n图中没有 T 形线。不要把编号句子写进图里。整张图里每个标签只写一次。\n如果同一组件在多处或多个面板出现，只在第一次出现时写标签，其余副本不写字。整张图里任何标签都不能出现两次。每个标签拼写与给定完全一致，不加标题。\n标签（每个只出现一次，不加其他文字）：【Renewable power, Water, Electrolyzer, Oxygen, Hydrogen storage, Transport, Industry, Power generation】。"
+  }
+}

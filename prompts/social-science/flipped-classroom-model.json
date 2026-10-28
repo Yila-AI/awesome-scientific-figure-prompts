@@ -1,0 +1,20 @@
+{
+  "id": "flipped-classroom-model",
+  "theme": "social-science",
+  "technique": "课前—课中—课后三面板",
+  "technique_en": "before, during and after class in three panels",
+  "featured": false,
+  "added": "2026-10-28",
+  "author": "Yila-AI",
+  "author_url": "https://github.com/Yila-AI",
+  "title": {
+    "zh": "翻转课堂模型",
+    "en": "Flipped classroom model"
+  },
+  "style": "D",
+  "size": "16:9",
+  "content": {
+    "en": "Create a model diagram of 【a flipped classroom】 as three large panels from left to right, each with simple icons:\n1. Before class: 【a student at home watching a short video lecture on a laptop, then taking a short online quiz】.\n2. In class: 【small groups of students solving problems together while the teacher moves between tables coaching】.\n3. After class: 【a student writing a reflection and extending the work in a small project】.\nArrows: before class → in class → after class. One dashed arrow goes from the online quiz to the teacher in the middle panel, showing that quiz results shape the class activities.\nWrite each label only once in the whole figure.\nLabels, each used once, no other text: 【Before class, In class, After class, Video lecture, Online quiz, Group work, Teacher coaching, Reflection】.",
+    "zh": "画一张【翻转课堂】模型图，从左往右三个大面板，每个面板配简单图标：\n1. 课前：【学生在家用笔记本电脑看简短的视频讲解，然后做一个简短的在线测验】。\n2. 课中：【学生分成小组一起解决问题，教师在各桌之间走动指导】。\n3. 课后：【学生写反思，并在一个小项目中延伸学习】。\n箭头：课前 → 课中 → 课后。一条虚线箭头从在线测验指向中间面板里的教师，表示测验结果决定课堂活动。\n整张图里每个标签只写一次。\n标签（每个只出现一次，不加其他文字）：【Before class, In class, After class, Video lecture, Online quiz, Group work, Teacher coaching, Reflection】。"
+  }
+}

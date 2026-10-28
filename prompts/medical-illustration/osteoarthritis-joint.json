@@ -1,0 +1,20 @@
+{
+  "id": "osteoarthritis-joint",
+  "theme": "medical-illustration",
+  "technique": "左右两个膝关节对照",
+  "technique_en": "two knee joints side by side",
+  "featured": false,
+  "added": "2026-10-28",
+  "author": "Yila-AI",
+  "author_url": "https://github.com/Yila-AI",
+  "title": {
+    "zh": "骨关节炎：健康关节 vs 病变关节",
+    "en": "Osteoarthritis: healthy versus diseased joint"
+  },
+  "style": "S",
+  "size": "16:9",
+  "content": {
+    "en": "Create a side-by-side cross-section illustration of 【the knee joint in osteoarthritis】:\n1. Left, a healthy joint: 【smooth, thick articular cartilage covering both bone ends, a wide joint space, and a thin, calm synovium lining the joint capsule】.\n2. Right, an osteoarthritic joint: 【thin, worn cartilage with exposed bone (cartilage loss), a narrowed joint space, bony spurs at the joint edges (osteophytes), denser bone under the cartilage, and a thickened, red, inflamed synovium (synovitis)】.\nEach structure is labeled in only one of the two panels.\nWrite each label only once in the whole figure.\nLabels, each used once, no other text: 【Healthy joint, Osteoarthritis, Articular cartilage, Synovium, Cartilage loss, Narrowed joint space, Osteophyte, Synovitis】.",
+    "zh": "画一张【骨关节炎膝关节】的左右对照截面插画：\n1. 左，健康关节：【两端骨面覆盖光滑厚实的关节软骨，关节间隙宽，关节囊内衬一层薄而平静的滑膜】。\n2. 右，骨关节炎关节：【软骨变薄磨损、骨面外露（软骨缺失），关节间隙变窄，关节边缘长出骨刺（骨赘），软骨下骨变致密，滑膜增厚、发红发炎（滑膜炎）】。\n每个结构只在其中一个面板里标注。\n整张图里每个标签只写一次。\n标签（每个只出现一次，不加其他文字）：【Healthy joint, Osteoarthritis, Articular cartilage, Synovium, Cartilage loss, Narrowed joint space, Osteophyte, Synovitis】。"
+  }
+}

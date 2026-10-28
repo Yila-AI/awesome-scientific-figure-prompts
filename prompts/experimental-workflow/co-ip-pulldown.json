@@ -1,0 +1,20 @@
+{
+  "id": "co-ip-pulldown",
+  "theme": "experimental-workflow",
+  "technique": "每步一个面板，只写步骤名",
+  "technique_en": "one panel per step, step names only",
+  "featured": false,
+  "added": "2026-10-28",
+  "author": "Yila-AI",
+  "author_url": "https://github.com/Yila-AI",
+  "title": {
+    "zh": "免疫共沉淀（Co-IP）/ pull-down 流程",
+    "en": "Co-immunoprecipitation (Co-IP) and pull-down workflow"
+  },
+  "style": "W",
+  "size": "16:9",
+  "content": {
+    "en": "Create a workflow figure for 【a Co-IP or pull-down experiment】, 6 steps from left to right:\n1. 【Cell lysis: cells broken open in a tube, proteins released】\n2. 【Bait capture: an antibody (or a tag on the bait protein) binding the bait with its partner attached】\n3. 【Bead binding: beads grabbing the antibody–protein complex】\n4. 【Washing: unbound proteins rinsed away】\n5. 【Elution: the bait and its partner released from the beads】\n6. 【Detection: a western blot membrane and a mass spectrometer】\nDo not write the numbered sentences in the figure.\nStep names, each used once, no other text: 【Cell lysis, Bait capture, Bead binding, Washing, Elution, Detection】.",
+    "zh": "画一张【Co-IP 或 pull-down 实验】的流程图，从左往右六步：\n1. 【细胞裂解：试管中细胞破碎，释放蛋白】\n2. 【诱饵捕获：抗体（或诱饵蛋白上的标签）结合诱饵蛋白及与之相连的伙伴蛋白】\n3. 【磁珠结合：磁珠抓住抗体—蛋白复合物】\n4. 【洗涤：洗掉未结合的蛋白】\n5. 【洗脱：把诱饵蛋白和伙伴蛋白从磁珠上释放下来】\n6. 【检测：Western blot 膜和质谱仪】\n不要把编号句子写进图里。\n步骤名（每个只出现一次，不加其他文字）：【Cell lysis, Bait capture, Bead binding, Washing, Elution, Detection】。"
+  }
+}

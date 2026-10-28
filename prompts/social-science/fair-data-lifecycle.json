@@ -1,0 +1,20 @@
+{
+  "id": "fair-data-lifecycle",
+  "theme": "social-science",
+  "technique": "外圈生命周期，中央四块 FAIR",
+  "technique_en": "lifecycle ring with four FAIR tiles in the center",
+  "featured": false,
+  "added": "2026-10-28",
+  "author": "Yila-AI",
+  "author_url": "https://github.com/Yila-AI",
+  "title": {
+    "zh": "FAIR 原则下的科研数据生命周期",
+    "en": "FAIR research data lifecycle"
+  },
+  "style": "D",
+  "size": "1:1",
+  "content": {
+    "en": "Create a diagram of 【the research data lifecycle under the FAIR principles】: four stage boxes on a clean circle, read clockwise, and four FAIR tiles in the center.\n1. Clockwise arrows around the circle: plan (a checklist) at the top → collect (a clipboard and a sensor) at the right → analyze (a magnifier over a table) at the bottom → preserve and share (a repository building) at the left → back to plan.\n2. In the center, four tiles in a square, each with one icon: 【findable (a magnifier over an ID tag), accessible (an open door to a repository), interoperable (puzzle pieces fitting together), reusable (circular arrows over a license document)】.\n3. One dashed arrow from the center tiles to preserve and share.\nWrite each label only once in the whole figure.\nLabels, each used once, no other text: 【Plan, Collect, Analyze, Preserve and share, Findable, Accessible, Interoperable, Reusable】.",
+    "zh": "画一张【FAIR 原则下的科研数据生命周期】图：外圈四个阶段框排成一个干净的圆环，顺时针读；中央四块 FAIR 方块。\n1. 圆环上的顺时针箭头：顶部计划（清单）→ 右侧采集（写字板和传感器）→ 底部分析（放大镜对着表格）→ 左侧保存与共享（数据仓储建筑）→ 回到计划。\n2. 中央四块方块拼成正方形，每块一个图标：【可发现（放大镜对着 ID 标签）、可访问（通向数据仓储的敞开的门）、可互操作（相互拼合的拼图块）、可重用（许可文件上方的循环箭头）】。\n3. 一条虚线箭头从中央方块指向保存与共享。\n整张图里每个标签只写一次。\n标签（每个只出现一次，不加其他文字）：【Plan, Collect, Analyze, Preserve and share, Findable, Accessible, Interoperable, Reusable】。"
+  }
+}

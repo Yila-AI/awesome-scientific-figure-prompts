@@ -1,0 +1,20 @@
+{
+  "id": "microglia-neuroinflammation",
+  "theme": "graphical-abstract",
+  "technique": "静息到激活，再到神经损伤",
+  "technique_en": "resting to activated, then neuronal damage",
+  "featured": false,
+  "added": "2026-10-28",
+  "author": "Yila-AI",
+  "author_url": "https://github.com/Yila-AI",
+  "title": {
+    "zh": "小胶质细胞与神经炎症",
+    "en": "Microglia and neuroinflammation"
+  },
+  "style": "B",
+  "size": "16:9",
+  "content": {
+    "en": "Create a graphical abstract of 【microglia driving neuroinflammation】, read from left to right:\n1. Left: 【a resting microglia with many long, thin branches】.\n2. Middle: 【amyloid-β plaques appear, and the microglia turns into an activated microglia: rounded, with short thick processes】.\n3. Right: 【the activated microglia releases TNF-α, IL-1β and ROS as colored dots toward a neuron with damaged, broken dendrites; a nearby astrocyte also becomes reactive】.\nWrite each label only once in the whole figure.\nLabels, each used once, no other text: 【Resting microglia, Activated microglia, Amyloid-β, TNF-α, IL-1β, ROS, Neuron, Astrocyte】.",
+    "zh": "画一张【小胶质细胞驱动神经炎症】的图文摘要，从左往右读：\n1. 左：【一个静息态小胶质细胞，有许多细长分支】。\n2. 中：【出现 β-淀粉样蛋白斑块，小胶质细胞转为激活态：胞体变圆，突起短而粗】。\n3. 右：【激活的小胶质细胞释放 TNF-α、IL-1β 和 ROS（彩色小点），指向一个树突受损断裂的神经元；旁边一个星形胶质细胞也被激活】。\n整张图里每个标签只写一次。\n标签（每个只出现一次，不加其他文字）：【Resting microglia, Activated microglia, Amyloid-β, TNF-α, IL-1β, ROS, Neuron, Astrocyte】。"
+  }
+}

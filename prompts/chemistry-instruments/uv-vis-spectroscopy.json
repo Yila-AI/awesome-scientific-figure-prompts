@@ -1,0 +1,20 @@
+{
+  "id": "uv-vis-spectroscopy",
+  "theme": "chemistry-instruments",
+  "technique": "光路从左到右逐级经过",
+  "technique_en": "a left-to-right light path",
+  "featured": false,
+  "added": "2026-10-28",
+  "author": "Yila-AI",
+  "author_url": "https://github.com/Yila-AI",
+  "title": {
+    "zh": "紫外-可见分光光度计原理",
+    "en": "UV-Vis spectrophotometer principle"
+  },
+  "style": "S",
+  "size": "16:9",
+  "content": {
+    "en": "Create a scientific illustration of 【the light path in a UV-Vis spectrophotometer】, read from left to right, with no spectrum and no numbers:\n1. 【A lamp emits a beam of white light.】\n2. 【A diffraction grating spreads the light into a rainbow fan.】\n3. 【A narrow slit lets only one color through.】\n4. 【That single-color beam passes through a cuvette of colored sample solution; the beam is thick before the cuvette and visibly thinner after it, because the solution absorbs part of the light.】\n5. 【The weaker beam reaches a detector.】\nMark the beam entering the cuvette I0 and the beam leaving it I.\nWrite each label only once in the whole figure.\nIf a component appears in more than one place or panel, write its label only at its first appearance; every other copy has no text. No label may appear twice anywhere in the figure. Spell every label exactly as given and add no titles.\nLabels, each used once, no other text: 【Light source, Grating, Slit, Cuvette, Detector, I0, I】.",
+    "zh": "画一张【紫外-可见分光光度计光路】的科学插画，从左往右读，不画光谱，不写数字：\n1. 【灯发出一束白光。】\n2. 【衍射光栅把光展开成彩虹色的扇形。】\n3. 【一条窄缝只让一种颜色的光通过。】\n4. 【这束单色光穿过装有彩色样品溶液的比色皿；光束在比色皿前较粗、穿过后明显变细，因为溶液吸收了部分光。】\n5. 【变弱的光束到达检测器。】\n进入比色皿的光束标 I0，离开的光束标 I。\n整张图里每个标签只写一次。\n如果同一组件在多处或多个面板出现，只在第一次出现时写标签，其余副本不写字。整张图里任何标签都不能出现两次。每个标签拼写与给定完全一致，不加标题。\n标签（每个只出现一次，不加其他文字）：【Light source, Grating, Slit, Cuvette, Detector, I0, I】。"
+  }
+}

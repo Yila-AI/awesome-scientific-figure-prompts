@@ -1,0 +1,20 @@
+{
+  "id": "t-cell-immune-synapse",
+  "theme": "graphical-abstract",
+  "technique": "接触面放大加活化结局",
+  "technique_en": "contact zone close-up plus the activation outcome",
+  "featured": false,
+  "added": "2026-10-28",
+  "author": "Yila-AI",
+  "author_url": "https://github.com/Yila-AI",
+  "title": {
+    "zh": "T 细胞活化与免疫突触",
+    "en": "T cell activation and the immune synapse"
+  },
+  "style": "B",
+  "size": "16:9",
+  "content": {
+    "en": "Create a graphical abstract of 【T cell activation】, read from left to right:\n1. Left: 【an antigen-presenting cell (APC) with branching arms touching a round T cell】.\n2. Middle: a magnified view of the contact zone, the immune synapse, shown as a bullseye ring: 【MHC carrying a small peptide binds the TCR in the center; CD80/86 binds CD28 nearby as the second signal】.\n3. Right: 【the T cell releasing IL-2 as small dots and dividing into a small group of identical T cells】.\nWrite each label only once in the whole figure.\nLabels, each used once, no other text: 【APC, T cell, Immune synapse, MHC–peptide, TCR, CD80/86, CD28, IL-2】.",
+    "zh": "画一张【T 细胞活化】的图文摘要，从左往右读：\n1. 左：【一个带分支突起的抗原提呈细胞（APC）贴着一个圆形 T 细胞】。\n2. 中：接触区的放大图，即免疫突触，画成靶心样的环：【中央是携带小肽段的 MHC 结合 TCR；旁边 CD80/86 结合 CD28，作为第二信号】。\n3. 右：【T 细胞释放 IL-2 小点，并分裂成一小群相同的 T 细胞】。\n整张图里每个标签只写一次。\n标签（每个只出现一次，不加其他文字）：【APC, T cell, Immune synapse, MHC–peptide, TCR, CD80/86, CD28, IL-2】。"
+  }
+}
