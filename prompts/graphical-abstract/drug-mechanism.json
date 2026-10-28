@@ -14,7 +14,7 @@
   "style": "B",
   "size": "16:9",
   "content": {
-    "en": "Create a graphical abstract of 【how a small-molecule kinase inhibitor works】, read from left to right:\n1. Left: 【the drug molecule entering a tumor cell】.\n2. Middle: 【a magnified inset showing the drug sitting in the binding pocket of the target kinase, blocking its substrate】.\n3. Right: 【downstream signaling arrows fading out, and the tumor cell shrinking】.\nLabels, each used once, no other text: 【Drug, Target kinase, Substrate, Downstream signaling, Tumor cell death】.",
-    "zh": "画一张关于【小分子激酶抑制剂如何起效】的图文摘要，从左往右读：\n1. 左：【药物分子进入一个肿瘤细胞】。\n2. 中：【一个圆形放大插图，药物嵌在靶点激酶的结合口袋里，挡住了底物】。\n3. 右：【下游信号箭头逐渐变淡，肿瘤细胞萎缩】。\n标签（每个只出现一次，不加其他文字）：【Drug, Target kinase, Substrate, Downstream signaling, Tumor cell death】。"
+    "en": "Create a graphical abstract of 【how a small-molecule kinase inhibitor works】, read from left to right:\n1. Left: 【the drug molecule entering a tumor cell】.\n2. Middle: 【a magnified inset showing the drug sitting in the binding pocket of the target kinase, blocking its substrate】.\n3. Right: 【downstream signaling arrows fading out, and the tumor cell shrinking】.\nWrite each label only once in the whole figure.\nLabels, each used once, no other text: 【Drug, Target kinase, Substrate, Downstream signaling, Tumor cell death】.",
+    "zh": "画一张关于【小分子激酶抑制剂如何起效】的图文摘要，从左往右读：\n1. 左：【药物分子进入一个肿瘤细胞】。\n2. 中：【一个圆形放大插图，药物嵌在靶点激酶的结合口袋里，挡住了底物】。\n3. 右：【下游信号箭头逐渐变淡，肿瘤细胞萎缩】。\n整张图里每个标签只写一次。\n标签（每个只出现一次，不加其他文字）：【Drug, Target kinase, Substrate, Downstream signaling, Tumor cell death】。"
   }
 }

@@ -14,7 +14,7 @@
   "style": "D",
   "size": "16:9",
   "content": {
-    "en": "Create a top-down layout of 【a field trial in a randomized complete block design】: a rectangular field divided into three horizontal blocks, each block split into four plots of crop rows. In each block, the four plots are filled with four different light colors in a different order. A thin buffer strip surrounds the field. A small legend on the right maps the four colors to the treatments.\nLabels, each used once, no other text: 【Block 1, Block 2, Block 3, T1, T2, T3, T4, Buffer zone】.",
-    "zh": "画一张【随机完全区组设计田间试验】的俯视布局图：一块长方形田地分成上下三个区组，每个区组分成四个种着作物行的小区。每个区组里四个小区用四种浅色填充，顺序各不相同。田地四周有一圈窄的保护行。右侧一个小图例，把四种颜色对应到四个处理。\n标签（每个只出现一次，不加其他文字）：【Block 1, Block 2, Block 3, T1, T2, T3, T4, Buffer zone】。"
+    "en": "Create a top-down layout of 【a field trial in a randomized complete block design】: a rectangular field divided into three horizontal blocks, each block split into four plots of crop rows. In each block, the four plots are filled with four different light colors in a different order. No two blocks use the same order of colors. A thin buffer strip surrounds the field. A small legend on the right maps the four colors to the treatments.\nLabels, each used once, no other text: 【Block 1, Block 2, Block 3, T1, T2, T3, T4, Buffer zone】.",
+    "zh": "画一张【随机完全区组设计田间试验】的俯视布局图：一块长方形田地分成上下三个区组，每个区组分成四个种着作物行的小区。每个区组里四个小区用四种浅色填充，顺序各不相同。任意两个区组的颜色顺序都不相同。田地四周有一圈窄的保护行。右侧一个小图例，把四种颜色对应到四个处理。\n标签（每个只出现一次，不加其他文字）：【Block 1, Block 2, Block 3, T1, T2, T3, T4, Buffer zone】。"
   }
 }

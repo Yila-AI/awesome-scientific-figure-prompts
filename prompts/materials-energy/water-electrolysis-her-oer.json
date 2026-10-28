@@ -14,7 +14,7 @@
   "style": "S",
   "size": "16:9",
   "content": {
-    "en": "Create a cross-section illustration of 【a water electrolyzer】: a cathode on the left and an anode on the right, separated by a membrane in the middle, both connected to a power supply above. Draw:\n1. 【At the cathode, hydrogen bubbles form (HER).】\n2. 【At the anode, oxygen bubbles form (OER).】\n3. 【A circular magnified inset on the cathode shows water molecules splitting on the catalyst surface.】\nLabels, each used once, no other text: 【Cathode, Anode, Membrane, HER, OER, H2, O2, Catalyst】.",
-    "zh": "画一张【电解水装置】的截面插画：左边是阴极，右边是阳极，中间用隔膜隔开，两极都连到上方的电源。画出：\n1. 【阴极上冒出氢气泡（HER）。】\n2. 【阳极上冒出氧气泡（OER）。】\n3. 【阴极上一个圆形放大插图，显示水分子在催化剂表面分解。】\n标签（每个只出现一次，不加其他文字）：【Cathode, Anode, Membrane, HER, OER, H2, O2, Catalyst】。"
+    "en": "Create a cross-section illustration of 【a water electrolyzer】: a cathode on the left and an anode on the right, separated by a membrane in the middle, both connected to a power supply above. Draw:\n1. 【At the cathode, hydrogen bubbles form (HER).】\n2. 【At the anode, oxygen bubbles form (OER).】\n3. 【A circular magnified inset on the cathode shows water molecules splitting on the catalyst surface.】\nWrite each label only once in the whole figure.\nLabels, each used once, no other text: 【Cathode, Anode, Membrane, HER, OER, H2, O2, Catalyst】.",
+    "zh": "画一张【电解水装置】的截面插画：左边是阴极，右边是阳极，中间用隔膜隔开，两极都连到上方的电源。画出：\n1. 【阴极上冒出氢气泡（HER）。】\n2. 【阳极上冒出氧气泡（OER）。】\n3. 【阴极上一个圆形放大插图，显示水分子在催化剂表面分解。】\n整张图里每个标签只写一次。\n标签（每个只出现一次，不加其他文字）：【Cathode, Anode, Membrane, HER, OER, H2, O2, Catalyst】。"
   }
 }

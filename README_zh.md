@@ -15,7 +15,7 @@
 
 [![GitHub stars](https://img.shields.io/github/stars/Yila-AI/awesome-scientific-figure-prompts?style=social)](https://github.com/Yila-AI/awesome-scientific-figure-prompts)
 ![Templates](https://img.shields.io/badge/templates-83-blue)
-![Examples](https://img.shields.io/badge/example_images-149-blue)
+![Examples](https://img.shields.io/badge/example_images-158-blue)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
 
@@ -58,7 +58,7 @@
 
 **相关：** [awesome-research-skills](https://github.com/Yila-AI/awesome-research-skills)：文献调研、写作和数据分析的 agent skills。
 
-83 个模板 · 149 张示例图 · Nano Banana 2 Lite (gemini-3.1-flash-lite-image, 1K) · 更新于 2026-10-28
+83 个模板 · 158 张示例图 · Nano Banana 2 Lite (gemini-3.1-flash-lite-image, 1K) · 更新于 2026-10-28
 
 ## 目录
 
@@ -187,11 +187,9 @@ by [@Yila-AI](https://github.com/Yila-AI)
 
 写法技巧：**刺激—靶点—通路—表型，加干预**　·　风格：期刊式扁平矢量　·　比例：16:9
 
-| 英文提示词出图 |
-|---|
-| <img src="gallery/research-design/hypothesis-mechanism-en.jpg" width="420"> |
-
-> 中文提示词出图未通过核对，因此这里不展示。
+| 英文提示词出图 | 中文提示词出图 |
+|---|---|
+| <img src="gallery/research-design/hypothesis-mechanism-en.jpg" width="420"> | <img src="gallery/research-design/hypothesis-mechanism-zh.jpg" width="420"> |
 
 **中文提示词**
 
@@ -201,6 +199,7 @@ by [@Yila-AI](https://github.com/Yila-AI)
 2. 【Gene X】激活【NF-κB】（实线箭头）。
 3. 【NF-κB】导致【炎症】，画成一个发炎的小肝脏（实线箭头）。
 4. 【Drug Y】画成一颗小药片，用红色 T 形线抑制【Gene X】。
+不画细胞膜，胶囊上不加其他形状。
 标签（每个只出现一次，不加其他文字）：【High-fat diet, Gene X, NF-κB, Inflammation, Drug Y】。
 
 风格：期刊式科研示意图。白色背景上的干净扁平矢量插画，用浅色圆角面板区分区域。只用 3–4 种低饱和度颜色，每种颜色含义固定，红色只用于抑制或强调。线条细且粗细一致。蛋白画成彩色圆角胶囊，名称写在胶囊里；细胞膜画成磷脂双分子层；激活用实线箭头，抑制用 T 形线，间接作用用虚线箭头。图中文字只用英文无衬线字体，每个标签只出现一次，拼写与给定完全一致。不要 3D 渲染、阴影、发光、装饰性背景或照片质感。
@@ -214,6 +213,7 @@ Create a hypothesis mechanism figure for 【how a high-fat diet drives liver inf
 2. 【Gene X】 activates 【NF-κB】 (solid arrow).
 3. 【NF-κB】 leads to 【Inflammation】, shown as a small inflamed liver (solid arrow).
 4. 【Drug Y】, a small pill, inhibits 【Gene X】 with a red T-bar line.
+Draw no membranes or extra shapes on the capsules.
 Labels, each used once, no other text: 【High-fat diet, Gene X, NF-κB, Inflammation, Drug Y】.
 
 Style: journal-style scientific schematic. Clean flat vector illustration on a white background, light pastel rounded panels to separate regions. Only 3-4 muted colors, each with one fixed meaning; red only for inhibition or emphasis. Thin, uniform line weight. Proteins as rounded colored capsules with their names inside; membranes as lipid bilayers; activation as solid arrows, inhibition as T-bar lines, indirect effects as dashed arrows. Sans-serif English labels only, each label appears exactly once, spelled exactly as given. No 3D rendering, no shadows, no glow, no decorative background, no photorealism.
@@ -221,7 +221,7 @@ Style: journal-style scientific schematic. Clean flat vector illustration on a w
 
 </details>
 
-模型：Nano Banana 2 Lite (gemini-3.1-flash-lite-image, 1K)　·　这条提示词共生成 3 次，展示的是核对通过的结果
+模型：Nano Banana 2 Lite (gemini-3.1-flash-lite-image, 1K)　·　这条提示词共生成 5 次，展示的是核对通过的结果
 
 [↑ 回到顶部](#top)
 
@@ -527,9 +527,9 @@ by [@Yila-AI](https://github.com/Yila-AI)
 
 写法技巧：**分子结合—信号阻断—细胞结局**　·　风格：柔和半写实插图　·　比例：16:9
 
-| 中文提示词出图 |
-|---|
-| <img src="gallery/graphical-abstract/drug-mechanism-zh.jpg" width="420"> |
+| 英文提示词出图 | 中文提示词出图 |
+|---|---|
+| <img src="gallery/graphical-abstract/drug-mechanism-en.jpg" width="420"> | <img src="gallery/graphical-abstract/drug-mechanism-zh.jpg" width="420"> |
 
 **中文提示词**
 
@@ -538,6 +538,7 @@ by [@Yila-AI](https://github.com/Yila-AI)
 1. 左：【药物分子进入一个肿瘤细胞】。
 2. 中：【一个圆形放大插图，药物嵌在靶点激酶的结合口袋里，挡住了底物】。
 3. 右：【下游信号箭头逐渐变淡，肿瘤细胞萎缩】。
+整张图里每个标签只写一次。
 标签（每个只出现一次，不加其他文字）：【Drug, Target kinase, Substrate, Downstream signaling, Tumor cell death】。
 
 风格：期刊图形摘要插画。柔和的半写实医学插画，带轻微体积感和细腻的手绘质感，白色干净背景。配色低饱和、协调，只用一个强调色。从左到右叙事清晰，留白充足。图中文字只用英文无衬线字体，每个标签只出现一次，拼写与给定完全一致。不要卡通风格、不要光滑的 CG 渲染、不要深色背景、不要图库照片感。
@@ -550,6 +551,7 @@ Create a graphical abstract of 【how a small-molecule kinase inhibitor works】
 1. Left: 【the drug molecule entering a tumor cell】.
 2. Middle: 【a magnified inset showing the drug sitting in the binding pocket of the target kinase, blocking its substrate】.
 3. Right: 【downstream signaling arrows fading out, and the tumor cell shrinking】.
+Write each label only once in the whole figure.
 Labels, each used once, no other text: 【Drug, Target kinase, Substrate, Downstream signaling, Tumor cell death】.
 
 Style: journal graphical-abstract illustration. Soft semi-realistic medical illustration with gentle volume and subtle hand-painted texture, on a clean white background. Muted, harmonious palette with one accent color. Clear left-to-right narrative, generous white space. Sans-serif English labels only, each label appears exactly once, spelled exactly as given. No cartoon style, no glossy CGI, no dark background, no stock-photo look.
@@ -557,7 +559,7 @@ Style: journal graphical-abstract illustration. Soft semi-realistic medical illu
 
 </details>
 
-模型：Nano Banana 2 Lite (gemini-3.1-flash-lite-image, 1K)　·　这条提示词共生成 3 次，展示的是核对通过的结果
+模型：Nano Banana 2 Lite (gemini-3.1-flash-lite-image, 1K)　·　这条提示词共生成 5 次，展示的是核对通过的结果
 
 [↑ 回到顶部](#top)
 
@@ -1207,6 +1209,7 @@ by [@Yila-AI](https://github.com/Yila-AI)
 4. 【细胞色素 c 与 APAF1 结合，形成凋亡体。】
 5. 【凋亡体激活 caspase-9。】
 6. 【caspase-9 激活 caspase-3，导致凋亡（细胞皱缩、细胞核碎裂）。】
+BAX/BAK 画在线粒体自身的外膜上，不要画在细胞膜上。
 标签（每个只出现一次，不加其他文字）：【Cellular stress, BCL-2, BAX/BAK, Cytochrome c, APAF1, Caspase-9, Caspase-3, Apoptosis】。
 
 风格：期刊式科研示意图。白色背景上的干净扁平矢量插画，用浅色圆角面板区分区域。只用 3–4 种低饱和度颜色，每种颜色含义固定，红色只用于抑制或强调。线条细且粗细一致。蛋白画成彩色圆角胶囊，名称写在胶囊里；细胞膜画成磷脂双分子层；激活用实线箭头，抑制用 T 形线，间接作用用虚线箭头。图中文字只用英文无衬线字体，每个标签只出现一次，拼写与给定完全一致。不要 3D 渲染、阴影、发光、装饰性背景或照片质感。
@@ -1222,6 +1225,7 @@ Create a signaling pathway schematic of 【intrinsic apoptosis】 inside one cel
 4. 【Cytochrome c binds APAF1 to form the apoptosome.】
 5. 【The apoptosome activates caspase-9.】
 6. 【Caspase-9 activates caspase-3, which leads to apoptosis (a shrinking cell with fragmented nucleus).】
+BAX/BAK sits on the outer membrane of the mitochondrion itself, never on the cell membrane.
 Labels, each used once, no other text: 【Cellular stress, BCL-2, BAX/BAK, Cytochrome c, APAF1, Caspase-9, Caspase-3, Apoptosis】.
 
 Style: journal-style scientific schematic. Clean flat vector illustration on a white background, light pastel rounded panels to separate regions. Only 3-4 muted colors, each with one fixed meaning; red only for inhibition or emphasis. Thin, uniform line weight. Proteins as rounded colored capsules with their names inside; membranes as lipid bilayers; activation as solid arrows, inhibition as T-bar lines, indirect effects as dashed arrows. Sans-serif English labels only, each label appears exactly once, spelled exactly as given. No 3D rendering, no shadows, no glow, no decorative background, no photorealism.
@@ -1229,7 +1233,7 @@ Style: journal-style scientific schematic. Clean flat vector illustration on a w
 
 </details>
 
-模型：Nano Banana 2 Lite (gemini-3.1-flash-lite-image, 1K)　·　这条提示词共生成 3 次，展示的是核对通过的结果
+模型：Nano Banana 2 Lite (gemini-3.1-flash-lite-image, 1K)　·　这条提示词共生成 5 次，展示的是核对通过的结果
 
 [↑ 回到顶部](#top)
 
@@ -1245,11 +1249,9 @@ by [@Yila-AI](https://github.com/Yila-AI)
 
 写法技巧：**膜—胞质—核三层**　·　风格：期刊式扁平矢量　·　比例：4:3
 
-| 英文提示词出图 |
-|---|
-| <img src="gallery/signaling-pathway/nf-kb-en.jpg" width="420"> |
-
-> 中文提示词出图未通过核对，因此这里不展示。
+| 英文提示词出图 | 中文提示词出图 |
+|---|---|
+| <img src="gallery/signaling-pathway/nf-kb-en.jpg" width="420"> | <img src="gallery/signaling-pathway/nf-kb-zh.jpg" width="420"> |
 
 **中文提示词**
 
@@ -1260,7 +1262,7 @@ by [@Yila-AI](https://github.com/Yila-AI)
 3. 【IKK 磷酸化与 p65/p50 结合在一起的 IκBα（IκBα 上一个带 P 的小圆点）。】
 4. 【IκBα 进入侧边的蛋白酶体，在那里画成几块碎片。】
 5. 【被释放的 p65/p50 向下进入细胞核（实线箭头），开启炎症基因。】
-所有箭头都是实线激活箭头，图中没有 T 形线。
+p65/p50 不指向蛋白酶体。所有箭头都是实线激活箭头，图中没有 T 形线。
 标签（每个只出现一次，不加其他文字）：【TNF-α, TNFR1, IKK, IκBα, Proteasome, p65/p50, Inflammatory genes】。
 
 风格：期刊式科研示意图。白色背景上的干净扁平矢量插画，用浅色圆角面板区分区域。只用 3–4 种低饱和度颜色，每种颜色含义固定，红色只用于抑制或强调。线条细且粗细一致。蛋白画成彩色圆角胶囊，名称写在胶囊里；细胞膜画成磷脂双分子层；激活用实线箭头，抑制用 T 形线，间接作用用虚线箭头。图中文字只用英文无衬线字体，每个标签只出现一次，拼写与给定完全一致。不要 3D 渲染、阴影、发光、装饰性背景或照片质感。
@@ -1275,7 +1277,7 @@ Create a signaling pathway schematic of 【canonical NF-κB signaling】 inside 
 3. 【IKK phosphorylates IκBα, which is bound to p65/p50 (small 'P' circle on IκBα).】
 4. 【IκBα enters the proteasome on the side and is shown as small broken fragments there.】
 5. 【The freed p65/p50 moves down into the nucleus (solid arrow) and turns on inflammatory genes.】
-All arrows are solid activation arrows; there are no T-bars in this figure.
+No arrow points from p65/p50 to the proteasome. All arrows are solid activation arrows; there are no T-bars in this figure.
 Labels, each used once, no other text: 【TNF-α, TNFR1, IKK, IκBα, Proteasome, p65/p50, Inflammatory genes】.
 
 Style: journal-style scientific schematic. Clean flat vector illustration on a white background, light pastel rounded panels to separate regions. Only 3-4 muted colors, each with one fixed meaning; red only for inhibition or emphasis. Thin, uniform line weight. Proteins as rounded colored capsules with their names inside; membranes as lipid bilayers; activation as solid arrows, inhibition as T-bar lines, indirect effects as dashed arrows. Sans-serif English labels only, each label appears exactly once, spelled exactly as given. No 3D rendering, no shadows, no glow, no decorative background, no photorealism.
@@ -1283,7 +1285,7 @@ Style: journal-style scientific schematic. Clean flat vector illustration on a w
 
 </details>
 
-模型：Nano Banana 2 Lite (gemini-3.1-flash-lite-image, 1K)　·　这条提示词共生成 4 次，展示的是核对通过的结果
+模型：Nano Banana 2 Lite (gemini-3.1-flash-lite-image, 1K)　·　这条提示词共生成 6 次，展示的是核对通过的结果
 
 [↑ 回到顶部](#top)
 
@@ -1299,11 +1301,9 @@ by [@Yila-AI](https://github.com/Yila-AI)
 
 写法技巧：**信号 1 与信号 2 分两路**　·　风格：期刊式扁平矢量　·　比例：16:9
 
-| 英文提示词出图 |
-|---|
-| <img src="gallery/signaling-pathway/nlrp3-inflammasome-en.jpg" width="420"> |
-
-> 中文提示词出图未通过核对，因此这里不展示。
+| 英文提示词出图 | 中文提示词出图 |
+|---|---|
+| <img src="gallery/signaling-pathway/nlrp3-inflammasome-en.jpg" width="420"> | <img src="gallery/signaling-pathway/nlrp3-inflammasome-zh.jpg" width="420"> |
 
 **中文提示词**
 
@@ -1313,7 +1313,7 @@ by [@Yila-AI](https://github.com/Yila-AI)
 2. 【中间信号 2：K+ 经细胞膜流出，激活 NLRP3。】
 3. 【NLRP3、ASC 和 caspase-1 组装成一个环形的炎症小体。】
 4. 【右侧：caspase-1 把 pro-IL-1β 切成 IL-1β，经细胞膜释放。】
-所有箭头都是实线激活箭头，图中没有 T 形线。
+pro-IL-1β 与 IL-1β 之间的箭头指向 IL-1β。所有箭头都是实线激活箭头，图中没有 T 形线。
 标签（每个只出现一次，不加其他文字）：【LPS, TLR4, NF-κB, K+ efflux, NLRP3, ASC, Caspase-1, IL-1β】。
 
 风格：期刊式科研示意图。白色背景上的干净扁平矢量插画，用浅色圆角面板区分区域。只用 3–4 种低饱和度颜色，每种颜色含义固定，红色只用于抑制或强调。线条细且粗细一致。蛋白画成彩色圆角胶囊，名称写在胶囊里；细胞膜画成磷脂双分子层；激活用实线箭头，抑制用 T 形线，间接作用用虚线箭头。图中文字只用英文无衬线字体，每个标签只出现一次，拼写与给定完全一致。不要 3D 渲染、阴影、发光、装饰性背景或照片质感。
@@ -1327,7 +1327,7 @@ Create a signaling pathway schematic of 【NLRP3 inflammasome activation in a ma
 2. 【Signal 2, in the middle: K+ leaves the cell through the membrane, and this activates NLRP3.】
 3. 【NLRP3, ASC and caspase-1 assemble into one ring-shaped inflammasome.】
 4. 【On the right, caspase-1 cuts pro-IL-1β into IL-1β, which is released through the membrane.】
-All arrows are solid activation arrows; there are no T-bars in this figure.
+The arrow between pro-IL-1β and IL-1β points toward IL-1β. All arrows are solid activation arrows; there are no T-bars in this figure.
 Labels, each used once, no other text: 【LPS, TLR4, NF-κB, K+ efflux, NLRP3, ASC, Caspase-1, IL-1β】.
 
 Style: journal-style scientific schematic. Clean flat vector illustration on a white background, light pastel rounded panels to separate regions. Only 3-4 muted colors, each with one fixed meaning; red only for inhibition or emphasis. Thin, uniform line weight. Proteins as rounded colored capsules with their names inside; membranes as lipid bilayers; activation as solid arrows, inhibition as T-bar lines, indirect effects as dashed arrows. Sans-serif English labels only, each label appears exactly once, spelled exactly as given. No 3D rendering, no shadows, no glow, no decorative background, no photorealism.
@@ -1335,7 +1335,7 @@ Style: journal-style scientific schematic. Clean flat vector illustration on a w
 
 </details>
 
-模型：Nano Banana 2 Lite (gemini-3.1-flash-lite-image, 1K)　·　这条提示词共生成 4 次，展示的是核对通过的结果
+模型：Nano Banana 2 Lite (gemini-3.1-flash-lite-image, 1K)　·　这条提示词共生成 6 次，展示的是核对通过的结果
 
 [↑ 回到顶部](#top)
 
@@ -1465,9 +1465,9 @@ by [@Yila-AI](https://github.com/Yila-AI)
 
 写法技巧：**成孔与因子释放同框**　·　风格：期刊式扁平矢量　·　比例：4:3
 
-| 中文提示词出图 |
-|---|
-| <img src="gallery/signaling-pathway/pyroptosis-zh.jpg" width="420"> |
+| 英文提示词出图 | 中文提示词出图 |
+|---|---|
+| <img src="gallery/signaling-pathway/pyroptosis-en.jpg" width="420"> | <img src="gallery/signaling-pathway/pyroptosis-zh.jpg" width="420"> |
 
 **中文提示词**
 
@@ -1479,6 +1479,7 @@ by [@Yila-AI](https://github.com/Yila-AI)
 4. 【caspase-1 使 IL-1β 和 IL-18 成熟。】
 5. 【IL-1β 和 IL-18 经孔道释放到细胞外。】
 6. 【细胞肿胀破裂（焦亡）。】
+所有箭头都是实线激活箭头，图中没有 T 形线。不要把编号句子写进图里。
 标签（每个只出现一次，不加其他文字）：【Inflammasome, Caspase-1, GSDMD, GSDMD-N pore, IL-1β, IL-18, Pyroptosis】。
 
 风格：期刊式科研示意图。白色背景上的干净扁平矢量插画，用浅色圆角面板区分区域。只用 3–4 种低饱和度颜色，每种颜色含义固定，红色只用于抑制或强调。线条细且粗细一致。蛋白画成彩色圆角胶囊，名称写在胶囊里；细胞膜画成磷脂双分子层；激活用实线箭头，抑制用 T 形线，间接作用用虚线箭头。图中文字只用英文无衬线字体，每个标签只出现一次，拼写与给定完全一致。不要 3D 渲染、阴影、发光、装饰性背景或照片质感。
@@ -1494,6 +1495,7 @@ Create a signaling pathway schematic of 【canonical pyroptosis】 in one cell, 
 4. 【Caspase-1 matures IL-1β and IL-18.】
 5. 【IL-1β and IL-18 are released through the pores.】
 6. 【The cell swells and bursts (pyroptosis).】
+All arrows are solid activation arrows; there are no T-bars. Do not write the numbered sentences in the figure.
 Labels, each used once, no other text: 【Inflammasome, Caspase-1, GSDMD, GSDMD-N pore, IL-1β, IL-18, Pyroptosis】.
 
 Style: journal-style scientific schematic. Clean flat vector illustration on a white background, light pastel rounded panels to separate regions. Only 3-4 muted colors, each with one fixed meaning; red only for inhibition or emphasis. Thin, uniform line weight. Proteins as rounded colored capsules with their names inside; membranes as lipid bilayers; activation as solid arrows, inhibition as T-bar lines, indirect effects as dashed arrows. Sans-serif English labels only, each label appears exactly once, spelled exactly as given. No 3D rendering, no shadows, no glow, no decorative background, no photorealism.
@@ -1501,7 +1503,7 @@ Style: journal-style scientific schematic. Clean flat vector illustration on a w
 
 </details>
 
-模型：Nano Banana 2 Lite (gemini-3.1-flash-lite-image, 1K)　·　这条提示词共生成 3 次，展示的是核对通过的结果
+模型：Nano Banana 2 Lite (gemini-3.1-flash-lite-image, 1K)　·　这条提示词共生成 5 次，展示的是核对通过的结果
 
 [↑ 回到顶部](#top)
 
@@ -1567,9 +1569,9 @@ by [@Yila-AI](https://github.com/Yila-AI)
 
 写法技巧：**左右两个细胞对照**　·　风格：期刊式扁平矢量　·　比例：16:9
 
-| 中文提示词出图 |
-|---|
-| <img src="gallery/signaling-pathway/wnt-beta-catenin-zh.jpg" width="420"> |
+| 英文提示词出图 | 中文提示词出图 |
+|---|---|
+| <img src="gallery/signaling-pathway/wnt-beta-catenin-en.jpg" width="420"> | <img src="gallery/signaling-pathway/wnt-beta-catenin-zh.jpg" width="420"> |
 
 **中文提示词**
 
@@ -1580,6 +1582,7 @@ by [@Yila-AI](https://github.com/Yila-AI)
 3. 【右侧细胞：受体激活 Dishevelled。】
 4. 【右侧细胞：Dishevelled 抑制降解复合物（红色 T 形线）。】
 5. 【右侧细胞：β-catenin 积累，进入细胞核，与 TCF/LEF 结合开启靶基因。】
+关闭态细胞里靶基因保持关闭，基因处不画箭头。开启态细胞里，降解复合物不指向 β-catenin。
 标签（每个只出现一次，不加其他文字）：【Wnt OFF, Wnt ON, Wnt, Frizzled, LRP5/6, Dishevelled, Destruction complex, β-catenin, TCF/LEF】。
 
 风格：期刊式科研示意图。白色背景上的干净扁平矢量插画，用浅色圆角面板区分区域。只用 3–4 种低饱和度颜色，每种颜色含义固定，红色只用于抑制或强调。线条细且粗细一致。蛋白画成彩色圆角胶囊，名称写在胶囊里；细胞膜画成磷脂双分子层；激活用实线箭头，抑制用 T 形线，间接作用用虚线箭头。图中文字只用英文无衬线字体，每个标签只出现一次，拼写与给定完全一致。不要 3D 渲染、阴影、发光、装饰性背景或照片质感。
@@ -1594,6 +1597,7 @@ Create a side-by-side schematic of 【Wnt/β-catenin signaling】: two cells, le
 3. 【Right cell: the receptors activate Dishevelled.】
 4. 【Right cell: Dishevelled inhibits the destruction complex (red T-bar).】
 5. 【Right cell: β-catenin builds up, enters the nucleus and binds TCF/LEF to turn on target genes.】
+In the Wnt OFF cell the target genes stay off, with no arrow at the genes. In the Wnt ON cell, no arrow points from the destruction complex to β-catenin.
 Labels, each used once, no other text: 【Wnt OFF, Wnt ON, Wnt, Frizzled, LRP5/6, Dishevelled, Destruction complex, β-catenin, TCF/LEF】.
 
 Style: journal-style scientific schematic. Clean flat vector illustration on a white background, light pastel rounded panels to separate regions. Only 3-4 muted colors, each with one fixed meaning; red only for inhibition or emphasis. Thin, uniform line weight. Proteins as rounded colored capsules with their names inside; membranes as lipid bilayers; activation as solid arrows, inhibition as T-bar lines, indirect effects as dashed arrows. Sans-serif English labels only, each label appears exactly once, spelled exactly as given. No 3D rendering, no shadows, no glow, no decorative background, no photorealism.
@@ -1601,7 +1605,7 @@ Style: journal-style scientific schematic. Clean flat vector illustration on a w
 
 </details>
 
-模型：Nano Banana 2 Lite (gemini-3.1-flash-lite-image, 1K)　·　这条提示词共生成 3 次，展示的是核对通过的结果
+模型：Nano Banana 2 Lite (gemini-3.1-flash-lite-image, 1K)　·　这条提示词共生成 5 次，展示的是核对通过的结果
 
 [↑ 回到顶部](#top)
 
@@ -2441,11 +2445,9 @@ by [@Yila-AI](https://github.com/Yila-AI)
 
 写法技巧：**三变量因果图加三条假设**　·　风格：期刊式示意框图　·　比例：16:9
 
-| 英文提示词出图 |
-|---|
-| <img src="gallery/experimental-workflow/mendelian-randomization-en.jpg" width="420"> |
-
-> 中文提示词出图未通过核对，因此这里不展示。
+| 英文提示词出图 | 中文提示词出图 |
+|---|---|
+| <img src="gallery/experimental-workflow/mendelian-randomization-en.jpg" width="420"> | <img src="gallery/experimental-workflow/mendelian-randomization-zh.jpg" width="420"> |
 
 **中文提示词**
 
@@ -2455,6 +2457,7 @@ by [@Yila-AI](https://github.com/Yila-AI)
 2. 【暴露 → 结局（实线箭头）。】
 3. 【混杂因素放在上方灰色框里，用虚线箭头分别指向暴露和结局；混杂因素到遗传变异之间画一条被划掉的虚线，标注 Independence。】
 4. 【遗传变异直接指向结局的箭头被划掉，标注 Exclusion restriction。】
+每个标签只写一次，框里不加图标或其他文字。
 标签（每个只出现一次，不加其他文字）：【Genetic variants, Exposure, Outcome, Confounders, Relevance, Independence, Exclusion restriction】。
 
 风格：期刊式示意框图。白色背景上干净的扁平矢量图形。模块画成圆角矩形或简洁图标，名称写在里面；用浅色面板把相关的层归在一起。只用 3–4 种低饱和度颜色，每种颜色含义固定。细而粗细一致的箭头表示数据、能量、物质或影响的流向，间接或反馈关系用虚线箭头。图中文字只用英文无衬线字体，每个标签只出现一次，拼写与给定完全一致。不要 3D 渲染、阴影、发光、赛博朋克或科技感背景装饰，不要照片质感。
@@ -2468,6 +2471,7 @@ Create a causal diagram for 【a Mendelian randomization study】, read from lef
 2. 【Exposure → Outcome (solid arrow).】
 3. 【Confounders, in a gray box above, point with dashed arrows to Exposure and to Outcome; a crossed-out dashed line from Confounders to Genetic variants is marked Independence.】
 4. 【A crossed-out arrow from Genetic variants directly to Outcome is marked Exclusion restriction.】
+Write each label only once; no icons or extra words inside the boxes.
 Labels, each used once, no other text: 【Genetic variants, Exposure, Outcome, Confounders, Relevance, Independence, Exclusion restriction】.
 
 Style: journal-style schematic diagram. Clean flat vector graphics on a white background. Modules are rounded rectangles or simple icons with their short names inside; light pastel panels group related layers. Only 3-4 muted colors, each with one fixed meaning. Thin, uniform arrows show the flow of data, energy, material or influence; dashed arrows for indirect or feedback links. Sans-serif English labels only, each label appears exactly once, spelled exactly as given. No 3D rendering, no shadows, no glow, no cyberpunk or tech-background decoration, no photorealism.
@@ -2475,7 +2479,7 @@ Style: journal-style schematic diagram. Clean flat vector graphics on a white ba
 
 </details>
 
-模型：Nano Banana 2 Lite (gemini-3.1-flash-lite-image, 1K)　·　这条提示词共生成 3 次，展示的是核对通过的结果
+模型：Nano Banana 2 Lite (gemini-3.1-flash-lite-image, 1K)　·　这条提示词共生成 5 次，展示的是核对通过的结果
 
 [↑ 回到顶部](#top)
 
@@ -2781,7 +2785,7 @@ Style: journal-style schematic diagram. Clean flat vector graphics on a white ba
 
 </details>
 
-模型：Nano Banana 2 Lite (gemini-3.1-flash-lite-image, 1K)　·　这条提示词共生成 4 次，展示的是核对通过的结果
+模型：Nano Banana 2 Lite (gemini-3.1-flash-lite-image, 1K)　·　这条提示词共生成 6 次，展示的是核对通过的结果
 
 [↑ 回到顶部](#top)
 
@@ -2953,11 +2957,9 @@ by [@Yila-AI](https://github.com/Yila-AI)
 
 写法技巧：**表面三步：吸附—反应—脱附**　·　风格：期刊式科学插画　·　比例：16:9
 
-| 英文提示词出图 |
-|---|
-| <img src="gallery/materials-energy/heterogeneous-catalysis-en.jpg" width="420"> |
-
-> 中文提示词出图未通过核对，因此这里不展示。
+| 英文提示词出图 | 中文提示词出图 |
+|---|---|
+| <img src="gallery/materials-energy/heterogeneous-catalysis-en.jpg" width="420"> | <img src="gallery/materials-energy/heterogeneous-catalysis-zh.jpg" width="420"> |
 
 **中文提示词**
 
@@ -2987,7 +2989,7 @@ Style: journal-style scientific illustration. Clean semi-realistic vector illust
 
 </details>
 
-模型：Nano Banana 2 Lite (gemini-3.1-flash-lite-image, 1K)　·　这条提示词共生成 4 次，展示的是核对通过的结果
+模型：Nano Banana 2 Lite (gemini-3.1-flash-lite-image, 1K)　·　这条提示词共生成 6 次，展示的是核对通过的结果
 
 [↑ 回到顶部](#top)
 
@@ -3146,6 +3148,7 @@ by [@Yila-AI](https://github.com/Yila-AI)
 1. 【阴极上冒出氢气泡（HER）。】
 2. 【阳极上冒出氧气泡（OER）。】
 3. 【阴极上一个圆形放大插图，显示水分子在催化剂表面分解。】
+整张图里每个标签只写一次。
 标签（每个只出现一次，不加其他文字）：【Cathode, Anode, Membrane, HER, OER, H2, O2, Catalyst】。
 
 风格：期刊式科学插画。干净的半写实矢量插画，带柔和的明暗；需要说明结构时使用剖面或剖切视图，白色背景。配色低饱和、协调，只用一个强调色突出关键过程。用细的方向箭头表示流动。留白充足，阅读方向清晰。图中文字只用英文无衬线字体，每个标签只出现一次，拼写与给定完全一致。不要卡通风格、不要光滑的 CG 渲染、不要深色背景、不要图库照片感、不要装饰性背景。
@@ -3158,6 +3161,7 @@ Create a cross-section illustration of 【a water electrolyzer】: a cathode on 
 1. 【At the cathode, hydrogen bubbles form (HER).】
 2. 【At the anode, oxygen bubbles form (OER).】
 3. 【A circular magnified inset on the cathode shows water molecules splitting on the catalyst surface.】
+Write each label only once in the whole figure.
 Labels, each used once, no other text: 【Cathode, Anode, Membrane, HER, OER, H2, O2, Catalyst】.
 
 Style: journal-style scientific illustration. Clean semi-realistic vector illustration with gentle shading, using cross-sections or cutaways where they explain the structure, on a white background. Muted, harmonious palette with one accent color for the key process. Thin directional arrows for flows. Generous white space and a clear reading direction. Sans-serif English labels only, each label appears exactly once, spelled exactly as given. No cartoon style, no glossy CGI, no dark background, no stock-photo look, no decorative background.
@@ -3165,7 +3169,7 @@ Style: journal-style scientific illustration. Clean semi-realistic vector illust
 
 </details>
 
-模型：Nano Banana 2 Lite (gemini-3.1-flash-lite-image, 1K)　·　这条提示词共生成 3 次，展示的是核对通过的结果
+模型：Nano Banana 2 Lite (gemini-3.1-flash-lite-image, 1K)　·　这条提示词共生成 5 次，展示的是核对通过的结果
 
 [↑ 回到顶部](#top)
 
@@ -3831,16 +3835,14 @@ by [@Yila-AI](https://github.com/Yila-AI)
 
 写法技巧：**俯视网格，颜色代表处理**　·　风格：期刊式示意框图　·　比例：16:9
 
-| 英文提示词出图 |
-|---|
-| <img src="gallery/plant-agriculture/field-trial-rcbd-en.jpg" width="420"> |
-
-> 中文提示词出图未通过核对，因此这里不展示。
+| 英文提示词出图 | 中文提示词出图 |
+|---|---|
+| <img src="gallery/plant-agriculture/field-trial-rcbd-en.jpg" width="420"> | <img src="gallery/plant-agriculture/field-trial-rcbd-zh.jpg" width="420"> |
 
 **中文提示词**
 
 ```text
-画一张【随机完全区组设计田间试验】的俯视布局图：一块长方形田地分成上下三个区组，每个区组分成四个种着作物行的小区。每个区组里四个小区用四种浅色填充，顺序各不相同。田地四周有一圈窄的保护行。右侧一个小图例，把四种颜色对应到四个处理。
+画一张【随机完全区组设计田间试验】的俯视布局图：一块长方形田地分成上下三个区组，每个区组分成四个种着作物行的小区。每个区组里四个小区用四种浅色填充，顺序各不相同。任意两个区组的颜色顺序都不相同。田地四周有一圈窄的保护行。右侧一个小图例，把四种颜色对应到四个处理。
 标签（每个只出现一次，不加其他文字）：【Block 1, Block 2, Block 3, T1, T2, T3, T4, Buffer zone】。
 
 风格：期刊式示意框图。白色背景上干净的扁平矢量图形。模块画成圆角矩形或简洁图标，名称写在里面；用浅色面板把相关的层归在一起。只用 3–4 种低饱和度颜色，每种颜色含义固定。细而粗细一致的箭头表示数据、能量、物质或影响的流向，间接或反馈关系用虚线箭头。图中文字只用英文无衬线字体，每个标签只出现一次，拼写与给定完全一致。不要 3D 渲染、阴影、发光、赛博朋克或科技感背景装饰，不要照片质感。
@@ -3849,7 +3851,7 @@ by [@Yila-AI](https://github.com/Yila-AI)
 <details><summary>English prompt</summary>
 
 ```text
-Create a top-down layout of 【a field trial in a randomized complete block design】: a rectangular field divided into three horizontal blocks, each block split into four plots of crop rows. In each block, the four plots are filled with four different light colors in a different order. A thin buffer strip surrounds the field. A small legend on the right maps the four colors to the treatments.
+Create a top-down layout of 【a field trial in a randomized complete block design】: a rectangular field divided into three horizontal blocks, each block split into four plots of crop rows. In each block, the four plots are filled with four different light colors in a different order. No two blocks use the same order of colors. A thin buffer strip surrounds the field. A small legend on the right maps the four colors to the treatments.
 Labels, each used once, no other text: 【Block 1, Block 2, Block 3, T1, T2, T3, T4, Buffer zone】.
 
 Style: journal-style schematic diagram. Clean flat vector graphics on a white background. Modules are rounded rectangles or simple icons with their short names inside; light pastel panels group related layers. Only 3-4 muted colors, each with one fixed meaning. Thin, uniform arrows show the flow of data, energy, material or influence; dashed arrows for indirect or feedback links. Sans-serif English labels only, each label appears exactly once, spelled exactly as given. No 3D rendering, no shadows, no glow, no cyberpunk or tech-background decoration, no photorealism.
@@ -3857,7 +3859,7 @@ Style: journal-style schematic diagram. Clean flat vector graphics on a white ba
 
 </details>
 
-模型：Nano Banana 2 Lite (gemini-3.1-flash-lite-image, 1K)　·　这条提示词共生成 3 次，展示的是核对通过的结果
+模型：Nano Banana 2 Lite (gemini-3.1-flash-lite-image, 1K)　·　这条提示词共生成 5 次，展示的是核对通过的结果
 
 [↑ 回到顶部](#top)
 
