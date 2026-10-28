@@ -1,8 +1,8 @@
 # 投稿指南 / Contributing
 
-欢迎投稿科研绘图提示词。收录后会在条目里署上你的名字或 GitHub 账号（写在 Pull Request 说明里，或写在 Issue 的 Author handle 里）。
+欢迎投稿科研绘图提示词。收录后，条目下会显示 `by @作者`，名字来自 JSON 里的 `author`。
 
-Contributions are welcome. Accepted entries are credited with the name or GitHub handle you put in the pull request or in the issue's Author handle field.
+Contributions are welcome. Accepted entries show `by @author` from the `author` field.
 
 `README.md` 和 `README_en.md` 由 [`tools/build_gallery.py`](tools/build_gallery.py) 根据 `prompts/*/*.json` 和 `styles.json` 生成，`gallery.json` 也是生成结果。请不要手改这两个 README。改完数据后运行：
 
@@ -20,7 +20,7 @@ python3 tools/build_gallery.py
 4. `style` 选择 `styles.json` 里的一段风格说明（`A` 扁平示意图、`B` 半写实插画、`W` 流程图）。生成 README 时会自动接在 `content` 后面。不要把风格段落再贴进 `content`，否则会重复。
 5. 在任意 Gemini 或 ChatGPT 的网页里自己出图（见下面「出图」）。核对通过的图放到 `gallery/<类别>/<id>-en.jpg`（英文提示词）或 `gallery/<类别>/<id>-zh.jpg`（中文提示词）。中文出图如果没通过核对，就不要放图，也不要拿别的图顶上。
 6. 出图前先过一遍 [docs/checklist.md](docs/checklist.md)。
-7. 运行上面的生成命令，确认 README 里出现了你的条目，然后开 Pull Request。不熟悉 Git 可以开 [新提示词 Issue](https://github.com/Yila-AI/awesome-scientific-figure-prompts/issues/new?template=new-prompt.yml)，把提示词和图贴进去。
+7. 运行上面的生成命令，确认 README 里出现了你的条目，然后开 Pull Request。不熟悉 Git 可以开 [新提示词 Issue](https://github.com/Yila-AI/awesome-scientific-figure-prompts/issues/new?template=new-prompt.yml)，把提示词和图贴进去。Issue 里需要勾选同意以 CC BY 4.0 授权。
 
 ## How to contribute
 
@@ -30,7 +30,21 @@ python3 tools/build_gallery.py
 4. `style` picks a paragraph in `styles.json` (`A` flat schematic, `B` semi-realistic illustration, `W` workflow). The generator appends that paragraph to `content` when it builds the README. Do not paste the style paragraph into `content` or it will appear twice.
 5. Generate the figure yourself in any Gemini or ChatGPT web UI (see Images below). Put a figure that passed your review at `gallery/<theme>/<id>-en.jpg` for the English prompt, or `gallery/<theme>/<id>-zh.jpg` for the Chinese prompt. If the Chinese-prompt output does not pass review, leave it out. Do not substitute a different image.
 6. Walk through [docs/checklist.md](docs/checklist.md) before you include a figure.
-7. Run the command above, check that your entry shows up in the README, and open a pull request. If you are not using Git, open a [new prompt issue](https://github.com/Yila-AI/awesome-scientific-figure-prompts/issues/new?template=new-prompt.yml) and paste the prompt and the image.
+7. Run the command above, check that your entry shows up in the README, and open a pull request. If you are not using Git, open a [new prompt issue](https://github.com/Yila-AI/awesome-scientific-figure-prompts/issues/new?template=new-prompt.yml) and paste the prompt and the image. The form asks you to agree that the prompt is licensed under CC BY 4.0. A pull request means the same.
+
+## 署名与许可 / Credit and license
+
+`author` 是显示成 `by @author` 的名字或 GitHub 账号，不要自己加 `@`。`author_url` 可选，填个人主页或 GitHub 链接。本仓库现有原创条目署名为 Yila-AI。
+
+`author` is the name or GitHub handle shown as `by @author`. Do not include the `@`. `author_url` is an optional profile or GitHub link. The original entries in this repo are credited to Yila-AI.
+
+提交即表示这条提示词以 [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) 发布。
+
+Sending a prompt means it is released under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
+
+`added` 是收录日期，格式 `YYYY-MM-DD`。`featured` 为 `true` 时，条目会出现在首页「精选 / Featured」网格里，由维护者设置。
+
+`added` is the date the entry joined the gallery (`YYYY-MM-DD`). Maintainers set `featured` to `true` to put an entry in the featured grid.
 
 ## JSON 示例 / JSON example
 
@@ -44,6 +58,10 @@ This is the full [`prompts/signaling-pathway/cgas-sting.json`](prompts/signaling
   "theme": "signaling-pathway",
   "technique": "逐条关系 + 膜–胞质–核布局",
   "technique_en": "numbered relationships + membrane–cytosol–nucleus layout",
+  "featured": true,
+  "added": "2026-10-28",
+  "author": "Yila-AI",
+  "author_url": "https://github.com/Yila-AI",
   "title": {
     "zh": "cGAS–STING 先天免疫通路",
     "en": "cGAS–STING innate immune pathway"

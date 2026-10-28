@@ -3,6 +3,10 @@
   "theme": "signaling-pathway",
   "technique": "逐条关系 + 激活/抑制线型",
   "technique_en": "numbered relationships + activation/inhibition line styles",
+  "featured": false,
+  "added": "2026-10-28",
+  "author": "Yila-AI",
+  "author_url": "https://github.com/Yila-AI",
   "title": {
     "zh": "TGF-β/SMAD 促纤维化通路",
     "en": "TGF-β/SMAD pro-fibrotic pathway"

@@ -7,7 +7,8 @@ Usage:
 
 Each figure is a JSON file in prompts/<theme>/<id>.json:
   {"id", "theme", "title": {"zh","en"}, "technique", "technique_en",
-   "style": "A"|"B"|"W", "size": "16:9", "content": {"zh","en"}}
+   "style": "A"|"B"|"W", "size": "16:9", "content": {"zh","en"},
+   optional "author", "author_url", "featured", "added"}
 
 You can also generate the image by hand in any Gemini or ChatGPT UI and
 commit gallery/<theme>/<id>-<lang>.jpg. See CONTRIBUTING.md. tools/gen.py

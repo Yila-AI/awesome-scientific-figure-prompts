@@ -22,6 +22,13 @@ Copy-paste prompt templates for graphical abstracts, signaling pathways, medical
 
 </div>
 
+## ⭐ 精选 / Featured
+
+<table>
+<tr><td align="center"><a href="#no-1"><img src="gallery/graphical-abstract/car-t-solid-tumor-en.jpg" alt="CAR-T cells against a solid tumor" width="420"></a><br><a href="#no-1">CAR-T cells against a solid tumor</a></td><td align="center"><a href="#no-8"><img src="gallery/signaling-pathway/cgas-sting-en.jpg" alt="cGAS–STING innate immune pathway" width="420"></a><br><a href="#no-8">cGAS–STING innate immune pathway</a></td></tr>
+<tr><td align="center"><a href="#no-11"><img src="gallery/medical-illustration/alzheimers-brain-en.jpg" alt="Healthy versus Alzheimer's brain" width="420"></a><br><a href="#no-11">Healthy versus Alzheimer's brain</a></td><td align="center"><a href="#no-21"><img src="gallery/experimental-workflow/mouse-model-dosing-en.jpg" alt="Mouse disease model: grouping, dosing and sampling" width="420"></a><br><a href="#no-21">Mouse disease model: grouping, dosing and sampling</a></td></tr>
+</table>
+
 ## Browse by figure type
 
 | [🧭 Graphical Abstract](#graphical-abstract) | [🧬 Signaling Pathway](#signaling-pathway) | [🫀 Medical Illustration](#medical-illustration) | [🧪 Experimental Workflow](#experimental-workflow) |
@@ -56,6 +63,8 @@ Copy-paste prompt templates for graphical abstracts, signaling pathways, medical
 <a id="no-1"></a>
 
 ### No. 1: CAR-T cells against a solid tumor
+
+by [@Yila-AI](https://github.com/Yila-AI)
 
 Technique: **staged sequence + magnified inset** · Style: soft semi-realistic illustration · Aspect ratio: 16:9
 
@@ -93,11 +102,15 @@ Model: Nano Banana 2 Lite (gemini-3.1-flash-lite-image, 1K) · Generated 2 times
 
 [↑ Back to top](#top)
 
+<sub><a href="https://yila.ai/?utm_source=github&utm_medium=readme&utm_campaign=sci-figure-prompts&utm_content=car-t-solid-tumor">Try in Yila →</a></sub>
+
 ---
 
 <a id="no-2"></a>
 
 ### No. 2: Exercise improves muscle insulin resistance
+
+by [@Yila-AI](https://github.com/Yila-AI)
 
 Technique: **multi-scale magnified insets** · Style: soft semi-realistic illustration · Aspect ratio: 16:9
 
@@ -135,11 +148,15 @@ Model: Nano Banana 2 Lite (gemini-3.1-flash-lite-image, 1K) · Generated 4 times
 
 [↑ Back to top](#top)
 
+<sub><a href="https://yila.ai/?utm_source=github&utm_medium=readme&utm_campaign=sci-figure-prompts&utm_content=exercise-glut4">Try in Yila →</a></sub>
+
 ---
 
 <a id="no-3"></a>
 
 ### No. 3: Tumor exosomes prepare a pre-metastatic niche
+
+by [@Yila-AI](https://github.com/Yila-AI)
 
 Technique: **multi-scale magnified insets** · Style: soft semi-realistic illustration · Aspect ratio: 16:9
 
@@ -177,11 +194,15 @@ Model: Nano Banana 2 Lite (gemini-3.1-flash-lite-image, 1K) · Generated 4 times
 
 [↑ Back to top](#top)
 
+<sub><a href="https://yila.ai/?utm_source=github&utm_medium=readme&utm_campaign=sci-figure-prompts&utm_content=exosome-premetastatic-niche">Try in Yila →</a></sub>
+
 ---
 
 <a id="no-4"></a>
 
 ### No. 4: Gut–brain axis in depression
+
+by [@Yila-AI](https://github.com/Yila-AI)
 
 Technique: **two magnified insets** · Style: soft semi-realistic illustration · Aspect ratio: 16:9
 
@@ -221,11 +242,15 @@ Model: Nano Banana 2 Lite (gemini-3.1-flash-lite-image, 1K) · Generated 4 times
 
 [↑ Back to top](#top)
 
+<sub><a href="https://yila.ai/?utm_source=github&utm_medium=readme&utm_campaign=sci-figure-prompts&utm_content=gut-brain-axis">Try in Yila →</a></sub>
+
 ---
 
 <a id="no-5"></a>
 
 ### No. 5: Hydrogel-assisted wound healing
+
+by [@Yila-AI](https://github.com/Yila-AI)
 
 Technique: **side-by-side panels + magnified inset** · Style: soft semi-realistic illustration · Aspect ratio: 16:9
 
@@ -261,11 +286,15 @@ Model: Nano Banana 2 Lite (gemini-3.1-flash-lite-image, 1K) · Generated 2 times
 
 [↑ Back to top](#top)
 
+<sub><a href="https://yila.ai/?utm_source=github&utm_medium=readme&utm_campaign=sci-figure-prompts&utm_content=hydrogel-wound">Try in Yila →</a></sub>
+
 ---
 
 <a id="no-6"></a>
 
 ### No. 6: mRNA vaccine immune response
+
+by [@Yila-AI](https://github.com/Yila-AI)
 
 Technique: **multi-scale magnified insets** · Style: soft semi-realistic illustration · Aspect ratio: 16:9
 
@@ -303,11 +332,15 @@ Model: Nano Banana 2 Lite (gemini-3.1-flash-lite-image, 1K) · Generated 2 times
 
 [↑ Back to top](#top)
 
+<sub><a href="https://yila.ai/?utm_source=github&utm_medium=readme&utm_campaign=sci-figure-prompts&utm_content=mrna-vaccine">Try in Yila →</a></sub>
+
 ---
 
 <a id="no-7"></a>
 
 ### No. 7: Tumor-targeted nanoparticle drug delivery
+
+by [@Yila-AI](https://github.com/Yila-AI)
 
 Technique: **multi-scale magnified insets** · Style: soft semi-realistic illustration · Aspect ratio: 16:9
 
@@ -345,6 +378,8 @@ Model: Nano Banana 2 Lite (gemini-3.1-flash-lite-image, 1K) · Generated 2 times
 
 [↑ Back to top](#top)
 
+<sub><a href="https://yila.ai/?utm_source=github&utm_medium=readme&utm_campaign=sci-figure-prompts&utm_content=nanoparticle-tumor-delivery">Try in Yila →</a></sub>
+
 ---
 
 <a id="signaling-pathway"></a>
@@ -354,6 +389,8 @@ Model: Nano Banana 2 Lite (gemini-3.1-flash-lite-image, 1K) · Generated 2 times
 <a id="no-8"></a>
 
 ### No. 8: cGAS–STING innate immune pathway
+
+by [@Yila-AI](https://github.com/Yila-AI)
 
 Technique: **numbered relationships + membrane–cytosol–nucleus layout** · Style: flat vector schematic · Aspect ratio: 4:3
 
@@ -399,11 +436,15 @@ Model: Nano Banana 2 Lite (gemini-3.1-flash-lite-image, 1K) · Generated 2 times
 
 [↑ Back to top](#top)
 
+<sub><a href="https://yila.ai/?utm_source=github&utm_medium=readme&utm_campaign=sci-figure-prompts&utm_content=cgas-sting">Try in Yila →</a></sub>
+
 ---
 
 <a id="no-9"></a>
 
 ### No. 9: PD-1/PD-L1 immune checkpoint and its blockade
+
+by [@Yila-AI](https://github.com/Yila-AI)
 
 Technique: **numbered relationships + side-by-side panels** · Style: flat vector schematic · Aspect ratio: 16:9
 
@@ -453,11 +494,15 @@ Model: Nano Banana 2 Lite (gemini-3.1-flash-lite-image, 1K) · Generated 8 times
 
 [↑ Back to top](#top)
 
+<sub><a href="https://yila.ai/?utm_source=github&utm_medium=readme&utm_campaign=sci-figure-prompts&utm_content=pd1-pdl1-checkpoint">Try in Yila →</a></sub>
+
 ---
 
 <a id="no-10"></a>
 
 ### No. 10: TGF-β/SMAD pro-fibrotic pathway
+
+by [@Yila-AI](https://github.com/Yila-AI)
 
 Technique: **numbered relationships + activation/inhibition line styles** · Style: flat vector schematic · Aspect ratio: 4:3
 
@@ -499,6 +544,8 @@ Model: Nano Banana 2 Lite (gemini-3.1-flash-lite-image, 1K) · Generated 2 times
 
 [↑ Back to top](#top)
 
+<sub><a href="https://yila.ai/?utm_source=github&utm_medium=readme&utm_campaign=sci-figure-prompts&utm_content=tgfb-smad">Try in Yila →</a></sub>
+
 ---
 
 <a id="medical-illustration"></a>
@@ -508,6 +555,8 @@ Model: Nano Banana 2 Lite (gemini-3.1-flash-lite-image, 1K) · Generated 2 times
 <a id="no-11"></a>
 
 ### No. 11: Healthy versus Alzheimer's brain
+
+by [@Yila-AI](https://github.com/Yila-AI)
 
 Technique: **side-by-side panels + magnified inset** · Style: soft semi-realistic illustration · Aspect ratio: 4:3
 
@@ -543,11 +592,15 @@ Model: Nano Banana 2 Lite (gemini-3.1-flash-lite-image, 1K) · Generated 2 times
 
 [↑ Back to top](#top)
 
+<sub><a href="https://yila.ai/?utm_source=github&utm_medium=readme&utm_campaign=sci-figure-prompts&utm_content=alzheimers-brain">Try in Yila →</a></sub>
+
 ---
 
 <a id="no-12"></a>
 
 ### No. 12: Atherosclerotic plaque formation
+
+by [@Yila-AI](https://github.com/Yila-AI)
 
 Technique: **cross-section + staged sequence** · Style: soft semi-realistic illustration · Aspect ratio: 16:9
 
@@ -589,11 +642,15 @@ Model: Nano Banana 2 Lite (gemini-3.1-flash-lite-image, 1K) · Generated 6 times
 
 [↑ Back to top](#top)
 
+<sub><a href="https://yila.ai/?utm_source=github&utm_medium=readme&utm_campaign=sci-figure-prompts&utm_content=atherosclerosis-plaque">Try in Yila →</a></sub>
+
 ---
 
 <a id="no-13"></a>
 
 ### No. 13: Four stages of fracture healing
+
+by [@Yila-AI](https://github.com/Yila-AI)
 
 Technique: **staged sequence** · Style: soft semi-realistic illustration · Aspect ratio: 16:9
 
@@ -633,11 +690,15 @@ Model: Nano Banana 2 Lite (gemini-3.1-flash-lite-image, 1K) · Generated 2 times
 
 [↑ Back to top](#top)
 
+<sub><a href="https://yila.ai/?utm_source=github&utm_medium=readme&utm_campaign=sci-figure-prompts&utm_content=fracture-healing">Try in Yila →</a></sub>
+
 ---
 
 <a id="no-14"></a>
 
 ### No. 14: Three layers of the glomerular filtration barrier
+
+by [@Yila-AI](https://github.com/Yila-AI)
 
 Technique: **layered cross-section** · Style: soft semi-realistic illustration · Aspect ratio: 4:3
 
@@ -673,11 +734,15 @@ Model: Nano Banana 2 Lite (gemini-3.1-flash-lite-image, 1K) · Generated 5 times
 
 [↑ Back to top](#top)
 
+<sub><a href="https://yila.ai/?utm_source=github&utm_medium=readme&utm_campaign=sci-figure-prompts&utm_content=glomerular-barrier">Try in Yila →</a></sub>
+
 ---
 
 <a id="no-15"></a>
 
 ### No. 15: Healthy versus fibrotic liver
+
+by [@Yila-AI](https://github.com/Yila-AI)
 
 Technique: **side-by-side panels + multi-scale magnified insets** · Style: soft semi-realistic illustration · Aspect ratio: 16:9
 
@@ -713,11 +778,15 @@ Model: Nano Banana 2 Lite (gemini-3.1-flash-lite-image, 1K) · Generated 4 times
 
 [↑ Back to top](#top)
 
+<sub><a href="https://yila.ai/?utm_source=github&utm_medium=readme&utm_campaign=sci-figure-prompts&utm_content=liver-fibrosis">Try in Yila →</a></sub>
+
 ---
 
 <a id="no-16"></a>
 
 ### No. 16: Nephron structure and filtrate flow
+
+by [@Yila-AI](https://github.com/Yila-AI)
 
 Technique: **structure + flow arrows** · Style: soft semi-realistic illustration · Aspect ratio: 3:4
 
@@ -755,11 +824,15 @@ Model: Nano Banana 2 Lite (gemini-3.1-flash-lite-image, 1K) · Generated 2 times
 
 [↑ Back to top](#top)
 
+<sub><a href="https://yila.ai/?utm_source=github&utm_medium=readme&utm_campaign=sci-figure-prompts&utm_content=nephron">Try in Yila →</a></sub>
+
 ---
 
 <a id="no-17"></a>
 
 ### No. 17: Tumor angiogenesis
+
+by [@Yila-AI](https://github.com/Yila-AI)
 
 Technique: **normal-versus-abnormal comparison + magnified inset** · Style: soft semi-realistic illustration · Aspect ratio: 4:3
 
@@ -797,11 +870,15 @@ Model: Nano Banana 2 Lite (gemini-3.1-flash-lite-image, 1K) · Generated 4 times
 
 [↑ Back to top](#top)
 
+<sub><a href="https://yila.ai/?utm_source=github&utm_medium=readme&utm_campaign=sci-figure-prompts&utm_content=tumor-angiogenesis">Try in Yila →</a></sub>
+
 ---
 
 <a id="no-18"></a>
 
 ### No. 18: Four stages of skin wound healing
+
+by [@Yila-AI](https://github.com/Yila-AI)
 
 Technique: **staged sequence** · Style: soft semi-realistic illustration · Aspect ratio: 16:9
 
@@ -841,6 +918,8 @@ Model: Nano Banana 2 Lite (gemini-3.1-flash-lite-image, 1K) · Generated 2 times
 
 [↑ Back to top](#top)
 
+<sub><a href="https://yila.ai/?utm_source=github&utm_medium=readme&utm_campaign=sci-figure-prompts&utm_content=wound-healing-stages">Try in Yila →</a></sub>
+
 ---
 
 <a id="experimental-workflow"></a>
@@ -850,6 +929,8 @@ Model: Nano Banana 2 Lite (gemini-3.1-flash-lite-image, 1K) · Generated 2 times
 <a id="no-19"></a>
 
 ### No. 19: Clinical trial enrollment and follow-up
+
+by [@Yila-AI](https://github.com/Yila-AI)
 
 Technique: **vertical flowchart** · Style: flat vector schematic · Aspect ratio: 3:4
 
@@ -883,11 +964,15 @@ Model: Nano Banana 2 Lite (gemini-3.1-flash-lite-image, 1K) · Generated 2 times
 
 [↑ Back to top](#top)
 
+<sub><a href="https://yila.ai/?utm_source=github&utm_medium=readme&utm_campaign=sci-figure-prompts&utm_content=clinical-cohort">Try in Yila →</a></sub>
+
 ---
 
 <a id="no-20"></a>
 
 ### No. 20: Pooled CRISPR screen workflow
+
+by [@Yila-AI](https://github.com/Yila-AI)
 
 Technique: **one pastel rounded panel per step** · Style: flat workflow · Aspect ratio: 16:9
 
@@ -929,11 +1014,15 @@ Model: Nano Banana 2 Lite (gemini-3.1-flash-lite-image, 1K) · Generated 6 times
 
 [↑ Back to top](#top)
 
+<sub><a href="https://yila.ai/?utm_source=github&utm_medium=readme&utm_campaign=sci-figure-prompts&utm_content=crispr-pooled-screen">Try in Yila →</a></sub>
+
 ---
 
 <a id="no-21"></a>
 
 ### No. 21: Mouse disease model: grouping, dosing and sampling
+
+by [@Yila-AI](https://github.com/Yila-AI)
 
 Technique: **one pastel rounded panel per step + icon-style scene** · Style: flat workflow · Aspect ratio: 16:9
 
@@ -975,11 +1064,15 @@ Model: Nano Banana 2 Lite (gemini-3.1-flash-lite-image, 1K) · Generated 2 times
 
 [↑ Back to top](#top)
 
+<sub><a href="https://yila.ai/?utm_source=github&utm_medium=readme&utm_campaign=sci-figure-prompts&utm_content=mouse-model-dosing">Try in Yila →</a></sub>
+
 ---
 
 <a id="no-22"></a>
 
 ### No. 22: Organoid culture and drug screening
+
+by [@Yila-AI](https://github.com/Yila-AI)
 
 Technique: **one pastel rounded panel per step** · Style: flat workflow · Aspect ratio: 16:9
 
@@ -1021,11 +1114,15 @@ Model: Nano Banana 2 Lite (gemini-3.1-flash-lite-image, 1K) · Generated 3 times
 
 [↑ Back to top](#top)
 
+<sub><a href="https://yila.ai/?utm_source=github&utm_medium=readme&utm_campaign=sci-figure-prompts&utm_content=organoid-drug-screen">Try in Yila →</a></sub>
+
 ---
 
 <a id="no-23"></a>
 
 ### No. 23: LC-MS/MS proteomics workflow
+
+by [@Yila-AI](https://github.com/Yila-AI)
 
 Technique: **one pastel rounded panel per step** · Style: flat workflow · Aspect ratio: 16:9
 
@@ -1067,11 +1164,15 @@ Model: Nano Banana 2 Lite (gemini-3.1-flash-lite-image, 1K) · Generated 4 times
 
 [↑ Back to top](#top)
 
+<sub><a href="https://yila.ai/?utm_source=github&utm_medium=readme&utm_campaign=sci-figure-prompts&utm_content=proteomics-lcms">Try in Yila →</a></sub>
+
 ---
 
 <a id="no-24"></a>
 
 ### No. 24: Single-cell RNA sequencing workflow
+
+by [@Yila-AI](https://github.com/Yila-AI)
 
 Technique: **one pastel rounded panel per step** · Style: flat workflow · Aspect ratio: 16:9
 
@@ -1113,11 +1214,15 @@ Model: Nano Banana 2 Lite (gemini-3.1-flash-lite-image, 1K) · Generated 7 times
 
 [↑ Back to top](#top)
 
+<sub><a href="https://yila.ai/?utm_source=github&utm_medium=readme&utm_campaign=sci-figure-prompts&utm_content=scrna-seq-workflow">Try in Yila →</a></sub>
+
 ---
 
 <a id="no-25"></a>
 
 ### No. 25: Spatial transcriptomics workflow
+
+by [@Yila-AI](https://github.com/Yila-AI)
 
 Technique: **one pastel rounded panel per step** · Style: flat workflow · Aspect ratio: 16:9
 
@@ -1158,6 +1263,8 @@ Style: journal-style experimental workflow figure. Clean flat vector icons on a 
 Model: Nano Banana 2 Lite (gemini-3.1-flash-lite-image, 1K) · Generated 4 times in total; shown are the outputs that passed review
 
 [↑ Back to top](#top)
+
+<sub><a href="https://yila.ai/?utm_source=github&utm_medium=readme&utm_campaign=sci-figure-prompts&utm_content=spatial-transcriptomics">Try in Yila →</a></sub>
 
 ---
 

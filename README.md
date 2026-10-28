@@ -22,6 +22,13 @@
 
 </div>
 
+## ⭐ 精选 / Featured
+
+<table>
+<tr><td align="center"><a href="#no-1"><img src="gallery/graphical-abstract/car-t-solid-tumor-en.jpg" alt="CAR-T 细胞攻克实体瘤" width="420"></a><br><a href="#no-1">CAR-T 细胞攻克实体瘤</a></td><td align="center"><a href="#no-8"><img src="gallery/signaling-pathway/cgas-sting-en.jpg" alt="cGAS–STING 先天免疫通路" width="420"></a><br><a href="#no-8">cGAS–STING 先天免疫通路</a></td></tr>
+<tr><td align="center"><a href="#no-11"><img src="gallery/medical-illustration/alzheimers-brain-en.jpg" alt="健康大脑与阿尔茨海默病大脑" width="420"></a><br><a href="#no-11">健康大脑与阿尔茨海默病大脑</a></td><td align="center"><a href="#no-21"><img src="gallery/experimental-workflow/mouse-model-dosing-en.jpg" alt="小鼠疾病模型：分组、给药与取材" width="420"></a><br><a href="#no-21">小鼠疾病模型：分组、给药与取材</a></td></tr>
+</table>
+
 ## 按图类型浏览
 
 | [🧭 图形摘要](#graphical-abstract) | [🧬 信号通路](#signaling-pathway) | [🫀 医学插图](#medical-illustration) | [🧪 实验流程](#experimental-workflow) |
@@ -56,6 +63,8 @@
 <a id="no-1"></a>
 
 ### No. 1：CAR-T 细胞攻克实体瘤
+
+by [@Yila-AI](https://github.com/Yila-AI)
 
 写法技巧：**阶段式进程 + 放大圆圈**　·　风格：柔和半写实插图　·　比例：16:9
 
@@ -93,11 +102,15 @@ Style: journal graphical-abstract illustration. Soft semi-realistic medical illu
 
 [↑ 回到顶部](#top)
 
+<sub><a href="https://yila.ai/?utm_source=github&utm_medium=readme&utm_campaign=sci-figure-prompts&utm_content=car-t-solid-tumor">用 Yila 试试 →</a></sub>
+
 ---
 
 <a id="no-2"></a>
 
 ### No. 2：运动改善骨骼肌胰岛素抵抗
+
+by [@Yila-AI](https://github.com/Yila-AI)
 
 写法技巧：**多尺度放大圆圈**　·　风格：柔和半写实插图　·　比例：16:9
 
@@ -135,11 +148,15 @@ Style: journal graphical-abstract illustration. Soft semi-realistic medical illu
 
 [↑ 回到顶部](#top)
 
+<sub><a href="https://yila.ai/?utm_source=github&utm_medium=readme&utm_campaign=sci-figure-prompts&utm_content=exercise-glut4">用 Yila 试试 →</a></sub>
+
 ---
 
 <a id="no-3"></a>
 
 ### No. 3：肿瘤外泌体建立肺前转移微环境
+
+by [@Yila-AI](https://github.com/Yila-AI)
 
 写法技巧：**多尺度放大圆圈**　·　风格：柔和半写实插图　·　比例：16:9
 
@@ -177,11 +194,15 @@ Style: journal graphical-abstract illustration. Soft semi-realistic medical illu
 
 [↑ 回到顶部](#top)
 
+<sub><a href="https://yila.ai/?utm_source=github&utm_medium=readme&utm_campaign=sci-figure-prompts&utm_content=exosome-premetastatic-niche">用 Yila 试试 →</a></sub>
+
 ---
 
 <a id="no-4"></a>
 
 ### No. 4：肠–脑轴与抑郁
+
+by [@Yila-AI](https://github.com/Yila-AI)
 
 写法技巧：**双放大圆圈**　·　风格：柔和半写实插图　·　比例：16:9
 
@@ -221,11 +242,15 @@ Style: journal graphical-abstract illustration. Soft semi-realistic medical illu
 
 [↑ 回到顶部](#top)
 
+<sub><a href="https://yila.ai/?utm_source=github&utm_medium=readme&utm_campaign=sci-figure-prompts&utm_content=gut-brain-axis">用 Yila 试试 →</a></sub>
+
 ---
 
 <a id="no-5"></a>
 
 ### No. 5：水凝胶促进创面愈合
+
+by [@Yila-AI](https://github.com/Yila-AI)
 
 写法技巧：**左右对比分屏 + 放大圆圈**　·　风格：柔和半写实插图　·　比例：16:9
 
@@ -261,11 +286,15 @@ Style: journal graphical-abstract illustration. Soft semi-realistic medical illu
 
 [↑ 回到顶部](#top)
 
+<sub><a href="https://yila.ai/?utm_source=github&utm_medium=readme&utm_campaign=sci-figure-prompts&utm_content=hydrogel-wound">用 Yila 试试 →</a></sub>
+
 ---
 
 <a id="no-6"></a>
 
 ### No. 6：mRNA 疫苗诱导免疫应答
+
+by [@Yila-AI](https://github.com/Yila-AI)
 
 写法技巧：**多尺度放大圆圈**　·　风格：柔和半写实插图　·　比例：16:9
 
@@ -303,11 +332,15 @@ Style: journal graphical-abstract illustration. Soft semi-realistic medical illu
 
 [↑ 回到顶部](#top)
 
+<sub><a href="https://yila.ai/?utm_source=github&utm_medium=readme&utm_campaign=sci-figure-prompts&utm_content=mrna-vaccine">用 Yila 试试 →</a></sub>
+
 ---
 
 <a id="no-7"></a>
 
 ### No. 7：纳米颗粒靶向递送抗肿瘤药物
+
+by [@Yila-AI](https://github.com/Yila-AI)
 
 写法技巧：**多尺度放大圆圈**　·　风格：柔和半写实插图　·　比例：16:9
 
@@ -345,6 +378,8 @@ Style: journal graphical-abstract illustration. Soft semi-realistic medical illu
 
 [↑ 回到顶部](#top)
 
+<sub><a href="https://yila.ai/?utm_source=github&utm_medium=readme&utm_campaign=sci-figure-prompts&utm_content=nanoparticle-tumor-delivery">用 Yila 试试 →</a></sub>
+
 ---
 
 <a id="signaling-pathway"></a>
@@ -354,6 +389,8 @@ Style: journal graphical-abstract illustration. Soft semi-realistic medical illu
 <a id="no-8"></a>
 
 ### No. 8：cGAS–STING 先天免疫通路
+
+by [@Yila-AI](https://github.com/Yila-AI)
 
 写法技巧：**逐条关系 + 膜–胞质–核布局**　·　风格：期刊式扁平矢量　·　比例：4:3
 
@@ -399,11 +436,15 @@ Style: journal-style scientific schematic. Clean flat vector illustration on a w
 
 [↑ 回到顶部](#top)
 
+<sub><a href="https://yila.ai/?utm_source=github&utm_medium=readme&utm_campaign=sci-figure-prompts&utm_content=cgas-sting">用 Yila 试试 →</a></sub>
+
 ---
 
 <a id="no-9"></a>
 
 ### No. 9：PD-1/PD-L1 免疫检查点与阻断
+
+by [@Yila-AI](https://github.com/Yila-AI)
 
 写法技巧：**逐条关系 + 左右对比分屏**　·　风格：期刊式扁平矢量　·　比例：16:9
 
@@ -453,11 +494,15 @@ Style: journal-style scientific schematic. Clean flat vector illustration on a w
 
 [↑ 回到顶部](#top)
 
+<sub><a href="https://yila.ai/?utm_source=github&utm_medium=readme&utm_campaign=sci-figure-prompts&utm_content=pd1-pdl1-checkpoint">用 Yila 试试 →</a></sub>
+
 ---
 
 <a id="no-10"></a>
 
 ### No. 10：TGF-β/SMAD 促纤维化通路
+
+by [@Yila-AI](https://github.com/Yila-AI)
 
 写法技巧：**逐条关系 + 激活/抑制线型**　·　风格：期刊式扁平矢量　·　比例：4:3
 
@@ -499,6 +544,8 @@ Style: journal-style scientific schematic. Clean flat vector illustration on a w
 
 [↑ 回到顶部](#top)
 
+<sub><a href="https://yila.ai/?utm_source=github&utm_medium=readme&utm_campaign=sci-figure-prompts&utm_content=tgfb-smad">用 Yila 试试 →</a></sub>
+
 ---
 
 <a id="medical-illustration"></a>
@@ -508,6 +555,8 @@ Style: journal-style scientific schematic. Clean flat vector illustration on a w
 <a id="no-11"></a>
 
 ### No. 11：健康大脑与阿尔茨海默病大脑
+
+by [@Yila-AI](https://github.com/Yila-AI)
 
 写法技巧：**左右对比分屏 + 放大圆圈**　·　风格：柔和半写实插图　·　比例：4:3
 
@@ -543,11 +592,15 @@ Style: journal graphical-abstract illustration. Soft semi-realistic medical illu
 
 [↑ 回到顶部](#top)
 
+<sub><a href="https://yila.ai/?utm_source=github&utm_medium=readme&utm_campaign=sci-figure-prompts&utm_content=alzheimers-brain">用 Yila 试试 →</a></sub>
+
 ---
 
 <a id="no-12"></a>
 
 ### No. 12：动脉粥样硬化斑块形成
+
+by [@Yila-AI](https://github.com/Yila-AI)
 
 写法技巧：**剖面 + 阶段式进程**　·　风格：柔和半写实插图　·　比例：16:9
 
@@ -589,11 +642,15 @@ Style: journal graphical-abstract illustration. Soft semi-realistic medical illu
 
 [↑ 回到顶部](#top)
 
+<sub><a href="https://yila.ai/?utm_source=github&utm_medium=readme&utm_campaign=sci-figure-prompts&utm_content=atherosclerosis-plaque">用 Yila 试试 →</a></sub>
+
 ---
 
 <a id="no-13"></a>
 
 ### No. 13：骨折愈合四阶段
+
+by [@Yila-AI](https://github.com/Yila-AI)
 
 写法技巧：**阶段式进程**　·　风格：柔和半写实插图　·　比例：16:9
 
@@ -633,11 +690,15 @@ Style: journal graphical-abstract illustration. Soft semi-realistic medical illu
 
 [↑ 回到顶部](#top)
 
+<sub><a href="https://yila.ai/?utm_source=github&utm_medium=readme&utm_campaign=sci-figure-prompts&utm_content=fracture-healing">用 Yila 试试 →</a></sub>
+
 ---
 
 <a id="no-14"></a>
 
 ### No. 14：肾小球滤过屏障三层结构
+
+by [@Yila-AI](https://github.com/Yila-AI)
 
 写法技巧：**剖面分层**　·　风格：柔和半写实插图　·　比例：4:3
 
@@ -673,11 +734,15 @@ Style: journal graphical-abstract illustration. Soft semi-realistic medical illu
 
 [↑ 回到顶部](#top)
 
+<sub><a href="https://yila.ai/?utm_source=github&utm_medium=readme&utm_campaign=sci-figure-prompts&utm_content=glomerular-barrier">用 Yila 试试 →</a></sub>
+
 ---
 
 <a id="no-15"></a>
 
 ### No. 15：健康肝脏与肝纤维化对比
+
+by [@Yila-AI](https://github.com/Yila-AI)
 
 写法技巧：**左右对比分屏 + 多尺度放大圆圈**　·　风格：柔和半写实插图　·　比例：16:9
 
@@ -713,11 +778,15 @@ Style: journal graphical-abstract illustration. Soft semi-realistic medical illu
 
 [↑ 回到顶部](#top)
 
+<sub><a href="https://yila.ai/?utm_source=github&utm_medium=readme&utm_campaign=sci-figure-prompts&utm_content=liver-fibrosis">用 Yila 试试 →</a></sub>
+
 ---
 
 <a id="no-16"></a>
 
 ### No. 16：肾单位结构与滤液流向
+
+by [@Yila-AI](https://github.com/Yila-AI)
 
 写法技巧：**结构 + 流向箭头**　·　风格：柔和半写实插图　·　比例：3:4
 
@@ -755,11 +824,15 @@ Style: journal graphical-abstract illustration. Soft semi-realistic medical illu
 
 [↑ 回到顶部](#top)
 
+<sub><a href="https://yila.ai/?utm_source=github&utm_medium=readme&utm_campaign=sci-figure-prompts&utm_content=nephron">用 Yila 试试 →</a></sub>
+
 ---
 
 <a id="no-17"></a>
 
 ### No. 17：肿瘤血管生成
+
+by [@Yila-AI](https://github.com/Yila-AI)
 
 写法技巧：**正常与异常对照 + 放大圆圈**　·　风格：柔和半写实插图　·　比例：4:3
 
@@ -797,11 +870,15 @@ Style: journal graphical-abstract illustration. Soft semi-realistic medical illu
 
 [↑ 回到顶部](#top)
 
+<sub><a href="https://yila.ai/?utm_source=github&utm_medium=readme&utm_campaign=sci-figure-prompts&utm_content=tumor-angiogenesis">用 Yila 试试 →</a></sub>
+
 ---
 
 <a id="no-18"></a>
 
 ### No. 18：皮肤创面愈合四阶段
+
+by [@Yila-AI](https://github.com/Yila-AI)
 
 写法技巧：**阶段式进程**　·　风格：柔和半写实插图　·　比例：16:9
 
@@ -841,6 +918,8 @@ Style: journal graphical-abstract illustration. Soft semi-realistic medical illu
 
 [↑ 回到顶部](#top)
 
+<sub><a href="https://yila.ai/?utm_source=github&utm_medium=readme&utm_campaign=sci-figure-prompts&utm_content=wound-healing-stages">用 Yila 试试 →</a></sub>
+
 ---
 
 <a id="experimental-workflow"></a>
@@ -850,6 +929,8 @@ Style: journal graphical-abstract illustration. Soft semi-realistic medical illu
 <a id="no-19"></a>
 
 ### No. 19：临床试验筛选、分组与随访
+
+by [@Yila-AI](https://github.com/Yila-AI)
 
 写法技巧：**竖向流程框图**　·　风格：期刊式扁平矢量　·　比例：3:4
 
@@ -883,11 +964,15 @@ Style: journal-style scientific schematic. Clean flat vector illustration on a w
 
 [↑ 回到顶部](#top)
 
+<sub><a href="https://yila.ai/?utm_source=github&utm_medium=readme&utm_campaign=sci-figure-prompts&utm_content=clinical-cohort">用 Yila 试试 →</a></sub>
+
 ---
 
 <a id="no-20"></a>
 
 ### No. 20：混合 CRISPR 筛选流程
+
+by [@Yila-AI](https://github.com/Yila-AI)
 
 写法技巧：**浅色圆角面板分步**　·　风格：扁平流程图　·　比例：16:9
 
@@ -929,11 +1014,15 @@ Style: journal-style experimental workflow figure. Clean flat vector icons on a 
 
 [↑ 回到顶部](#top)
 
+<sub><a href="https://yila.ai/?utm_source=github&utm_medium=readme&utm_campaign=sci-figure-prompts&utm_content=crispr-pooled-screen">用 Yila 试试 →</a></sub>
+
 ---
 
 <a id="no-21"></a>
 
 ### No. 21：小鼠疾病模型：分组、给药与取材
+
+by [@Yila-AI](https://github.com/Yila-AI)
 
 写法技巧：**浅色圆角面板分步 + 图标化小场景**　·　风格：扁平流程图　·　比例：16:9
 
@@ -975,11 +1064,15 @@ Style: journal-style experimental workflow figure. Clean flat vector icons on a 
 
 [↑ 回到顶部](#top)
 
+<sub><a href="https://yila.ai/?utm_source=github&utm_medium=readme&utm_campaign=sci-figure-prompts&utm_content=mouse-model-dosing">用 Yila 试试 →</a></sub>
+
 ---
 
 <a id="no-22"></a>
 
 ### No. 22：类器官培养与药物筛选
+
+by [@Yila-AI](https://github.com/Yila-AI)
 
 写法技巧：**浅色圆角面板分步**　·　风格：扁平流程图　·　比例：16:9
 
@@ -1021,11 +1114,15 @@ Style: journal-style experimental workflow figure. Clean flat vector icons on a 
 
 [↑ 回到顶部](#top)
 
+<sub><a href="https://yila.ai/?utm_source=github&utm_medium=readme&utm_campaign=sci-figure-prompts&utm_content=organoid-drug-screen">用 Yila 试试 →</a></sub>
+
 ---
 
 <a id="no-23"></a>
 
 ### No. 23：LC-MS/MS 蛋白质组学流程
+
+by [@Yila-AI](https://github.com/Yila-AI)
 
 写法技巧：**浅色圆角面板分步**　·　风格：扁平流程图　·　比例：16:9
 
@@ -1067,11 +1164,15 @@ Style: journal-style experimental workflow figure. Clean flat vector icons on a 
 
 [↑ 回到顶部](#top)
 
+<sub><a href="https://yila.ai/?utm_source=github&utm_medium=readme&utm_campaign=sci-figure-prompts&utm_content=proteomics-lcms">用 Yila 试试 →</a></sub>
+
 ---
 
 <a id="no-24"></a>
 
 ### No. 24：单细胞 RNA 测序流程
+
+by [@Yila-AI](https://github.com/Yila-AI)
 
 写法技巧：**浅色圆角面板分步**　·　风格：扁平流程图　·　比例：16:9
 
@@ -1113,11 +1214,15 @@ Style: journal-style experimental workflow figure. Clean flat vector icons on a 
 
 [↑ 回到顶部](#top)
 
+<sub><a href="https://yila.ai/?utm_source=github&utm_medium=readme&utm_campaign=sci-figure-prompts&utm_content=scrna-seq-workflow">用 Yila 试试 →</a></sub>
+
 ---
 
 <a id="no-25"></a>
 
 ### No. 25：空间转录组流程
+
+by [@Yila-AI](https://github.com/Yila-AI)
 
 写法技巧：**浅色圆角面板分步**　·　风格：扁平流程图　·　比例：16:9
 
@@ -1158,6 +1263,8 @@ Style: journal-style experimental workflow figure. Clean flat vector icons on a 
 模型：Nano Banana 2 Lite (gemini-3.1-flash-lite-image, 1K)　·　这条提示词共生成 4 次，展示的是核对通过的结果
 
 [↑ 回到顶部](#top)
+
+<sub><a href="https://yila.ai/?utm_source=github&utm_medium=readme&utm_campaign=sci-figure-prompts&utm_content=spatial-transcriptomics">用 Yila 试试 →</a></sub>
 
 ---
 

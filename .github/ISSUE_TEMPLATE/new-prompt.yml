@@ -45,7 +45,21 @@ body:
     id: author
     attributes:
       label: Author handle
-      description: GitHub username or the name to credit on the entry.
-      placeholder: "@your-handle"
+      description: Name or GitHub username to show as by @author. Do not include the @ or a URL.
+      placeholder: your-handle
     validations:
       required: true
+  - type: input
+    id: author-url
+    attributes:
+      label: Author link
+      description: Optional profile or GitHub URL for the credit.
+      placeholder: https://github.com/your-handle
+  - type: checkboxes
+    id: license-consent
+    attributes:
+      label: License
+      description: Prompts in this repository are released under CC BY 4.0.
+      options:
+        - label: I agree to license this prompt under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
+          required: true

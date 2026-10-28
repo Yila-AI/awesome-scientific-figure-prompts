@@ -3,6 +3,10 @@
   "theme": "experimental-workflow",
   "technique": "浅色圆角面板分步",
   "technique_en": "one pastel rounded panel per step",
+  "featured": false,
+  "added": "2026-10-28",
+  "author": "Yila-AI",
+  "author_url": "https://github.com/Yila-AI",
   "title": {
     "zh": "类器官培养与药物筛选",
     "en": "Organoid culture and drug screening"

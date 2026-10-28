@@ -3,6 +3,10 @@
   "theme": "experimental-workflow",
   "technique": "竖向流程框图",
   "technique_en": "vertical flowchart",
+  "featured": false,
+  "added": "2026-10-28",
+  "author": "Yila-AI",
+  "author_url": "https://github.com/Yila-AI",
   "title": {
     "zh": "临床试验筛选、分组与随访",
     "en": "Clinical trial enrollment and follow-up"

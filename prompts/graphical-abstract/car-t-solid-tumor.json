@@ -3,6 +3,10 @@
   "theme": "graphical-abstract",
   "technique": "阶段式进程 + 放大圆圈",
   "technique_en": "staged sequence + magnified inset",
+  "featured": true,
+  "added": "2026-10-28",
+  "author": "Yila-AI",
+  "author_url": "https://github.com/Yila-AI",
   "title": {
     "zh": "CAR-T 细胞攻克实体瘤",
     "en": "CAR-T cells against a solid tumor"
