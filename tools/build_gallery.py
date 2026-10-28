@@ -38,27 +38,51 @@ THEMES = [
     ("signaling-pathway", "信号通路", "Signaling Pathway"),
     ("medical-illustration", "医学插图", "Medical Illustration"),
     ("experimental-workflow", "实验流程", "Experimental Workflow"),
+    ("materials-energy", "材料与能源", "Materials & Energy"),
+    ("earth-environment", "环境与地球", "Earth & Environment"),
+    ("ai-computing", "AI 与计算机", "AI & Computing"),
+    ("engineering-systems", "工程系统", "Engineering Systems"),
+    ("chemistry-instruments", "化学与仪器", "Chemistry & Instruments"),
+    ("plant-agriculture", "农学与植物", "Plant & Agriculture"),
+    ("social-science", "人文社科", "Social Science"),
 ]
 THUMB_EMOJI = {
     "graphical-abstract": "🧭",
     "signaling-pathway": "🧬",
     "medical-illustration": "🫀",
     "experimental-workflow": "🧪",
+    "materials-energy": "🔋",
+    "earth-environment": "🌍",
+    "ai-computing": "🤖",
+    "engineering-systems": "⚙️",
+    "chemistry-instruments": "⚗️",
+    "plant-agriculture": "🌱",
+    "social-science": "📊",
 }
-# First-screen thumbnails. Paths are checked at build time.
+# Category thumbnails. Paths are checked at build time. Rows of four keep the nav readable.
 THUMB_SRC = {
     "graphical-abstract": "gallery/graphical-abstract/nanoparticle-tumor-delivery-en.jpg",
     "signaling-pathway": "gallery/signaling-pathway/cgas-sting-en.jpg",
     "medical-illustration": "gallery/medical-illustration/alzheimers-brain-en.jpg",
     "experimental-workflow": "gallery/experimental-workflow/mouse-model-dosing-en.jpg",
+    "materials-energy": "gallery/materials-energy/li-ion-battery-en.jpg",
+    "earth-environment": "gallery/earth-environment/carbon-cycle-en.jpg",
+    "ai-computing": "gallery/ai-computing/llm-agent-loop-en.jpg",
+    "engineering-systems": "gallery/engineering-systems/integrated-energy-system-en.jpg",
+    "chemistry-instruments": "gallery/chemistry-instruments/hplc-system-en.jpg",
+    "plant-agriculture": "gallery/plant-agriculture/leaf-photosynthesis-en.jpg",
+    "social-science": "gallery/social-science/technical-roadmap-en.jpg",
 }
+BROWSE_COLUMNS = 4
 COVER_ALT = {
     "en": "AI-generated scientific figures: graphical abstract, cGAS-STING signaling pathway, Alzheimer's brain, fracture healing, mouse experimental workflow",
     "zh": "AI 生成的科研插图：图形摘要、cGAS–STING 信号通路、阿尔茨海默病大脑、骨折愈合、小鼠实验流程",
 }
 STYLE_NAMES = {"A": ("期刊式扁平矢量", "flat vector schematic"),
                "B": ("柔和半写实插图", "soft semi-realistic illustration"),
-               "W": ("扁平流程图", "flat workflow")}
+               "W": ("扁平流程图", "flat workflow"),
+               "D": ("期刊式示意框图", "schematic diagram"),
+               "S": ("期刊式科学插画", "scientific illustration")}
 FEATURED = [("wound-healing-stages", "en"), ("liver-fibrosis", "en"), ("nanoparticle-tumor-delivery", "en"),
             ("cgas-sting", "zh"), ("mouse-model-dosing", "zh"), ("alzheimers-brain", "zh"),
             ("fracture-healing", "zh"), ("hydrogel-wound", "en"), ("tgfb-smad", "zh")]
@@ -244,6 +268,7 @@ def hero(entries, lang):
     if zh:
         value = "**5 分钟做出期刊风格的科研图初稿——不用 BioRender，也不用会画画。**"
         keywords = ("可直接复制的提示词模板，覆盖图形摘要、信号通路、医学插图和实验流程，"
+                    "以及材料能源、环境、AI、工程、化学、农学和社科。"
                     "每条都用真实的 Nano Banana / Gemini 出图检验过。")
         switch = [
             "[![English](https://img.shields.io/badge/English-View-orange)](README_en.md)",
@@ -252,8 +277,9 @@ def hero(entries, lang):
     else:
         value = "**Turn your research into a journal-style figure draft in 5 minutes — no BioRender, no drawing skills.**"
         keywords = ("Copy-paste prompt templates for graphical abstracts, signaling pathways, "
-                    "medical illustrations and experimental workflows, each tested with real "
-                    "Nano Banana / Gemini outputs.")
+                    "medical illustrations and experimental workflows, plus materials, energy, "
+                    "environment, AI, engineering, chemistry, plant science and social science. "
+                    "Each template is tested with real Nano Banana / Gemini outputs.")
         switch = [
             "[![English](https://img.shields.io/badge/English-Current-brightgreen)](README_en.md)",
             "[![简体中文](https://img.shields.io/badge/简体中文-点击查看-orange)](README.md)",
@@ -336,15 +362,21 @@ def browse(entries, lang):
         headers.append(f"[{THUMB_EMOJI[theme]} {name}](#{theme})")
         thumbs.append(f'<a href="#{theme}"><img src="{src}" alt="{alt}" width="200"></a>')
         counts.append(f"{n} 个模板" if zh else (f"{n} template" if n == 1 else f"{n} templates"))
-    return [
-        "## " + ("按图类型浏览" if zh else "Browse by figure type"),
-        "",
-        "| " + " | ".join(headers) + " |",
-        "|:-:|:-:|:-:|:-:|",
-        "| " + " | ".join(thumbs) + " |",
-        "| " + " | ".join(counts) + " |",
-        "",
-    ]
+    L = ["## " + ("按图类型浏览" if zh else "Browse by figure type"), ""]
+    cols = BROWSE_COLUMNS
+    for start in range(0, len(headers), cols):
+        group = [headers[start:start + cols], thumbs[start:start + cols], counts[start:start + cols]]
+        width = cols
+        for row in group:
+            row += [""] * (width - len(row))
+        L += [
+            "| " + " | ".join(group[0]) + " |",
+            "|" + ":-:|" * width,
+            "| " + " | ".join(group[1]) + " |",
+            "| " + " | ".join(group[2]) + " |",
+            "",
+        ]
+    return L
 
 
 def howto(lang):

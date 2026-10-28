@@ -1,0 +1,20 @@
+{
+  "id": "research-framework",
+  "theme": "social-science",
+  "technique": "逐条关系 + 框图",
+  "technique_en": "numbered relationships + block diagram",
+  "featured": false,
+  "added": "2026-10-28",
+  "author": "Yila-AI",
+  "author_url": "https://github.com/Yila-AI",
+  "title": {
+    "zh": "研究框架图（中介与调节）",
+    "en": "Research framework with mediator and moderator"
+  },
+  "style": "D",
+  "size": "16:9",
+  "content": {
+    "en": "Create a conceptual research framework diagram, read from left to right. Draw each relationship exactly as listed and nothing more:\n1. 【Social media use → Social comparison (solid arrow).】\n2. 【Social comparison → Well-being (solid arrow).】\n3. 【Social media use → Well-being (a direct solid arrow below the other two).】\n4. 【Self-esteem points with a dashed arrow onto the middle of arrow 2.】\n5. 【A gray box at the bottom lists control variables.】\nEach variable is a rounded rectangle.\nLabels, each used once, no other text: 【Social media use, Social comparison, Well-being, Self-esteem, Control variables】.",
+    "zh": "画一张概念研究框架图，从左往右读。严格按下面列出的关系画，不多画：\n1. 【社交媒体使用 → 社会比较（实线箭头）。】\n2. 【社会比较 → 幸福感（实线箭头）。】\n3. 【社交媒体使用 → 幸福感（在前两条下方，一条直接的实线箭头）。】\n4. 【自尊用一条虚线箭头指向第 2 条箭头的中间。】\n5. 【底部一个灰色方框列出控制变量。】\n每个变量画成一个圆角矩形。\n标签（每个只出现一次，不加其他文字）：【Social media use, Social comparison, Well-being, Self-esteem, Control variables】。"
+  }
+}

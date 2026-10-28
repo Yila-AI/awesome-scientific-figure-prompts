@@ -1,0 +1,20 @@
+{
+  "id": "li-ion-battery",
+  "theme": "materials-energy",
+  "technique": "剖面 + 流向箭头",
+  "technique_en": "cross-section + flow arrows",
+  "featured": false,
+  "added": "2026-10-28",
+  "author": "Yila-AI",
+  "author_url": "https://github.com/Yila-AI",
+  "title": {
+    "zh": "锂离子电池充放电",
+    "en": "Lithium-ion battery charge and discharge"
+  },
+  "style": "S",
+  "size": "16:9",
+  "content": {
+    "en": "Create a horizontal cross-section illustration of 【a lithium-ion battery during discharge】: 【the graphite anode on the left, a porous separator in the middle, and a layered oxide cathode on the right, all soaked in electrolyte】. Arrows show 【lithium ions moving from the anode through the separator to the cathode, while electrons flow through an external wire to a small light bulb】. A circular magnified inset shows 【lithium ions sliding out from between the graphite layers】.\nLabels, each used once, no other text: 【Anode, Separator, Cathode, Li+, e-】.",
+    "zh": "画一张【放电过程中的锂离子电池】横向剖面插画：【左边是石墨负极，中间是多孔隔膜，右边是层状氧化物正极，全部浸在电解液里】。箭头表示【锂离子从负极穿过隔膜移向正极，电子则经外部导线流过一个小灯泡】。用一个圆形放大框展示【锂离子从石墨层之间滑出】。\n标签（每个只出现一次，不加其他文字）：【Anode, Separator, Cathode, Li+, e-】。"
+  }
+}

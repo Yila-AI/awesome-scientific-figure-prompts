@@ -1,0 +1,20 @@
+{
+  "id": "technical-roadmap",
+  "theme": "social-science",
+  "technique": "竖向技术路线",
+  "technique_en": "vertical technology roadmap",
+  "featured": false,
+  "added": "2026-10-28",
+  "author": "Yila-AI",
+  "author_url": "https://github.com/Yila-AI",
+  "title": {
+    "zh": "课题技术路线图",
+    "en": "Research technical roadmap"
+  },
+  "style": "D",
+  "size": "3:4",
+  "content": {
+    "en": "Create a vertical technical roadmap for 【a research project】, read from top to bottom, each stage a light pastel rounded panel with a small icon, connected by thin arrows: 【Research question (a question-mark icon) → Data collection, split into three side-by-side boxes for survey, interviews and archives → Analysis (a chart icon) → Findings (a lightbulb icon) → Policy implications (a document icon)】.\nLabels, each used once, no other text: 【Research question, Data collection, Analysis, Findings, Implications】.",
+    "zh": "画一张【课题研究】的竖向技术路线图，从上往下读，每个阶段是一个带小图标的浅色圆角面板，用细箭头连接：【研究问题（问号图标）→ 数据收集，分成并排的三个小框：问卷、访谈、档案 → 分析（图表图标）→ 研究发现（灯泡图标）→ 政策启示（文件图标）】。\n标签（每个只出现一次，不加其他文字）：【Research question, Data collection, Analysis, Findings, Implications】。"
+  }
+}

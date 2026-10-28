@@ -1,0 +1,20 @@
+{
+  "id": "integrated-energy-system",
+  "theme": "engineering-systems",
+  "technique": "源–转换–储–用分层",
+  "technique_en": "source–conversion–storage–use layers",
+  "featured": false,
+  "added": "2026-10-28",
+  "author": "Yila-AI",
+  "author_url": "https://github.com/Yila-AI",
+  "title": {
+    "zh": "综合能源系统",
+    "en": "Integrated energy system"
+  },
+  "style": "D",
+  "size": "16:9",
+  "content": {
+    "en": "Create a schematic diagram of 【an integrated energy system】 in four columns from left to right: 【sources (solar panels, a wind turbine, the power grid) → conversion (an inverter and a heat pump) → storage (a battery bank and a hot-water tank) → loads (an office building and an electric vehicle)】. Orange arrows carry electricity and red arrows carry heat.\nLabels, each used once, no other text: 【Solar, Wind, Battery storage, Heat pump, Building, EV】.",
+    "zh": "画一张【综合能源系统】示意框图，从左到右分四列：【能源（太阳能板、风机、电网）→ 转换（逆变器、热泵）→ 储能（电池组、热水罐）→ 用户（办公楼、电动汽车）】。橙色箭头表示电力，红色箭头表示热量。\n标签（每个只出现一次，不加其他文字）：【Solar, Wind, Battery storage, Heat pump, Building, EV】。"
+  }
+}

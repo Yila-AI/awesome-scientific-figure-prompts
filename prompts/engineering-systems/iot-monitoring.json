@@ -1,0 +1,20 @@
+{
+  "id": "iot-monitoring",
+  "theme": "engineering-systems",
+  "technique": "分层架构 + 反馈回路",
+  "technique_en": "layered architecture + feedback loop",
+  "featured": false,
+  "added": "2026-10-28",
+  "author": "Yila-AI",
+  "author_url": "https://github.com/Yila-AI",
+  "title": {
+    "zh": "物联网监测系统架构",
+    "en": "IoT monitoring architecture"
+  },
+  "style": "D",
+  "size": "16:9",
+  "content": {
+    "en": "Create a layered architecture diagram of 【an IoT environmental monitoring system】, from left to right in five layers, each in its own light pastel panel: 【field sensors (temperature, humidity, water quality icons) → an edge gateway → a cloud server → an analytics model → a dashboard on a screen】. A dashed feedback arrow returns 【from the dashboard to a valve actuator next to the sensors】.\nLabels, each used once, no other text: 【Sensors, Edge gateway, Cloud, Analytics, Dashboard】.",
+    "zh": "画一张【物联网环境监测系统】的分层架构图，从左到右分五层，每层一个浅色面板：【现场传感器（温度、湿度、水质图标）→ 边缘网关 → 云服务器 → 分析模型 → 屏幕上的监控看板】。一条虚线反馈箭头【从看板回到传感器旁边的阀门执行器】。\n标签（每个只出现一次，不加其他文字）：【Sensors, Edge gateway, Cloud, Analytics, Dashboard】。"
+  }
+}

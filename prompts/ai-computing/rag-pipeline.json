@@ -1,0 +1,20 @@
+{
+  "id": "rag-pipeline",
+  "theme": "ai-computing",
+  "technique": "逐条关系 + 模块框图",
+  "technique_en": "numbered relationships + module diagram",
+  "featured": false,
+  "added": "2026-10-28",
+  "author": "Yila-AI",
+  "author_url": "https://github.com/Yila-AI",
+  "title": {
+    "zh": "检索增强生成（RAG）流程",
+    "en": "Retrieval-augmented generation (RAG) pipeline"
+  },
+  "style": "D",
+  "size": "16:9",
+  "content": {
+    "en": "Create a schematic diagram of 【a retrieval-augmented generation (RAG) pipeline】, read from left to right. Draw each relationship exactly as listed and nothing more:\n1. 【A user query is turned into a vector by an embedding model.】\n2. 【The vector searches a vector database of document chunks.】\n3. 【The top matching chunks are returned as retrieved documents.】\n4. 【The query and the retrieved documents go into a large language model.】\n5. 【The language model writes the answer.】\nAbove the main flow, a lighter panel shows 【documents being split into chunks and stored in the vector database】.\nLabels, each used once, no other text: 【Query, Embedding, Vector DB, Retrieved docs, LLM, Answer】.",
+    "zh": "画一张【检索增强生成（RAG）流程】的示意框图，从左往右读。严格按下面列出的关系画，不多画：\n1. 【用户的问题经嵌入模型变成向量。】\n2. 【用这个向量在存放文档片段的向量数据库里检索。】\n3. 【返回最匹配的几个片段，作为检索到的文档。】\n4. 【问题和检索到的文档一起输入大语言模型。】\n5. 【大语言模型写出回答。】\n主流程上方用一个浅色面板展示【文档被切成片段并存入向量数据库】。\n标签（每个只出现一次，不加其他文字）：【Query, Embedding, Vector DB, Retrieved docs, LLM, Answer】。"
+  }
+}
