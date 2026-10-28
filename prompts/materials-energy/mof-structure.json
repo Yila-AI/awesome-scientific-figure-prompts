@@ -1,0 +1,20 @@
+{
+  "id": "mof-structure",
+  "theme": "materials-energy",
+  "technique": "结构放大加应用图标",
+  "technique_en": "structure close-up plus application icons",
+  "featured": false,
+  "added": "2026-10-28",
+  "author": "Yila-AI",
+  "author_url": "https://github.com/Yila-AI",
+  "title": {
+    "zh": "MOF 结构与应用",
+    "en": "Metal–organic framework (MOF) structure and uses"
+  },
+  "style": "S",
+  "size": "16:9",
+  "content": {
+    "en": "Create a scientific illustration of 【a metal–organic framework】: on the left, a 3D lattice of metal nodes (small colored clusters) joined by organic linkers (gray rods), with open pores; a few CO2 molecules sit inside the pores. On the right, two application icons: a gas cylinder for storage and a flask for catalysis. Draw molecules as simple shapes, with no chemical structures.\nWrite each label only once in the whole figure.\nLabels, each used once, no other text: 【Metal node, Organic linker, Pore, CO2, Gas storage, Catalysis】.",
+    "zh": "画一张【金属有机框架】的科学插画：左侧是由金属节点（彩色小簇）和有机配体（灰色棒）连成的三维晶格，留有开放孔道，几个 CO2 分子停在孔里。右侧两个应用图标：代表储存的气瓶和代表催化的烧瓶。分子用简单形状表示，不画化学结构式。\n整张图里每个标签只写一次。\n标签（每个只出现一次，不加其他文字）：【Metal node, Organic linker, Pore, CO2, Gas storage, Catalysis】。"
+  }
+}

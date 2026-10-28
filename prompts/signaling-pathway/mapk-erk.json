@@ -1,0 +1,20 @@
+{
+  "id": "mapk-erk",
+  "theme": "signaling-pathway",
+  "technique": "受体到核的线性级联",
+  "technique_en": "linear cascade from receptor to nucleus",
+  "featured": false,
+  "added": "2026-10-28",
+  "author": "Yila-AI",
+  "author_url": "https://github.com/Yila-AI",
+  "title": {
+    "zh": "MAPK/ERK 通路",
+    "en": "MAPK/ERK pathway"
+  },
+  "style": "A",
+  "size": "4:3",
+  "content": {
+    "en": "Create a signaling pathway schematic of 【MAPK/ERK signaling】 inside one cell, receptor in the membrane at the top, read from top to bottom. Draw each relationship exactly as listed and nothing more:\n1. 【EGF binds EGFR in the membrane.】\n2. 【EGFR activates Ras.】\n3. 【Ras activates Raf.】\n4. 【Raf phosphorylates MEK (small 'P' circle).】\n5. 【MEK phosphorylates ERK (small 'P' circle).】\n6. 【ERK moves into the nucleus at the bottom and turns on proliferation genes.】\nUse red T-bars only where listed; every other arrow is a solid activation arrow. Do not write the numbered sentences in the figure.\nLabels, each used once, no other text: 【EGF, EGFR, Ras, Raf, MEK, ERK, Proliferation genes】.",
+    "zh": "画一张【MAPK/ERK 信号】的通路示意图，在一个细胞内，受体在顶部细胞膜上，从上往下读。严格按下面列出的关系画，不多画：\n1. 【EGF 结合膜上的 EGFR。】\n2. 【EGFR 激活 Ras。】\n3. 【Ras 激活 Raf。】\n4. 【Raf 磷酸化 MEK（带 P 的小圆点）。】\n5. 【MEK 磷酸化 ERK（带 P 的小圆点）。】\n6. 【ERK 进入底部的细胞核，开启增殖基因。】\n只在列出的地方用红色 T 形线，其他箭头都是实线激活箭头。不要把编号句子写进图里。\n标签（每个只出现一次，不加其他文字）：【EGF, EGFR, Ras, Raf, MEK, ERK, Proliferation genes】。"
+  }
+}

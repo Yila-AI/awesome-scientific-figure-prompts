@@ -1,0 +1,20 @@
+{
+  "id": "evidence-chain",
+  "theme": "research-design",
+  "technique": "三类证据汇向结论",
+  "technique_en": "three lines of evidence converging on one conclusion",
+  "featured": false,
+  "added": "2026-10-28",
+  "author": "Yila-AI",
+  "author_url": "https://github.com/Yila-AI",
+  "title": {
+    "zh": "研究证据链：体外—体内—临床",
+    "en": "Evidence chain: in vitro, in vivo, clinical"
+  },
+  "style": "D",
+  "size": "16:9",
+  "content": {
+    "en": "Create an evidence-chain figure for 【a mechanism study】, read from left to right. Draw each relationship exactly as listed and nothing more:\n1. 【Three stacked panels on the left, each with one icon: in vitro (a culture dish), in vivo (a mouse), clinical samples (a test tube with a patient icon).】\n2. 【Each panel points with an arrow to one box on the right for the conclusion.】\nDo not write the numbered sentences in the figure.\nLabels, each used once, no other text: 【In vitro, In vivo, Clinical samples, Conclusion】.",
+    "zh": "画一张【机制研究】的证据链图，从左往右读。严格按下面列出的关系画，不多画：\n1. 【左侧上下排列三个面板，各配一个图标：体外（培养皿）、体内（小鼠）、临床样本（试管加病人图标）。】\n2. 【每个面板都用箭头指向右侧一个代表结论的框。】\n不要把编号句子写进图里。\n标签（每个只出现一次，不加其他文字）：【In vitro, In vivo, Clinical samples, Conclusion】。"
+  }
+}

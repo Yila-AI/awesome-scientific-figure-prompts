@@ -1,0 +1,20 @@
+{
+  "id": "elisa",
+  "theme": "experimental-workflow",
+  "technique": "每步一个面板，只写步骤名",
+  "technique_en": "one panel per step, step names only",
+  "featured": false,
+  "added": "2026-10-28",
+  "author": "Yila-AI",
+  "author_url": "https://github.com/Yila-AI",
+  "title": {
+    "zh": "ELISA 流程（夹心法）",
+    "en": "Sandwich ELISA workflow"
+  },
+  "style": "W",
+  "size": "16:9",
+  "content": {
+    "en": "Create a workflow figure for 【a sandwich ELISA】, 6 steps from left to right:\n1. 【Capture antibody: Y-shaped antibodies on the bottom of a well】\n2. 【Blocking: the well filled with buffer】\n3. 【Sample: target proteins binding the antibodies】\n4. 【Detection antibody: a second antibody with an enzyme tag on top】\n5. 【Substrate: the well turning blue】\n6. 【Plate reading: a plate reader】\nDo not write the numbered sentences in the figure.\nStep names, each used once, no other text: 【Capture antibody, Blocking, Sample, Detection antibody, Substrate, Plate reading】.",
+    "zh": "画一张【夹心 ELISA 实验】的流程图，从左往右六步：\n1. 【捕获抗体：孔底的 Y 形抗体】\n2. 【封闭：孔里装满缓冲液】\n3. 【加样：靶蛋白结合到抗体上】\n4. 【检测抗体：上方再结合一个带酶标的抗体】\n5. 【底物显色：孔变成蓝色】\n6. 【读板：一台酶标仪】\n不要把编号句子写进图里。\n步骤名（每个只出现一次，不加其他文字）：【Capture antibody, Blocking, Sample, Detection antibody, Substrate, Plate reading】。"
+  }
+}

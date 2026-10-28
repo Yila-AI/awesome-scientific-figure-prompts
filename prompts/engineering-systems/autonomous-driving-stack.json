@@ -1,0 +1,20 @@
+{
+  "id": "autonomous-driving-stack",
+  "theme": "engineering-systems",
+  "technique": "三类传感器汇入流水线",
+  "technique_en": "three sensors feeding one pipeline",
+  "featured": false,
+  "added": "2026-10-28",
+  "author": "Yila-AI",
+  "author_url": "https://github.com/Yila-AI",
+  "title": {
+    "zh": "自动驾驶感知—决策—控制",
+    "en": "Autonomous driving perception to control"
+  },
+  "style": "D",
+  "size": "16:9",
+  "content": {
+    "en": "Create a system diagram of 【an autonomous driving software stack】, read from left to right. Draw each relationship exactly as listed and nothing more:\n1. 【Three sensors stacked on the left (camera, LiDAR, radar) feed into sensor fusion.】\n2. 【Sensor fusion → detection (a car with a bounding box) → planning (a curved path on a road) → control (a steering wheel).】\nDo not write the numbered sentences in the figure.\nLabels, each used once, no other text: 【Camera, LiDAR, Radar, Sensor fusion, Detection, Planning, Control】.",
+    "zh": "画一张【自动驾驶软件栈】系统图，从左往右读。严格按下面列出的关系画，不多画：\n1. 【左侧上下排列的三个传感器（摄像头、激光雷达、毫米波雷达）汇入传感器融合。】\n2. 【传感器融合 → 目标检测（带框的汽车）→ 路径规划（路面上的弯曲路线）→ 控制（方向盘）。】\n不要把编号句子写进图里。\n标签（每个只出现一次，不加其他文字）：【Camera, LiDAR, Radar, Sensor fusion, Detection, Planning, Control】。"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "case-control-design",
+  "theme": "research-design",
+  "technique": "从结局向前回溯暴露",
+  "technique_en": "looking back from outcome to exposure",
+  "featured": false,
+  "added": "2026-10-28",
+  "author": "Yila-AI",
+  "author_url": "https://github.com/Yila-AI",
+  "title": {
+    "zh": "病例对照研究设计",
+    "en": "Case-control study design"
+  },
+  "style": "D",
+  "size": "16:9",
+  "content": {
+    "en": "Create a study design diagram of 【a case-control study】: a time arrow along the bottom pointing from right to left, showing that the study looks back in time.\n1. On the right, two groups: cases (people icons with a red disease mark) and controls (people icons without it).\n2. From each group, a backward arrow leads to the left side, where each group splits into exposed (dark icons) and unexposed (light icons).\nWrite each label only once in the whole figure.\nLabels, each used once, no other text: 【Cases, Controls, Exposed, Unexposed, Past, Present】.",
+    "zh": "画一张【病例对照研究】的设计图：底部一条从右指向左的时间箭头，表示研究向过去回溯。\n1. 右侧两组：病例组（带红色患病标记的人形图标）和对照组（不带标记的人形图标）。\n2. 每组都有一条向左的回溯箭头，到左侧再分成暴露（深色图标）和未暴露（浅色图标）。\n整张图里每个标签只写一次。\n标签（每个只出现一次，不加其他文字）：【Cases, Controls, Exposed, Unexposed, Past, Present】。"
+  }
+}

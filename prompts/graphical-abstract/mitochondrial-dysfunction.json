@@ -1,0 +1,20 @@
+{
+  "id": "mitochondrial-dysfunction",
+  "theme": "graphical-abstract",
+  "technique": "健康与受损左右对照",
+  "technique_en": "healthy and damaged side by side",
+  "featured": false,
+  "added": "2026-10-28",
+  "author": "Yila-AI",
+  "author_url": "https://github.com/Yila-AI",
+  "title": {
+    "zh": "线粒体功能障碍",
+    "en": "Mitochondrial dysfunction"
+  },
+  "style": "B",
+  "size": "16:9",
+  "content": {
+    "en": "Create a graphical abstract of 【mitochondrial dysfunction】: two mitochondria side by side.\n1. Left, healthy: 【neat folded cristae, steady ATP output shown as small yellow spheres】.\n2. Right, dysfunctional: 【swollen with broken cristae, few ATP spheres, red ROS particles leaking out, and mtDNA strands escaping into the cytosol】.\nA thin arrow points from left to right.\nWrite each label only once in the whole figure.\nLabels, each used once, no other text: 【Healthy, Dysfunctional, ATP, ROS, mtDNA】.",
+    "zh": "画一张【线粒体功能障碍】的图文摘要：左右两个线粒体对照。\n1. 左，健康：【嵴折叠整齐，稳定产出 ATP，画成黄色小球】。\n2. 右，功能障碍：【肿胀、嵴断裂，ATP 小球很少，红色 ROS 颗粒外漏，mtDNA 链逸出到胞质】。\n中间一条细箭头从左指向右。\n整张图里每个标签只写一次。\n标签（每个只出现一次，不加其他文字）：【Healthy, Dysfunctional, ATP, ROS, mtDNA】。"
+  }
+}

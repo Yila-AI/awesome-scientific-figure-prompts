@@ -1,0 +1,20 @@
+{
+  "id": "utaut-model",
+  "theme": "social-science",
+  "technique": "四个前因加调节变量",
+  "technique_en": "four antecedents plus moderators",
+  "featured": false,
+  "added": "2026-10-28",
+  "author": "Yila-AI",
+  "author_url": "https://github.com/Yila-AI",
+  "title": {
+    "zh": "整合型技术接受模型（UTAUT）",
+    "en": "Unified theory of acceptance and use of technology (UTAUT)"
+  },
+  "style": "D",
+  "size": "16:9",
+  "content": {
+    "en": "Create a conceptual model diagram of 【UTAUT】, read from left to right, each variable a rounded rectangle. Draw each relationship exactly as listed and nothing more:\n1. 【Performance expectancy, effort expectancy and social influence each → behavioral intention.】\n2. 【Behavioral intention → use behavior.】\n3. 【Facilitating conditions → use behavior.】\n4. 【A row of four small gray moderator boxes along the bottom (gender, age, experience, voluntariness) points with dashed arrows to the middle of the paths.】\nDo not write the numbered sentences in the figure.\nLabels, each used once, no other text: 【Performance expectancy, Effort expectancy, Social influence, Facilitating conditions, Behavioral intention, Use behavior, Gender, Age, Experience, Voluntariness】.",
+    "zh": "画一张【UTAUT】概念图，从左往右读，每个变量画成一个圆角矩形。严格按下面列出的关系画，不多画：\n1. 【绩效期望、努力期望和社会影响分别 → 行为意向。】\n2. 【行为意向 → 使用行为。】\n3. 【便利条件 → 使用行为。】\n4. 【底部一排四个灰色小调节变量框（性别、年龄、经验、自愿性），用虚线箭头指向路径中间。】\n不要把编号句子写进图里。\n标签（每个只出现一次，不加其他文字）：【Performance expectancy, Effort expectancy, Social influence, Facilitating conditions, Behavioral intention, Use behavior, Gender, Age, Experience, Voluntariness】。"
+  }
+}

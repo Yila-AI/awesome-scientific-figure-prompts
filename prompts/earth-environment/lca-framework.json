@@ -1,0 +1,20 @@
+{
+  "id": "lca-framework",
+  "theme": "earth-environment",
+  "technique": "三阶段与解释贯穿",
+  "technique_en": "three phases tied to interpretation",
+  "featured": false,
+  "added": "2026-10-28",
+  "author": "Yila-AI",
+  "author_url": "https://github.com/Yila-AI",
+  "title": {
+    "zh": "生命周期评价（LCA）框架",
+    "en": "Life cycle assessment (LCA) framework"
+  },
+  "style": "D",
+  "size": "16:9",
+  "content": {
+    "en": "Create a framework diagram of 【life cycle assessment】: inside one large frame, three boxes stacked on the left (goal and scope, inventory analysis, impact assessment) joined by downward arrows, and one tall box on the right for interpretation, with two-way arrows linking it to each of the three boxes. Outside the frame on the right, one box for applications with an arrow from the frame.\nWrite each label only once in the whole figure.\nLabels, each used once, no other text: 【Goal and scope, Inventory analysis, Impact assessment, Interpretation, Applications】.",
+    "zh": "画一张【生命周期评价】框架图：一个大框内，左侧上下排列三个框（目标与范围、清单分析、影响评价），用向下箭头连接；右侧一个高框代表解释，用双向箭头分别连到左侧三个框。大框外右侧一个应用框，从大框引一条箭头过去。\n整张图里每个标签只写一次。\n标签（每个只出现一次，不加其他文字）：【Goal and scope, Inventory analysis, Impact assessment, Interpretation, Applications】。"
+  }
+}

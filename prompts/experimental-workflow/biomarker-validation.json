@@ -1,0 +1,20 @@
+{
+  "id": "biomarker-validation",
+  "theme": "experimental-workflow",
+  "technique": "每步一个面板，只写步骤名",
+  "technique_en": "one panel per step, step names only",
+  "featured": false,
+  "added": "2026-10-28",
+  "author": "Yila-AI",
+  "author_url": "https://github.com/Yila-AI",
+  "title": {
+    "zh": "生物标志物发现与验证流程",
+    "en": "Biomarker discovery and validation workflow"
+  },
+  "style": "W",
+  "size": "16:9",
+  "content": {
+    "en": "Create a workflow figure for 【biomarker discovery and validation】, 6 steps from left to right:\n1. 【Discovery cohort: a group of patient icons】\n2. 【Candidate biomarkers: a few molecules with tags】\n3. 【Model training: a small network】\n4. 【Internal validation: a circular arrow】\n5. 【External validation: a second hospital】\n6. 【Clinical use: a doctor holding a test kit】\nDo not write the numbered sentences in the figure.\nStep names, each used once, no other text: 【Discovery cohort, Candidate biomarkers, Model training, Internal validation, External validation, Clinical use】.",
+    "zh": "画一张【生物标志物发现与验证】的流程图，从左往右六步：\n1. 【发现队列：一组病人图标】\n2. 【候选标志物：几个带标签的分子】\n3. 【模型训练：一个小网络】\n4. 【内部验证：一个循环箭头】\n5. 【外部验证：另一家医院】\n6. 【临床应用：手持检测试剂盒的医生】\n不要把编号句子写进图里。\n步骤名（每个只出现一次，不加其他文字）：【Discovery cohort, Candidate biomarkers, Model training, Internal validation, External validation, Clinical use】。"
+  }
+}

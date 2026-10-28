@@ -1,0 +1,20 @@
+{
+  "id": "drought-aba",
+  "theme": "plant-agriculture",
+  "technique": "根到叶，再到保卫细胞",
+  "technique_en": "from roots to leaves to guard cells",
+  "featured": false,
+  "added": "2026-10-28",
+  "author": "Yila-AI",
+  "author_url": "https://github.com/Yila-AI",
+  "title": {
+    "zh": "干旱胁迫与 ABA 信号",
+    "en": "Drought stress and ABA signaling"
+  },
+  "style": "A",
+  "size": "16:9",
+  "content": {
+    "en": "Create a schematic of 【ABA signaling under drought】: a small plant on the left and a magnified guard cell pair on the right. Draw each relationship exactly as listed and nothing more:\n1. 【Drought at the roots raises ABA, which travels up to the leaves.】\n2. 【ABA binds the PYR/PYL receptor.】\n3. 【PYR/PYL inhibits PP2C (red T-bar).】\n4. 【PP2C inhibits SnRK2 (red T-bar).】\n5. 【SnRK2 acts on the guard cells, and the stomatal pore closes.】\nWrite Drought and ABA once each, and do not add titles. Use red T-bars only where listed; every other arrow is a solid activation arrow. Do not write the numbered sentences in the figure.\nLabels, each used once, no other text: 【Drought, ABA, PYR/PYL, PP2C, SnRK2, Guard cell, Stomatal closure】.",
+    "zh": "画一张【干旱下的 ABA 信号】示意图：左侧一株小植物，右侧一对放大的保卫细胞。严格按下面列出的关系画，不多画：\n1. 【根部干旱使 ABA 升高，ABA 向上运到叶片。】\n2. 【ABA 结合 PYR/PYL 受体。】\n3. 【PYR/PYL 抑制 PP2C（红色 T 形线）。】\n4. 【PP2C 抑制 SnRK2（红色 T 形线）。】\n5. 【SnRK2 作用于保卫细胞，气孔关闭。】\nDrought 和 ABA 各只写一次，不加标题。只在列出的地方用红色 T 形线，其他箭头都是实线激活箭头。不要把编号句子写进图里。\n标签（每个只出现一次，不加其他文字）：【Drought, ABA, PYR/PYL, PP2C, SnRK2, Guard cell, Stomatal closure】。"
+  }
+}

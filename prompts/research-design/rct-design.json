@@ -1,0 +1,20 @@
+{
+  "id": "rct-design",
+  "theme": "research-design",
+  "technique": "随机分两臂并行随访",
+  "technique_en": "randomized into two parallel arms",
+  "featured": false,
+  "added": "2026-10-28",
+  "author": "Yila-AI",
+  "author_url": "https://github.com/Yila-AI",
+  "title": {
+    "zh": "随机对照试验设计",
+    "en": "Randomized controlled trial design"
+  },
+  "style": "D",
+  "size": "16:9",
+  "content": {
+    "en": "Create a study design diagram of 【a two-arm randomized controlled trial】, read from left to right. Draw each relationship exactly as listed and nothing more:\n1. 【Eligible participants (a group of people icons) → randomization (a dice icon).】\n2. 【Randomization splits into two parallel arms: intervention (a pill icon) on top, control (a placebo icon) below.】\n3. 【Each arm runs through a follow-up period (a calendar icon).】\n4. 【Both arms end in one box for outcome assessment.】\nDo not write the numbered sentences in the figure.\nLabels, each used once, no other text: 【Eligible participants, Randomization, Intervention, Control, Follow-up, Outcome assessment】.",
+    "zh": "画一张【双臂随机对照试验】的研究设计图，从左往右读。严格按下面列出的关系画，不多画：\n1. 【符合条件的受试者（一组人形图标）→ 随机化（骰子图标）。】\n2. 【随机化分成两条并行的臂：上面是干预组（药片图标），下面是对照组（安慰剂图标）。】\n3. 【每条臂经过随访期（日历图标）。】\n4. 【两条臂都汇入一个结局评估框。】\n不要把编号句子写进图里。\n标签（每个只出现一次，不加其他文字）：【Eligible participants, Randomization, Intervention, Control, Follow-up, Outcome assessment】。"
+  }
+}

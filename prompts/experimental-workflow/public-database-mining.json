@@ -1,0 +1,20 @@
+{
+  "id": "public-database-mining",
+  "theme": "experimental-workflow",
+  "technique": "每步一个面板，只写步骤名",
+  "technique_en": "one panel per step, step names only",
+  "featured": false,
+  "added": "2026-10-28",
+  "author": "Yila-AI",
+  "author_url": "https://github.com/Yila-AI",
+  "title": {
+    "zh": "公共数据库挖掘流程（TCGA/GEO）",
+    "en": "Public database mining workflow (TCGA/GEO)"
+  },
+  "style": "W",
+  "size": "16:9",
+  "content": {
+    "en": "Create a workflow figure for 【a bioinformatics study using public databases】, 6 steps from left to right:\n1. 【Data download: a cloud with a database】\n2. 【Differential expression: one gene up, one gene down】\n3. 【Hub genes: a network with one highlighted node】\n4. 【Enrichment: a few short horizontal bars】\n5. 【Immune infiltration: a few immune cells around a tissue】\n6. 【Validation: a flask and a tissue slide】\nDo not write the numbered sentences in the figure.\nStep names, each used once, no other text: 【Data download, Differential expression, Hub genes, Enrichment, Immune infiltration, Validation】.",
+    "zh": "画一张【公共数据库生物信息学研究】的流程图，从左往右六步：\n1. 【数据下载：云和数据库】\n2. 【差异表达：一个基因上调、一个下调】\n3. 【核心基因：一个网络里高亮一个节点】\n4. 【富集分析：几根短横条】\n5. 【免疫浸润：组织周围几个免疫细胞】\n6. 【实验验证：烧瓶和组织切片】\n不要把编号句子写进图里。\n步骤名（每个只出现一次，不加其他文字）：【Data download, Differential expression, Hub genes, Enrichment, Immune infiltration, Validation】。"
+  }
+}

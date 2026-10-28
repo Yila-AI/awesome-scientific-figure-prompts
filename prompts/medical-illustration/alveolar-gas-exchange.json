@@ -1,0 +1,20 @@
+{
+  "id": "alveolar-gas-exchange",
+  "theme": "medical-illustration",
+  "technique": "整体加圆形放大",
+  "technique_en": "overview plus a circular inset",
+  "featured": false,
+  "added": "2026-10-28",
+  "author": "Yila-AI",
+  "author_url": "https://github.com/Yila-AI",
+  "title": {
+    "zh": "肺泡气体交换",
+    "en": "Alveolar gas exchange"
+  },
+  "style": "S",
+  "size": "16:9",
+  "content": {
+    "en": "Create a scientific illustration of 【gas exchange in the lung】: on the left, a bronchiole ending in a cluster of alveoli wrapped in capillaries. On the right, a circular magnified inset of one alveolus and one capillary: O2 diffuses from the alveolus into the red blood cells, and CO2 diffuses from the blood into the alveolus. Thin type I cells line the wall; one rounded type II cell sits in a corner.\nWrite each label only once in the whole figure.\nLabels, each used once, no other text: 【Bronchiole, Alveolus, Capillary, O2, CO2, Type I cell, Type II cell】.",
+    "zh": "画一张【肺内气体交换】的科学插画：左侧一根细支气管末端连着一簇被毛细血管包绕的肺泡。右侧一个圆形放大插图，显示一个肺泡和一根毛细血管：O2 从肺泡扩散进红细胞，CO2 从血液扩散进肺泡。肺泡壁由扁平的 I 型细胞构成，角落里有一个圆形的 II 型细胞。\n整张图里每个标签只写一次。\n标签（每个只出现一次，不加其他文字）：【Bronchiole, Alveolus, Capillary, O2, CO2, Type I cell, Type II cell】。"
+  }
+}

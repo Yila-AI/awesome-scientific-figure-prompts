@@ -1,0 +1,20 @@
+{
+  "id": "microgrid",
+  "theme": "engineering-systems",
+  "technique": "公共母线连接源、储、荷",
+  "technique_en": "one bus linking sources, storage and loads",
+  "featured": false,
+  "added": "2026-10-28",
+  "author": "Yila-AI",
+  "author_url": "https://github.com/Yila-AI",
+  "title": {
+    "zh": "微电网",
+    "en": "Microgrid"
+  },
+  "style": "D",
+  "size": "16:9",
+  "content": {
+    "en": "Create a system diagram of 【a microgrid】: one horizontal power bus in the middle. Above it, solar panels and a wind turbine feed in. Below it, a battery (two-way arrow) and a backup generator connect. On the right, houses draw power. A controller box is linked to every unit by dashed control lines. On the far left, a switch connects the bus to the main grid.\nWrite each label only once in the whole figure.\nLabels, each used once, no other text: 【Solar PV, Wind turbine, Battery, Generator, Loads, Controller, Main grid】.",
+    "zh": "画一张【微电网】系统图：中间一条横向的电力母线。上方接入光伏板和风力发电机。下方接入电池（双向箭头）和备用发电机。右侧房屋用电。一个控制器框用虚线控制线连到每个单元。最左侧一个开关把母线连到主电网。\n整张图里每个标签只写一次。\n标签（每个只出现一次，不加其他文字）：【Solar PV, Wind turbine, Battery, Generator, Loads, Controller, Main grid】。"
+  }
+}

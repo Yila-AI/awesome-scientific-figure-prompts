@@ -1,0 +1,20 @@
+{
+  "id": "microplastics-pathway",
+  "theme": "earth-environment",
+  "technique": "从陆地到餐桌的路径",
+  "technique_en": "path from land to the dinner table",
+  "featured": false,
+  "added": "2026-10-28",
+  "author": "Yila-AI",
+  "author_url": "https://github.com/Yila-AI",
+  "title": {
+    "zh": "微塑料迁移路径",
+    "en": "Microplastics pathway"
+  },
+  "style": "S",
+  "size": "16:9",
+  "content": {
+    "en": "Create a scientific illustration of 【how microplastics move through the environment】, read from left to right across a landscape from a town to the sea. Draw each relationship exactly as listed and nothing more:\n1. 【Plastic waste from the town breaks into small fragments.】\n2. 【A river carries the fragments to the ocean.】\n3. 【In the ocean, plankton swallow tiny particles.】\n4. 【Fish eat the plankton.】\n5. 【People eat the fish.】\nDo not write the numbered sentences in the figure.\nLabels, each used once, no other text: 【Plastic waste, River, Ocean, Microplastics, Plankton, Fish, Humans】.",
+    "zh": "画一张【微塑料在环境中的迁移】科学插画，从左往右是一幅从城镇到海洋的景观。严格按下面列出的关系画，不多画：\n1. 【城镇的塑料垃圾碎裂成小碎片。】\n2. 【河流把碎片带到海洋。】\n3. 【海洋中浮游生物吞下微小颗粒。】\n4. 【鱼吃浮游生物。】\n5. 【人吃鱼。】\n不要把编号句子写进图里。\n标签（每个只出现一次，不加其他文字）：【Plastic waste, River, Ocean, Microplastics, Plankton, Fish, Humans】。"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "keap1-nrf2",
+  "theme": "signaling-pathway",
+  "technique": "胞质释放、入核开启",
+  "technique_en": "release in the cytosol, activation in the nucleus",
+  "featured": false,
+  "added": "2026-10-28",
+  "author": "Yila-AI",
+  "author_url": "https://github.com/Yila-AI",
+  "title": {
+    "zh": "Keap1/Nrf2 抗氧化通路",
+    "en": "Keap1/Nrf2 antioxidant pathway"
+  },
+  "style": "A",
+  "size": "4:3",
+  "content": {
+    "en": "Create a signaling pathway schematic of 【the Keap1/Nrf2 antioxidant response】 in one cell, read from top to bottom. Draw each relationship exactly as listed and nothing more:\n1. 【Without stress, Keap1 holds Nrf2 and sends it to the proteasome for degradation.】\n2. 【ROS modify Keap1, which releases Nrf2.】\n3. 【Nrf2 enters the nucleus and binds the ARE.】\n4. 【Nrf2 turns on antioxidant genes HO-1 and NQO1.】\nThere are no T-bars in this figure; all arrows are solid. An arrow carries the Keap1–Nrf2 pair into the proteasome, and Nrf2 alone, without Keap1, enters the nucleus. Do not write the numbered sentences in the figure.\nLabels, each used once, no other text: 【ROS, Keap1, Nrf2, Proteasome, ARE, HO-1, NQO1】.",
+    "zh": "画一张【Keap1/Nrf2 抗氧化应答】的信号通路示意图，在一个细胞内，从上往下读。严格按下面列出的关系画，不多画：\n1. 【无应激时，Keap1 抓住 Nrf2，把它送到蛋白酶体降解。】\n2. 【ROS 修饰 Keap1，使其释放 Nrf2。】\n3. 【Nrf2 进入细胞核，结合 ARE。】\n4. 【Nrf2 开启抗氧化基因 HO-1 和 NQO1。】\n图中没有 T 形线，所有箭头都是实线。一条箭头把 Keap1–Nrf2 送进蛋白酶体；只有 Nrf2（不带 Keap1）进入细胞核。不要把编号句子写进图里。\n标签（每个只出现一次，不加其他文字）：【ROS, Keap1, Nrf2, Proteasome, ARE, HO-1, NQO1】。"
+  }
+}

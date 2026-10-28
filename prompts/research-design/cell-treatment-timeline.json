@@ -1,0 +1,20 @@
+{
+  "id": "cell-treatment-timeline",
+  "theme": "research-design",
+  "technique": "时间轴加分组色块",
+  "technique_en": "a time axis with colored group rows",
+  "featured": false,
+  "added": "2026-10-28",
+  "author": "Yila-AI",
+  "author_url": "https://github.com/Yila-AI",
+  "title": {
+    "zh": "细胞实验分组与处理时间轴",
+    "en": "Cell experiment groups and treatment timeline"
+  },
+  "style": "D",
+  "size": "16:9",
+  "content": {
+    "en": "Create a timeline figure for 【a cell experiment】: one horizontal time axis across the top with three tick marks.\n1. At the first tick, a culture dish icon for cell seeding.\n2. At the second tick, three colored rows begin for the groups: 【control (gray), drug low dose (light blue), drug high dose (dark blue)】.\n3. At the third tick, assay icons: 【a microscope and a plate reader】.\nWrite each label only once in the whole figure.\nLabels, each used once, no other text: 【Day 0, Day 1, Day 3, Seeding, Control, Low dose, High dose, Assays】.",
+    "zh": "画一张【细胞实验】的时间轴图：顶部一条横向时间轴，上面三个刻度。\n1. 第一个刻度处一个培养皿图标，代表铺板。\n2. 第二个刻度处开始三条彩色横条，代表分组：【对照（灰）、低剂量药物（浅蓝）、高剂量药物（深蓝）】。\n3. 第三个刻度处是检测图标：【显微镜和酶标仪】。\n整张图里每个标签只写一次。\n标签（每个只出现一次，不加其他文字）：【Day 0, Day 1, Day 3, Seeding, Control, Low dose, High dose, Assays】。"
+  }
+}

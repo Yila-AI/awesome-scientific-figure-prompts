@@ -1,0 +1,20 @@
+{
+  "id": "medical-imaging-ai",
+  "theme": "ai-computing",
+  "technique": "每步一个面板，只写步骤名",
+  "technique_en": "one panel per step, step names only",
+  "featured": false,
+  "added": "2026-10-28",
+  "author": "Yila-AI",
+  "author_url": "https://github.com/Yila-AI",
+  "title": {
+    "zh": "医学影像 / 数字病理 AI 流程",
+    "en": "Medical imaging and digital pathology AI workflow"
+  },
+  "style": "W",
+  "size": "16:9",
+  "content": {
+    "en": "Create a workflow figure for 【a medical imaging AI study】, 6 steps from left to right:\n1. 【Image acquisition: a CT scanner and a slide scanner】\n2. 【Annotation: a doctor outlining a region on a screen】\n3. 【Preprocessing: image tiles in a grid】\n4. 【Model training: a small neural network】\n5. 【Validation: a check mark over two hospitals】\n6. 【Deployment: a screen in a hospital reading room】\nDo not write the numbered sentences in the figure.\nStep names, each used once, no other text: 【Image acquisition, Annotation, Preprocessing, Model training, Validation, Deployment】.",
+    "zh": "画一张【医学影像 AI 研究】的流程图，从左往右六步：\n1. 【图像采集：CT 机和切片扫描仪】\n2. 【标注：医生在屏幕上圈画区域】\n3. 【预处理：切成网格的小图块】\n4. 【模型训练：一个小神经网络】\n5. 【验证：两家医院上方一个对勾】\n6. 【部署：医院阅片室里的一块屏幕】\n不要把编号句子写进图里。\n步骤名（每个只出现一次，不加其他文字）：【Image acquisition, Annotation, Preprocessing, Model training, Validation, Deployment】。"
+  }
+}

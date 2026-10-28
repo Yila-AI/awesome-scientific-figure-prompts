@@ -1,0 +1,20 @@
+{
+  "id": "method-comparison",
+  "theme": "research-design",
+  "technique": "上下两行对照",
+  "technique_en": "two rows compared",
+  "featured": false,
+  "added": "2026-10-28",
+  "author": "Yila-AI",
+  "author_url": "https://github.com/Yila-AI",
+  "title": {
+    "zh": "方法对比：传统方法 vs 新方法",
+    "en": "Method comparison: conventional versus proposed"
+  },
+  "style": "D",
+  "size": "16:9",
+  "content": {
+    "en": "Create a comparison figure of 【a conventional method versus a proposed method】: two horizontal rows in two light colors.\n1. Top row, gray: 【four small steps in a long chain with an hourglass icon and a hand icon, ending in a blurry result】.\n2. Bottom row, blue: 【two steps with a lightning icon and a robot-arm icon, ending in a sharp result】.\nEach row has its name on the far left and a short tag at its result on the right.\nWrite each label only once in the whole figure.\nLabels, each used once, no other text: 【Conventional method, Proposed method, Manual, slow, Automated, fast, Low resolution, High resolution】.",
+    "zh": "画一张【传统方法与新方法】的对比图：上下两行，两种浅色。\n1. 上排，灰色：【四个小步骤连成一条长链，配沙漏图标和手的图标，结尾是一个模糊的结果】。\n2. 下排，蓝色：【两个步骤，配闪电图标和机械臂图标，结尾是一个清晰的结果】。\n每行最左侧写行名，右侧结果处写一个短标签。\n整张图里每个标签只写一次。\n标签（每个只出现一次，不加其他文字）：【Conventional method, Proposed method, Manual, slow, Automated, fast, Low resolution, High resolution】。"
+  }
+}

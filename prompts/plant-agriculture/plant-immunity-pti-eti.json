@@ -1,0 +1,20 @@
+{
+  "id": "plant-immunity-pti-eti",
+  "theme": "plant-agriculture",
+  "technique": "胞外识别与胞内识别两层",
+  "technique_en": "surface recognition and inner recognition",
+  "featured": false,
+  "added": "2026-10-28",
+  "author": "Yila-AI",
+  "author_url": "https://github.com/Yila-AI",
+  "title": {
+    "zh": "植物免疫：PTI 与 ETI",
+    "en": "Plant immunity: PTI and ETI"
+  },
+  "style": "A",
+  "size": "16:9",
+  "content": {
+    "en": "Create a schematic of 【the two layers of plant immunity】 at one plant cell, with a bacterium on the left outside the cell wall. Draw each relationship exactly as listed and nothing more:\n1. 【The bacterium's PAMP is recognized by the PRR receptor on the cell surface, triggering PTI.】\n2. 【The bacterium injects effectors into the cell; effectors inhibit PTI (red T-bar).】\n3. 【An NLR receptor inside the cell recognizes the effector, triggering ETI.】\n4. 【ETI leads to a hypersensitive response (a small patch of dead cells).】\nThe effector's red T-bar has its flat end touching PTI. There is no arrow from PTI to NLR. Use red T-bars only where listed; every other arrow is a solid activation arrow. Do not write the numbered sentences in the figure.\nLabels, each used once, no other text: 【PAMP, PRR, PTI, Effector, NLR, ETI, Hypersensitive response】.",
+    "zh": "画一张【植物免疫的两层防线】示意图，以一个植物细胞为中心，细胞壁外左侧有一个细菌。严格按下面列出的关系画，不多画：\n1. 【细菌的 PAMP 被细胞表面的 PRR 受体识别，触发 PTI。】\n2. 【细菌向细胞内注入效应子，效应子抑制 PTI（红色 T 形线）。】\n3. 【细胞内的 NLR 受体识别效应子，触发 ETI。】\n4. 【ETI 导致过敏性坏死反应（一小片死亡细胞）。】\n效应子的红色 T 形线平头端碰到 PTI。PTI 与 NLR 之间没有箭头。只在列出的地方用红色 T 形线，其他箭头都是实线激活箭头。不要把编号句子写进图里。\n标签（每个只出现一次，不加其他文字）：【PAMP, PRR, PTI, Effector, NLR, ETI, Hypersensitive response】。"
+  }
+}

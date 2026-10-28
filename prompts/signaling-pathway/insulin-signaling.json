@@ -1,0 +1,20 @@
+{
+  "id": "insulin-signaling",
+  "theme": "signaling-pathway",
+  "technique": "受体级联加囊泡转位",
+  "technique_en": "receptor cascade plus vesicle translocation",
+  "featured": false,
+  "added": "2026-10-28",
+  "author": "Yila-AI",
+  "author_url": "https://github.com/Yila-AI",
+  "title": {
+    "zh": "胰岛素信号与 GLUT4 转位",
+    "en": "Insulin signaling and GLUT4 translocation"
+  },
+  "style": "A",
+  "size": "4:3",
+  "content": {
+    "en": "Create a signaling pathway schematic of 【insulin signaling in a muscle cell】, read from top to bottom. Draw each relationship exactly as listed and nothing more:\n1. 【Insulin binds the insulin receptor in the membrane at the top.】\n2. 【The receptor phosphorylates IRS-1 (small 'P' circle).】\n3. 【IRS-1 activates PI3K.】\n4. 【PI3K activates AKT.】\n5. 【AKT sends vesicles carrying GLUT4 up to the membrane.】\n6. 【GLUT4 in the membrane lets glucose into the cell.】\nDraw only one plasma membrane, across the top. GLUT4 appears once, in a vesicle moving up to the membrane, and glucose appears once, entering through it. Use red T-bars only where listed; every other arrow is a solid activation arrow. Do not write the numbered sentences in the figure.\nLabels, each used once, no other text: 【Insulin, Insulin receptor, IRS-1, PI3K, AKT, GLUT4, Glucose】.",
+    "zh": "画一张【肌细胞中的胰岛素信号】通路示意图，从上往下读。严格按下面列出的关系画，不多画：\n1. 【胰岛素结合顶部细胞膜上的胰岛素受体。】\n2. 【受体磷酸化 IRS-1（带 P 的小圆点）。】\n3. 【IRS-1 激活 PI3K。】\n4. 【PI3K 激活 AKT。】\n5. 【AKT 让携带 GLUT4 的囊泡移向细胞膜。】\n6. 【膜上的 GLUT4 让葡萄糖进入细胞。】\n只画一层细胞膜，横在顶部。GLUT4 只出现一次，在移向细胞膜的囊泡里；葡萄糖只出现一次，经它进入细胞。只在列出的地方用红色 T 形线，其他箭头都是实线激活箭头。不要把编号句子写进图里。\n标签（每个只出现一次，不加其他文字）：【Insulin, Insulin receptor, IRS-1, PI3K, AKT, GLUT4, Glucose】。"
+  }
+}

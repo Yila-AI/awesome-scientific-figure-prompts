@@ -1,0 +1,20 @@
+{
+  "id": "unet-architecture",
+  "theme": "ai-computing",
+  "technique": "U 形编码—解码加跳跃连接",
+  "technique_en": "U-shaped encoder–decoder with skip connections",
+  "featured": false,
+  "added": "2026-10-28",
+  "author": "Yila-AI",
+  "author_url": "https://github.com/Yila-AI",
+  "title": {
+    "zh": "U-Net 结构",
+    "en": "U-Net architecture"
+  },
+  "style": "D",
+  "size": "16:9",
+  "content": {
+    "en": "Create an architecture diagram of 【U-Net】 shaped like a U: on the left, an encoder path of blocks getting smaller going down; at the bottom, a bottleneck block; on the right, a decoder path of blocks getting larger going up. Horizontal gray arrows (skip connections) link each encoder level to the decoder level at the same height. An input image enters at top left and a segmentation map exits at top right.\nWrite each label only once in the whole figure.\nLabels, each used once, no other text: 【Input image, Encoder, Bottleneck, Decoder, Skip connections, Segmentation map】.",
+    "zh": "画一张【U-Net】结构图，整体呈 U 形：左侧编码器路径的方块向下逐渐变小；底部一个瓶颈方块；右侧解码器路径的方块向上逐渐变大。横向的灰色箭头（跳跃连接）把编码器每一层连到同高度的解码器层。输入图像从左上进入，分割图从右上输出。\n整张图里每个标签只写一次。\n标签（每个只出现一次，不加其他文字）：【Input image, Encoder, Bottleneck, Decoder, Skip connections, Segmentation map】。"
+  }
+}

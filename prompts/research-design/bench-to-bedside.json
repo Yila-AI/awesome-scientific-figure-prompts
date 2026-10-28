@@ -1,0 +1,20 @@
+{
+  "id": "bench-to-bedside",
+  "theme": "research-design",
+  "technique": "主线加反馈虚线",
+  "technique_en": "main line plus a dashed feedback loop",
+  "featured": false,
+  "added": "2026-10-28",
+  "author": "Yila-AI",
+  "author_url": "https://github.com/Yila-AI",
+  "title": {
+    "zh": "从实验室到临床的转化路径",
+    "en": "Bench-to-bedside translational pathway"
+  },
+  "style": "D",
+  "size": "16:9",
+  "content": {
+    "en": "Create a translational research pathway for 【a new therapy】, read from left to right, each stage a rounded box with one icon. Draw each relationship exactly as listed and nothing more:\n1. 【Basic research (a microscope) → preclinical studies (a mouse) → clinical trials (a patient) → approval (a stamp) → clinical practice (a hospital).】\n2. 【A dashed arrow runs back from clinical practice to basic research.】\nDo not write the numbered sentences in the figure.\nLabels, each used once, no other text: 【Basic research, Preclinical studies, Clinical trials, Approval, Clinical practice】.",
+    "zh": "画一张【新疗法】的转化研究路径图，从左往右读，每个阶段一个带图标的圆角框。严格按下面列出的关系画，不多画：\n1. 【基础研究（显微镜）→ 临床前研究（小鼠）→ 临床试验（病人）→ 审批（印章）→ 临床应用（医院）。】\n2. 【一条虚线箭头从临床应用回到基础研究。】\n不要把编号句子写进图里。\n标签（每个只出现一次，不加其他文字）：【Basic research, Preclinical studies, Clinical trials, Approval, Clinical practice】。"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "federated-learning",
+  "theme": "ai-computing",
+  "technique": "中心服务器与三个客户端",
+  "technique_en": "central server with three clients",
+  "featured": false,
+  "added": "2026-10-28",
+  "author": "Yila-AI",
+  "author_url": "https://github.com/Yila-AI",
+  "title": {
+    "zh": "联邦学习",
+    "en": "Federated learning"
+  },
+  "style": "D",
+  "size": "16:9",
+  "content": {
+    "en": "Create a schematic of 【federated learning across three hospitals】: one server at the top holding the global model, and three hospitals in a row below, each with its own local data (a database icon) and local model. Upward arrows carry model updates from each hospital to the server; downward arrows carry the global model back. The data icons never leave the hospitals.\nWrite each label only once in the whole figure.\nLabels, each used once, no other text: 【Server, Global model, Hospital A, Hospital B, Hospital C, Local data, Model updates】.",
+    "zh": "画一张【三家医院之间的联邦学习】示意图：顶部一个服务器，保存全局模型；下方一排三家医院，每家有自己的本地数据（数据库图标）和本地模型。向上的箭头把各医院的模型更新传给服务器，向下的箭头把全局模型传回。数据图标始终留在医院里。\n整张图里每个标签只写一次。\n标签（每个只出现一次，不加其他文字）：【Server, Global model, Hospital A, Hospital B, Hospital C, Local data, Model updates】。"
+  }
+}

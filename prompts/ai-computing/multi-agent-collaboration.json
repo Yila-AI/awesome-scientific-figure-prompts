@@ -1,0 +1,20 @@
+{
+  "id": "multi-agent-collaboration",
+  "theme": "ai-computing",
+  "technique": "规划—分工—审核",
+  "technique_en": "plan, divide, review",
+  "featured": false,
+  "added": "2026-10-28",
+  "author": "Yila-AI",
+  "author_url": "https://github.com/Yila-AI",
+  "title": {
+    "zh": "多智能体协作框架",
+    "en": "Multi-agent collaboration framework"
+  },
+  "style": "D",
+  "size": "16:9",
+  "content": {
+    "en": "Create a schematic of 【a multi-agent system that completes a research task】, read from left to right, each agent a rounded box with a small robot icon. Draw each relationship exactly as listed and nothing more:\n1. 【A task → a planner agent.】\n2. 【The planner splits the work among three worker agents stacked vertically: searcher, coder and writer.】\n3. 【All three workers read from and write to one shared memory box below them (dashed arrows).】\n4. 【The three workers send their results to a reviewer agent.】\n5. 【The reviewer produces the final output.】\nDo not write the numbered sentences in the figure.\nLabels, each used once, no other text: 【Task, Planner, Searcher, Coder, Writer, Shared memory, Reviewer, Output】.",
+    "zh": "画一张【完成科研任务的多智能体系统】示意图，从左往右读，每个智能体是一个带小机器人图标的圆角框。严格按下面列出的关系画，不多画：\n1. 【任务 → 规划智能体。】\n2. 【规划智能体把工作分给上下排列的三个执行智能体：检索、编程、写作。】\n3. 【三个执行智能体都与下方一个共享记忆框双向读写（虚线箭头）。】\n4. 【三个执行智能体把结果交给审核智能体。】\n5. 【审核智能体给出最终输出。】\n不要把编号句子写进图里。\n标签（每个只出现一次，不加其他文字）：【Task, Planner, Searcher, Coder, Writer, Shared memory, Reviewer, Output】。"
+  }
+}

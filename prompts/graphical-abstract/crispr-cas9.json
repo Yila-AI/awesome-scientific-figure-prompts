@@ -1,0 +1,20 @@
+{
+  "id": "crispr-cas9",
+  "theme": "graphical-abstract",
+  "technique": "识别切割后两条修复路径",
+  "technique_en": "recognition and cutting, then two repair routes",
+  "featured": false,
+  "added": "2026-10-28",
+  "author": "Yila-AI",
+  "author_url": "https://github.com/Yila-AI",
+  "title": {
+    "zh": "CRISPR-Cas9 基因编辑机制",
+    "en": "CRISPR-Cas9 gene editing"
+  },
+  "style": "S",
+  "size": "16:9",
+  "content": {
+    "en": "Create a scientific illustration of 【CRISPR-Cas9 genome editing】, read from left to right:\n1. 【Cas9 protein carrying a guide RNA binds the target DNA next to a short PAM sequence.】\n2. 【Cas9 cuts both DNA strands.】\n3. The broken DNA splits into two repair routes: 【top, NHEJ joins the ends with a small insertion or deletion; bottom, HDR copies a donor template for a precise edit】.\nWrite each label only once in the whole figure.\nLabels, each used once, no other text: 【Cas9, sgRNA, Target DNA, PAM, Double-strand break, NHEJ, HDR, Donor template】.",
+    "zh": "画一张【CRISPR-Cas9 基因编辑】的科学插画，从左往右读：\n1. 【携带向导 RNA 的 Cas9 蛋白结合到短 PAM 序列旁边的靶 DNA 上。】\n2. 【Cas9 切断 DNA 双链。】\n3. 断开的 DNA 分成两条修复路径：【上方 NHEJ 连接断端，留下小的插入或缺失；下方 HDR 以供体模板为参照，实现精确编辑】。\n整张图里每个标签只写一次。\n标签（每个只出现一次，不加其他文字）：【Cas9, sgRNA, Target DNA, PAM, Double-strand break, NHEJ, HDR, Donor template】。"
+  }
+}

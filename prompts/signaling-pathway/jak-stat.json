@@ -1,0 +1,20 @@
+{
+  "id": "jak-stat",
+  "theme": "signaling-pathway",
+  "technique": "受体—二聚化—入核，附负反馈",
+  "technique_en": "receptor, dimerization and nuclear entry, with negative feedback",
+  "featured": false,
+  "added": "2026-10-28",
+  "author": "Yila-AI",
+  "author_url": "https://github.com/Yila-AI",
+  "title": {
+    "zh": "JAK/STAT 通路",
+    "en": "JAK/STAT pathway"
+  },
+  "style": "A",
+  "size": "4:3",
+  "content": {
+    "en": "Create a signaling pathway schematic of 【IL-6 JAK/STAT3 signaling】 inside one cell, read from top to bottom. Draw each relationship exactly as listed and nothing more:\n1. 【IL-6 binds its receptor in the membrane at the top.】\n2. 【The receptor activates JAK, attached to its inner tail.】\n3. 【JAK phosphorylates STAT3 (small 'P' circle).】\n4. 【Two phosphorylated STAT3 join as a dimer.】\n5. 【The dimer enters the nucleus and turns on target genes.】\n6. 【SOCS3 inhibits JAK (red T-bar).】\nUse red T-bars only where listed; every other arrow is a solid activation arrow. Do not write the numbered sentences in the figure.\nLabels, each used once, no other text: 【IL-6, Receptor, JAK, STAT3, STAT3 dimer, SOCS3, Target genes】.",
+    "zh": "画一张【IL-6 JAK/STAT3 信号】的通路示意图，在一个细胞内，从上往下读。严格按下面列出的关系画，不多画：\n1. 【IL-6 结合顶部细胞膜上的受体。】\n2. 【受体激活结合在其胞内尾部的 JAK。】\n3. 【JAK 磷酸化 STAT3（带 P 的小圆点）。】\n4. 【两个磷酸化的 STAT3 结合成二聚体。】\n5. 【二聚体进入细胞核，开启靶基因。】\n6. 【SOCS3 抑制 JAK（红色 T 形线）。】\n只在列出的地方用红色 T 形线，其他箭头都是实线激活箭头。不要把编号句子写进图里。\n标签（每个只出现一次，不加其他文字）：【IL-6, Receptor, JAK, STAT3, STAT3 dimer, SOCS3, Target genes】。"
+  }
+}

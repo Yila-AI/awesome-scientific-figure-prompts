@@ -1,0 +1,20 @@
+{
+  "id": "three-electrode-cell",
+  "theme": "chemistry-instruments",
+  "technique": "装置截面加连线",
+  "technique_en": "setup cross-section with wiring",
+  "featured": false,
+  "added": "2026-10-28",
+  "author": "Yila-AI",
+  "author_url": "https://github.com/Yila-AI",
+  "title": {
+    "zh": "三电极电化学池",
+    "en": "Three-electrode electrochemical cell"
+  },
+  "style": "S",
+  "size": "4:3",
+  "content": {
+    "en": "Create a scientific illustration of 【a three-electrode electrochemical cell】: a glass beaker of electrolyte with three electrodes dipping in: a flat working electrode in the middle, a reference electrode with a glass body on the left, and a coiled platinum wire counter electrode on the right. Three wires run up to a potentiostat box above.\nWrite each label only once in the whole figure.\nLabels, each used once, no other text: 【Potentiostat, Working electrode, Reference electrode, Counter electrode, Electrolyte】.",
+    "zh": "画一张【三电极电化学池】的科学插画：一个装电解液的玻璃烧杯，三根电极插在里面：中间是平板工作电极，左边是玻璃外壳的参比电极，右边是盘绕的铂丝对电极。三根导线向上连到上方的电化学工作站。\n整张图里每个标签只写一次。\n标签（每个只出现一次，不加其他文字）：【Potentiostat, Working electrode, Reference electrode, Counter electrode, Electrolyte】。"
+  }
+}

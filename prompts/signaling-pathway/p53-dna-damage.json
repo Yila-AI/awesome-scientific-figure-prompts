@@ -1,0 +1,20 @@
+{
+  "id": "p53-dna-damage",
+  "theme": "signaling-pathway",
+  "technique": "中心节点，三个结局",
+  "technique_en": "central node with three outcomes",
+  "featured": false,
+  "added": "2026-10-28",
+  "author": "Yila-AI",
+  "author_url": "https://github.com/Yila-AI",
+  "title": {
+    "zh": "p53 与 DNA 损伤应答",
+    "en": "p53 and the DNA damage response"
+  },
+  "style": "A",
+  "size": "4:3",
+  "content": {
+    "en": "Create a signaling pathway schematic of 【the p53 DNA damage response】 in one cell, read from top to bottom. Draw each relationship exactly as listed and nothing more:\n1. 【DNA damage (a broken DNA strand) activates ATM.】\n2. 【ATM phosphorylates p53 (small 'P' circle).】\n3. 【MDM2 inhibits p53 (red T-bar).】\n4. 【p53 turns on p21, leading to cell-cycle arrest.】\n5. 【p53 turns on BAX, leading to apoptosis.】\nUse red T-bars only where listed; every other arrow is a solid activation arrow. Do not write the numbered sentences in the figure.\nLabels, each used once, no other text: 【DNA damage, ATM, p53, MDM2, p21, BAX, Cell-cycle arrest, Apoptosis】.",
+    "zh": "画一张【p53 DNA 损伤应答】的信号通路示意图，在一个细胞内，从上往下读。严格按下面列出的关系画，不多画：\n1. 【DNA 损伤（断裂的 DNA 链）激活 ATM。】\n2. 【ATM 磷酸化 p53（带 P 的小圆点）。】\n3. 【MDM2 抑制 p53（红色 T 形线）。】\n4. 【p53 开启 p21，导致细胞周期停滞。】\n5. 【p53 开启 BAX，导致凋亡。】\n只在列出的地方用红色 T 形线，其他箭头都是实线激活箭头。不要把编号句子写进图里。\n标签（每个只出现一次，不加其他文字）：【DNA damage, ATM, p53, MDM2, p21, BAX, Cell-cycle arrest, Apoptosis】。"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "tam-model",
+  "theme": "social-science",
+  "technique": "变量框加实线路径",
+  "technique_en": "variable boxes with solid paths",
+  "featured": false,
+  "added": "2026-10-28",
+  "author": "Yila-AI",
+  "author_url": "https://github.com/Yila-AI",
+  "title": {
+    "zh": "技术接受模型（TAM）",
+    "en": "Technology acceptance model (TAM)"
+  },
+  "style": "D",
+  "size": "16:9",
+  "content": {
+    "en": "Create a conceptual model diagram of 【the technology acceptance model】, read from left to right, each variable a rounded rectangle. Draw each relationship exactly as listed and nothing more:\n1. 【External variables → perceived usefulness and → perceived ease of use.】\n2. 【Perceived ease of use → perceived usefulness.】\n3. 【Both perceptions → attitude → behavioral intention → actual use.】\n4. 【Perceived usefulness → behavioral intention.】\nDo not write the numbered sentences in the figure.\nLabels, each used once, no other text: 【External variables, Perceived usefulness, Perceived ease of use, Attitude, Behavioral intention, Actual use】.",
+    "zh": "画一张【技术接受模型】概念图，从左往右读，每个变量画成一个圆角矩形。严格按下面列出的关系画，不多画：\n1. 【外部变量 → 感知有用性，并 → 感知易用性。】\n2. 【感知易用性 → 感知有用性。】\n3. 【两个感知 → 态度 → 行为意向 → 实际使用。】\n4. 【感知有用性 → 行为意向。】\n不要把编号句子写进图里。\n标签（每个只出现一次，不加其他文字）：【External variables, Perceived usefulness, Perceived ease of use, Attitude, Behavioral intention, Actual use】。"
+  }
+}

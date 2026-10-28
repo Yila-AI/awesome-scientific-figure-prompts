@@ -1,0 +1,20 @@
+{
+  "id": "transwell-assay",
+  "theme": "experimental-workflow",
+  "technique": "每步一个面板，只写步骤名",
+  "technique_en": "one panel per step, step names only",
+  "featured": false,
+  "added": "2026-10-28",
+  "author": "Yila-AI",
+  "author_url": "https://github.com/Yila-AI",
+  "title": {
+    "zh": "Transwell 迁移侵袭实验",
+    "en": "Transwell migration and invasion assay"
+  },
+  "style": "W",
+  "size": "16:9",
+  "content": {
+    "en": "Create a workflow figure for 【a Transwell migration and invasion assay】, 6 steps from left to right:\n1. 【Chamber setup: an insert with a porous membrane sitting in a well】\n2. 【Cell seeding: cells in the upper chamber】\n3. 【Chemoattractant: serum-rich medium in the lower well】\n4. 【Incubation: the plate in an incubator】\n5. 【Staining: purple-stained cells on the underside of the membrane】\n6. 【Counting: a microscope view of the membrane】\nDo not write the numbered sentences in the figure.\nStep names, each used once, no other text: 【Chamber setup, Cell seeding, Chemoattractant, Incubation, Staining, Counting】.",
+    "zh": "画一张【Transwell 迁移侵袭实验】的流程图，从左往右六步：\n1. 【小室准备：带多孔膜的小室放在孔里】\n2. 【铺细胞：细胞加在上室】\n3. 【趋化因子：下室加含血清的培养基】\n4. 【孵育：孔板放进培养箱】\n5. 【染色：膜下表面被染成紫色的细胞】\n6. 【计数：显微镜下看膜】\n不要把编号句子写进图里。\n步骤名（每个只出现一次，不加其他文字）：【Chamber setup, Cell seeding, Chemoattractant, Incubation, Staining, Counting】。"
+  }
+}

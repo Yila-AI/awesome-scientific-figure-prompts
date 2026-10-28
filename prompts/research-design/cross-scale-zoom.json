@@ -1,0 +1,20 @@
+{
+  "id": "cross-scale-zoom",
+  "theme": "research-design",
+  "technique": "逐级圆形放大",
+  "technique_en": "successive circular zoom-ins",
+  "featured": false,
+  "added": "2026-10-28",
+  "author": "Yila-AI",
+  "author_url": "https://github.com/Yila-AI",
+  "title": {
+    "zh": "跨尺度示意：器官—组织—细胞—分子",
+    "en": "Cross-scale view: organ, tissue, cell, molecule"
+  },
+  "style": "S",
+  "size": "16:9",
+  "content": {
+    "en": "Create a cross-scale illustration of 【the kidney】, read from left to right as four levels joined by circular magnified insets:\n1. 【A whole kidney】.\n2. 【A glomerulus, the filtering ball of capillaries】.\n3. 【A podocyte wrapping a capillary with its foot processes】.\n4. 【A slit-diaphragm protein bridging two foot processes】.\nEach inset connects to the previous level with two thin lines.\nWrite each label only once in the whole figure.\nLabels, each used once, no other text: 【Organ, Tissue, Cell, Molecule】.",
+    "zh": "画一张【肾脏】的跨尺度插画，从左往右四级，用圆形放大插图依次连接：\n1. 【完整的肾脏】。\n2. 【肾小球，一团毛细血管组成的过滤球】。\n3. 【足细胞用足突包住一根毛细血管】。\n4. 【裂孔隔膜蛋白连接两个足突】。\n每个放大图用两条细线连到上一级。\n整张图里每个标签只写一次。\n标签（每个只出现一次，不加其他文字）：【Organ, Tissue, Cell, Molecule】。"
+  }
+}

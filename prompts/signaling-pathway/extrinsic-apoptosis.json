@@ -1,0 +1,20 @@
+{
+  "id": "extrinsic-apoptosis",
+  "theme": "signaling-pathway",
+  "technique": "死亡受体到效应 caspase",
+  "technique_en": "death receptor to executioner caspase",
+  "featured": false,
+  "added": "2026-10-28",
+  "author": "Yila-AI",
+  "author_url": "https://github.com/Yila-AI",
+  "title": {
+    "zh": "外源性凋亡（死亡受体途径）",
+    "en": "Extrinsic (death receptor) apoptosis"
+  },
+  "style": "A",
+  "size": "4:3",
+  "content": {
+    "en": "Create a signaling pathway schematic of 【extrinsic apoptosis】 inside one cell, death receptor in the membrane at the top, read from top to bottom. Draw each relationship exactly as listed and nothing more:\n1. 【FasL binds the Fas receptor in the membrane.】\n2. 【Fas recruits FADD.】\n3. 【FADD recruits and activates caspase-8.】\n4. 【Caspase-8 activates caspase-3.】\n5. 【Caspase-3 leads to apoptosis (a shrinking cell with fragmented nucleus).】\n6. 【Caspase-8 also cuts Bid into tBid, which points with a dashed arrow to a small mitochondrion at the side.】\nUse red T-bars only where listed; every other arrow is a solid activation arrow. Do not write the numbered sentences in the figure.\nLabels, each used once, no other text: 【FasL, Fas, FADD, Caspase-8, Caspase-3, tBid, Apoptosis】.",
+    "zh": "画一张【外源性凋亡】的信号通路示意图，在一个细胞内，死亡受体在顶部细胞膜上，从上往下读。严格按下面列出的关系画，不多画：\n1. 【FasL 结合膜上的 Fas 受体。】\n2. 【Fas 招募 FADD。】\n3. 【FADD 招募并激活 caspase-8。】\n4. 【caspase-8 激活 caspase-3。】\n5. 【caspase-3 导致凋亡（细胞皱缩、细胞核碎裂）。】\n6. 【caspase-8 还把 Bid 切成 tBid，tBid 用虚线箭头指向侧边一个小线粒体。】\n只在列出的地方用红色 T 形线，其他箭头都是实线激活箭头。不要把编号句子写进图里。\n标签（每个只出现一次，不加其他文字）：【FasL, Fas, FADD, Caspase-8, Caspase-3, tBid, Apoptosis】。"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "cross-coupling-cycle",
+  "theme": "chemistry-instruments",
+  "technique": "环形三步循环",
+  "technique_en": "three-step circular cycle",
+  "featured": false,
+  "added": "2026-10-28",
+  "author": "Yila-AI",
+  "author_url": "https://github.com/Yila-AI",
+  "title": {
+    "zh": "交叉偶联催化循环（Suzuki）",
+    "en": "Cross-coupling catalytic cycle (Suzuki)"
+  },
+  "style": "D",
+  "size": "1:1",
+  "content": {
+    "en": "Create a catalytic cycle diagram of 【a palladium-catalyzed Suzuki cross-coupling】: Pd(0) at the top of a circle, with three steps placed clockwise around it. Draw molecules as short text formulas only, with no chemical structures. Draw each relationship exactly as listed and nothing more:\n1. 【Oxidative addition: Ar–X enters the cycle and Pd(0) becomes Ar–Pd–X.】\n2. 【Transmetalation: Ar'–B(OH)2 enters and the complex becomes Ar–Pd–Ar'.】\n3. 【Reductive elimination: the product Ar–Ar' leaves and Pd(0) returns to the top.】\nDo not write the numbered sentences in the figure.\nLabels, each used once, no other text: 【Pd(0), Oxidative addition, Transmetalation, Reductive elimination, Ar–X, Ar'–B(OH)2, Ar–Ar'】.",
+    "zh": "画一张【钯催化 Suzuki 交叉偶联】的催化循环图：Pd(0) 位于圆环顶部，三个步骤顺时针排在圆环上。分子只写简短的化学式，不画化学结构式。严格按下面列出的关系画，不多画：\n1. 【氧化加成：Ar–X 进入循环，Pd(0) 变为 Ar–Pd–X。】\n2. 【转金属化：Ar'–B(OH)2 进入，配合物变为 Ar–Pd–Ar'。】\n3. 【还原消除：产物 Ar–Ar' 离开，Pd(0) 回到顶部。】\n不要把编号句子写进图里。\n标签（每个只出现一次，不加其他文字）：【Pd(0), Oxidative addition, Transmetalation, Reductive elimination, Ar–X, Ar'–B(OH)2, Ar–Ar'】。"
+  }
+}
