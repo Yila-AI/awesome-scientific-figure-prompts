@@ -2,6 +2,7 @@
   "id": "scrna-seq-workflow",
   "theme": "experimental-workflow",
   "technique": "浅色圆角面板分步",
+  "technique_en": "one pastel rounded panel per step",
   "title": {
     "zh": "单细胞 RNA 测序流程",
     "en": "Single-cell RNA sequencing workflow"

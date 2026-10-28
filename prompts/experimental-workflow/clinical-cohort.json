@@ -2,6 +2,7 @@
   "id": "clinical-cohort",
   "theme": "experimental-workflow",
   "technique": "竖向流程框图",
+  "technique_en": "vertical flowchart",
   "title": {
     "zh": "临床试验筛选、分组与随访",
     "en": "Clinical trial enrollment and follow-up"

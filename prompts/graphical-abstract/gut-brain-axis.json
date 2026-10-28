@@ -2,6 +2,7 @@
   "id": "gut-brain-axis",
   "theme": "graphical-abstract",
   "technique": "双放大圆圈",
+  "technique_en": "two magnified insets",
   "title": {
     "zh": "肠–脑轴与抑郁",
     "en": "Gut–brain axis in depression"

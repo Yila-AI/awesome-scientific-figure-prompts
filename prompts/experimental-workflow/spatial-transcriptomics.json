@@ -2,6 +2,7 @@
   "id": "spatial-transcriptomics",
   "theme": "experimental-workflow",
   "technique": "浅色圆角面板分步",
+  "technique_en": "one pastel rounded panel per step",
   "title": {
     "zh": "空间转录组流程",
     "en": "Spatial transcriptomics workflow"

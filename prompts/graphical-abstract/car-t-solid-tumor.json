@@ -2,6 +2,7 @@
   "id": "car-t-solid-tumor",
   "theme": "graphical-abstract",
   "technique": "阶段式进程 + 放大圆圈",
+  "technique_en": "staged sequence + magnified inset",
   "title": {
     "zh": "CAR-T 细胞攻克实体瘤",
     "en": "CAR-T cells against a solid tumor"

@@ -1,0 +1,38 @@
+name: Scientific error
+description: Report a scientific mistake in a prompt or an example figure
+title: "Scientific error: "
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Tell us which entry is wrong and what the figure or prompt should say instead.
+        请写明是哪一条、错在哪里、正确的版本，并附上参考文献。
+  - type: input
+    id: entry-number
+    attributes:
+      label: Entry number
+      description: The No. in the README. For example, 8 is the cGAS–STING pathway.
+      placeholder: "8"
+    validations:
+      required: true
+  - type: textarea
+    id: whats-wrong
+    attributes:
+      label: What's wrong
+      description: Which arrow, label, structure, step, or sentence is incorrect?
+    validations:
+      required: true
+  - type: textarea
+    id: correct-version
+    attributes:
+      label: Correct version
+      description: What the figure or prompt should show instead.
+    validations:
+      required: true
+  - type: textarea
+    id: reference
+    attributes:
+      label: Reference
+      description: A paper, textbook, or other source that supports the correction. A link or a citation is enough.
+    validations:
+      required: true

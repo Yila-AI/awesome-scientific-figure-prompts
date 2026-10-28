@@ -2,6 +2,7 @@
   "id": "alzheimers-brain",
   "theme": "medical-illustration",
   "technique": "左右对比分屏 + 放大圆圈",
+  "technique_en": "side-by-side panels + magnified inset",
   "title": {
     "zh": "健康大脑与阿尔茨海默病大脑",
     "en": "Healthy versus Alzheimer's brain"

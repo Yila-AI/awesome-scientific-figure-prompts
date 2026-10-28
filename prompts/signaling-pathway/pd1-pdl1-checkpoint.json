@@ -2,6 +2,7 @@
   "id": "pd1-pdl1-checkpoint",
   "theme": "signaling-pathway",
   "technique": "逐条关系 + 左右对比分屏",
+  "technique_en": "numbered relationships + side-by-side panels",
   "title": {
     "zh": "PD-1/PD-L1 免疫检查点与阻断",
     "en": "PD-1/PD-L1 immune checkpoint and its blockade"

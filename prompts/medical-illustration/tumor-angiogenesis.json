@@ -2,6 +2,7 @@
   "id": "tumor-angiogenesis",
   "theme": "medical-illustration",
   "technique": "正常与异常对照 + 放大圆圈",
+  "technique_en": "normal-versus-abnormal comparison + magnified inset",
   "title": {
     "zh": "肿瘤血管生成",
     "en": "Tumor angiogenesis"

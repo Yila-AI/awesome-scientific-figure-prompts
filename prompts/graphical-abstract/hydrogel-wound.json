@@ -2,6 +2,7 @@
   "id": "hydrogel-wound",
   "theme": "graphical-abstract",
   "technique": "左右对比分屏 + 放大圆圈",
+  "technique_en": "side-by-side panels + magnified inset",
   "title": {
     "zh": "水凝胶促进创面愈合",
     "en": "Hydrogel-assisted wound healing"

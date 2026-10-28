@@ -2,6 +2,7 @@
   "id": "liver-fibrosis",
   "theme": "medical-illustration",
   "technique": "左右对比分屏 + 多尺度放大圆圈",
+  "technique_en": "side-by-side panels + multi-scale magnified insets",
   "title": { "zh": "健康肝脏与肝纤维化对比", "en": "Healthy versus fibrotic liver" },
   "style": "B",
   "size": "16:9",

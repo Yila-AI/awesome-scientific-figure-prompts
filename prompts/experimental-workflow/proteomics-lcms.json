@@ -2,6 +2,7 @@
   "id": "proteomics-lcms",
   "theme": "experimental-workflow",
   "technique": "浅色圆角面板分步",
+  "technique_en": "one pastel rounded panel per step",
   "title": {
     "zh": "LC-MS/MS 蛋白质组学流程",
     "en": "LC-MS/MS proteomics workflow"

@@ -2,6 +2,7 @@
   "id": "crispr-pooled-screen",
   "theme": "experimental-workflow",
   "technique": "浅色圆角面板分步",
+  "technique_en": "one pastel rounded panel per step",
   "title": {
     "zh": "混合 CRISPR 筛选流程",
     "en": "Pooled CRISPR screen workflow"

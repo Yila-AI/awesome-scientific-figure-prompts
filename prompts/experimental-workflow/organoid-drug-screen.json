@@ -2,6 +2,7 @@
   "id": "organoid-drug-screen",
   "theme": "experimental-workflow",
   "technique": "浅色圆角面板分步",
+  "technique_en": "one pastel rounded panel per step",
   "title": {
     "zh": "类器官培养与药物筛选",
     "en": "Organoid culture and drug screening"

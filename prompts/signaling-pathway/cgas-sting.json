@@ -2,6 +2,7 @@
   "id": "cgas-sting",
   "theme": "signaling-pathway",
   "technique": "逐条关系 + 膜–胞质–核布局",
+  "technique_en": "numbered relationships + membrane–cytosol–nucleus layout",
   "title": {
     "zh": "cGAS–STING 先天免疫通路",
     "en": "cGAS–STING innate immune pathway"
