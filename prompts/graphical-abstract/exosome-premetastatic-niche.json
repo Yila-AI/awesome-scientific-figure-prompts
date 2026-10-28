@@ -2,6 +2,11 @@
   "id": "exosome-premetastatic-niche",
   "theme": "graphical-abstract",
   "technique": "多尺度放大圆圈",
+  "technique_en": "multi-scale magnified insets",
+  "featured": false,
+  "added": "2026-10-28",
+  "author": "Yila-AI",
+  "author_url": "https://github.com/Yila-AI",
   "title": {
     "zh": "肿瘤外泌体建立肺前转移微环境",
     "en": "Tumor exosomes prepare a pre-metastatic niche"

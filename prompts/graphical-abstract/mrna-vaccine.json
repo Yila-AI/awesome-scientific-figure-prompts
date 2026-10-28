@@ -2,6 +2,11 @@
   "id": "mrna-vaccine",
   "theme": "graphical-abstract",
   "technique": "多尺度放大圆圈",
+  "technique_en": "multi-scale magnified insets",
+  "featured": false,
+  "added": "2026-10-28",
+  "author": "Yila-AI",
+  "author_url": "https://github.com/Yila-AI",
   "title": {
     "zh": "mRNA 疫苗诱导免疫应答",
     "en": "mRNA vaccine immune response"

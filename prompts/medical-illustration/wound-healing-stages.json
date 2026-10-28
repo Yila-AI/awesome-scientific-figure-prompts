@@ -2,6 +2,11 @@
   "id": "wound-healing-stages",
   "theme": "medical-illustration",
   "technique": "阶段式进程",
+  "technique_en": "staged sequence",
+  "featured": false,
+  "added": "2026-10-28",
+  "author": "Yila-AI",
+  "author_url": "https://github.com/Yila-AI",
   "title": {
     "zh": "皮肤创面愈合四阶段",
     "en": "Four stages of skin wound healing"

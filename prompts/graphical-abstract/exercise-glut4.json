@@ -2,6 +2,11 @@
   "id": "exercise-glut4",
   "theme": "graphical-abstract",
   "technique": "多尺度放大圆圈",
+  "technique_en": "multi-scale magnified insets",
+  "featured": false,
+  "added": "2026-10-28",
+  "author": "Yila-AI",
+  "author_url": "https://github.com/Yila-AI",
   "title": {
     "zh": "运动改善骨骼肌胰岛素抵抗",
     "en": "Exercise improves muscle insulin resistance"

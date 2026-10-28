@@ -2,6 +2,11 @@
   "id": "perovskite-tandem-cell",
   "theme": "materials-energy",
   "technique": "分层剖面 + 放大圆圈",
+  "technique_en": "layered cross-section + magnified inset",
+  "featured": false,
+  "added": "2026-10-28",
+  "author": "Yila-AI",
+  "author_url": "https://github.com/Yila-AI",
   "title": {
     "zh": "钙钛矿-硅叠层太阳能电池",
     "en": "Perovskite–silicon tandem solar cell"

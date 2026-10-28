@@ -2,6 +2,11 @@
   "id": "mouse-model-dosing",
   "theme": "experimental-workflow",
   "technique": "浅色圆角面板分步 + 图标化小场景",
+  "technique_en": "one pastel rounded panel per step + icon-style scene",
+  "featured": true,
+  "added": "2026-10-28",
+  "author": "Yila-AI",
+  "author_url": "https://github.com/Yila-AI",
   "title": {
     "zh": "小鼠疾病模型：分组、给药与取材",
     "en": "Mouse disease model: grouping, dosing and sampling"

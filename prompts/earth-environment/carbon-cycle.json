@@ -2,6 +2,11 @@
   "id": "carbon-cycle",
   "theme": "earth-environment",
   "technique": "系统循环 + 流向箭头",
+  "technique_en": "system cycle + flow arrows",
+  "featured": false,
+  "added": "2026-10-28",
+  "author": "Yila-AI",
+  "author_url": "https://github.com/Yila-AI",
   "title": {
     "zh": "全球碳循环",
     "en": "Global carbon cycle"

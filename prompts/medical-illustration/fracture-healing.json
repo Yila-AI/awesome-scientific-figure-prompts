@@ -2,6 +2,11 @@
   "id": "fracture-healing",
   "theme": "medical-illustration",
   "technique": "阶段式进程",
+  "technique_en": "staged sequence",
+  "featured": false,
+  "added": "2026-10-28",
+  "author": "Yila-AI",
+  "author_url": "https://github.com/Yila-AI",
   "title": {
     "zh": "骨折愈合四阶段",
     "en": "Four stages of fracture healing"

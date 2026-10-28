@@ -2,6 +2,11 @@
   "id": "crispr-pooled-screen",
   "theme": "experimental-workflow",
   "technique": "浅色圆角面板分步",
+  "technique_en": "one pastel rounded panel per step",
+  "featured": false,
+  "added": "2026-10-28",
+  "author": "Yila-AI",
+  "author_url": "https://github.com/Yila-AI",
   "title": {
     "zh": "混合 CRISPR 筛选流程",
     "en": "Pooled CRISPR screen workflow"

@@ -2,6 +2,11 @@
   "id": "integrated-energy-system",
   "theme": "engineering-systems",
   "technique": "源–转换–储–用分层",
+  "technique_en": "source–conversion–storage–use layers",
+  "featured": false,
+  "added": "2026-10-28",
+  "author": "Yila-AI",
+  "author_url": "https://github.com/Yila-AI",
   "title": {
     "zh": "综合能源系统",
     "en": "Integrated energy system"

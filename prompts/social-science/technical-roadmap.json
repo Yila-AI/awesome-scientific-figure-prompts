@@ -2,6 +2,11 @@
   "id": "technical-roadmap",
   "theme": "social-science",
   "technique": "竖向技术路线",
+  "technique_en": "vertical technology roadmap",
+  "featured": false,
+  "added": "2026-10-28",
+  "author": "Yila-AI",
+  "author_url": "https://github.com/Yila-AI",
   "title": {
     "zh": "课题技术路线图",
     "en": "Research technical roadmap"

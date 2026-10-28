@@ -2,6 +2,11 @@
   "id": "root-rhizosphere",
   "theme": "plant-agriculture",
   "technique": "剖面 + 放大圆圈",
+  "technique_en": "cross-section + magnified inset",
+  "featured": false,
+  "added": "2026-10-28",
+  "author": "Yila-AI",
+  "author_url": "https://github.com/Yila-AI",
   "title": {
     "zh": "根系与根际微生物",
     "en": "Roots and the rhizosphere"

@@ -6,8 +6,13 @@ Usage:
   python3 -I tools/gen.py --all                       # every figure, en and zh
 
 Each figure is a JSON file in prompts/<theme>/<id>.json:
-  {"id", "theme", "title": {"zh","en"}, "style": "A"|"B",
-   "size": "16:9", "content": {"zh","en"}}
+  {"id", "theme", "title": {"zh","en"}, "technique", "technique_en",
+   "style": "A"|"B"|"W"|"D"|"S", "size": "16:9", "content": {"zh","en"},
+   optional "author", "author_url", "featured", "added"}
+
+You can also generate the image by hand in any Gemini or ChatGPT UI and
+commit gallery/<theme>/<id>-<lang>.jpg. See CONTRIBUTING.md. tools/gen.py
+is optional and needs an Evolink key.
 
 The prompt sent is content.<lang> (with the 【】 slot brackets removed) plus
 styles.json[style][lang]. Images land in images/<theme>/<id>-<lang>-<n>.png;

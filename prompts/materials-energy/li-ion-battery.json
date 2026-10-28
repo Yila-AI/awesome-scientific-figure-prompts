@@ -2,6 +2,11 @@
   "id": "li-ion-battery",
   "theme": "materials-energy",
   "technique": "剖面 + 流向箭头",
+  "technique_en": "cross-section + flow arrows",
+  "featured": false,
+  "added": "2026-10-28",
+  "author": "Yila-AI",
+  "author_url": "https://github.com/Yila-AI",
   "title": {
     "zh": "锂离子电池充放电",
     "en": "Lithium-ion battery charge and discharge"

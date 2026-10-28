@@ -2,6 +2,11 @@
   "id": "iot-monitoring",
   "theme": "engineering-systems",
   "technique": "分层架构 + 反馈回路",
+  "technique_en": "layered architecture + feedback loop",
+  "featured": false,
+  "added": "2026-10-28",
+  "author": "Yila-AI",
+  "author_url": "https://github.com/Yila-AI",
   "title": {
     "zh": "物联网监测系统架构",
     "en": "IoT monitoring architecture"

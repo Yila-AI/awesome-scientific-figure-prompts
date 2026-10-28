@@ -2,6 +2,11 @@
   "id": "hydrogel-wound",
   "theme": "graphical-abstract",
   "technique": "左右对比分屏 + 放大圆圈",
+  "technique_en": "side-by-side panels + magnified inset",
+  "featured": false,
+  "added": "2026-10-28",
+  "author": "Yila-AI",
+  "author_url": "https://github.com/Yila-AI",
   "title": {
     "zh": "水凝胶促进创面愈合",
     "en": "Hydrogel-assisted wound healing"

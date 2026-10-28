@@ -2,6 +2,11 @@
   "id": "research-framework",
   "theme": "social-science",
   "technique": "逐条关系 + 框图",
+  "technique_en": "numbered relationships + block diagram",
+  "featured": false,
+  "added": "2026-10-28",
+  "author": "Yila-AI",
+  "author_url": "https://github.com/Yila-AI",
   "title": {
     "zh": "研究框架图（中介与调节）",
     "en": "Research framework with mediator and moderator"

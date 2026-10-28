@@ -2,6 +2,11 @@
   "id": "nephron",
   "theme": "medical-illustration",
   "technique": "结构 + 流向箭头",
+  "technique_en": "structure + flow arrows",
+  "featured": false,
+  "added": "2026-10-28",
+  "author": "Yila-AI",
+  "author_url": "https://github.com/Yila-AI",
   "title": {
     "zh": "肾单位结构与滤液流向",
     "en": "Nephron structure and filtrate flow"

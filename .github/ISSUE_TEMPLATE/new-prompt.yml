@@ -1,0 +1,65 @@
+name: New prompt
+description: Submit a scientific figure prompt and the image it produced
+title: "New prompt: "
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Submit a prompt template and the figure it produced. 提交一条提示词和对应的出图。
+        A pull request works too — see CONTRIBUTING.md. Please read docs/checklist.md before sending a figure you would put in a paper.
+  - type: dropdown
+    id: category
+    attributes:
+      label: Category
+      description: Which figure type is this?
+      options:
+        - graphical-abstract
+        - signaling-pathway
+        - medical-illustration
+        - experimental-workflow
+    validations:
+      required: true
+  - type: textarea
+    id: prompt
+    attributes:
+      label: Prompt
+      description: Paste the full prompt. Mark the parts a reader should replace with 【】. Include Chinese and English when you have both.
+    validations:
+      required: true
+  - type: input
+    id: model
+    attributes:
+      label: Model
+      description: The image model you used. Any Gemini or ChatGPT UI is fine.
+      placeholder: Gemini
+    validations:
+      required: true
+  - type: textarea
+    id: output-image
+    attributes:
+      label: Output image
+      description: Drag the generated figure into this box, or paste a link to it. Do not attach an image that failed your own review.
+    validations:
+      required: true
+  - type: input
+    id: author
+    attributes:
+      label: Author handle
+      description: Name or GitHub username to show as by @author. Do not include the @ or a URL.
+      placeholder: your-handle
+    validations:
+      required: true
+  - type: input
+    id: author-url
+    attributes:
+      label: Author link
+      description: Optional profile or GitHub URL for the credit.
+      placeholder: https://github.com/your-handle
+  - type: checkboxes
+    id: license-consent
+    attributes:
+      label: License
+      description: Prompts in this repository are released under CC BY 4.0.
+      options:
+        - label: I agree to license this prompt under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
+          required: true

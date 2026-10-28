@@ -2,6 +2,11 @@
   "id": "llm-agent-loop",
   "theme": "ai-computing",
   "technique": "循环结构 + 图标",
+  "technique_en": "loop structure + icons",
+  "featured": false,
+  "added": "2026-10-28",
+  "author": "Yila-AI",
+  "author_url": "https://github.com/Yila-AI",
   "title": {
     "zh": "大模型智能体工作循环",
     "en": "LLM agent loop"

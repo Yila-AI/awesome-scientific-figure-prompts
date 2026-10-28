@@ -2,6 +2,11 @@
   "id": "rag-pipeline",
   "theme": "ai-computing",
   "technique": "逐条关系 + 模块框图",
+  "technique_en": "numbered relationships + module diagram",
+  "featured": false,
+  "added": "2026-10-28",
+  "author": "Yila-AI",
+  "author_url": "https://github.com/Yila-AI",
   "title": {
     "zh": "检索增强生成（RAG）流程",
     "en": "Retrieval-augmented generation (RAG) pipeline"

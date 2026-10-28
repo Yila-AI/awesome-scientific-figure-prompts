@@ -2,6 +2,11 @@
   "id": "glomerular-barrier",
   "theme": "medical-illustration",
   "technique": "剖面分层",
+  "technique_en": "layered cross-section",
+  "featured": false,
+  "added": "2026-10-28",
+  "author": "Yila-AI",
+  "author_url": "https://github.com/Yila-AI",
   "title": {
     "zh": "肾小球滤过屏障三层结构",
     "en": "Three layers of the glomerular filtration barrier"

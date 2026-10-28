@@ -2,6 +2,11 @@
   "id": "mass-spectrometer",
   "theme": "chemistry-instruments",
   "technique": "技术剖切 + 路径箭头",
+  "technique_en": "technical cutaway + path arrows",
+  "featured": false,
+  "added": "2026-10-28",
+  "author": "Yila-AI",
+  "author_url": "https://github.com/Yila-AI",
   "title": {
     "zh": "三重四极杆质谱仪",
     "en": "Triple quadrupole mass spectrometer"

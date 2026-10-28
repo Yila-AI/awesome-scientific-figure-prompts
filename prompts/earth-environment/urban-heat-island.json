@@ -2,6 +2,11 @@
   "id": "urban-heat-island",
   "theme": "earth-environment",
   "technique": "左右对比 + 剖面",
+  "technique_en": "side-by-side comparison + cross-section",
+  "featured": false,
+  "added": "2026-10-28",
+  "author": "Yila-AI",
+  "author_url": "https://github.com/Yila-AI",
   "title": {
     "zh": "城市热岛与缓解措施",
     "en": "Urban heat island and mitigation"

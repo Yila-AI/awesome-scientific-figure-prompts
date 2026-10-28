@@ -2,6 +2,11 @@
   "id": "hplc-system",
   "theme": "chemistry-instruments",
   "technique": "流路 + 局部放大",
+  "technique_en": "flow path + magnified detail",
+  "featured": false,
+  "added": "2026-10-28",
+  "author": "Yila-AI",
+  "author_url": "https://github.com/Yila-AI",
   "title": {
     "zh": "高效液相色谱系统",
     "en": "HPLC system"

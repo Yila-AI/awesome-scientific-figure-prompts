@@ -2,6 +2,11 @@
   "id": "leaf-photosynthesis",
   "theme": "plant-agriculture",
   "technique": "多尺度放大圆圈",
+  "technique_en": "multi-scale magnified insets",
+  "featured": false,
+  "added": "2026-10-28",
+  "author": "Yila-AI",
+  "author_url": "https://github.com/Yila-AI",
   "title": {
     "zh": "叶片结构与光合作用",
     "en": "Leaf structure and photosynthesis"
