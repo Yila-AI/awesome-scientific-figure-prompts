@@ -1,0 +1,15 @@
+{
+  "id": "exosome-premetastatic-niche",
+  "theme": "graphical-abstract",
+  "technique": "多尺度放大圆圈",
+  "title": {
+    "zh": "肿瘤外泌体建立肺前转移微环境",
+    "en": "Tumor exosomes prepare a pre-metastatic niche"
+  },
+  "style": "B",
+  "size": "16:9",
+  "content": {
+    "en": "Create a graphical abstract about 【tumor exosomes preparing the lung for metastasis】, told from left to right.\nLeft: 【a primary tumor releasing many tiny exosomes】.\nCenter: 【the exosomes travel through a blood vessel】.\nRight: 【a lung where resident cells take up the exosomes and form a pre-metastatic niche that welcomes arriving tumor cells】. A circular magnified inset shows 【one exosome with surface proteins and RNA cargo inside】.\nLabels, each used once, no other text: 【Primary tumor, Exosomes, Lung, Pre-metastatic niche】.",
+    "zh": "画一张关于【肿瘤外泌体为肺转移做准备】的图形摘要，从左到右讲述。\n左：【原发肿瘤释放出大量微小的外泌体】。\n中：【外泌体随血管运行】。\n右：【肺部的驻留细胞摄取外泌体，形成前转移微环境，迎接随后到达的肿瘤细胞】。用一个圆形放大框展示【一个外泌体，表面有蛋白，内部装着 RNA】。\n标签（每个只出现一次，不加其他文字）：【Primary tumor, Exosomes, Lung, Pre-metastatic niche】。"
+  }
+}

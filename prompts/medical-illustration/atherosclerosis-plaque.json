@@ -1,0 +1,13 @@
+{
+  "id": "atherosclerosis-plaque",
+  "theme": "medical-illustration",
+  "technique": "剖面 + 阶段式进程",
+  "title": { "zh": "动脉粥样硬化斑块形成", "en": "Atherosclerotic plaque formation" },
+  "style": "B",
+  "size": "16:9",
+  "slots": ["结构", "阶段 1", "阶段 2", "阶段 3", "放大框", "标签"],
+  "content": {
+    "en": "Create a medical illustration of 【one artery cut open lengthwise】, showing disease progression from left to right in three stages along the same vessel.\nStage 1 (left): 【a healthy wall with smooth endothelium】.\nStage 2 (center): 【LDL particles enter the vessel wall and monocytes turn into lipid-filled foam cells】.\nStage 3 (right): 【a mature plaque with a yellow lipid core under a fibrous cap, and a clearly narrowed lumen】.\nOne circular magnified inset shows 【a single foam cell full of lipid droplets】.\nLabels, each used once, no other text: 【LDL, Foam cell, Lipid core, Fibrous cap, Narrowed lumen】.",
+    "zh": "画一张医学插图，主体是【一段被纵向剖开的动脉】，沿同一段结构从左到右分三个阶段展示病变进展。\n阶段 1（左）：【健康的血管壁，内皮光滑】。\n阶段 2（中）：【LDL 颗粒进入血管壁，单核细胞变成充满脂质的泡沫细胞】。\n阶段 3（右）：【成熟斑块：黄色的脂质核心上覆盖纤维帽，管腔明显变窄】。\n用一个圆形放大框展示【一个充满脂滴的泡沫细胞】。\n标签（每个只出现一次，不加其他文字）：【LDL, Foam cell, Lipid core, Fibrous cap, Narrowed lumen】。"
+  }
+}

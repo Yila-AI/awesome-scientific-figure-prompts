@@ -1,0 +1,20 @@
+{
+  "id": "mouse-model-dosing",
+  "theme": "experimental-workflow",
+  "technique": "浅色圆角面板分步 + 图标化小场景",
+  "title": {
+    "zh": "小鼠疾病模型：分组、给药与取材",
+    "en": "Mouse disease model: grouping, dosing and sampling"
+  },
+  "style": "W",
+  "size": "16:9",
+  "slots": [
+    "实验",
+    "第 1–5 步的画面",
+    "标签"
+  ],
+  "content": {
+    "en": "Create an experimental workflow figure for 【a mouse tumor treatment study】, in five steps from left to right. Each step is one light pastel rounded panel with its number and name at the top and one simple icon-style scene inside; thin arrows connect the panels.\nStep 1: 【mice randomly split into a control group and a treatment group】.\nStep 2: 【a tumor growing under the skin on the flank of a mouse】.\nStep 3: 【a syringe giving an intraperitoneal injection】.\nStep 4: 【a mouse on a small scale next to a caliper measuring the tumor】.\nStep 5: 【collected tumor, blood tube and organ samples in labeled tubes】.\nLabels, each used once, no other text: 【1 Grouping, 2 Model, 3 Dosing, 4 Monitoring, 5 Sampling】.",
+    "zh": "画一张【小鼠肿瘤治疗实验】的实验流程图，从左到右分五步。每一步是一个浅色圆角面板，顶部写编号和步骤名，面板里是一个简洁的图标化小场景，面板之间用细箭头连接。\n第 1 步：【小鼠被随机分成对照组和治疗组】。\n第 2 步：【小鼠侧腹皮下长出一个肿瘤】。\n第 3 步：【注射器进行腹腔注射】。\n第 4 步：【小鼠站在小秤上称重，旁边一把卡尺测量肿瘤】。\n第 5 步：【收集到的肿瘤、血液管和器官样本，放在贴好标签的管子里】。\n标签（每个只出现一次，不加其他文字）：【1 Grouping, 2 Model, 3 Dosing, 4 Monitoring, 5 Sampling】。"
+  }
+}

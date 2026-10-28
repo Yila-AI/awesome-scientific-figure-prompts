@@ -1,0 +1,15 @@
+{
+  "id": "glomerular-barrier",
+  "theme": "medical-illustration",
+  "technique": "剖面分层",
+  "title": {
+    "zh": "肾小球滤过屏障三层结构",
+    "en": "Three layers of the glomerular filtration barrier"
+  },
+  "style": "B",
+  "size": "4:3",
+  "content": {
+    "en": "Create a cross-section medical illustration of 【the glomerular filtration barrier】, with three layers stacked from the blood side at the top to the urine side at the bottom:\n【1. an endothelium with small round pores; 2. a thick basement membrane; 3. podocyte foot processes with narrow slits between them】.\nArrows show 【only water and small molecules passing down through all three layers】. 【Large albumin proteins sit above the endothelium with a red X; no arrow starts from albumin】.\nLabels, each used once, no other text: 【Endothelium, Basement membrane, Podocyte, Albumin】.",
+    "zh": "画一张【肾小球滤过屏障】的剖面医学插图，三层从上方的血液侧叠到下方的尿液侧：\n【1. 带小圆孔的内皮；2. 厚的基底膜；3. 足细胞的足突，足突之间是狭窄的裂隙】。\n箭头只表示【水和小分子向下穿过三层】。【大的白蛋白停在内皮上方，旁边一个红色叉号；不要从白蛋白画出任何箭头】。\n标签（每个只出现一次，不加其他文字）：【Endothelium, Basement membrane, Podocyte, Albumin】。"
+  }
+}

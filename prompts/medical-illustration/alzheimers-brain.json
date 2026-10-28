@@ -1,0 +1,15 @@
+{
+  "id": "alzheimers-brain",
+  "theme": "medical-illustration",
+  "technique": "左右对比分屏 + 放大圆圈",
+  "title": {
+    "zh": "健康大脑与阿尔茨海默病大脑",
+    "en": "Healthy versus Alzheimer's brain"
+  },
+  "style": "B",
+  "size": "4:3",
+  "content": {
+    "en": "Create a side-by-side medical illustration comparing 【a healthy brain and an Alzheimer's disease brain】, separated by a thin dashed vertical line.\nLeft: 【a full-sized healthy brain; a circular magnified inset shows healthy neurons with intact connections】.\nRight: 【a shrunken brain with wider grooves; a circular magnified inset shows amyloid plaques between neurons and twisted tangles inside a neuron】.\nLabels, each used once, no other text: 【Healthy brain, Alzheimer's brain, Amyloid plaque, Tau tangles】.",
+    "zh": "画一张左右并排的医学插图，比较【健康大脑和阿尔茨海默病大脑】，中间用一条细虚线分开。\n左：【大小正常的健康大脑；一个圆形放大框展示连接完整的健康神经元】。\n右：【萎缩、沟回变宽的大脑；一个圆形放大框展示神经元之间的淀粉样斑块和神经元内扭曲的缠结】。\n标签（每个只出现一次，不加其他文字）：【Healthy brain, Alzheimer's brain, Amyloid plaque, Tau tangles】。"
+  }
+}

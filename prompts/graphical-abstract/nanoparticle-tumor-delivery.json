@@ -1,0 +1,13 @@
+{
+  "id": "nanoparticle-tumor-delivery",
+  "theme": "graphical-abstract",
+  "technique": "多尺度放大圆圈",
+  "title": { "zh": "纳米颗粒靶向递送抗肿瘤药物", "en": "Tumor-targeted nanoparticle drug delivery" },
+  "style": "B",
+  "size": "16:9",
+  "slots": ["研究主题", "左：递送载体", "中：体内过程", "放大框：细胞层面", "右：结局", "标签"],
+  "content": {
+    "en": "Create a graphical abstract about 【tumor-targeted nanoparticle drug delivery】, told from left to right in three stages.\nLeft: 【one lipid nanoparticle with targeting ligands on its surface, a quarter cut away to show the drug inside】.\nCenter: 【nanoparticles leave a leaky blood vessel and enter the tumor tissue】. A circular magnified inset zooms in on 【one tumor cell: the nanoparticle binds a surface receptor, is taken up by endocytosis and releases the drug inside the cell】.\nRight: 【a smaller tumor with dying tumor cells】.\nLabels, each used once, no other text: 【Nanoparticle, Leaky vessel, Drug release, Tumor regression】.",
+    "zh": "画一张关于【肿瘤靶向纳米颗粒药物递送】的图形摘要，从左到右分三段讲述。\n左：【一个表面带靶向配体的脂质纳米颗粒，切开四分之一，露出里面包裹的药物】。\n中：【纳米颗粒从有渗漏的血管中穿出，进入肿瘤组织】。用一个圆形放大框放大【一个肿瘤细胞：纳米颗粒结合细胞表面受体，经内吞进入细胞，在细胞内释放药物】。\n右：【体积缩小的肿瘤，肿瘤细胞正在死亡】。\n标签（每个只出现一次，不加其他文字）：【Nanoparticle, Leaky vessel, Drug release, Tumor regression】。"
+  }
+}

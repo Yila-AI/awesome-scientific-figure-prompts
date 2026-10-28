@@ -1,0 +1,15 @@
+{
+  "id": "hydrogel-wound",
+  "theme": "graphical-abstract",
+  "technique": "左右对比分屏 + 放大圆圈",
+  "title": {
+    "zh": "水凝胶促进创面愈合",
+    "en": "Hydrogel-assisted wound healing"
+  },
+  "style": "B",
+  "size": "16:9",
+  "content": {
+    "en": "Create a side-by-side graphical abstract comparing 【an untreated skin wound and a wound treated with an injectable hydrogel】, separated by a thin dashed vertical line. Both sides show 【the same cross-section of skin with an open wound】.\nLeft: 【untreated: an open wound with bacteria and redness, healing slowly】.\nRight: 【treated: a translucent hydrogel fills the wound and releases small drug particles; new blood vessels and collagen grow and the wound is almost closed】. A circular magnified inset shows 【the hydrogel's cross-linked polymer network holding the drug particles】.\nLabels, each used once, no other text: 【Untreated, Hydrogel, Angiogenesis, Wound closure】.",
+    "zh": "画一张左右对比的图形摘要，比较【未处理的皮肤创面和用可注射水凝胶处理的创面】，中间用一条细虚线分开。两侧都是【同一个带开放创面的皮肤剖面】。\n左：【未处理：创面敞开，有细菌和红肿，愈合缓慢】。\n右：【处理后：半透明水凝胶填满创面并释放小药物颗粒；新生血管和胶原长出，创面几乎闭合】。用一个圆形放大框展示【水凝胶的交联高分子网络包裹着药物颗粒】。\n标签（每个只出现一次，不加其他文字）：【Untreated, Hydrogel, Angiogenesis, Wound closure】。"
+  }
+}

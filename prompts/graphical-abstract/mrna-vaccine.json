@@ -1,0 +1,15 @@
+{
+  "id": "mrna-vaccine",
+  "theme": "graphical-abstract",
+  "technique": "多尺度放大圆圈",
+  "title": {
+    "zh": "mRNA 疫苗诱导免疫应答",
+    "en": "mRNA vaccine immune response"
+  },
+  "style": "B",
+  "size": "16:9",
+  "content": {
+    "en": "Create a graphical abstract about 【how an mRNA vaccine trains the immune system】, told from left to right in three stages.\nLeft: 【a lipid nanoparticle carrying mRNA, injected into the upper-arm muscle】.\nCenter: 【a muscle cell takes up the particle and makes the viral spike protein】. A circular magnified inset zooms in on 【ribosomes reading the mRNA and spike proteins appearing on the cell surface】.\nRight: 【B cells releasing Y-shaped antibodies and a T cell attacking an infected cell】.\nLabels, each used once, no other text: 【mRNA, Spike protein, Antibodies, T cell】.",
+    "zh": "画一张关于【mRNA 疫苗如何训练免疫系统】的图形摘要，从左到右分三段讲述。\n左：【携带 mRNA 的脂质纳米颗粒，注射进上臂肌肉】。\n中：【肌肉细胞摄取颗粒，制造病毒的刺突蛋白】。用一个圆形放大框放大【核糖体读取 mRNA，刺突蛋白出现在细胞表面】。\n右：【B 细胞释放 Y 形抗体，一个 T 细胞攻击被感染的细胞】。\n标签（每个只出现一次，不加其他文字）：【mRNA, Spike protein, Antibodies, T cell】。"
+  }
+}

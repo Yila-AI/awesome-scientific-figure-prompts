@@ -1,0 +1,13 @@
+{
+  "id": "liver-fibrosis",
+  "theme": "medical-illustration",
+  "technique": "左右对比分屏 + 多尺度放大圆圈",
+  "title": { "zh": "健康肝脏与肝纤维化对比", "en": "Healthy versus fibrotic liver" },
+  "style": "B",
+  "size": "16:9",
+  "slots": ["器官", "左：正常", "右：疾病", "放大框：关键细胞变化", "标签"],
+  "content": {
+    "en": "Create a side-by-side medical illustration comparing 【a healthy liver and a fibrotic liver】, separated by a thin dashed vertical line.\nLeft: 【a smooth, reddish-brown healthy liver; a circular magnified inset shows orderly hepatocytes and a quiet, star-shaped stellate cell storing small lipid droplets】.\nRight: 【a shrunken liver with a bumpy, scarred surface; a circular magnified inset shows the stellate cell turned into an elongated activated cell, surrounded by thick collagen fibers between damaged hepatocytes】.\nLabels, each used once, no other text: 【Healthy liver, Fibrotic liver, Hepatocyte, Stellate cell, Collagen】.",
+    "zh": "画一张左右并排的医学插图，比较【健康肝脏和纤维化肝脏】，中间用一条细虚线分开。\n左：【表面光滑、红褐色的健康肝脏；一个圆形放大框展示排列整齐的肝细胞，以及一个处于静止状态、储存小脂滴的星形肝星状细胞】。\n右：【体积缩小、表面凹凸不平带瘢痕的肝脏；一个圆形放大框展示星状细胞变成拉长的激活细胞，受损肝细胞之间被粗大的胶原纤维包围】。\n标签（每个只出现一次，不加其他文字）：【Healthy liver, Fibrotic liver, Hepatocyte, Stellate cell, Collagen】。"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "pd1-pdl1-checkpoint",
+  "theme": "signaling-pathway",
+  "technique": "逐条关系 + 左右对比分屏",
+  "title": {
+    "zh": "PD-1/PD-L1 免疫检查点与阻断",
+    "en": "PD-1/PD-L1 immune checkpoint and its blockade"
+  },
+  "style": "A",
+  "size": "16:9",
+  "slots": [
+    "机制",
+    "左侧细胞",
+    "右侧细胞",
+    "左面板：未干预",
+    "右面板：干预后",
+    "标签"
+  ],
+  "content": {
+    "en": "Create a two-panel schematic of 【the PD-1/PD-L1 immune checkpoint before and after antibody blockade】, separated by a thin dashed vertical line. In both panels 【a T cell is on the left and a tumor cell is on the right】, and only their contact zone is drawn. Draw each relationship exactly as listed and nothing more:\nLeft panel:\n1. 【TCR on the T cell touches MHC-I on the tumor cell.】\n2. 【PD-1 on the T cell is directly joined to PD-L1 on the tumor cell.】\n3. 【A red T-bar goes from PD-1 into the T cell: the T cell is switched off.】\nRight panel:\n1. 【TCR on the T cell touches MHC-I on the tumor cell.】\n2. 【A Y-shaped antibody is attached to PD-1 only; a clear gap separates PD-1 from PD-L1.】\n3. 【A solid arrow goes from the T cell to the tumor cell, which is breaking apart.】\nLabels, each used once, no other text: 【T cell, Tumor cell, PD-1, PD-L1, Anti-PD-1, Tumor killing】.",
+    "zh": "画一张左右两栏示意图，展示【抗体阻断前后的 PD-1/PD-L1 免疫检查点】，两栏之间用一条细虚线分开。两栏里都是【左边一个 T 细胞，右边一个肿瘤细胞】，只画两者接触的区域。严格按下面列出的关系画，不多画：\n左栏：\n1. 【T 细胞上的 TCR 接触肿瘤细胞上的 MHC-I。】\n2. 【T 细胞上的 PD-1 与肿瘤细胞上的 PD-L1 直接相连。】\n3. 【一条红色 T 形线从 PD-1 伸进 T 细胞：T 细胞被关闭。】\n右栏：\n1. 【T 细胞上的 TCR 接触肿瘤细胞上的 MHC-I。】\n2. 【一个 Y 形抗体只结合在 PD-1 上；PD-1 与 PD-L1 之间留出明显的空隙。】\n3. 【一条实线箭头从 T 细胞指向正在破裂的肿瘤细胞。】\n标签（每个只出现一次，不加其他文字）：【T cell, Tumor cell, PD-1, PD-L1, Anti-PD-1, Tumor killing】。"
+  }
+}

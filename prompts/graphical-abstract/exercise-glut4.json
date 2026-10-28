@@ -1,0 +1,15 @@
+{
+  "id": "exercise-glut4",
+  "theme": "graphical-abstract",
+  "technique": "多尺度放大圆圈",
+  "title": {
+    "zh": "运动改善骨骼肌胰岛素抵抗",
+    "en": "Exercise improves muscle insulin resistance"
+  },
+  "style": "B",
+  "size": "16:9",
+  "content": {
+    "en": "Create a graphical abstract about 【how exercise improves insulin resistance in skeletal muscle】, told from left to right.\nLeft: 【a person running】.\nCenter: 【the thigh muscle】, with a circular magnified inset of 【one muscle cell: small vesicles carrying GLUT4 transporters move to the cell membrane and insert into it】.\nRight: 【glucose molecules entering the muscle cell through GLUT4, and a lower blood glucose level】.\nLabels, each used once, no other text: 【Exercise, Skeletal muscle, GLUT4, Glucose uptake】.",
+    "zh": "画一张关于【运动如何改善骨骼肌胰岛素抵抗】的图形摘要，从左到右讲述。\n左：【一个正在跑步的人】。\n中：【大腿肌肉】，用一个圆形放大框放大【一个肌细胞：携带 GLUT4 转运体的小囊泡移向细胞膜并嵌入膜中】。\n右：【葡萄糖分子通过 GLUT4 进入肌细胞，血糖水平下降】。\n标签（每个只出现一次，不加其他文字）：【Exercise, Skeletal muscle, GLUT4, Glucose uptake】。"
+  }
+}

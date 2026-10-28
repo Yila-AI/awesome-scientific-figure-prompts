@@ -1,0 +1,15 @@
+{
+  "id": "proteomics-lcms",
+  "theme": "experimental-workflow",
+  "technique": "浅色圆角面板分步",
+  "title": {
+    "zh": "LC-MS/MS 蛋白质组学流程",
+    "en": "LC-MS/MS proteomics workflow"
+  },
+  "style": "W",
+  "size": "16:9",
+  "content": {
+    "en": "Create an experimental workflow figure for 【LC-MS/MS proteomics】, in five steps from left to right. Each step is one light pastel rounded panel with its number and name at the top and one simple icon-style scene inside; thin arrows connect the panels.\nStep 1: 【cells broken open in a tube, releasing proteins】.\nStep 2: 【scissors cutting a protein chain into short peptides】.\nStep 3: 【a thin liquid chromatography column separating peptides】.\nStep 4: 【a mass spectrometer with a simple spectrum of peaks】.\nStep 5: 【a short table of identified proteins with bars showing their amounts】.\nLabels, each used once, no other text: 【1 Lysis, 2 Digestion, 3 LC, 4 MS/MS, 5 Quantification】.",
+    "zh": "画一张【LC-MS/MS 蛋白质组学】的实验流程图，从左到右分五步。每一步是一个浅色圆角面板，顶部写编号和步骤名，面板里是一个简洁的图标化小场景，面板之间用细箭头连接。\n第 1 步：【试管里的细胞被裂解，释放出蛋白】。\n第 2 步：【剪刀把一条蛋白链剪成短肽段】。\n第 3 步：【一根细长的液相色谱柱分离肽段】。\n第 4 步：【一台质谱仪，旁边是一张简单的峰图】。\n第 5 步：【一张简短的已鉴定蛋白表，用横条表示含量】。\n标签（每个只出现一次，不加其他文字）：【1 Lysis, 2 Digestion, 3 LC, 4 MS/MS, 5 Quantification】。"
+  }
+}

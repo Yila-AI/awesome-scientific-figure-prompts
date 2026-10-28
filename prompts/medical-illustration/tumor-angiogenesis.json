@@ -1,0 +1,15 @@
+{
+  "id": "tumor-angiogenesis",
+  "theme": "medical-illustration",
+  "technique": "正常与异常对照 + 放大圆圈",
+  "title": {
+    "zh": "肿瘤血管生成",
+    "en": "Tumor angiogenesis"
+  },
+  "style": "B",
+  "size": "4:3",
+  "content": {
+    "en": "Create a medical illustration of 【tumor angiogenesis】.\nLeft: 【a small tumor mass releasing VEGF signals (small dots) toward a nearby straight, normal blood vessel】.\nRight: 【new vessels sprout from that vessel and grow into the tumor; compared with the normal vessel they are twisted, uneven and leaky】.\nA circular magnified inset shows 【an endothelial tip cell leading one new sprout】.\nLabels, each used once, no other text: 【Tumor, VEGF, Normal vessel, Abnormal vessels】.",
+    "zh": "画一张【肿瘤血管生成】的医学插图。\n左：【一个小肿瘤团块向旁边一条笔直的正常血管释放 VEGF 信号（小圆点）】。\n右：【新血管从这条血管长出并伸进肿瘤；与正常血管相比，新血管扭曲、粗细不均、有渗漏】。\n用一个圆形放大框展示【一个内皮尖端细胞引领新芽生长】。\n标签（每个只出现一次，不加其他文字）：【Tumor, VEGF, Normal vessel, Abnormal vessels】。"
+  }
+}

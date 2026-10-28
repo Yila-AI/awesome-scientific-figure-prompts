@@ -1,0 +1,15 @@
+{
+  "id": "clinical-cohort",
+  "theme": "experimental-workflow",
+  "technique": "竖向流程框图",
+  "title": {
+    "zh": "临床试验筛选、分组与随访",
+    "en": "Clinical trial enrollment and follow-up"
+  },
+  "style": "A",
+  "size": "3:4",
+  "content": {
+    "en": "Create a clean vertical flowchart of 【a randomized clinical trial】, read from top to bottom. Each box is a light pastel rounded rectangle with a small group-of-people icon; thin arrows connect the boxes.\n【Screened at the top → an Excluded box branching to the right side → Randomized → splits into two parallel arms, Intervention and Control → each arm goes to Follow-up → both arms meet at Analysis at the bottom】.\nLabels, each used once, no other text: 【Screened, Excluded, Randomized, Intervention, Control, Follow-up, Analysis】.",
+    "zh": "画一张干净的竖向流程图，展示【一项随机对照临床试验】，从上往下读。每个框是一个浅色圆角矩形，里面有一个小人群图标，框之间用细箭头连接。\n【顶部是 Screened → 向右分出一个 Excluded 框 → Randomized → 分成并列的两组 Intervention 和 Control → 每组各自进入 Follow-up → 两组在底部汇合到 Analysis】。\n标签（每个只出现一次，不加其他文字）：【Screened, Excluded, Randomized, Intervention, Control, Follow-up, Analysis】。"
+  }
+}

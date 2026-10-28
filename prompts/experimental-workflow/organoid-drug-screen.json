@@ -1,0 +1,15 @@
+{
+  "id": "organoid-drug-screen",
+  "theme": "experimental-workflow",
+  "technique": "浅色圆角面板分步",
+  "title": {
+    "zh": "类器官培养与药物筛选",
+    "en": "Organoid culture and drug screening"
+  },
+  "style": "W",
+  "size": "16:9",
+  "content": {
+    "en": "Create an experimental workflow figure for 【patient-derived organoid drug screening】, in five steps from left to right. Each step is one light pastel rounded panel with its number and name at the top and one simple icon-style scene inside; thin arrows connect the panels.\nStep 1: 【a small tumor biopsy taken from a patient】.\nStep 2: 【round organoids growing in a gel dome in a dish】.\nStep 3: 【organoids placed into a multi-well plate, each well receiving a different drug】.\nStep 4: 【a plate reader measuring cell viability】.\nStep 5: 【a few highlighted wells marking the most effective drugs】.\nLabels, each used once, no other text: 【1 Biopsy, 2 Culture, 3 Drug screen, 4 Readout, 5 Hits】.",
+    "zh": "画一张【患者来源类器官药物筛选】的实验流程图，从左到右分五步。每一步是一个浅色圆角面板，顶部写编号和步骤名，面板里是一个简洁的图标化小场景，面板之间用细箭头连接。\n第 1 步：【从患者身上取一小块肿瘤活检】。\n第 2 步：【圆形类器官在培养皿里的基质胶滴中生长】。\n第 3 步：【类器官被分进多孔板，每个孔加入不同的药物】。\n第 4 步：【酶标仪测量细胞活力】。\n第 5 步：【几个被标亮的孔，代表效果最好的药物】。\n标签（每个只出现一次，不加其他文字）：【1 Biopsy, 2 Culture, 3 Drug screen, 4 Readout, 5 Hits】。"
+  }
+}

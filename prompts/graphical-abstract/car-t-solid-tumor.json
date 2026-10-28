@@ -1,0 +1,15 @@
+{
+  "id": "car-t-solid-tumor",
+  "theme": "graphical-abstract",
+  "technique": "阶段式进程 + 放大圆圈",
+  "title": {
+    "zh": "CAR-T 细胞攻克实体瘤",
+    "en": "CAR-T cells against a solid tumor"
+  },
+  "style": "B",
+  "size": "16:9",
+  "content": {
+    "en": "Create a graphical abstract about 【CAR-T cell therapy against a solid tumor】, told from left to right in three stages.\nLeft: 【a patient's T cells engineered to carry a chimeric antigen receptor on their surface】.\nCenter: 【CAR-T cells leave a blood vessel and push into dense tumor tissue】.\nRight: 【a CAR-T cell attacks a tumor cell, which breaks apart】. A circular magnified inset shows 【the receptor on the CAR-T cell binding an antigen on the tumor cell】.\nLabels, each used once, no other text: 【CAR-T cell, Tumor antigen, Infiltration, Tumor killing】.",
+    "zh": "画一张关于【CAR-T 细胞治疗实体瘤】的图形摘要，从左到右分三段讲述。\n左：【患者的 T 细胞经过改造，表面带上嵌合抗原受体】。\n中：【CAR-T 细胞从血管中穿出，进入致密的肿瘤组织】。\n右：【一个 CAR-T 细胞攻击肿瘤细胞，肿瘤细胞破裂】。用一个圆形放大框展示【CAR-T 细胞上的受体结合肿瘤细胞上的抗原】。\n标签（每个只出现一次，不加其他文字）：【CAR-T cell, Tumor antigen, Infiltration, Tumor killing】。"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": "gut-brain-axis",
+  "theme": "graphical-abstract",
+  "technique": "双放大圆圈",
+  "title": {
+    "zh": "肠–脑轴与抑郁",
+    "en": "Gut–brain axis in depression"
+  },
+  "style": "B",
+  "size": "16:9",
+  "content": {
+    "en": "Create a graphical abstract about 【the gut–brain axis in depression】.\nLeft: 【a human upper-body silhouette with the gut and the brain highlighted】.\nTwo circular magnified insets: one on 【the gut, showing imbalanced bacteria and a damaged intestinal lining】, one on 【the brain, showing activated microglia】.\nBetween the insets, 【three paths link gut and brain: a nerve fiber, a blood vessel carrying inflammatory molecules, and immune cells】.\nRight: 【a person with a low mood】.\nLabels, each used once, no other text: 【Dysbiosis, Vagus nerve, Inflammation, Microglia, Depression】.",
+    "zh": "画一张关于【肠–脑轴与抑郁】的图形摘要。\n左：【人体上半身轮廓，突出显示肠道和大脑】。\n两个圆形放大框：一个放大【肠道，显示失衡的菌群和受损的肠黏膜】，一个放大【大脑，显示被激活的小胶质细胞】。\n两个放大框之间，【三条通路连接肠道和大脑：一条神经纤维、一条运送炎症分子的血管、一群免疫细胞】。\n右：【一个情绪低落的人】。\n标签（每个只出现一次，不加其他文字）：【Dysbiosis, Vagus nerve, Inflammation, Microglia, Depression】。"
+  }
+}

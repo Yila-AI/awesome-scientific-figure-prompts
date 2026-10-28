@@ -1,0 +1,15 @@
+{
+  "id": "scrna-seq-workflow",
+  "theme": "experimental-workflow",
+  "technique": "浅色圆角面板分步",
+  "title": {
+    "zh": "单细胞 RNA 测序流程",
+    "en": "Single-cell RNA sequencing workflow"
+  },
+  "style": "W",
+  "size": "16:9",
+  "content": {
+    "en": "Create an experimental workflow figure for 【single-cell RNA sequencing】, in five steps from left to right. Each step is one light pastel rounded panel with its number and name at the top and one simple icon-style scene inside; thin arrows connect the panels.\nStep 1: 【a tissue piece breaking into single cells】.\nStep 2: 【a microfluidic chip putting each cell into a droplet with a bead】.\nStep 3: 【mRNA molecules tagged with colored barcodes】.\nStep 4: 【a sequencing instrument】.\nStep 5: 【a scatter of colored cell clusters】.\nLabels, each used once, no other text: 【1 Dissociation, 2 Capture, 3 Barcoding, 4 Sequencing, 5 Clustering】.",
+    "zh": "画一张【单细胞 RNA 测序】的实验流程图，从左到右分五步。每一步是一个浅色圆角面板，顶部写编号和步骤名，面板里是一个简洁的图标化小场景，面板之间用细箭头连接。\n第 1 步：【一块组织被分散成单个细胞】。\n第 2 步：【微流控芯片把每个细胞和一颗微珠包进一个液滴】。\n第 3 步：【mRNA 分子带上彩色条形码】。\n第 4 步：【一台测序仪】。\n第 5 步：【几团不同颜色的细胞簇散点】。\n标签（每个只出现一次，不加其他文字）：【1 Dissociation, 2 Capture, 3 Barcoding, 4 Sequencing, 5 Clustering】。"
+  }
+}

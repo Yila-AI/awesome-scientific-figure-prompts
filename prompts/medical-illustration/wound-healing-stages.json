@@ -1,0 +1,15 @@
+{
+  "id": "wound-healing-stages",
+  "theme": "medical-illustration",
+  "technique": "阶段式进程",
+  "title": {
+    "zh": "皮肤创面愈合四阶段",
+    "en": "Four stages of skin wound healing"
+  },
+  "style": "B",
+  "size": "16:9",
+  "content": {
+    "en": "Create a medical illustration of 【skin wound healing】 in four stages from left to right, each shown as the same cross-section of skin.\n1: 【a blood clot plugs the wound】.\n2: 【immune cells clear debris and bacteria】.\n3: 【new tissue, small blood vessels and collagen fill the wound】.\n4: 【the surface is closed, with a faint scar】.\nLabels, each used once, no other text: 【Hemostasis, Inflammation, Proliferation, Remodeling】.",
+    "zh": "画一张【皮肤创面愈合】的医学插图，从左到右分四个阶段，每个阶段都是同一个皮肤剖面。\n1：【血凝块堵住创口】。\n2：【免疫细胞清除碎屑和细菌】。\n3：【新组织、小血管和胶原填满创面】。\n4：【表面闭合，留下浅浅的瘢痕】。\n标签（每个只出现一次，不加其他文字）：【Hemostasis, Inflammation, Proliferation, Remodeling】。"
+  }
+}

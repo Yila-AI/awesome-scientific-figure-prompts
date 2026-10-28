@@ -1,0 +1,15 @@
+{
+  "id": "nephron",
+  "theme": "medical-illustration",
+  "technique": "结构 + 流向箭头",
+  "title": {
+    "zh": "肾单位结构与滤液流向",
+    "en": "Nephron structure and filtrate flow"
+  },
+  "style": "B",
+  "size": "3:4",
+  "content": {
+    "en": "Create a vertical medical illustration of 【one nephron of the kidney】 with the flow shown by arrows.\nTop: 【the glomerulus, a ball of capillaries inside Bowman's capsule】.\nThen 【the proximal tubule, the U-shaped loop of Henle going down and back up, and the distal tubule】, ending in 【the collecting duct】 at the bottom.\nArrows follow 【the filtrate from the glomerulus to the collecting duct】. A small outline in the corner shows 【where the nephron sits in the kidney】.\nLabels, each used once, no other text: 【Glomerulus, Proximal tubule, Loop of Henle, Distal tubule, Collecting duct】.",
+    "zh": "画一张竖版医学插图，主体是【肾脏的一个肾单位】，用箭头表示流向。\n顶部：【肾小球，包在鲍曼囊里的一团毛细血管】。\n往下是【近曲小管、先下行再上行的 U 形髓袢、远曲小管】，最底部接【集合管】。\n箭头沿着【滤液从肾小球流到集合管】。角落里一个小轮廓图显示【肾单位在肾脏中的位置】。\n标签（每个只出现一次，不加其他文字）：【Glomerulus, Proximal tubule, Loop of Henle, Distal tubule, Collecting duct】。"
+  }
+}
