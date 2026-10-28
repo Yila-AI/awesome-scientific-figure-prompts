@@ -1508,9 +1508,11 @@ by [@Yila-AI](https://github.com/Yila-AI)
 
 写法技巧：**逐条关系 + 模块框图**　·　风格：期刊式示意框图　·　比例：16:9
 
-| 中文提示词出图 |
+| 英文提示词出图 |
 |---|
-| <img src="gallery/ai-computing/rag-pipeline-zh.jpg" width="420"> |
+| <img src="gallery/ai-computing/rag-pipeline-en.jpg" width="420"> |
+
+> 中文提示词出图未通过核对，因此这里不展示。
 
 **中文提示词**
 

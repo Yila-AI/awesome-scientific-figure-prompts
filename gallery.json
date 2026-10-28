@@ -1066,13 +1066,13 @@
     "size": "16:9",
     "images": [
       {
-        "lang": "zh",
-        "src": "gallery/ai-computing/rag-pipeline-zh.jpg",
+        "lang": "en",
+        "src": "gallery/ai-computing/rag-pipeline-en.jpg",
         "attempt": 1
       }
     ],
     "generations": 3,
-    "zh_output_failed_review": false,
+    "zh_output_failed_review": true,
     "prompt": {
       "zh": "画一张【检索增强生成（RAG）流程】的示意框图，从左往右读。严格按下面列出的关系画，不多画：\n1. 【用户的问题经嵌入模型变成向量。】\n2. 【用这个向量在存放文档片段的向量数据库里检索。】\n3. 【返回最匹配的几个片段，作为检索到的文档。】\n4. 【问题和检索到的文档一起输入大语言模型。】\n5. 【大语言模型写出回答。】\n主流程上方用一个浅色面板展示【文档被切成片段并存入向量数据库】。\n标签（每个只出现一次，不加其他文字）：【Query, Embedding, Vector DB, Retrieved docs, LLM, Answer】。\n\n风格：期刊式示意框图。白色背景上干净的扁平矢量图形。模块画成圆角矩形或简洁图标，名称写在里面；用浅色面板把相关的层归在一起。只用 3–4 种低饱和度颜色，每种颜色含义固定。细而粗细一致的箭头表示数据、能量、物质或影响的流向，间接或反馈关系用虚线箭头。图中文字只用英文无衬线字体，每个标签只出现一次，拼写与给定完全一致。不要 3D 渲染、阴影、发光、赛博朋克或科技感背景装饰，不要照片质感。",
       "en": "Create a schematic diagram of 【a retrieval-augmented generation (RAG) pipeline】, read from left to right. Draw each relationship exactly as listed and nothing more:\n1. 【A user query is turned into a vector by an embedding model.】\n2. 【The vector searches a vector database of document chunks.】\n3. 【The top matching chunks are returned as retrieved documents.】\n4. 【The query and the retrieved documents go into a large language model.】\n5. 【The language model writes the answer.】\nAbove the main flow, a lighter panel shows 【documents being split into chunks and stored in the vector database】.\nLabels, each used once, no other text: 【Query, Embedding, Vector DB, Retrieved docs, LLM, Answer】.\n\nStyle: journal-style schematic diagram. Clean flat vector graphics on a white background. Modules are rounded rectangles or simple icons with their short names inside; light pastel panels group related layers. Only 3-4 muted colors, each with one fixed meaning. Thin, uniform arrows show the flow of data, energy, material or influence; dashed arrows for indirect or feedback links. Sans-serif English labels only, each label appears exactly once, spelled exactly as given. No 3D rendering, no shadows, no glow, no cyberpunk or tech-background decoration, no photorealism."

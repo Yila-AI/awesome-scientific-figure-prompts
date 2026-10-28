@@ -1508,9 +1508,11 @@ by [@Yila-AI](https://github.com/Yila-AI)
 
 Technique: **numbered relationships + module diagram** · Style: schematic diagram · Aspect ratio: 16:9
 
-| Chinese prompt |
+| English prompt |
 |---|
-| <img src="gallery/ai-computing/rag-pipeline-zh.jpg" width="420"> |
+| <img src="gallery/ai-computing/rag-pipeline-en.jpg" width="420"> |
+
+> The Chinese-prompt output did not pass review, so it is not shown.
 
 **English prompt**
 
