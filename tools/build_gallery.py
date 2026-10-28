@@ -8,7 +8,7 @@ has no records (so a Gemini or ChatGPT UI export is enough). Writes:
   gallery/<theme>/<id>-<lang>[-<attempt>].jpg   compressed images
   gallery/cover.jpg                              3x3 cover of the featured set
   gallery.json                                   machine-readable index
-  README.md / README_en.md                       generated, do not edit by hand
+  README.md / README_zh.md                       generated, do not edit by hand
 
 Raw files under images/ are gitignored. When they are absent, existing gallery
 JPEGs are kept and Pillow is not required.
@@ -132,7 +132,7 @@ def manual_image(fig, lang):
 def technique_en(fig):
     text = (fig.get("technique_en") or "").strip()
     if not text:
-        raise SystemExit(f"{fig['id']}: add technique_en so README_en.md does not copy the Chinese technique")
+        raise SystemExit(f"{fig['id']}: add technique_en so README.md does not copy the Chinese technique")
     if re.search(r"[\u4e00-\u9fff]", text):
         raise SystemExit(f"{fig['id']}: technique_en still contains Chinese: {text}")
     return text
@@ -197,8 +197,11 @@ def build():
     (ROOT / "gallery.json").write_text(json.dumps(entries, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
     make_cover(entries)
     for lang in ("zh", "en"):
-        name = "README.md" if lang == "zh" else "README_en.md"
+        name = "README_zh.md" if lang == "zh" else "README.md"
         (ROOT / name).write_text(render(entries, lang), encoding="utf-8")
+    stale = ROOT / "README_en.md"
+    if stale.exists():
+        stale.unlink()
     problems = verify(entries)
     if problems:
         raise SystemExit("README check failed:\n" + "\n".join(problems))
@@ -270,20 +273,14 @@ def hero(entries, lang):
         keywords = ("可直接复制的提示词模板，覆盖图形摘要、信号通路、医学插图和实验流程，"
                     "以及材料能源、环境、AI、工程、化学、农学和社科。"
                     "每条都用真实的 Nano Banana / Gemini 出图检验过。")
-        switch = [
-            "[![English](https://img.shields.io/badge/English-View-orange)](README_en.md)",
-            "[![简体中文](https://img.shields.io/badge/简体中文-当前-brightgreen)](README.md)",
-        ]
+        switch = "[English](README.md) | **简体中文**"
     else:
         value = "**Turn your research into a journal-style figure draft in 5 minutes — no BioRender, no drawing skills.**"
         keywords = ("Copy-paste prompt templates for graphical abstracts, signaling pathways, "
                     "medical illustrations and experimental workflows, plus materials, energy, "
                     "environment, AI, engineering, chemistry, plant science and social science. "
                     "Each template is tested with real Nano Banana / Gemini outputs.")
-        switch = [
-            "[![English](https://img.shields.io/badge/English-Current-brightgreen)](README_en.md)",
-            "[![简体中文](https://img.shields.io/badge/简体中文-点击查看-orange)](README.md)",
-        ]
+        switch = "**English** | [简体中文](README_zh.md)"
     badges = [
         f"[![GitHub stars](https://img.shields.io/github/stars/{REPO}?style=social)]({REPO_URL})",
         f"![Templates](https://img.shields.io/badge/templates-{n}-blue)",
@@ -295,14 +292,14 @@ def hero(entries, lang):
     return [
         '<div align="center">',
         "",
+        switch,
+        "",
         f"# 🔬 {REPO_TITLE}",
         "",
         value,
         keywords,
         "",
         *badges,
-        "",
-        *switch,
         "",
         f'<img src="gallery/cover.jpg" alt="{alt}" width="900">',
         "",
@@ -529,7 +526,9 @@ def verify(entries):
         if not (ROOT / src).exists():
             problems.append(f"missing {src}")
     required_ids = ["top", *(theme for theme, _, _ in THEMES), *(f"no-{e['no']}" for e in entries)]
-    for lang, filename in (("en", "README_en.md"), ("zh", "README.md")):
+    if (ROOT / "README_en.md").exists():
+        problems.append("README_en.md should not exist; English is README.md and Chinese is README_zh.md")
+    for lang, filename in (("en", "README.md"), ("zh", "README_zh.md")):
         text = (ROOT / filename).read_text(encoding="utf-8")
         ids = set(re.findall(r'<a id="([^"]+)"></a>', text))
         for anchor in required_ids:
@@ -602,6 +601,12 @@ def verify(entries):
         for href in re.findall(r'href="#([^"]+)"', text):
             if href not in ids:
                 problems.append(f"{filename}: href #{href} has no anchor")
+        if "README_en.md" in text:
+            problems.append(f"{filename}: still links to README_en.md")
+        if lang == "en" and "**English** | [简体中文](README_zh.md)" not in text:
+            problems.append(f"{filename}: English is not marked as the current language")
+        if lang == "zh" and "[English](README.md) | **简体中文**" not in text:
+            problems.append(f"{filename}: 简体中文 is not marked as the current language")
         if lang == "en":
             visible = re.sub(r"```text.*?```", "", text, flags=re.S)
             for token in ("简体中文", "点击查看", "精选"):
