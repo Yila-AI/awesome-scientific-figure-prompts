@@ -274,6 +274,7 @@ def hero(entries, lang):
                     "以及材料能源、环境、AI、工程、化学、农学和社科。"
                     "每条都用真实的 Nano Banana / Gemini 出图检验过。")
         switch = "[English](README.md) | **简体中文**"
+        updates = "🔄 **持续更新中**：定期新增常用科研绘图模板，目标 1,000 个。点 ⭐ Star 或 Watch 获取更新。"
     else:
         value = "**Turn your research into a journal-style figure draft in 5 minutes — no BioRender, no drawing skills.**"
         keywords = ("Copy-paste prompt templates for graphical abstracts, signaling pathways, "
@@ -281,6 +282,8 @@ def hero(entries, lang):
                     "environment, AI, engineering, chemistry, plant science and social science. "
                     "Each template is tested with real Nano Banana / Gemini outputs.")
         switch = "**English** | [简体中文](README_zh.md)"
+        updates = ("🔄 **Continuously updated**: new templates for commonly needed figures are added regularly, "
+                   "growing to 1,000. ⭐ Star or Watch to get updates.")
     badges = [
         f"[![GitHub stars](https://img.shields.io/github/stars/{REPO}?style=social)]({REPO_URL})",
         f"![Templates](https://img.shields.io/badge/templates-{n}-blue)",
@@ -298,6 +301,8 @@ def hero(entries, lang):
         "",
         value,
         keywords,
+        "",
+        updates,
         "",
         *badges,
         "",
