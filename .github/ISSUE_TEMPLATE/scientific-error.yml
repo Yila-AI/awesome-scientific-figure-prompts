@@ -11,7 +11,7 @@ body:
     id: entry-number
     attributes:
       label: Entry number
-      description: The No. in the README. For example, 8 is the cGAS–STING pathway.
+      description: The No. in README.md or README_zh.md. For example, 8 is the cGAS–STING pathway.
       placeholder: "8"
     validations:
       required: true
