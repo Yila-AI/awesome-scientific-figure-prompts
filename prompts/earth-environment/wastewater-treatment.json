@@ -1,0 +1,20 @@
+{
+  "id": "wastewater-treatment",
+  "theme": "earth-environment",
+  "technique": "主流程加污泥回流虚线",
+  "technique_en": "main flow plus a dashed sludge-return loop",
+  "featured": false,
+  "added": "2026-10-28",
+  "author": "Yila-AI",
+  "author_url": "https://github.com/Yila-AI",
+  "title": {
+    "zh": "污水处理工艺流程",
+    "en": "Wastewater treatment process"
+  },
+  "style": "D",
+  "size": "16:9",
+  "content": {
+    "en": "Create a process diagram of 【a municipal wastewater treatment plant】, read from left to right. Each unit is a simple tank icon. Draw each relationship exactly as listed and nothing more:\n1. 【Influent → screening → primary clarifier → aeration tank (with air bubbles) → secondary clarifier → disinfection → effluent.】\n2. 【A dashed arrow returns sludge from the secondary clarifier to the aeration tank.】\nLabels, each used once, no other text: 【Influent, Screening, Primary clarifier, Aeration tank, Secondary clarifier, Disinfection, Effluent, Return sludge】.",
+    "zh": "画一张【城市污水处理厂】的工艺流程图，从左往右读，每个单元画成一个简单的池体图标。严格按下面列出的关系画，不多画：\n1. 【进水 → 格栅 → 初沉池 → 曝气池（带气泡）→ 二沉池 → 消毒 → 出水。】\n2. 【一条虚线箭头把污泥从二沉池回流到曝气池。】\n标签（每个只出现一次，不加其他文字）：【Influent, Screening, Primary clarifier, Aeration tank, Secondary clarifier, Disinfection, Effluent, Return sludge】。"
+  }
+}

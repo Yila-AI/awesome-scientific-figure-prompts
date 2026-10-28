@@ -1,0 +1,20 @@
+{
+  "id": "docking-md",
+  "theme": "experimental-workflow",
+  "technique": "每步一个面板，只写步骤名",
+  "technique_en": "one panel per step, step names only",
+  "featured": false,
+  "added": "2026-10-28",
+  "author": "Yila-AI",
+  "author_url": "https://github.com/Yila-AI",
+  "title": {
+    "zh": "分子对接与分子动力学流程",
+    "en": "Molecular docking and dynamics workflow"
+  },
+  "style": "W",
+  "size": "16:9",
+  "content": {
+    "en": "Create a workflow figure for 【a molecular docking and molecular dynamics study】, 6 steps from left to right:\n1. 【Protein preparation: a ribbon protein structure】\n2. 【Ligand preparation: a small molecule】\n3. 【Docking: the molecule fitting into a pocket】\n4. 【Binding pose: a close-up of the molecule in the pocket】\n5. 【Molecular dynamics: the complex surrounded by water molecules】\n6. 【Binding stability: a check mark over the complex】\nStep names, each used once, no other text: 【Protein preparation, Ligand preparation, Docking, Binding pose, Molecular dynamics, Binding stability】.",
+    "zh": "画一张【分子对接与分子动力学研究】的流程图，从左往右六步：\n1. 【蛋白准备：带状蛋白结构】\n2. 【配体准备：一个小分子】\n3. 【分子对接：小分子嵌入口袋】\n4. 【结合构象：小分子在口袋里的特写】\n5. 【分子动力学：复合物周围包着水分子】\n6. 【结合稳定性：复合物上方一个对勾】\n步骤名（每个只出现一次，不加其他文字）：【Protein preparation, Ligand preparation, Docking, Binding pose, Molecular dynamics, Binding stability】。"
+  }
+}

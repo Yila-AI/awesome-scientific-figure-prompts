@@ -1,0 +1,20 @@
+{
+  "id": "ml-pipeline",
+  "theme": "ai-computing",
+  "technique": "六步流程加反馈虚线",
+  "technique_en": "six steps with a dashed feedback loop",
+  "featured": false,
+  "added": "2026-10-28",
+  "author": "Yila-AI",
+  "author_url": "https://github.com/Yila-AI",
+  "title": {
+    "zh": "机器学习建模流程",
+    "en": "Machine learning modeling pipeline"
+  },
+  "style": "W",
+  "size": "16:9",
+  "content": {
+    "en": "Create a workflow figure for 【a machine learning project】, six steps from left to right, with one dashed arrow from the last step back to the first:\n1. 【Data collection: a database icon】\n2. 【Preprocessing: a broom cleaning a table】\n3. 【Feature engineering: puzzle pieces】\n4. 【Model training: a small neural network】\n5. 【Evaluation: a target with a check mark】\n6. 【Deployment: a cloud with an arrow】\nStep names, each used once, no other text: 【Data collection, Preprocessing, Feature engineering, Model training, Evaluation, Deployment】.",
+    "zh": "画一张【机器学习项目】的流程图，从左往右六步，最后一步用一条虚线箭头回到第一步：\n1. 【数据收集：数据库图标】\n2. 【数据预处理：扫帚清理表格】\n3. 【特征工程：拼图块】\n4. 【模型训练：一个小神经网络】\n5. 【模型评估：带对勾的靶心】\n6. 【部署：带箭头的云】\n步骤名（每个只出现一次，不加其他文字）：【Data collection, Preprocessing, Feature engineering, Model training, Evaluation, Deployment】。"
+  }
+}

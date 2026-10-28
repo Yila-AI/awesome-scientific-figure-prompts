@@ -1,0 +1,20 @@
+{
+  "id": "intestinal-barrier",
+  "theme": "medical-illustration",
+  "technique": "左右对照的截面",
+  "technique_en": "side-by-side cross-sections",
+  "featured": false,
+  "added": "2026-10-28",
+  "author": "Yila-AI",
+  "author_url": "https://github.com/Yila-AI",
+  "title": {
+    "zh": "肠道屏障：健康 vs 受损",
+    "en": "Intestinal barrier: healthy versus leaky"
+  },
+  "style": "S",
+  "size": "16:9",
+  "content": {
+    "en": "Create a side-by-side cross-section of 【the intestinal lining】:\n1. Left half, healthy: 【a thick mucus layer, a single row of epithelial cells sealed by tight junctions, and gut bacteria staying in the lumen】.\n2. Right half, leaky: 【a thin mucus layer, gaps between epithelial cells, bacteria and LPS crossing into the tissue below, where immune cells gather】.\nLabels, each used once, no other text: 【Healthy, Leaky gut, Mucus layer, Tight junction, Epithelium, Microbiota, LPS, Immune cells】.",
+    "zh": "画一张【肠道黏膜】的左右对照截面图：\n1. 左半边，健康：【厚的黏液层，一排上皮细胞由紧密连接封住，肠道细菌留在肠腔里】。\n2. 右半边，受损：【黏液层变薄，上皮细胞之间出现缝隙，细菌和 LPS 穿过进入下方组织，免疫细胞在那里聚集】。\n标签（每个只出现一次，不加其他文字）：【Healthy, Leaky gut, Mucus layer, Tight junction, Epithelium, Microbiota, LPS, Immune cells】。"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "pyroptosis",
+  "theme": "signaling-pathway",
+  "technique": "成孔与因子释放同框",
+  "technique_en": "pore formation and cytokine release in one view",
+  "featured": false,
+  "added": "2026-10-28",
+  "author": "Yila-AI",
+  "author_url": "https://github.com/Yila-AI",
+  "title": {
+    "zh": "细胞焦亡（GSDMD 成孔）",
+    "en": "Pyroptosis via gasdermin D pores"
+  },
+  "style": "A",
+  "size": "4:3",
+  "content": {
+    "en": "Create a signaling pathway schematic of 【canonical pyroptosis】 in one cell, plasma membrane along the right side, read from left to right. Draw each relationship exactly as listed and nothing more:\n1. 【The inflammasome activates caspase-1.】\n2. 【Caspase-1 cleaves GSDMD.】\n3. 【The GSDMD-N fragment inserts into the membrane and forms pores.】\n4. 【Caspase-1 matures IL-1β and IL-18.】\n5. 【IL-1β and IL-18 are released through the pores.】\n6. 【The cell swells and bursts (pyroptosis).】\nLabels, each used once, no other text: 【Inflammasome, Caspase-1, GSDMD, GSDMD-N pore, IL-1β, IL-18, Pyroptosis】.",
+    "zh": "画一张【经典细胞焦亡】的信号通路示意图，在一个细胞内，细胞膜在右侧，从左往右读。严格按下面列出的关系画，不多画：\n1. 【炎症小体激活 caspase-1。】\n2. 【caspase-1 剪切 GSDMD。】\n3. 【GSDMD-N 片段插入细胞膜形成孔道。】\n4. 【caspase-1 使 IL-1β 和 IL-18 成熟。】\n5. 【IL-1β 和 IL-18 经孔道释放到细胞外。】\n6. 【细胞肿胀破裂（焦亡）。】\n标签（每个只出现一次，不加其他文字）：【Inflammasome, Caspase-1, GSDMD, GSDMD-N pore, IL-1β, IL-18, Pyroptosis】。"
+  }
+}

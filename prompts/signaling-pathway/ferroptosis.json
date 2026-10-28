@@ -1,0 +1,20 @@
+{
+  "id": "ferroptosis",
+  "theme": "signaling-pathway",
+  "technique": "膜—胞质两层，GPX4 轴与铁轴",
+  "technique_en": "membrane and cytosol, GPX4 axis versus iron axis",
+  "featured": false,
+  "added": "2026-10-28",
+  "author": "Yila-AI",
+  "author_url": "https://github.com/Yila-AI",
+  "title": {
+    "zh": "铁死亡",
+    "en": "Ferroptosis"
+  },
+  "style": "A",
+  "size": "4:3",
+  "content": {
+    "en": "Create a signaling pathway schematic of 【ferroptosis】 in one cell, plasma membrane across the top, read from top to bottom. Draw each relationship exactly as listed and nothing more:\n1. 【Cystine enters the cell through System xc- in the membrane.】\n2. 【Cystine is used to make GSH.】\n3. 【GSH supports GPX4.】\n4. 【GPX4 inhibits lipid peroxidation (red T-bar).】\n5. 【Fe2+ drives lipid peroxidation (solid arrow).】\n6. 【ACSL4 supplies membrane lipids for peroxidation (solid arrow).】\n7. 【Lipid peroxidation leads to ferroptosis (a ruptured membrane).】\nLabels, each used once, no other text: 【System xc-, Cystine, GSH, GPX4, Fe2+, ACSL4, Lipid peroxidation, Ferroptosis】.",
+    "zh": "画一张【铁死亡】的信号通路示意图，在一个细胞内，细胞膜横在顶部，从上往下读。严格按下面列出的关系画，不多画：\n1. 【胱氨酸经膜上的 System xc- 进入细胞。】\n2. 【胱氨酸用于合成 GSH。】\n3. 【GSH 支持 GPX4。】\n4. 【GPX4 抑制脂质过氧化（红色 T 形线）。】\n5. 【Fe2+ 推动脂质过氧化（实线箭头）。】\n6. 【ACSL4 为过氧化提供膜脂（实线箭头）。】\n7. 【脂质过氧化导致铁死亡（细胞膜破裂）。】\n标签（每个只出现一次，不加其他文字）：【System xc-, Cystine, GSH, GPX4, Fe2+, ACSL4, Lipid peroxidation, Ferroptosis】。"
+  }
+}

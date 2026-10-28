@@ -1,0 +1,20 @@
+{
+  "id": "macrophage-polarization",
+  "theme": "graphical-abstract",
+  "technique": "中间未极化，左右分化",
+  "technique_en": "unpolarized cell in the middle, two fates on either side",
+  "featured": false,
+  "added": "2026-10-28",
+  "author": "Yila-AI",
+  "author_url": "https://github.com/Yila-AI",
+  "title": {
+    "zh": "巨噬细胞 M1/M2 极化",
+    "en": "Macrophage M1/M2 polarization"
+  },
+  "style": "B",
+  "size": "16:9",
+  "content": {
+    "en": "Create a graphical abstract of 【macrophage polarization】: one unpolarized macrophage in the center, with two outcomes on either side:\n1. Left arrow: 【LPS + IFN-γ】 turns it into 【an M1 macrophage releasing inflammatory signals, shown in warm red tones】.\n2. Right arrow: 【IL-4 + IL-13】 turns it into 【an M2 macrophage helping repair tissue, shown in cool green tones】.\nLabels, each used once, no other text: 【M0, M1, M2, LPS + IFN-γ, IL-4 + IL-13, Pro-inflammatory, Tissue repair】.",
+    "zh": "画一张【巨噬细胞极化】的图文摘要：中央一个未极化的巨噬细胞，左右两侧是两种结局：\n1. 向左的箭头：【LPS + IFN-γ】使它变成【释放炎症信号的 M1 巨噬细胞，用暖红色调】。\n2. 向右的箭头：【IL-4 + IL-13】使它变成【帮助组织修复的 M2 巨噬细胞，用冷绿色调】。\n标签（每个只出现一次，不加其他文字）：【M0, M1, M2, LPS + IFN-γ, IL-4 + IL-13, Pro-inflammatory, Tissue repair】。"
+  }
+}

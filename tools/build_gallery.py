@@ -34,6 +34,7 @@ ERROR_ISSUE = f"{REPO_URL}/issues/new?template=scientific-error.yml"
 REPO_TITLE = "Awesome Scientific Figure Prompts"
 
 THEMES = [
+    ("research-design", "通用科研图", "Research Design"),
     ("graphical-abstract", "图形摘要", "Graphical Abstract"),
     ("signaling-pathway", "信号通路", "Signaling Pathway"),
     ("medical-illustration", "医学插图", "Medical Illustration"),
@@ -47,6 +48,7 @@ THEMES = [
     ("social-science", "人文社科", "Social Science"),
 ]
 THUMB_EMOJI = {
+    "research-design": "🗺️",
     "graphical-abstract": "🧭",
     "signaling-pathway": "🧬",
     "medical-illustration": "🫀",
@@ -61,6 +63,7 @@ THUMB_EMOJI = {
 }
 # Category thumbnails. Paths are checked at build time. Rows of four keep the nav readable.
 THUMB_SRC = {
+    "research-design": "gallery/research-design/hypothesis-mechanism-en.jpg",
     "graphical-abstract": "gallery/graphical-abstract/nanoparticle-tumor-delivery-en.jpg",
     "signaling-pathway": "gallery/signaling-pathway/cgas-sting-en.jpg",
     "medical-illustration": "gallery/medical-illustration/alzheimers-brain-en.jpg",
@@ -270,14 +273,14 @@ def hero(entries, lang):
     total = sum(len(e["images"]) for e in entries)
     if zh:
         value = "**5 分钟做出期刊风格的科研图初稿——不用 BioRender，也不用会画画。**"
-        keywords = ("可直接复制的提示词模板，覆盖图形摘要、信号通路、医学插图和实验流程，"
+        keywords = ("可直接复制的提示词模板，覆盖研究设计与技术路线图、图形摘要、信号通路、医学插图和实验流程，"
                     "以及材料能源、环境、AI、工程、化学、农学和社科。"
                     "每条都用真实的 Nano Banana / Gemini 出图检验过。")
         switch = "[English](README.md) | **简体中文**"
         updates = "🔄 **持续更新中**：定期新增常用科研绘图模板，目标 1,000 个。点 ⭐ Star 或 Watch 获取更新。"
     else:
         value = "**Turn your research into a journal-style figure draft in 5 minutes — no BioRender, no drawing skills.**"
-        keywords = ("Copy-paste prompt templates for graphical abstracts, signaling pathways, "
+        keywords = ("Copy-paste prompt templates for research design and roadmap figures, graphical abstracts, signaling pathways, "
                     "medical illustrations and experimental workflows, plus materials, energy, "
                     "environment, AI, engineering, chemistry, plant science and social science. "
                     "Each template is tested with real Nano Banana / Gemini outputs.")

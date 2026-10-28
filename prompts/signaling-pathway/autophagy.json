@@ -1,0 +1,20 @@
+{
+  "id": "autophagy",
+  "theme": "signaling-pathway",
+  "technique": "上方调控、下方膜泡演变",
+  "technique_en": "regulation on top, vesicle stages below",
+  "featured": false,
+  "added": "2026-10-28",
+  "author": "Yila-AI",
+  "author_url": "https://github.com/Yila-AI",
+  "title": {
+    "zh": "自噬",
+    "en": "Autophagy"
+  },
+  "style": "A",
+  "size": "16:9",
+  "content": {
+    "en": "Create a schematic of 【autophagy】 in one cell. Top row: regulation. Bottom row: the vesicle stages from left to right. Draw each relationship exactly as listed and nothing more:\n1. 【mTORC1 inhibits ULK1 (red T-bar).】\n2. 【AMPK activates ULK1.】\n3. 【ULK1 activates Beclin-1, which starts a cup-shaped membrane.】\n4. 【The membrane, marked with LC3-II dots, closes around a damaged mitochondrion to form an autophagosome.】\n5. 【The autophagosome fuses with a lysosome to form an autolysosome, where the contents are broken down.】\nLabels, each used once, no other text: 【mTORC1, AMPK, ULK1, Beclin-1, LC3-II, Autophagosome, Lysosome, Autolysosome】.",
+    "zh": "画一张【自噬】示意图，在一个细胞内。上排是调控，下排从左往右是膜泡的演变。严格按下面列出的关系画，不多画：\n1. 【mTORC1 抑制 ULK1（红色 T 形线）。】\n2. 【AMPK 激活 ULK1。】\n3. 【ULK1 激活 Beclin-1，启动一个杯状膜。】\n4. 【带 LC3-II 小点的膜包住一个受损线粒体，闭合成自噬体。】\n5. 【自噬体与溶酶体融合成自噬溶酶体，内容物被降解。】\n标签（每个只出现一次，不加其他文字）：【mTORC1, AMPK, ULK1, Beclin-1, LC3-II, Autophagosome, Lysosome, Autolysosome】。"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "hypothesis-mechanism",
+  "theme": "research-design",
+  "technique": "刺激—靶点—通路—表型，加干预",
+  "technique_en": "stimulus, target, pathway, phenotype, plus intervention",
+  "featured": false,
+  "added": "2026-10-28",
+  "author": "Yila-AI",
+  "author_url": "https://github.com/Yila-AI",
+  "title": {
+    "zh": "科学假说机制总图",
+    "en": "Hypothesis mechanism overview"
+  },
+  "style": "A",
+  "size": "16:9",
+  "content": {
+    "en": "Create a hypothesis mechanism figure for 【how a high-fat diet drives liver inflammation】, read from left to right inside one large light panel. Draw each relationship exactly as listed and nothing more:\n1. 【A high-fat diet icon (a burger)】 activates 【Gene X】 (solid arrow).\n2. 【Gene X】 activates 【NF-κB】 (solid arrow).\n3. 【NF-κB】 leads to 【Inflammation】, shown as a small inflamed liver (solid arrow).\n4. 【Drug Y】, a small pill, inhibits 【Gene X】 with a red T-bar line.\nLabels, each used once, no other text: 【High-fat diet, Gene X, NF-κB, Inflammation, Drug Y】.",
+    "zh": "画一张【高脂饮食如何导致肝脏炎症】的假说机制图，在一个大的浅色面板里从左往右读。严格按下面列出的关系画，不多画：\n1. 【高脂饮食图标（汉堡）】激活【Gene X】（实线箭头）。\n2. 【Gene X】激活【NF-κB】（实线箭头）。\n3. 【NF-κB】导致【炎症】，画成一个发炎的小肝脏（实线箭头）。\n4. 【Drug Y】画成一颗小药片，用红色 T 形线抑制【Gene X】。\n标签（每个只出现一次，不加其他文字）：【High-fat diet, Gene X, NF-κB, Inflammation, Drug Y】。"
+  }
+}

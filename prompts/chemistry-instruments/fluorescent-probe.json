@@ -1,0 +1,20 @@
+{
+  "id": "fluorescent-probe",
+  "theme": "chemistry-instruments",
+  "technique": "关—识别—开三段",
+  "technique_en": "off, recognition, on in three stages",
+  "featured": false,
+  "added": "2026-10-28",
+  "author": "Yila-AI",
+  "author_url": "https://github.com/Yila-AI",
+  "title": {
+    "zh": "荧光探针识别机理",
+    "en": "Fluorescent probe sensing mechanism"
+  },
+  "style": "S",
+  "size": "16:9",
+  "content": {
+    "en": "Create a scientific illustration of 【a turn-on fluorescent probe】, read from left to right. Draw molecules as simple geometric shapes, with no chemical structures:\n1. 【The probe: a gray hexagon (the fluorophore) joined to a small triangle (the recognition group), with no glow.】\n2. 【A small round analyte molecule reacts with the triangle, which breaks off.】\n3. 【The free hexagon now glows bright green.】\n4. 【A small cell glowing green under a microscope objective.】\nLabels, each used once, no other text: 【Probe, Recognition group, Analyte, Fluorescence OFF, Fluorescence ON, Cell imaging】.",
+    "zh": "画一张【开启型荧光探针】的科学插画，从左往右读。分子用简单的几何形状表示，不画化学结构式：\n1. 【探针：一个灰色六边形（荧光团）连着一个小三角形（识别基团），不发光。】\n2. 【一个圆形的小分析物分子与三角形反应，三角形脱落。】\n3. 【游离的六边形发出明亮的绿光。】\n4. 【显微镜物镜下一个发绿光的小细胞。】\n标签（每个只出现一次，不加其他文字）：【Probe, Recognition group, Analyte, Fluorescence OFF, Fluorescence ON, Cell imaging】。"
+  }
+}

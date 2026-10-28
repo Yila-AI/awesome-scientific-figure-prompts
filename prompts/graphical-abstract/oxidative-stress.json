@@ -1,0 +1,20 @@
+{
+  "id": "oxidative-stress",
+  "theme": "graphical-abstract",
+  "technique": "来源—损伤—防御三段",
+  "technique_en": "source, damage and defense in three parts",
+  "featured": false,
+  "added": "2026-10-28",
+  "author": "Yila-AI",
+  "author_url": "https://github.com/Yila-AI",
+  "title": {
+    "zh": "氧化应激与 ROS 损伤",
+    "en": "Oxidative stress and ROS damage"
+  },
+  "style": "B",
+  "size": "16:9",
+  "content": {
+    "en": "Create a graphical abstract of 【oxidative stress】, read from left to right. Draw each relationship exactly as listed and nothing more:\n1. 【A mitochondrion on the left releases small red ROS particles.】\n2. 【Three solid arrows lead from the ROS to three damaged targets on the right: a lipid membrane, a protein and a DNA strand.】\n3. 【Above the ROS, three antioxidants drawn as simple rounded capsules with their names inside block the ROS with red T-bars.】\nNo chemical structures.\nLabels, each used once, no other text: 【Mitochondrion, ROS, Lipid damage, Protein damage, DNA damage, SOD, Catalase, GSH】.",
+    "zh": "画一张【氧化应激】的图文摘要，从左往右读。严格按下面列出的关系画，不多画：\n1. 【左侧一个线粒体释放红色的 ROS 小颗粒。】\n2. 【三条实线箭头从 ROS 指向右侧三个受损目标：脂质膜、蛋白质、DNA 链。】\n3. 【ROS 上方三种抗氧化物，画成名字写在里面的简单圆角胶囊，用红色 T 形线挡住 ROS。】\n不画化学结构式。\n标签（每个只出现一次，不加其他文字）：【Mitochondrion, ROS, Lipid damage, Protein damage, DNA damage, SOD, Catalase, GSH】。"
+  }
+}

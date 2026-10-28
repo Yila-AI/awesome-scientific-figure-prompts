@@ -1,0 +1,20 @@
+{
+  "id": "ihc-staining",
+  "theme": "experimental-workflow",
+  "technique": "每步一个面板，只写步骤名",
+  "technique_en": "one panel per step, step names only",
+  "featured": false,
+  "added": "2026-10-28",
+  "author": "Yila-AI",
+  "author_url": "https://github.com/Yila-AI",
+  "title": {
+    "zh": "免疫组化（IHC）流程",
+    "en": "Immunohistochemistry (IHC) workflow"
+  },
+  "style": "W",
+  "size": "16:9",
+  "content": {
+    "en": "Create a workflow figure for 【immunohistochemistry】, 6 steps from left to right:\n1. 【Fixation: a tissue piece in a formalin jar】\n2. 【Sectioning: a microtome cutting thin slices】\n3. 【Antigen retrieval: a slide in a hot buffer bath】\n4. 【Antibody staining: Y-shaped antibodies on the tissue】\n5. 【DAB development: brown staining appearing on the slide】\n6. 【Microscopy: a microscope over the slide】\nStep names, each used once, no other text: 【Fixation, Sectioning, Antigen retrieval, Antibody staining, DAB development, Microscopy】.",
+    "zh": "画一张【免疫组化实验】的流程图，从左往右六步：\n1. 【固定：福尔马林瓶里的组织块】\n2. 【切片：切片机切出薄片】\n3. 【抗原修复：玻片泡在热的缓冲液里】\n4. 【抗体染色：Y 形抗体结合在组织上】\n5. 【DAB 显色：玻片上出现棕色染色】\n6. 【镜检：显微镜对着玻片】\n步骤名（每个只出现一次，不加其他文字）：【Fixation, Sectioning, Antigen retrieval, Antibody staining, DAB development, Microscopy】。"
+  }
+}

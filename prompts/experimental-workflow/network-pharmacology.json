@@ -1,0 +1,20 @@
+{
+  "id": "network-pharmacology",
+  "theme": "experimental-workflow",
+  "technique": "每步一个面板，只写步骤名",
+  "technique_en": "one panel per step, step names only",
+  "featured": false,
+  "added": "2026-10-28",
+  "author": "Yila-AI",
+  "author_url": "https://github.com/Yila-AI",
+  "title": {
+    "zh": "网络药理学流程",
+    "en": "Network pharmacology workflow"
+  },
+  "style": "W",
+  "size": "16:9",
+  "content": {
+    "en": "Create a workflow figure for 【a network pharmacology study】, 7 steps from left to right:\n1. 【Compound targets: a herb icon next to a database icon】\n2. 【Disease targets: a disease icon next to a database icon】\n3. 【Common targets: two overlapping circles】\n4. 【PPI network: a small network of connected dots】\n5. 【Enrichment: a few short horizontal bars】\n6. 【Molecular docking: a small molecule fitting into a protein】\n7. 【Validation: a flask and a mouse】\nStep names, each used once, no other text: 【Compound targets, Disease targets, Common targets, PPI network, Enrichment, Docking, Validation】.",
+    "zh": "画一张【网络药理学研究】的流程图，从左往右七步：\n1. 【药物靶点：草药图标加数据库图标】\n2. 【疾病靶点：疾病图标加数据库图标】\n3. 【共同靶点：两个相交的圆】\n4. 【PPI 网络：一个由连线圆点组成的小网络】\n5. 【富集分析：几根短的横条】\n6. 【分子对接：小分子嵌入蛋白质】\n7. 【实验验证：烧瓶和小鼠】\n步骤名（每个只出现一次，不加其他文字）：【Compound targets, Disease targets, Common targets, PPI network, Enrichment, Docking, Validation】。"
+  }
+}

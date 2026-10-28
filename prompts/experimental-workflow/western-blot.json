@@ -1,0 +1,20 @@
+{
+  "id": "western-blot",
+  "theme": "experimental-workflow",
+  "technique": "每步一个面板，只写步骤名",
+  "technique_en": "one panel per step, step names only",
+  "featured": false,
+  "added": "2026-10-28",
+  "author": "Yila-AI",
+  "author_url": "https://github.com/Yila-AI",
+  "title": {
+    "zh": "Western blot 流程",
+    "en": "Western blot workflow"
+  },
+  "style": "W",
+  "size": "16:9",
+  "content": {
+    "en": "Create a workflow figure for 【Western blot】, 6 steps from left to right:\n1. 【Protein extraction: cells in a tube with lysis buffer】\n2. 【SDS-PAGE: a gel with lanes】\n3. 【Transfer: a gel and membrane sandwich】\n4. 【Blocking: a membrane in a tray on a shaker】\n5. 【Antibody incubation: Y-shaped antibodies on the membrane】\n6. 【Detection: glowing bands on the membrane】\nStep names, each used once, no other text: 【Protein extraction, SDS-PAGE, Transfer, Blocking, Antibody incubation, Detection】.",
+    "zh": "画一张【Western blot 实验】的流程图，从左往右六步：\n1. 【蛋白提取：试管里的细胞加裂解液】\n2. 【SDS-PAGE：一块带泳道的胶】\n3. 【转膜：胶和膜叠成的三明治】\n4. 【封闭：摇床上托盘里的膜】\n5. 【抗体孵育：Y 形抗体结合在膜上】\n6. 【显影：膜上发光的条带】\n步骤名（每个只出现一次，不加其他文字）：【Protein extraction, SDS-PAGE, Transfer, Blocking, Antibody incubation, Detection】。"
+  }
+}

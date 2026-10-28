@@ -1,0 +1,20 @@
+{
+  "id": "qpcr",
+  "theme": "experimental-workflow",
+  "technique": "每步一个面板，只写步骤名",
+  "technique_en": "one panel per step, step names only",
+  "featured": false,
+  "added": "2026-10-28",
+  "author": "Yila-AI",
+  "author_url": "https://github.com/Yila-AI",
+  "title": {
+    "zh": "qPCR 流程",
+    "en": "qPCR workflow"
+  },
+  "style": "W",
+  "size": "16:9",
+  "content": {
+    "en": "Create a workflow figure for 【RT-qPCR】, 5 steps from left to right:\n1. 【RNA extraction: a tube with a pink RNA pellet】\n2. 【cDNA synthesis: an RNA strand turning into a DNA strand】\n3. 【Reaction setup: a pipette over a 96-well plate】\n4. 【Thermal cycling: a qPCR machine】\n5. 【Relative quantification: a gene icon with up and down arrows】\nStep names, each used once, no other text: 【RNA extraction, cDNA synthesis, Reaction setup, Thermal cycling, Relative quantification】.",
+    "zh": "画一张【RT-qPCR 实验】的流程图，从左往右五步：\n1. 【RNA 提取：试管底部粉色的 RNA 沉淀】\n2. 【cDNA 合成：一条 RNA 链变成 DNA 链】\n3. 【反应体系配制：移液枪对着 96 孔板】\n4. 【热循环：一台 qPCR 仪】\n5. 【相对定量：基因图标配上下箭头】\n步骤名（每个只出现一次，不加其他文字）：【RNA extraction, cDNA synthesis, Reaction setup, Thermal cycling, Relative quantification】。"
+  }
+}

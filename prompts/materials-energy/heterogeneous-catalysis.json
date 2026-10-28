@@ -1,0 +1,20 @@
+{
+  "id": "heterogeneous-catalysis",
+  "theme": "materials-energy",
+  "technique": "表面三步：吸附—反应—脱附",
+  "technique_en": "three surface steps: adsorption, reaction, desorption",
+  "featured": false,
+  "added": "2026-10-28",
+  "author": "Yila-AI",
+  "author_url": "https://github.com/Yila-AI",
+  "title": {
+    "zh": "多相催化反应机理",
+    "en": "Heterogeneous catalysis mechanism"
+  },
+  "style": "S",
+  "size": "16:9",
+  "content": {
+    "en": "Create a scientific illustration of 【heterogeneous catalysis on a supported metal catalyst】: a cross-section of a support with metal nanoparticles on top, and above one nanoparticle three stages from left to right:\n1. 【Separate blue A and orange B spheres approach and adsorb onto the nanoparticle surface.】\n2. 【On the surface, A and B join together.】\n3. 【Joined A–B product molecules leave the surface.】\nCurved arrows link the stages. Write each label once.\nLabels, each used once, no other text: 【Reactants, Adsorption, Surface reaction, Desorption, Products, Catalyst, Support】.",
+    "zh": "画一张【负载型金属催化剂上的多相催化】科学插画：底部是载体的截面，上面分布着金属纳米颗粒，在其中一个纳米颗粒上方从左往右三个阶段：\n1. 【分开的蓝色 A 球和橙色 B 球靠近并吸附到纳米颗粒表面。】\n2. 【A 和 B 在表面结合在一起。】\n3. 【结合成 A–B 的产物分子离开表面。】\n各阶段之间用弧形箭头连接，每个标签只写一次。\n标签（每个只出现一次，不加其他文字）：【Reactants, Adsorption, Surface reaction, Desorption, Products, Catalyst, Support】。"
+  }
+}

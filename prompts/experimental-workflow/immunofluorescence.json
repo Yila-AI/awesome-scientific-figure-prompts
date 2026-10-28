@@ -1,0 +1,20 @@
+{
+  "id": "immunofluorescence",
+  "theme": "experimental-workflow",
+  "technique": "每步一个面板，只写步骤名",
+  "technique_en": "one panel per step, step names only",
+  "featured": false,
+  "added": "2026-10-28",
+  "author": "Yila-AI",
+  "author_url": "https://github.com/Yila-AI",
+  "title": {
+    "zh": "免疫荧光染色流程",
+    "en": "Immunofluorescence staining workflow"
+  },
+  "style": "W",
+  "size": "16:9",
+  "content": {
+    "en": "Create a workflow figure for 【immunofluorescence staining】, 6 steps from left to right:\n1. 【Fixation: cells on a coverslip with a fixative drop】\n2. 【Permeabilization: small holes in the cell membrane】\n3. 【Blocking: the coverslip in a buffer dish】\n4. 【Primary antibody: Y-shaped antibodies binding a target】\n5. 【Secondary antibody: glowing antibodies binding the first ones】\n6. 【Imaging: a confocal microscope】\nStep names, each used once, no other text: 【Fixation, Permeabilization, Blocking, Primary antibody, Secondary antibody, Imaging】.",
+    "zh": "画一张【免疫荧光染色】的流程图，从左往右六步：\n1. 【固定：盖玻片上的细胞滴上固定液】\n2. 【通透：细胞膜上出现小孔】\n3. 【封闭：盖玻片泡在缓冲液皿里】\n4. 【一抗：Y 形抗体结合靶蛋白】\n5. 【荧光二抗：发光的抗体结合一抗】\n6. 【成像：一台共聚焦显微镜】\n步骤名（每个只出现一次，不加其他文字）：【Fixation, Permeabilization, Blocking, Primary antibody, Secondary antibody, Imaging】。"
+  }
+}

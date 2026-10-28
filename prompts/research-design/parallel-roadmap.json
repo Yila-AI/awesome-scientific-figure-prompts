@@ -1,0 +1,20 @@
+{
+  "id": "parallel-roadmap",
+  "theme": "research-design",
+  "technique": "并行三线汇合",
+  "technique_en": "three parallel lanes that converge",
+  "featured": false,
+  "added": "2026-10-28",
+  "author": "Yila-AI",
+  "author_url": "https://github.com/Yila-AI",
+  "title": {
+    "zh": "技术路线图：三条并行工作线汇合",
+    "en": "Technical roadmap: three parallel work packages"
+  },
+  "style": "D",
+  "size": "3:4",
+  "content": {
+    "en": "Create a vertical technical roadmap for 【a research project】, read from top to bottom:\n1. At the top, one box for the research goal.\n2. Below it, three parallel vertical lanes in three light pastel colors, each lane with two small stacked boxes and one icon: 【data lane with a database icon, model lane with a network icon, experiment lane with a flask icon】.\n3. The three lanes converge with arrows into one box for integration.\n4. Integration points down to a final box for the outcome.\nLabels, each used once, no other text: 【Research goal, Data, Model, Experiment, Integration, Outcome】.",
+    "zh": "画一张【课题研究】的竖向技术路线图，从上往下读：\n1. 顶部一个框，代表研究目标。\n2. 下面三条并行的竖向泳道，三种浅色，每条泳道有两个上下排列的小框和一个图标：【数据泳道配数据库图标，模型泳道配网络图标，实验泳道配烧瓶图标】。\n3. 三条泳道用箭头汇合到一个代表整合的框。\n4. 整合框向下指向最后一个代表成果的框。\n标签（每个只出现一次，不加其他文字）：【Research goal, Data, Model, Experiment, Integration, Outcome】。"
+  }
+}

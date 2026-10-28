@@ -1,0 +1,20 @@
+{
+  "id": "mixed-methods-explanatory",
+  "theme": "social-science",
+  "technique": "先量后质，中间衔接",
+  "technique_en": "quantitative first, qualitative second, connected in the middle",
+  "featured": false,
+  "added": "2026-10-28",
+  "author": "Yila-AI",
+  "author_url": "https://github.com/Yila-AI",
+  "title": {
+    "zh": "混合研究设计（解释性顺序）",
+    "en": "Explanatory sequential mixed-methods design"
+  },
+  "style": "D",
+  "size": "16:9",
+  "content": {
+    "en": "Create a research design diagram of 【an explanatory sequential mixed-methods study】, read from left to right. Draw each relationship exactly as listed and nothing more:\n1. 【Quantitative data collection (a survey icon) → quantitative analysis (a chart icon), in a blue panel.】\n2. 【An arrow to a connecting step: selecting participants for follow-up.】\n3. 【Qualitative data collection (an interview icon) → qualitative analysis (a speech-bubble icon), in a green panel.】\n4. 【Both panels point into a final box for integration and interpretation.】\nLabels, each used once, no other text: 【QUAN data, QUAN analysis, Participant selection, QUAL data, QUAL analysis, Integration】.",
+    "zh": "画一张【解释性顺序混合研究】的研究设计图，从左往右读。严格按下面列出的关系画，不多画：\n1. 【定量数据收集（问卷图标）→ 定量分析（图表图标），放在蓝色面板里。】\n2. 【箭头指向衔接步骤：挑选参与者做后续访谈。】\n3. 【定性数据收集（访谈图标）→ 定性分析（对话气泡图标），放在绿色面板里。】\n4. 【两个面板都指向最后一个代表整合与解释的框。】\n标签（每个只出现一次，不加其他文字）：【QUAN data, QUAN analysis, Participant selection, QUAL data, QUAL analysis, Integration】。"
+  }
+}

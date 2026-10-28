@@ -1,0 +1,20 @@
+{
+  "id": "study-overview",
+  "theme": "research-design",
+  "technique": "三栏：对象—方法—发现",
+  "technique_en": "three panels: subjects, methods, findings",
+  "featured": false,
+  "added": "2026-10-28",
+  "author": "Yila-AI",
+  "author_url": "https://github.com/Yila-AI",
+  "title": {
+    "zh": "研究设计总览（论文 Figure 1）",
+    "en": "Study design overview (paper Figure 1)"
+  },
+  "style": "D",
+  "size": "16:9",
+  "content": {
+    "en": "Create a study design overview figure for 【a study on immunotherapy response in lung cancer】, three light pastel panels read from left to right, connected by thin arrows:\n1. Left panel: 【a group of patient icons and a tissue sample tube】.\n2. Middle panel: 【three method icons side by side: sequencing, imaging and a computer model】.\n3. Right panel: 【a validation icon (a mouse) leading to a lightbulb for the key finding】.\nLabels, each used once, no other text: 【Patients, Samples, Sequencing, Imaging, Modeling, Validation, Key finding】.",
+    "zh": "画一张【肺癌免疫治疗应答研究】的研究设计总览图，三个浅色面板从左往右读，用细箭头连接：\n1. 左面板：【一组病人图标和一支组织样本管】。\n2. 中面板：【三个并排的方法图标：测序、影像、计算模型】。\n3. 右面板：【一个验证图标（小鼠）通向代表关键发现的灯泡】。\n标签（每个只出现一次，不加其他文字）：【Patients, Samples, Sequencing, Imaging, Modeling, Validation, Key finding】。"
+  }
+}

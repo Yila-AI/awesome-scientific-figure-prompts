@@ -1,0 +1,20 @@
+{
+  "id": "grant-logic-loop",
+  "theme": "research-design",
+  "technique": "五个环节首尾相接",
+  "technique_en": "five stages closed into a loop",
+  "featured": false,
+  "added": "2026-10-28",
+  "author": "Yila-AI",
+  "author_url": "https://github.com/Yila-AI",
+  "title": {
+    "zh": "基金申请逻辑闭环图",
+    "en": "Grant proposal logic loop"
+  },
+  "style": "D",
+  "size": "1:1",
+  "content": {
+    "en": "Create a circular logic diagram for 【a grant proposal】: five rounded boxes evenly spaced around a circle, connected clockwise by thin curved arrows, each box with one small icon:\n1. 【Scientific question (a question mark)】\n2. 【Hypothesis (a lightbulb)】\n3. 【Objectives (a target)】\n4. 【Research content (a clipboard)】\n5. 【Expected results (a trophy)】\nA dashed arrow runs from the last box back to the first. The center of the circle stays empty.\nLabels, each used once, no other text: 【Scientific question, Hypothesis, Objectives, Research content, Expected results】.",
+    "zh": "画一张【基金申请书】的环形逻辑图：五个圆角框均匀分布在一个圆周上，用细弧形箭头顺时针连接，每个框一个小图标：\n1. 【科学问题（问号）】\n2. 【研究假说（灯泡）】\n3. 【研究目标（靶心）】\n4. 【研究内容（写字板）】\n5. 【预期成果（奖杯）】\n一条虚线箭头从最后一个框回到第一个框。圆心留空。\n标签（每个只出现一次，不加其他文字）：【Scientific question, Hypothesis, Objectives, Research content, Expected results】。"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "pi3k-akt-mtor",
+  "theme": "signaling-pathway",
+  "technique": "逐条关系，抑制用红色 T 形线",
+  "technique_en": "numbered relationships, red T-bars for inhibition",
+  "featured": false,
+  "added": "2026-10-28",
+  "author": "Yila-AI",
+  "author_url": "https://github.com/Yila-AI",
+  "title": {
+    "zh": "PI3K/AKT/mTOR 通路",
+    "en": "PI3K/AKT/mTOR pathway"
+  },
+  "style": "A",
+  "size": "4:3",
+  "content": {
+    "en": "Create a signaling pathway schematic of 【PI3K/AKT/mTOR signaling】 inside one cell, receptor in the membrane at the top, read from top to bottom. Draw each relationship exactly as listed and nothing more:\n1. 【A growth factor binds the RTK in the membrane.】\n2. 【The RTK activates PI3K.】\n3. 【PI3K produces PIP3 at the membrane.】\n4. 【PTEN inhibits PIP3 (red T-bar).】\n5. 【PIP3 activates AKT.】\n6. 【AKT inhibits TSC1/2 (red T-bar).】\n7. 【TSC1/2 inhibits mTORC1 (red T-bar).】\n8. 【mTORC1 drives cell growth.】\nLabels, each used once, no other text: 【Growth factor, RTK, PI3K, PIP3, PTEN, AKT, TSC1/2, mTORC1, Cell growth】.",
+    "zh": "画一张【PI3K/AKT/mTOR 信号】的通路示意图，在一个细胞内，受体在顶部细胞膜上，从上往下读。严格按下面列出的关系画，不多画：\n1. 【生长因子结合膜上的 RTK。】\n2. 【RTK 激活 PI3K。】\n3. 【PI3K 在膜上生成 PIP3。】\n4. 【PTEN 抑制 PIP3（红色 T 形线）。】\n5. 【PIP3 激活 AKT。】\n6. 【AKT 抑制 TSC1/2（红色 T 形线）。】\n7. 【TSC1/2 抑制 mTORC1（红色 T 形线）。】\n8. 【mTORC1 促进细胞生长。】\n标签（每个只出现一次，不加其他文字）：【Growth factor, RTK, PI3K, PIP3, PTEN, AKT, TSC1/2, mTORC1, Cell growth】。"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "multi-omics-integration",
+  "theme": "research-design",
+  "technique": "四层组学汇入整合",
+  "technique_en": "four omics layers feeding one integration step",
+  "featured": false,
+  "added": "2026-10-28",
+  "author": "Yila-AI",
+  "author_url": "https://github.com/Yila-AI",
+  "title": {
+    "zh": "多组学整合分析框架",
+    "en": "Multi-omics integration framework"
+  },
+  "style": "D",
+  "size": "16:9",
+  "content": {
+    "en": "Create a multi-omics integration framework for 【a disease study】, read from left to right:\n1. On the left, four stacked horizontal layers, each a light pastel band with one icon: 【Genomics (a DNA helix), Transcriptomics (an RNA strand), Proteomics (a protein), Metabolomics (a small molecule)】.\n2. Thin arrows from all four layers converge into one central box for integration.\n3. Integration points to a box for key pathways, which points to a final box for validation.\nLabels, each used once, no other text: 【Genomics, Transcriptomics, Proteomics, Metabolomics, Integration, Key pathways, Validation】.",
+    "zh": "画一张【疾病研究】的多组学整合分析框架图，从左往右读：\n1. 左侧四条上下叠放的横向浅色色带，每条一个图标：【基因组（DNA 双螺旋）、转录组（RNA 链）、蛋白组（蛋白质）、代谢组（小分子）】。\n2. 四条色带的细箭头汇合到中间一个代表整合的框。\n3. 整合框指向代表关键通路的框，再指向最后代表验证的框。\n标签（每个只出现一次，不加其他文字）：【Genomics, Transcriptomics, Proteomics, Metabolomics, Integration, Key pathways, Validation】。"
+  }
+}

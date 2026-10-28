@@ -1,0 +1,20 @@
+{
+  "id": "flow-cytometry",
+  "theme": "experimental-workflow",
+  "technique": "每步一个面板，只写步骤名",
+  "technique_en": "one panel per step, step names only",
+  "featured": false,
+  "added": "2026-10-28",
+  "author": "Yila-AI",
+  "author_url": "https://github.com/Yila-AI",
+  "title": {
+    "zh": "流式细胞术流程",
+    "en": "Flow cytometry workflow"
+  },
+  "style": "W",
+  "size": "16:9",
+  "content": {
+    "en": "Create a workflow figure for 【flow cytometry】, 5 steps from left to right:\n1. 【Single-cell suspension: a tube of separated cells】\n2. 【Antibody staining: cells with colored antibodies attached】\n3. 【Acquisition: cells passing a laser one by one】\n4. 【Gating: a funnel selecting one group of cells】\n5. 【Population analysis: cells sorted into colored groups】\nStep names, each used once, no other text: 【Single-cell suspension, Antibody staining, Acquisition, Gating, Population analysis】.",
+    "zh": "画一张【流式细胞术实验】的流程图，从左往右五步：\n1. 【单细胞悬液：一管分散的细胞】\n2. 【抗体染色：细胞上结合了彩色抗体】\n3. 【上机检测：细胞逐个通过激光】\n4. 【设门：一个漏斗选出一群细胞】\n5. 【亚群分析：细胞按颜色分成几群】\n步骤名（每个只出现一次，不加其他文字）：【Single-cell suspension, Antibody staining, Acquisition, Gating, Population analysis】。"
+  }
+}

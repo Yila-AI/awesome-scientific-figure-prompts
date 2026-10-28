@@ -1,0 +1,20 @@
+{
+  "id": "emt",
+  "theme": "graphical-abstract",
+  "technique": "从左到右细胞形态渐变",
+  "technique_en": "cell shape changes gradually from left to right",
+  "featured": false,
+  "added": "2026-10-28",
+  "author": "Yila-AI",
+  "author_url": "https://github.com/Yila-AI",
+  "title": {
+    "zh": "上皮间质转化（EMT）",
+    "en": "Epithelial–mesenchymal transition (EMT)"
+  },
+  "style": "B",
+  "size": "16:9",
+  "content": {
+    "en": "Create a graphical abstract of 【epithelial–mesenchymal transition】, read from left to right:\n1. Left: 【tightly packed cube-shaped epithelial cells on a basement membrane, joined by E-cadherin】.\n2. A 【TGF-β】 signal arrow above the middle.\n3. Middle: 【cells loosening and starting to stretch】.\n4. Right: 【spindle-shaped mesenchymal cells with vimentin fibers and N-cadherin, one cell crossing the basement membrane】.\nLabels, each used once, no other text: 【Epithelial cells, TGF-β, Mesenchymal cells, E-cadherin, N-cadherin, Vimentin, Invasion】.",
+    "zh": "画一张【上皮间质转化】的图文摘要，从左往右读：\n1. 左：【紧密排列在基底膜上的立方形上皮细胞，靠 E-cadherin 连接】。\n2. 中间上方一个【TGF-β】信号箭头。\n3. 中：【细胞变松散，开始拉长】。\n4. 右：【梭形的间质细胞，带 vimentin 纤维和 N-cadherin，其中一个细胞穿过基底膜】。\n标签（每个只出现一次，不加其他文字）：【Epithelial cells, TGF-β, Mesenchymal cells, E-cadherin, N-cadherin, Vimentin, Invasion】。"
+  }
+}

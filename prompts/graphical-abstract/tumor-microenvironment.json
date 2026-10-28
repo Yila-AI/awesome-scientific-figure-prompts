@@ -1,0 +1,20 @@
+{
+  "id": "tumor-microenvironment",
+  "theme": "graphical-abstract",
+  "technique": "肿瘤居中，周围细胞环绕",
+  "technique_en": "tumor in the center, surrounding cells around it",
+  "featured": false,
+  "added": "2026-10-28",
+  "author": "Yila-AI",
+  "author_url": "https://github.com/Yila-AI",
+  "title": {
+    "zh": "肿瘤微环境",
+    "en": "Tumor microenvironment"
+  },
+  "style": "S",
+  "size": "4:3",
+  "content": {
+    "en": "Create a scientific illustration of 【the tumor microenvironment】: a cluster of tumor cells in the center, and around it exactly one of each of the following, each drawn once and labeled once: 【a spindle-shaped cancer-associated fibroblast, a tumor-associated macrophage, a regulatory T cell, a CD8+ T cell held back at the edge, a blood vessel, and a mesh of extracellular matrix fibers】. No arrows.\nLabels, each used once, no other text: 【Tumor cells, CAF, TAM, Treg, CD8+ T cell, Blood vessel, ECM】.",
+    "zh": "画一张【肿瘤微环境】的科学插画：中央是一团肿瘤细胞，周围下面每种只画一个、只标一次：【一个梭形的癌相关成纤维细胞、一个肿瘤相关巨噬细胞、一个调节性 T 细胞、一个被挡在边缘的 CD8+ T 细胞、一条血管、一片细胞外基质纤维网】。不画箭头。\n标签（每个只出现一次，不加其他文字）：【Tumor cells, CAF, TAM, Treg, CD8+ T cell, Blood vessel, ECM】。"
+  }
+}

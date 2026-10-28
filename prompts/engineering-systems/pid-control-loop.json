@@ -1,0 +1,20 @@
+{
+  "id": "pid-control-loop",
+  "theme": "engineering-systems",
+  "technique": "前向通道加反馈回路",
+  "technique_en": "forward path plus feedback loop",
+  "featured": false,
+  "added": "2026-10-28",
+  "author": "Yila-AI",
+  "author_url": "https://github.com/Yila-AI",
+  "title": {
+    "zh": "PID 闭环控制",
+    "en": "PID closed-loop control"
+  },
+  "style": "D",
+  "size": "16:9",
+  "content": {
+    "en": "Create a block diagram of 【a PID closed-loop control system】, read from left to right. Draw each relationship exactly as listed and nothing more:\n1. 【Setpoint enters a summing junction (a circle with + and −).】\n2. 【The summing junction outputs the error to the controller.】\n3. 【Inside the controller, three parallel blocks P, I and D, whose outputs are added.】\n4. 【Controller → actuator → plant → output.】\n5. 【The output is measured by a sensor, and a feedback arrow returns to the minus sign of the summing junction.】\nLabels, each used once, no other text: 【Setpoint, Error, P, I, D, Actuator, Plant, Output, Sensor】.",
+    "zh": "画一张【PID 闭环控制系统】的方框图，从左往右读。严格按下面列出的关系画，不多画：\n1. 【设定值进入求和点（带 + 和 − 的圆圈）。】\n2. 【求和点把误差输出给控制器。】\n3. 【控制器里是 P、I、D 三个并联的方块，输出相加。】\n4. 【控制器 → 执行器 → 被控对象 → 输出。】\n5. 【输出经传感器测量，反馈箭头回到求和点的减号。】\n标签（每个只出现一次，不加其他文字）：【Setpoint, Error, P, I, D, Actuator, Plant, Output, Sensor】。"
+  }
+}

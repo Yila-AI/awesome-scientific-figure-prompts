@@ -1,0 +1,20 @@
+{
+  "id": "vertical-graphical-abstract",
+  "theme": "research-design",
+  "technique": "上中下三段：问题—干预—结果",
+  "technique_en": "top to bottom: problem, intervention, outcome",
+  "featured": false,
+  "added": "2026-10-28",
+  "author": "Yila-AI",
+  "author_url": "https://github.com/Yila-AI",
+  "title": {
+    "zh": "竖版图文摘要",
+    "en": "Vertical graphical abstract"
+  },
+  "style": "B",
+  "size": "3:4",
+  "content": {
+    "en": "Create a vertical graphical abstract about 【a hydrogel that delivers stem cells to repair heart tissue after a heart attack】, told from top to bottom in three stages:\n1. Top: 【a heart with a damaged, pale region of muscle】.\n2. Middle: 【a soft hydrogel patch loaded with stem cells being placed on the damaged region】.\n3. Bottom: 【the same heart with the region restored to healthy red muscle and new small blood vessels】.\nThin downward arrows connect the stages.\nLabels, each used once, no other text: 【Myocardial infarction, Stem cell hydrogel, Cardiac repair】.",
+    "zh": "画一张关于【心梗后用水凝胶递送干细胞修复心肌】的竖版图文摘要，从上往下分三段：\n1. 上：【一颗心脏，部分心肌受损发白】。\n2. 中：【一片载有干细胞的柔软水凝胶贴片贴到受损区域】。\n3. 下：【同一颗心脏，受损区域恢复成健康的红色心肌，并长出新的小血管】。\n各段之间用向下的细箭头连接。\n标签（每个只出现一次，不加其他文字）：【Myocardial infarction, Stem cell hydrogel, Cardiac repair】。"
+  }
+}

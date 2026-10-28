@@ -1,0 +1,20 @@
+{
+  "id": "multimodal-llm",
+  "theme": "ai-computing",
+  "technique": "两路输入汇入一个模型",
+  "technique_en": "two input branches into one model",
+  "featured": false,
+  "added": "2026-10-28",
+  "author": "Yila-AI",
+  "author_url": "https://github.com/Yila-AI",
+  "title": {
+    "zh": "多模态大模型结构",
+    "en": "Multimodal large language model architecture"
+  },
+  "style": "D",
+  "size": "16:9",
+  "content": {
+    "en": "Create an architecture diagram of 【a multimodal large language model】, read from left to right. Draw each relationship exactly as listed and nothing more:\n1. 【Top branch: an image icon → vision encoder → projector.】\n2. 【Bottom branch: a text icon → tokenizer.】\n3. 【Both branches join into one large LLM block.】\n4. 【The LLM produces a response, shown as a speech bubble.】\nLabels, each used once, no other text: 【Image, Vision encoder, Projector, Text, Tokenizer, LLM, Response】.",
+    "zh": "画一张【多模态大模型】的结构图，从左往右读。严格按下面列出的关系画，不多画：\n1. 【上路：图片图标 → 视觉编码器 → 投影层。】\n2. 【下路：文本图标 → 分词器。】\n3. 【两路汇入一个大的 LLM 模块。】\n4. 【LLM 生成回答，画成一个对话气泡。】\n标签（每个只出现一次，不加其他文字）：【Image, Vision encoder, Projector, Text, Tokenizer, LLM, Response】。"
+  }
+}

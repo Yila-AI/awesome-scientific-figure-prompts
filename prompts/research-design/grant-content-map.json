@@ -1,0 +1,20 @@
+{
+  "id": "grant-content-map",
+  "theme": "research-design",
+  "technique": "科学问题统领三项内容",
+  "technique_en": "one scientific question over three research contents",
+  "featured": false,
+  "added": "2026-10-28",
+  "author": "Yila-AI",
+  "author_url": "https://github.com/Yila-AI",
+  "title": {
+    "zh": "基金申请研究内容关系图",
+    "en": "Grant proposal: research content map"
+  },
+  "style": "D",
+  "size": "4:3",
+  "content": {
+    "en": "Create a research content map for 【a grant proposal】, read from top to bottom:\n1. At the top, one wide dark-outlined box for the scientific question.\n2. Below it, three side-by-side rounded boxes for the three research contents, each with one small icon: 【a molecule icon, a cell icon, a mouse icon】.\n3. Thin arrows run from Content 1 to Content 2 to Content 3, showing that each builds on the previous one.\n4. All three boxes point down to one box for the expected outcome.\nLabels, each used once, no other text: 【Scientific question, Content 1, Content 2, Content 3, Expected outcome】.",
+    "zh": "画一张【基金申请书】的研究内容关系图，从上往下读：\n1. 顶部一个宽的深色描边框，代表科学问题。\n2. 下面三个并排的圆角框，代表三项研究内容，每个框里一个小图标：【分子图标、细胞图标、小鼠图标】。\n3. 细箭头从内容 1 指向内容 2 再指向内容 3，表示层层递进。\n4. 三个框都向下指向一个代表预期成果的框。\n标签（每个只出现一次，不加其他文字）：【Scientific question, Content 1, Content 2, Content 3, Expected outcome】。"
+  }
+}

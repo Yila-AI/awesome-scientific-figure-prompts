@@ -1,0 +1,20 @@
+{
+  "id": "transformer-architecture",
+  "theme": "ai-computing",
+  "technique": "编码器与解码器并排",
+  "technique_en": "encoder and decoder side by side",
+  "featured": false,
+  "added": "2026-10-28",
+  "author": "Yila-AI",
+  "author_url": "https://github.com/Yila-AI",
+  "title": {
+    "zh": "Transformer 结构",
+    "en": "Transformer architecture"
+  },
+  "style": "D",
+  "size": "4:3",
+  "content": {
+    "en": "Create an architecture diagram of 【the Transformer】, read from bottom to top. Draw each relationship exactly as listed and nothing more:\n1. 【Input tokens pass through input embedding plus positional encoding at the bottom left.】\n2. 【They enter the encoder: one light panel stacking multi-head attention and a feed-forward layer, marked ×N.】\n3. 【The decoder sits in a second panel on the right, stacking masked attention, cross-attention and a feed-forward layer, marked ×N.】\n4. 【An arrow carries the encoder output into the decoder's cross-attention.】\n5. 【The decoder output goes to a softmax box at the top right, giving output probabilities.】\nLabels, each used once, no other text: 【Input embedding, Positional encoding, Encoder, Decoder, Multi-head attention, Masked attention, Cross-attention, Feed-forward, Softmax】.",
+    "zh": "画一张【Transformer】的结构图，从下往上读。严格按下面列出的关系画，不多画：\n1. 【输入词元在左下角经过输入嵌入加位置编码。】\n2. 【进入编码器：一个浅色面板，叠放多头注意力和前馈层，标注 ×N。】\n3. 【解码器在右侧第二个面板里，叠放掩码注意力、交叉注意力和前馈层，标注 ×N。】\n4. 【一条箭头把编码器输出送进解码器的交叉注意力。】\n5. 【解码器输出进入右上角的 softmax 框，得到输出概率。】\n标签（每个只出现一次，不加其他文字）：【Input embedding, Positional encoding, Encoder, Decoder, Multi-head attention, Masked attention, Cross-attention, Feed-forward, Softmax】。"
+  }
+}

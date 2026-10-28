@@ -1,0 +1,20 @@
+{
+  "id": "hydrothermal-synthesis",
+  "theme": "materials-energy",
+  "technique": "每步一个面板，只写步骤名",
+  "technique_en": "one panel per step, step names only",
+  "featured": false,
+  "added": "2026-10-28",
+  "author": "Yila-AI",
+  "author_url": "https://github.com/Yila-AI",
+  "title": {
+    "zh": "水热法材料合成路线",
+    "en": "Hydrothermal synthesis route"
+  },
+  "style": "W",
+  "size": "16:9",
+  "content": {
+    "en": "Create a workflow figure for 【the hydrothermal synthesis of a nanomaterial】, six steps from left to right:\n1. 【Precursor solution: a beaker with a clear solution】\n2. 【Mixing: a magnetic stirrer】\n3. 【Hydrothermal reaction: a sealed steel autoclave in an oven】\n4. 【Washing: a centrifuge tube】\n5. 【Calcination: a crucible in a furnace】\n6. 【Product: a cluster of nanorods】\nStep names, each used once, no other text: 【Precursor solution, Mixing, Hydrothermal reaction, Washing, Calcination, Product】.",
+    "zh": "画一张【水热法合成纳米材料】的流程图，从左往右六步：\n1. 【前驱体溶液：一个装澄清溶液的烧杯】\n2. 【混合：磁力搅拌器】\n3. 【水热反应：烘箱里的密封不锈钢反应釜】\n4. 【洗涤：离心管】\n5. 【煅烧：马弗炉里的坩埚】\n6. 【产物：一簇纳米棒】\n步骤名（每个只出现一次，不加其他文字）：【Precursor solution, Mixing, Hydrothermal reaction, Washing, Calcination, Product】。"
+  }
+}

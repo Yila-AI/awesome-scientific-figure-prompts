@@ -1,0 +1,20 @@
+{
+  "id": "rescue-experiment",
+  "theme": "experimental-workflow",
+  "technique": "四行对照，同一表型读数",
+  "technique_en": "four rows compared on one phenotype readout",
+  "featured": false,
+  "added": "2026-10-28",
+  "author": "Yila-AI",
+  "author_url": "https://github.com/Yila-AI",
+  "title": {
+    "zh": "敲低/过表达与救援实验证据链",
+    "en": "Knockdown, overexpression and rescue logic"
+  },
+  "style": "D",
+  "size": "16:9",
+  "content": {
+    "en": "Create a schematic of 【the loss-of-function, gain-of-function and rescue logic for Gene X】: four rows, each with a row name on the far left, one cell icon in the middle and one horizontal arrow on the right whose length shows migration. One column title above the arrows.\n1. 【Control: a normal cell, a medium arrow.】\n2. 【Knockdown: a cell with Gene X crossed out, a short arrow.】\n3. 【Overexpression: a cell with extra Gene X, a long arrow.】\n4. 【Rescue: a knocked-down cell with Gene X added back, a medium arrow.】\nWrite each row name only once. No text inside the cells or next to the arrows.\nLabels, each used once, no other text: 【Control, Knockdown, Overexpression, Rescue, Migration】.",
+    "zh": "画一张【Gene X 功能缺失、功能获得与救援实验】的逻辑示意图：四行，每行最左侧写行名，中间一个细胞图标，右侧一条横向箭头，箭头长度表示迁移能力。箭头上方写一个列标题。\n1. 【对照：正常细胞，中等长度箭头。】\n2. 【敲低：Gene X 被划掉的细胞，短箭头。】\n3. 【过表达：Gene X 增多的细胞，长箭头。】\n4. 【救援：敲低后回补 Gene X 的细胞，中等长度箭头。】\n每个行名只写一次。细胞里和箭头旁不写字。\n标签（每个只出现一次，不加其他文字）：【Control, Knockdown, Overexpression, Rescue, Migration】。"
+  }
+}
