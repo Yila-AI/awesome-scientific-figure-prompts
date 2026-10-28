@@ -1,0 +1,15 @@
+{
+  "id": "llm-agent-loop",
+  "theme": "ai-computing",
+  "technique": "循环结构 + 图标",
+  "title": {
+    "zh": "大模型智能体工作循环",
+    "en": "LLM agent loop"
+  },
+  "style": "D",
+  "size": "16:9",
+  "content": {
+    "en": "Create a schematic diagram of 【an LLM agent loop】. On the left, 【a user goal】 enters 【a planner box at the center】. From the planner, arrows go to 【a tools panel with three small icons: web search, code runner and database】 and to 【a memory box】. A dashed arrow returns 【the observation from the tools back to the planner】, forming a loop. When done, an arrow leads from the planner to 【the final answer on the right】.\nLabels, each used once, no other text: 【Goal, Planner, Tools, Memory, Answer】.",
+    "zh": "画一张【大模型智能体工作循环】的示意框图。左边【用户目标】进入【中间的规划器方框】。从规划器出发，箭头分别指向【一个工具面板，里面有三个小图标：网页搜索、代码运行、数据库】和【一个记忆方框】。一条虚线箭头把【工具返回的观察结果送回规划器】，形成一个循环。任务完成后，一条箭头从规划器指向【右边的最终回答】。\n标签（每个只出现一次，不加其他文字）：【Goal, Planner, Tools, Memory, Answer】。"
+  }
+}

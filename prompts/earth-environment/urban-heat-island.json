@@ -1,0 +1,15 @@
+{
+  "id": "urban-heat-island",
+  "theme": "earth-environment",
+  "technique": "左右对比 + 剖面",
+  "title": {
+    "zh": "城市热岛与缓解措施",
+    "en": "Urban heat island and mitigation"
+  },
+  "style": "S",
+  "size": "16:9",
+  "content": {
+    "en": "Create a side-by-side cross-section illustration comparing 【a hot dense city block and a cooled city block】, separated by a thin dashed vertical line.\nLeft: 【tall buildings, dark asphalt and few trees; orange-red heat rising from roofs and roads】.\nRight: 【the same block with green roofs, street trees, a small water body and light-colored pavement; blue arrows show cooler air and shade】.\nLabels, each used once, no other text: 【Heat island, Green roof, Street trees, Water body, Cooling】.",
+    "zh": "画一张左右对比的剖面插画，比较【炎热密集的城市街区和降温后的城市街区】，中间用一条细虚线分开。\n左：【高楼林立、深色沥青路面、几乎没有树；橙红色的热量从屋顶和路面升起】。\n右：【同一个街区加上了屋顶绿化、行道树、一小片水体和浅色路面；蓝色箭头表示更凉的空气和树荫】。\n标签（每个只出现一次，不加其他文字）：【Heat island, Green roof, Street trees, Water body, Cooling】。"
+  }
+}

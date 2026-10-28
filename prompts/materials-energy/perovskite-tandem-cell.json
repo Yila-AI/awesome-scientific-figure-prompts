@@ -1,0 +1,15 @@
+{
+  "id": "perovskite-tandem-cell",
+  "theme": "materials-energy",
+  "technique": "分层剖面 + 放大圆圈",
+  "title": {
+    "zh": "钙钛矿-硅叠层太阳能电池",
+    "en": "Perovskite–silicon tandem solar cell"
+  },
+  "style": "S",
+  "size": "16:9",
+  "content": {
+    "en": "Create a cross-section illustration of 【a perovskite–silicon tandem solar cell】, layers stacked from top to bottom: 【a transparent top electrode, a perovskite absorber layer, a thin recombination layer, a textured silicon bottom cell, and a metal back electrode】. Sunlight enters from the top; 【short-wavelength light is absorbed in the perovskite layer and long-wavelength light passes through to the silicon cell】. A circular magnified inset shows 【the perovskite crystal lattice】.\nLabels, each used once, no other text: 【Sunlight, Transparent electrode, Perovskite, Silicon cell, Back electrode】.",
+    "zh": "画一张【钙钛矿-硅叠层太阳能电池】的剖面插画，各层从上到下叠放：【透明顶电极、钙钛矿吸收层、很薄的复合层、表面有绒面的硅底电池、金属背电极】。阳光从顶部射入；【短波长的光在钙钛矿层被吸收，长波长的光穿过去到达硅电池】。用一个圆形放大框展示【钙钛矿的晶格结构】。\n标签（每个只出现一次，不加其他文字）：【Sunlight, Transparent electrode, Perovskite, Silicon cell, Back electrode】。"
+  }
+}

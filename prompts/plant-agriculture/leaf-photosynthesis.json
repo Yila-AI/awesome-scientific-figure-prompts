@@ -1,0 +1,15 @@
+{
+  "id": "leaf-photosynthesis",
+  "theme": "plant-agriculture",
+  "technique": "多尺度放大圆圈",
+  "title": {
+    "zh": "叶片结构与光合作用",
+    "en": "Leaf structure and photosynthesis"
+  },
+  "style": "S",
+  "size": "4:3",
+  "content": {
+    "en": "Create a scientific illustration of 【photosynthesis in a leaf】. Left: 【a green leaf on a stem in sunlight】. Center: a circular magnified inset shows 【a leaf cross-section with upper epidermis, palisade cells full of chloroplasts, spongy cells with air spaces, and an open stoma on the underside】. Right: a second inset zooms into 【one chloroplast with stacked thylakoids】. Arrows show 【carbon dioxide entering and oxygen leaving through the stoma, and sunlight reaching the chloroplasts】.\nLabels, each used once, no other text: 【Light, Chloroplast, Stoma, CO2, O2】.",
+    "zh": "画一张【叶片光合作用】的科学插画。左：【阳光下枝条上的一片绿叶】。中：一个圆形放大框展示【叶片横切面：上表皮、充满叶绿体的栅栏组织、有气腔的海绵组织，以及叶背面一个张开的气孔】。右：第二个放大框继续放大【一个叶绿体，里面是叠起来的类囊体】。箭头表示【二氧化碳从气孔进入、氧气从气孔离开，阳光照到叶绿体】。\n标签（每个只出现一次，不加其他文字）：【Light, Chloroplast, Stoma, CO2, O2】。"
+  }
+}

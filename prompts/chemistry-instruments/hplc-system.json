@@ -1,0 +1,15 @@
+{
+  "id": "hplc-system",
+  "theme": "chemistry-instruments",
+  "technique": "流路 + 局部放大",
+  "title": {
+    "zh": "高效液相色谱系统",
+    "en": "HPLC system"
+  },
+  "style": "S",
+  "size": "16:9",
+  "content": {
+    "en": "Create an instrument illustration of 【a high-performance liquid chromatography (HPLC) system】, from left to right connected by thin tubing: 【solvent bottles, a pump, an autosampler injector, a column, a UV detector, and a computer showing a chromatogram with a few peaks】. A circular magnified inset on the column shows 【molecules of different colors separating as they pass through packed beads】.\nLabels, each used once, no other text: 【Solvents, Pump, Injector, Column, Detector】.",
+    "zh": "画一张【高效液相色谱（HPLC）系统】的仪器插画，从左到右用细管路连接：【溶剂瓶、泵、自动进样器、色谱柱、紫外检测器、一台显示几个色谱峰的电脑】。在色谱柱上加一个圆形放大框，展示【不同颜色的分子在穿过填料颗粒时逐渐分开】。\n标签（每个只出现一次，不加其他文字）：【Solvents, Pump, Injector, Column, Detector】。"
+  }
+}

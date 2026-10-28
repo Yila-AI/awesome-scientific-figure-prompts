@@ -1,0 +1,15 @@
+{
+  "id": "mass-spectrometer",
+  "theme": "chemistry-instruments",
+  "technique": "技术剖切 + 路径箭头",
+  "title": {
+    "zh": "三重四极杆质谱仪",
+    "en": "Triple quadrupole mass spectrometer"
+  },
+  "style": "S",
+  "size": "16:9",
+  "content": {
+    "en": "Create a technical cutaway illustration of 【a triple quadrupole mass spectrometer】, from left to right: 【an electrospray ion source spraying a fine plume, a first quadrupole of four parallel rods, a collision cell where ions break into fragments, a second quadrupole, and a detector】. A thin colored line traces 【the ion path from the source to the detector】; shading shows 【vacuum increasing from left to right】.\nLabels, each used once, no other text: 【Ion source, Q1, Collision cell, Q3, Detector】.",
+    "zh": "画一张【三重四极杆质谱仪】的技术剖切插画，从左到右：【喷出细雾的电喷雾离子源、由四根平行杆组成的第一个四极杆、离子在其中碎裂的碰撞池、第二个四极杆、检测器】。一条细的彩色线描出【离子从离子源到检测器的路径】；用明暗表示【真空度从左到右逐渐升高】。\n标签（每个只出现一次，不加其他文字）：【Ion source, Q1, Collision cell, Q3, Detector】。"
+  }
+}

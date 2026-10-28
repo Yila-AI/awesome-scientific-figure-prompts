@@ -1,0 +1,15 @@
+{
+  "id": "root-rhizosphere",
+  "theme": "plant-agriculture",
+  "technique": "剖面 + 放大圆圈",
+  "title": {
+    "zh": "根系与根际微生物",
+    "en": "Roots and the rhizosphere"
+  },
+  "style": "S",
+  "size": "16:9",
+  "content": {
+    "en": "Create a soil cross-section illustration of 【a crop plant's roots and rhizosphere】: 【the plant above ground and its branching roots in brown soil below】. A circular magnified inset zooms into 【one root tip with fine root hairs, fungal threads wrapping around it, and small bacteria nearby】. Arrows show 【water and nutrients moving from the soil into the root, and sugars moving from the root to the fungi and bacteria】.\nLabels, each used once, no other text: 【Root hair, Mycorrhiza, Bacteria, Nutrients】.",
+    "zh": "画一张【作物根系与根际】的土壤剖面插画：【地面上是植株，下方棕色土壤里是分叉的根系】。用一个圆形放大框放大【一个根尖：细细的根毛、缠绕在根上的真菌菌丝，旁边有一些小细菌】。箭头表示【水和养分从土壤进入根，糖分从根流向真菌和细菌】。\n标签（每个只出现一次，不加其他文字）：【Root hair, Mycorrhiza, Bacteria, Nutrients】。"
+  }
+}

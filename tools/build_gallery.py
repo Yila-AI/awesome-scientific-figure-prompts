@@ -24,10 +24,19 @@ THEMES = [
     ("signaling-pathway", "信号通路", "Signaling Pathway"),
     ("medical-illustration", "医学插图", "Medical Illustration"),
     ("experimental-workflow", "实验流程", "Experimental Workflow"),
+    ("materials-energy", "材料与能源", "Materials & Energy"),
+    ("earth-environment", "环境与地球", "Earth & Environment"),
+    ("ai-computing", "AI 与计算机", "AI & Computing"),
+    ("engineering-systems", "工程系统", "Engineering Systems"),
+    ("chemistry-instruments", "化学与仪器", "Chemistry & Instruments"),
+    ("plant-agriculture", "农学与植物", "Plant & Agriculture"),
+    ("social-science", "人文社科", "Social Science"),
 ]
 STYLE_NAMES = {"A": ("期刊式扁平矢量", "flat vector schematic"),
                "B": ("柔和半写实插图", "soft semi-realistic illustration"),
-               "W": ("扁平流程图", "flat workflow")}
+               "W": ("扁平流程图", "flat workflow"),
+               "D": ("期刊式示意框图", "schematic diagram"),
+               "S": ("期刊式科学插画", "scientific illustration")}
 FEATURED = [("wound-healing-stages", "en"), ("liver-fibrosis", "en"), ("nanoparticle-tumor-delivery", "en"),
             ("cgas-sting", "zh"), ("mouse-model-dosing", "zh"), ("alzheimers-brain", "zh"),
             ("fracture-healing", "zh"), ("hydrogel-wound", "en"), ("tgfb-smad", "zh")]
@@ -108,10 +117,10 @@ def render(entries, lang):
           "![PRs welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)", ""]
     L += ["[中文](README.md) | [English](README_en.md)", ""]
     if zh:
-        L += ["**可以直接改成自己课题的科研绘图提示词模板。** 每条提示词都配有真实出图，"
+        L += ["**可以直接改成自己课题的科研绘图提示词模板，覆盖生物医学、材料能源、环境、AI、工程、化学、农学和社科。** 每条提示词都配有真实出图，"
               "【】里的内容换成你的研究对象，其余部分照抄即可。", ""]
     else:
-        L += ["**Scientific figure prompt templates you can adapt to your own research.** Every prompt comes with "
+        L += ["**Scientific figure prompt templates you can adapt to your own research, across biomedicine, materials and energy, environment, AI, engineering, chemistry, plant science and social science.** Every prompt comes with "
               "real outputs. Replace the text inside 【】 with your own topic and keep the rest.", ""]
     L += ["![cover](gallery/cover.jpg)", ""]
     L += ["## " + ("统计" if zh else "Statistics"), "",

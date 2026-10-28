@@ -5,7 +5,7 @@
 
 [中文](README.md) | [English](README_en.md)
 
-**可以直接改成自己课题的科研绘图提示词模板。** 每条提示词都配有真实出图，【】里的内容换成你的研究对象，其余部分照抄即可。
+**可以直接改成自己课题的科研绘图提示词模板，覆盖生物医学、材料能源、环境、AI、工程、化学、农学和社科。** 每条提示词都配有真实出图，【】里的内容换成你的研究对象，其余部分照抄即可。
 
 ![cover](gallery/cover.jpg)
 
@@ -13,7 +13,7 @@
 
 | 模板 | 示例图 | 模型 | 更新 |
 |---|---|---|---|
-| 25 | 50 | Nano Banana 2 Lite (gemini-3.1-flash-lite-image, 1K) | 2026-10-28 |
+| 39 | 73 | Nano Banana 2 Lite (gemini-3.1-flash-lite-image, 1K) | 2026-10-28 |
 
 ## 怎么用
 
@@ -29,6 +29,13 @@
 - **信号通路**：[No. 8 cGAS–STING 先天免疫通路](#no-8)、[No. 9 PD-1/PD-L1 免疫检查点与阻断](#no-9)、[No. 10 TGF-β/SMAD 促纤维化通路](#no-10)
 - **医学插图**：[No. 11 健康大脑与阿尔茨海默病大脑](#no-11)、[No. 12 动脉粥样硬化斑块形成](#no-12)、[No. 13 骨折愈合四阶段](#no-13)、[No. 14 肾小球滤过屏障三层结构](#no-14)、[No. 15 健康肝脏与肝纤维化对比](#no-15)、[No. 16 肾单位结构与滤液流向](#no-16)、[No. 17 肿瘤血管生成](#no-17)、[No. 18 皮肤创面愈合四阶段](#no-18)
 - **实验流程**：[No. 19 临床试验筛选、分组与随访](#no-19)、[No. 20 混合 CRISPR 筛选流程](#no-20)、[No. 21 小鼠疾病模型：分组、给药与取材](#no-21)、[No. 22 类器官培养与药物筛选](#no-22)、[No. 23 LC-MS/MS 蛋白质组学流程](#no-23)、[No. 24 单细胞 RNA 测序流程](#no-24)、[No. 25 空间转录组流程](#no-25)
+- **材料与能源**：[No. 26 锂离子电池充放电](#no-26)、[No. 27 钙钛矿-硅叠层太阳能电池](#no-27)
+- **环境与地球**：[No. 28 全球碳循环](#no-28)、[No. 29 城市热岛与缓解措施](#no-29)
+- **AI 与计算机**：[No. 30 大模型智能体工作循环](#no-30)、[No. 31 检索增强生成（RAG）流程](#no-31)
+- **工程系统**：[No. 32 综合能源系统](#no-32)、[No. 33 物联网监测系统架构](#no-33)
+- **化学与仪器**：[No. 34 高效液相色谱系统](#no-34)、[No. 35 三重四极杆质谱仪](#no-35)
+- **农学与植物**：[No. 36 叶片结构与光合作用](#no-36)、[No. 37 根系与根际微生物](#no-37)
+- **人文社科**：[No. 38 研究框架图（中介与调节）](#no-38)、[No. 39 课题技术路线图](#no-39)
 
 ## 图形摘要
 
@@ -1077,6 +1084,524 @@ Style: journal-style experimental workflow figure. Clean flat vector icons on a 
 </details>
 
 模型：Nano Banana 2 Lite (gemini-3.1-flash-lite-image, 1K)　·　这条提示词共生成 4 次，展示的是核对通过的结果
+
+---
+
+## 材料与能源
+
+<a id="no-26"></a>
+
+### No. 26：锂离子电池充放电
+
+写法技巧：**剖面 + 流向箭头**　·　风格：期刊式科学插画　·　比例：16:9
+
+| 英文提示词出图 | 中文提示词出图 |
+|---|---|
+| <img src="gallery/materials-energy/li-ion-battery-en.jpg" width="420"> | <img src="gallery/materials-energy/li-ion-battery-zh.jpg" width="420"> |
+
+**中文提示词**
+
+```text
+画一张【放电过程中的锂离子电池】横向剖面插画：【左边是石墨负极，中间是多孔隔膜，右边是层状氧化物正极，全部浸在电解液里】。箭头表示【锂离子从负极穿过隔膜移向正极，电子则经外部导线流过一个小灯泡】。用一个圆形放大框展示【锂离子从石墨层之间滑出】。
+标签（每个只出现一次，不加其他文字）：【Anode, Separator, Cathode, Li+, e-】。
+
+风格：期刊式科学插画。干净的半写实矢量插画，带柔和的明暗；需要说明结构时使用剖面或剖切视图，白色背景。配色低饱和、协调，只用一个强调色突出关键过程。用细的方向箭头表示流动。留白充足，阅读方向清晰。图中文字只用英文无衬线字体，每个标签只出现一次，拼写与给定完全一致。不要卡通风格、不要光滑的 CG 渲染、不要深色背景、不要图库照片感、不要装饰性背景。
+```
+
+<details><summary>English prompt</summary>
+
+```text
+Create a horizontal cross-section illustration of 【a lithium-ion battery during discharge】: 【the graphite anode on the left, a porous separator in the middle, and a layered oxide cathode on the right, all soaked in electrolyte】. Arrows show 【lithium ions moving from the anode through the separator to the cathode, while electrons flow through an external wire to a small light bulb】. A circular magnified inset shows 【lithium ions sliding out from between the graphite layers】.
+Labels, each used once, no other text: 【Anode, Separator, Cathode, Li+, e-】.
+
+Style: journal-style scientific illustration. Clean semi-realistic vector illustration with gentle shading, using cross-sections or cutaways where they explain the structure, on a white background. Muted, harmonious palette with one accent color for the key process. Thin directional arrows for flows. Generous white space and a clear reading direction. Sans-serif English labels only, each label appears exactly once, spelled exactly as given. No cartoon style, no glossy CGI, no dark background, no stock-photo look, no decorative background.
+```
+
+</details>
+
+模型：Nano Banana 2 Lite (gemini-3.1-flash-lite-image, 1K)　·　这条提示词共生成 2 次，展示的是核对通过的结果
+
+---
+
+<a id="no-27"></a>
+
+### No. 27：钙钛矿-硅叠层太阳能电池
+
+写法技巧：**分层剖面 + 放大圆圈**　·　风格：期刊式科学插画　·　比例：16:9
+
+| 英文提示词出图 | 中文提示词出图 |
+|---|---|
+| <img src="gallery/materials-energy/perovskite-tandem-cell-en.jpg" width="420"> | <img src="gallery/materials-energy/perovskite-tandem-cell-zh.jpg" width="420"> |
+
+**中文提示词**
+
+```text
+画一张【钙钛矿-硅叠层太阳能电池】的剖面插画，各层从上到下叠放：【透明顶电极、钙钛矿吸收层、很薄的复合层、表面有绒面的硅底电池、金属背电极】。阳光从顶部射入；【短波长的光在钙钛矿层被吸收，长波长的光穿过去到达硅电池】。用一个圆形放大框展示【钙钛矿的晶格结构】。
+标签（每个只出现一次，不加其他文字）：【Sunlight, Transparent electrode, Perovskite, Silicon cell, Back electrode】。
+
+风格：期刊式科学插画。干净的半写实矢量插画，带柔和的明暗；需要说明结构时使用剖面或剖切视图，白色背景。配色低饱和、协调，只用一个强调色突出关键过程。用细的方向箭头表示流动。留白充足，阅读方向清晰。图中文字只用英文无衬线字体，每个标签只出现一次，拼写与给定完全一致。不要卡通风格、不要光滑的 CG 渲染、不要深色背景、不要图库照片感、不要装饰性背景。
+```
+
+<details><summary>English prompt</summary>
+
+```text
+Create a cross-section illustration of 【a perovskite–silicon tandem solar cell】, layers stacked from top to bottom: 【a transparent top electrode, a perovskite absorber layer, a thin recombination layer, a textured silicon bottom cell, and a metal back electrode】. Sunlight enters from the top; 【short-wavelength light is absorbed in the perovskite layer and long-wavelength light passes through to the silicon cell】. A circular magnified inset shows 【the perovskite crystal lattice】.
+Labels, each used once, no other text: 【Sunlight, Transparent electrode, Perovskite, Silicon cell, Back electrode】.
+
+Style: journal-style scientific illustration. Clean semi-realistic vector illustration with gentle shading, using cross-sections or cutaways where they explain the structure, on a white background. Muted, harmonious palette with one accent color for the key process. Thin directional arrows for flows. Generous white space and a clear reading direction. Sans-serif English labels only, each label appears exactly once, spelled exactly as given. No cartoon style, no glossy CGI, no dark background, no stock-photo look, no decorative background.
+```
+
+</details>
+
+模型：Nano Banana 2 Lite (gemini-3.1-flash-lite-image, 1K)　·　这条提示词共生成 2 次，展示的是核对通过的结果
+
+---
+
+## 环境与地球
+
+<a id="no-28"></a>
+
+### No. 28：全球碳循环
+
+写法技巧：**系统循环 + 流向箭头**　·　风格：期刊式科学插画　·　比例：4:3
+
+| 英文提示词出图 | 中文提示词出图 |
+|---|---|
+| <img src="gallery/earth-environment/carbon-cycle-en.jpg" width="420"> | <img src="gallery/earth-environment/carbon-cycle-zh.jpg" width="420"> |
+
+**中文提示词**
+
+```text
+画一张【全球碳循环】的地景剖面插画：【顶部是大气；左边是森林和土壤；右边是海洋；底部中间是发电厂和埋藏的化石燃料】。箭头表示【树木吸收二氧化碳（光合作用），植物和土壤释放二氧化碳（呼吸作用），海洋表面吸收二氧化碳，发电厂燃烧化石燃料排放二氧化碳】。流量越大，箭头越粗。
+标签（每个只出现一次，不加其他文字）：【Atmosphere, Photosynthesis, Respiration, Ocean uptake, Fossil emissions】。
+
+风格：期刊式科学插画。干净的半写实矢量插画，带柔和的明暗；需要说明结构时使用剖面或剖切视图，白色背景。配色低饱和、协调，只用一个强调色突出关键过程。用细的方向箭头表示流动。留白充足，阅读方向清晰。图中文字只用英文无衬线字体，每个标签只出现一次，拼写与给定完全一致。不要卡通风格、不要光滑的 CG 渲染、不要深色背景、不要图库照片感、不要装饰性背景。
+```
+
+<details><summary>English prompt</summary>
+
+```text
+Create a landscape cross-section illustration of 【the global carbon cycle】: 【the atmosphere at the top; a forest and soil on the left; the ocean on the right; a power plant and buried fossil fuels at the bottom center】. Arrows show 【carbon dioxide taken up by trees (photosynthesis), released by plants and soil (respiration), absorbed by the ocean surface, and emitted by the power plant burning fossil fuels】. Use thicker arrows for larger flows.
+Labels, each used once, no other text: 【Atmosphere, Photosynthesis, Respiration, Ocean uptake, Fossil emissions】.
+
+Style: journal-style scientific illustration. Clean semi-realistic vector illustration with gentle shading, using cross-sections or cutaways where they explain the structure, on a white background. Muted, harmonious palette with one accent color for the key process. Thin directional arrows for flows. Generous white space and a clear reading direction. Sans-serif English labels only, each label appears exactly once, spelled exactly as given. No cartoon style, no glossy CGI, no dark background, no stock-photo look, no decorative background.
+```
+
+</details>
+
+模型：Nano Banana 2 Lite (gemini-3.1-flash-lite-image, 1K)　·　这条提示词共生成 2 次，展示的是核对通过的结果
+
+---
+
+<a id="no-29"></a>
+
+### No. 29：城市热岛与缓解措施
+
+写法技巧：**左右对比 + 剖面**　·　风格：期刊式科学插画　·　比例：16:9
+
+| 英文提示词出图 | 中文提示词出图 |
+|---|---|
+| <img src="gallery/earth-environment/urban-heat-island-en.jpg" width="420"> | <img src="gallery/earth-environment/urban-heat-island-zh.jpg" width="420"> |
+
+**中文提示词**
+
+```text
+画一张左右对比的剖面插画，比较【炎热密集的城市街区和降温后的城市街区】，中间用一条细虚线分开。
+左：【高楼林立、深色沥青路面、几乎没有树；橙红色的热量从屋顶和路面升起】。
+右：【同一个街区加上了屋顶绿化、行道树、一小片水体和浅色路面；蓝色箭头表示更凉的空气和树荫】。
+标签（每个只出现一次，不加其他文字）：【Heat island, Green roof, Street trees, Water body, Cooling】。
+
+风格：期刊式科学插画。干净的半写实矢量插画，带柔和的明暗；需要说明结构时使用剖面或剖切视图，白色背景。配色低饱和、协调，只用一个强调色突出关键过程。用细的方向箭头表示流动。留白充足，阅读方向清晰。图中文字只用英文无衬线字体，每个标签只出现一次，拼写与给定完全一致。不要卡通风格、不要光滑的 CG 渲染、不要深色背景、不要图库照片感、不要装饰性背景。
+```
+
+<details><summary>English prompt</summary>
+
+```text
+Create a side-by-side cross-section illustration comparing 【a hot dense city block and a cooled city block】, separated by a thin dashed vertical line.
+Left: 【tall buildings, dark asphalt and few trees; orange-red heat rising from roofs and roads】.
+Right: 【the same block with green roofs, street trees, a small water body and light-colored pavement; blue arrows show cooler air and shade】.
+Labels, each used once, no other text: 【Heat island, Green roof, Street trees, Water body, Cooling】.
+
+Style: journal-style scientific illustration. Clean semi-realistic vector illustration with gentle shading, using cross-sections or cutaways where they explain the structure, on a white background. Muted, harmonious palette with one accent color for the key process. Thin directional arrows for flows. Generous white space and a clear reading direction. Sans-serif English labels only, each label appears exactly once, spelled exactly as given. No cartoon style, no glossy CGI, no dark background, no stock-photo look, no decorative background.
+```
+
+</details>
+
+模型：Nano Banana 2 Lite (gemini-3.1-flash-lite-image, 1K)　·　这条提示词共生成 3 次，展示的是核对通过的结果
+
+---
+
+## AI 与计算机
+
+<a id="no-30"></a>
+
+### No. 30：大模型智能体工作循环
+
+写法技巧：**循环结构 + 图标**　·　风格：期刊式示意框图　·　比例：16:9
+
+| 英文提示词出图 | 中文提示词出图 |
+|---|---|
+| <img src="gallery/ai-computing/llm-agent-loop-en.jpg" width="420"> | <img src="gallery/ai-computing/llm-agent-loop-zh.jpg" width="420"> |
+
+**中文提示词**
+
+```text
+画一张【大模型智能体工作循环】的示意框图。左边【用户目标】进入【中间的规划器方框】。从规划器出发，箭头分别指向【一个工具面板，里面有三个小图标：网页搜索、代码运行、数据库】和【一个记忆方框】。一条虚线箭头把【工具返回的观察结果送回规划器】，形成一个循环。任务完成后，一条箭头从规划器指向【右边的最终回答】。
+标签（每个只出现一次，不加其他文字）：【Goal, Planner, Tools, Memory, Answer】。
+
+风格：期刊式示意框图。白色背景上干净的扁平矢量图形。模块画成圆角矩形或简洁图标，名称写在里面；用浅色面板把相关的层归在一起。只用 3–4 种低饱和度颜色，每种颜色含义固定。细而粗细一致的箭头表示数据、能量、物质或影响的流向，间接或反馈关系用虚线箭头。图中文字只用英文无衬线字体，每个标签只出现一次，拼写与给定完全一致。不要 3D 渲染、阴影、发光、赛博朋克或科技感背景装饰，不要照片质感。
+```
+
+<details><summary>English prompt</summary>
+
+```text
+Create a schematic diagram of 【an LLM agent loop】. On the left, 【a user goal】 enters 【a planner box at the center】. From the planner, arrows go to 【a tools panel with three small icons: web search, code runner and database】 and to 【a memory box】. A dashed arrow returns 【the observation from the tools back to the planner】, forming a loop. When done, an arrow leads from the planner to 【the final answer on the right】.
+Labels, each used once, no other text: 【Goal, Planner, Tools, Memory, Answer】.
+
+Style: journal-style schematic diagram. Clean flat vector graphics on a white background. Modules are rounded rectangles or simple icons with their short names inside; light pastel panels group related layers. Only 3-4 muted colors, each with one fixed meaning. Thin, uniform arrows show the flow of data, energy, material or influence; dashed arrows for indirect or feedback links. Sans-serif English labels only, each label appears exactly once, spelled exactly as given. No 3D rendering, no shadows, no glow, no cyberpunk or tech-background decoration, no photorealism.
+```
+
+</details>
+
+模型：Nano Banana 2 Lite (gemini-3.1-flash-lite-image, 1K)　·　这条提示词共生成 2 次，展示的是核对通过的结果
+
+---
+
+<a id="no-31"></a>
+
+### No. 31：检索增强生成（RAG）流程
+
+写法技巧：**逐条关系 + 模块框图**　·　风格：期刊式示意框图　·　比例：16:9
+
+| 中文提示词出图 |
+|---|
+| <img src="gallery/ai-computing/rag-pipeline-zh.jpg" width="420"> |
+
+**中文提示词**
+
+```text
+画一张【检索增强生成（RAG）流程】的示意框图，从左往右读。严格按下面列出的关系画，不多画：
+1. 【用户的问题经嵌入模型变成向量。】
+2. 【用这个向量在存放文档片段的向量数据库里检索。】
+3. 【返回最匹配的几个片段，作为检索到的文档。】
+4. 【问题和检索到的文档一起输入大语言模型。】
+5. 【大语言模型写出回答。】
+主流程上方用一个浅色面板展示【文档被切成片段并存入向量数据库】。
+标签（每个只出现一次，不加其他文字）：【Query, Embedding, Vector DB, Retrieved docs, LLM, Answer】。
+
+风格：期刊式示意框图。白色背景上干净的扁平矢量图形。模块画成圆角矩形或简洁图标，名称写在里面；用浅色面板把相关的层归在一起。只用 3–4 种低饱和度颜色，每种颜色含义固定。细而粗细一致的箭头表示数据、能量、物质或影响的流向，间接或反馈关系用虚线箭头。图中文字只用英文无衬线字体，每个标签只出现一次，拼写与给定完全一致。不要 3D 渲染、阴影、发光、赛博朋克或科技感背景装饰，不要照片质感。
+```
+
+<details><summary>English prompt</summary>
+
+```text
+Create a schematic diagram of 【a retrieval-augmented generation (RAG) pipeline】, read from left to right. Draw each relationship exactly as listed and nothing more:
+1. 【A user query is turned into a vector by an embedding model.】
+2. 【The vector searches a vector database of document chunks.】
+3. 【The top matching chunks are returned as retrieved documents.】
+4. 【The query and the retrieved documents go into a large language model.】
+5. 【The language model writes the answer.】
+Above the main flow, a lighter panel shows 【documents being split into chunks and stored in the vector database】.
+Labels, each used once, no other text: 【Query, Embedding, Vector DB, Retrieved docs, LLM, Answer】.
+
+Style: journal-style schematic diagram. Clean flat vector graphics on a white background. Modules are rounded rectangles or simple icons with their short names inside; light pastel panels group related layers. Only 3-4 muted colors, each with one fixed meaning. Thin, uniform arrows show the flow of data, energy, material or influence; dashed arrows for indirect or feedback links. Sans-serif English labels only, each label appears exactly once, spelled exactly as given. No 3D rendering, no shadows, no glow, no cyberpunk or tech-background decoration, no photorealism.
+```
+
+</details>
+
+模型：Nano Banana 2 Lite (gemini-3.1-flash-lite-image, 1K)　·　这条提示词共生成 3 次，展示的是核对通过的结果
+
+---
+
+## 工程系统
+
+<a id="no-32"></a>
+
+### No. 32：综合能源系统
+
+写法技巧：**源–转换–储–用分层**　·　风格：期刊式示意框图　·　比例：16:9
+
+| 英文提示词出图 | 中文提示词出图 |
+|---|---|
+| <img src="gallery/engineering-systems/integrated-energy-system-en.jpg" width="420"> | <img src="gallery/engineering-systems/integrated-energy-system-zh.jpg" width="420"> |
+
+**中文提示词**
+
+```text
+画一张【综合能源系统】示意框图，从左到右分四列：【能源（太阳能板、风机、电网）→ 转换（逆变器、热泵）→ 储能（电池组、热水罐）→ 用户（办公楼、电动汽车）】。橙色箭头表示电力，红色箭头表示热量。
+标签（每个只出现一次，不加其他文字）：【Solar, Wind, Battery storage, Heat pump, Building, EV】。
+
+风格：期刊式示意框图。白色背景上干净的扁平矢量图形。模块画成圆角矩形或简洁图标，名称写在里面；用浅色面板把相关的层归在一起。只用 3–4 种低饱和度颜色，每种颜色含义固定。细而粗细一致的箭头表示数据、能量、物质或影响的流向，间接或反馈关系用虚线箭头。图中文字只用英文无衬线字体，每个标签只出现一次，拼写与给定完全一致。不要 3D 渲染、阴影、发光、赛博朋克或科技感背景装饰，不要照片质感。
+```
+
+<details><summary>English prompt</summary>
+
+```text
+Create a schematic diagram of 【an integrated energy system】 in four columns from left to right: 【sources (solar panels, a wind turbine, the power grid) → conversion (an inverter and a heat pump) → storage (a battery bank and a hot-water tank) → loads (an office building and an electric vehicle)】. Orange arrows carry electricity and red arrows carry heat.
+Labels, each used once, no other text: 【Solar, Wind, Battery storage, Heat pump, Building, EV】.
+
+Style: journal-style schematic diagram. Clean flat vector graphics on a white background. Modules are rounded rectangles or simple icons with their short names inside; light pastel panels group related layers. Only 3-4 muted colors, each with one fixed meaning. Thin, uniform arrows show the flow of data, energy, material or influence; dashed arrows for indirect or feedback links. Sans-serif English labels only, each label appears exactly once, spelled exactly as given. No 3D rendering, no shadows, no glow, no cyberpunk or tech-background decoration, no photorealism.
+```
+
+</details>
+
+模型：Nano Banana 2 Lite (gemini-3.1-flash-lite-image, 1K)　·　这条提示词共生成 2 次，展示的是核对通过的结果
+
+---
+
+<a id="no-33"></a>
+
+### No. 33：物联网监测系统架构
+
+写法技巧：**分层架构 + 反馈回路**　·　风格：期刊式示意框图　·　比例：16:9
+
+| 英文提示词出图 | 中文提示词出图 |
+|---|---|
+| <img src="gallery/engineering-systems/iot-monitoring-en.jpg" width="420"> | <img src="gallery/engineering-systems/iot-monitoring-zh.jpg" width="420"> |
+
+**中文提示词**
+
+```text
+画一张【物联网环境监测系统】的分层架构图，从左到右分五层，每层一个浅色面板：【现场传感器（温度、湿度、水质图标）→ 边缘网关 → 云服务器 → 分析模型 → 屏幕上的监控看板】。一条虚线反馈箭头【从看板回到传感器旁边的阀门执行器】。
+标签（每个只出现一次，不加其他文字）：【Sensors, Edge gateway, Cloud, Analytics, Dashboard】。
+
+风格：期刊式示意框图。白色背景上干净的扁平矢量图形。模块画成圆角矩形或简洁图标，名称写在里面；用浅色面板把相关的层归在一起。只用 3–4 种低饱和度颜色，每种颜色含义固定。细而粗细一致的箭头表示数据、能量、物质或影响的流向，间接或反馈关系用虚线箭头。图中文字只用英文无衬线字体，每个标签只出现一次，拼写与给定完全一致。不要 3D 渲染、阴影、发光、赛博朋克或科技感背景装饰，不要照片质感。
+```
+
+<details><summary>English prompt</summary>
+
+```text
+Create a layered architecture diagram of 【an IoT environmental monitoring system】, from left to right in five layers, each in its own light pastel panel: 【field sensors (temperature, humidity, water quality icons) → an edge gateway → a cloud server → an analytics model → a dashboard on a screen】. A dashed feedback arrow returns 【from the dashboard to a valve actuator next to the sensors】.
+Labels, each used once, no other text: 【Sensors, Edge gateway, Cloud, Analytics, Dashboard】.
+
+Style: journal-style schematic diagram. Clean flat vector graphics on a white background. Modules are rounded rectangles or simple icons with their short names inside; light pastel panels group related layers. Only 3-4 muted colors, each with one fixed meaning. Thin, uniform arrows show the flow of data, energy, material or influence; dashed arrows for indirect or feedback links. Sans-serif English labels only, each label appears exactly once, spelled exactly as given. No 3D rendering, no shadows, no glow, no cyberpunk or tech-background decoration, no photorealism.
+```
+
+</details>
+
+模型：Nano Banana 2 Lite (gemini-3.1-flash-lite-image, 1K)　·　这条提示词共生成 2 次，展示的是核对通过的结果
+
+---
+
+## 化学与仪器
+
+<a id="no-34"></a>
+
+### No. 34：高效液相色谱系统
+
+写法技巧：**流路 + 局部放大**　·　风格：期刊式科学插画　·　比例：16:9
+
+| 英文提示词出图 | 中文提示词出图 |
+|---|---|
+| <img src="gallery/chemistry-instruments/hplc-system-en.jpg" width="420"> | <img src="gallery/chemistry-instruments/hplc-system-zh.jpg" width="420"> |
+
+**中文提示词**
+
+```text
+画一张【高效液相色谱（HPLC）系统】的仪器插画，从左到右用细管路连接：【溶剂瓶、泵、自动进样器、色谱柱、紫外检测器、一台显示几个色谱峰的电脑】。在色谱柱上加一个圆形放大框，展示【不同颜色的分子在穿过填料颗粒时逐渐分开】。
+标签（每个只出现一次，不加其他文字）：【Solvents, Pump, Injector, Column, Detector】。
+
+风格：期刊式科学插画。干净的半写实矢量插画，带柔和的明暗；需要说明结构时使用剖面或剖切视图，白色背景。配色低饱和、协调，只用一个强调色突出关键过程。用细的方向箭头表示流动。留白充足，阅读方向清晰。图中文字只用英文无衬线字体，每个标签只出现一次，拼写与给定完全一致。不要卡通风格、不要光滑的 CG 渲染、不要深色背景、不要图库照片感、不要装饰性背景。
+```
+
+<details><summary>English prompt</summary>
+
+```text
+Create an instrument illustration of 【a high-performance liquid chromatography (HPLC) system】, from left to right connected by thin tubing: 【solvent bottles, a pump, an autosampler injector, a column, a UV detector, and a computer showing a chromatogram with a few peaks】. A circular magnified inset on the column shows 【molecules of different colors separating as they pass through packed beads】.
+Labels, each used once, no other text: 【Solvents, Pump, Injector, Column, Detector】.
+
+Style: journal-style scientific illustration. Clean semi-realistic vector illustration with gentle shading, using cross-sections or cutaways where they explain the structure, on a white background. Muted, harmonious palette with one accent color for the key process. Thin directional arrows for flows. Generous white space and a clear reading direction. Sans-serif English labels only, each label appears exactly once, spelled exactly as given. No cartoon style, no glossy CGI, no dark background, no stock-photo look, no decorative background.
+```
+
+</details>
+
+模型：Nano Banana 2 Lite (gemini-3.1-flash-lite-image, 1K)　·　这条提示词共生成 3 次，展示的是核对通过的结果
+
+---
+
+<a id="no-35"></a>
+
+### No. 35：三重四极杆质谱仪
+
+写法技巧：**技术剖切 + 路径箭头**　·　风格：期刊式科学插画　·　比例：16:9
+
+| 中文提示词出图 |
+|---|
+| <img src="gallery/chemistry-instruments/mass-spectrometer-zh.jpg" width="420"> |
+
+**中文提示词**
+
+```text
+画一张【三重四极杆质谱仪】的技术剖切插画，从左到右：【喷出细雾的电喷雾离子源、由四根平行杆组成的第一个四极杆、离子在其中碎裂的碰撞池、第二个四极杆、检测器】。一条细的彩色线描出【离子从离子源到检测器的路径】；用明暗表示【真空度从左到右逐渐升高】。
+标签（每个只出现一次，不加其他文字）：【Ion source, Q1, Collision cell, Q3, Detector】。
+
+风格：期刊式科学插画。干净的半写实矢量插画，带柔和的明暗；需要说明结构时使用剖面或剖切视图，白色背景。配色低饱和、协调，只用一个强调色突出关键过程。用细的方向箭头表示流动。留白充足，阅读方向清晰。图中文字只用英文无衬线字体，每个标签只出现一次，拼写与给定完全一致。不要卡通风格、不要光滑的 CG 渲染、不要深色背景、不要图库照片感、不要装饰性背景。
+```
+
+<details><summary>English prompt</summary>
+
+```text
+Create a technical cutaway illustration of 【a triple quadrupole mass spectrometer】, from left to right: 【an electrospray ion source spraying a fine plume, a first quadrupole of four parallel rods, a collision cell where ions break into fragments, a second quadrupole, and a detector】. A thin colored line traces 【the ion path from the source to the detector】; shading shows 【vacuum increasing from left to right】.
+Labels, each used once, no other text: 【Ion source, Q1, Collision cell, Q3, Detector】.
+
+Style: journal-style scientific illustration. Clean semi-realistic vector illustration with gentle shading, using cross-sections or cutaways where they explain the structure, on a white background. Muted, harmonious palette with one accent color for the key process. Thin directional arrows for flows. Generous white space and a clear reading direction. Sans-serif English labels only, each label appears exactly once, spelled exactly as given. No cartoon style, no glossy CGI, no dark background, no stock-photo look, no decorative background.
+```
+
+</details>
+
+模型：Nano Banana 2 Lite (gemini-3.1-flash-lite-image, 1K)　·　这条提示词共生成 3 次，展示的是核对通过的结果
+
+---
+
+## 农学与植物
+
+<a id="no-36"></a>
+
+### No. 36：叶片结构与光合作用
+
+写法技巧：**多尺度放大圆圈**　·　风格：期刊式科学插画　·　比例：4:3
+
+| 英文提示词出图 |
+|---|
+| <img src="gallery/plant-agriculture/leaf-photosynthesis-en.jpg" width="420"> |
+
+**中文提示词**
+
+```text
+画一张【叶片光合作用】的科学插画。左：【阳光下枝条上的一片绿叶】。中：一个圆形放大框展示【叶片横切面：上表皮、充满叶绿体的栅栏组织、有气腔的海绵组织，以及叶背面一个张开的气孔】。右：第二个放大框继续放大【一个叶绿体，里面是叠起来的类囊体】。箭头表示【二氧化碳从气孔进入、氧气从气孔离开，阳光照到叶绿体】。
+标签（每个只出现一次，不加其他文字）：【Light, Chloroplast, Stoma, CO2, O2】。
+
+风格：期刊式科学插画。干净的半写实矢量插画，带柔和的明暗；需要说明结构时使用剖面或剖切视图，白色背景。配色低饱和、协调，只用一个强调色突出关键过程。用细的方向箭头表示流动。留白充足，阅读方向清晰。图中文字只用英文无衬线字体，每个标签只出现一次，拼写与给定完全一致。不要卡通风格、不要光滑的 CG 渲染、不要深色背景、不要图库照片感、不要装饰性背景。
+```
+
+<details><summary>English prompt</summary>
+
+```text
+Create a scientific illustration of 【photosynthesis in a leaf】. Left: 【a green leaf on a stem in sunlight】. Center: a circular magnified inset shows 【a leaf cross-section with upper epidermis, palisade cells full of chloroplasts, spongy cells with air spaces, and an open stoma on the underside】. Right: a second inset zooms into 【one chloroplast with stacked thylakoids】. Arrows show 【carbon dioxide entering and oxygen leaving through the stoma, and sunlight reaching the chloroplasts】.
+Labels, each used once, no other text: 【Light, Chloroplast, Stoma, CO2, O2】.
+
+Style: journal-style scientific illustration. Clean semi-realistic vector illustration with gentle shading, using cross-sections or cutaways where they explain the structure, on a white background. Muted, harmonious palette with one accent color for the key process. Thin directional arrows for flows. Generous white space and a clear reading direction. Sans-serif English labels only, each label appears exactly once, spelled exactly as given. No cartoon style, no glossy CGI, no dark background, no stock-photo look, no decorative background.
+```
+
+</details>
+
+模型：Nano Banana 2 Lite (gemini-3.1-flash-lite-image, 1K)　·　这条提示词共生成 3 次，展示的是核对通过的结果
+
+---
+
+<a id="no-37"></a>
+
+### No. 37：根系与根际微生物
+
+写法技巧：**剖面 + 放大圆圈**　·　风格：期刊式科学插画　·　比例：16:9
+
+| 英文提示词出图 |
+|---|
+| <img src="gallery/plant-agriculture/root-rhizosphere-en.jpg" width="420"> |
+
+**中文提示词**
+
+```text
+画一张【作物根系与根际】的土壤剖面插画：【地面上是植株，下方棕色土壤里是分叉的根系】。用一个圆形放大框放大【一个根尖：细细的根毛、缠绕在根上的真菌菌丝，旁边有一些小细菌】。箭头表示【水和养分从土壤进入根，糖分从根流向真菌和细菌】。
+标签（每个只出现一次，不加其他文字）：【Root hair, Mycorrhiza, Bacteria, Nutrients】。
+
+风格：期刊式科学插画。干净的半写实矢量插画，带柔和的明暗；需要说明结构时使用剖面或剖切视图，白色背景。配色低饱和、协调，只用一个强调色突出关键过程。用细的方向箭头表示流动。留白充足，阅读方向清晰。图中文字只用英文无衬线字体，每个标签只出现一次，拼写与给定完全一致。不要卡通风格、不要光滑的 CG 渲染、不要深色背景、不要图库照片感、不要装饰性背景。
+```
+
+<details><summary>English prompt</summary>
+
+```text
+Create a soil cross-section illustration of 【a crop plant's roots and rhizosphere】: 【the plant above ground and its branching roots in brown soil below】. A circular magnified inset zooms into 【one root tip with fine root hairs, fungal threads wrapping around it, and small bacteria nearby】. Arrows show 【water and nutrients moving from the soil into the root, and sugars moving from the root to the fungi and bacteria】.
+Labels, each used once, no other text: 【Root hair, Mycorrhiza, Bacteria, Nutrients】.
+
+Style: journal-style scientific illustration. Clean semi-realistic vector illustration with gentle shading, using cross-sections or cutaways where they explain the structure, on a white background. Muted, harmonious palette with one accent color for the key process. Thin directional arrows for flows. Generous white space and a clear reading direction. Sans-serif English labels only, each label appears exactly once, spelled exactly as given. No cartoon style, no glossy CGI, no dark background, no stock-photo look, no decorative background.
+```
+
+</details>
+
+模型：Nano Banana 2 Lite (gemini-3.1-flash-lite-image, 1K)　·　这条提示词共生成 4 次，展示的是核对通过的结果
+
+---
+
+## 人文社科
+
+<a id="no-38"></a>
+
+### No. 38：研究框架图（中介与调节）
+
+写法技巧：**逐条关系 + 框图**　·　风格：期刊式示意框图　·　比例：16:9
+
+| 英文提示词出图 |
+|---|
+| <img src="gallery/social-science/research-framework-en.jpg" width="420"> |
+
+**中文提示词**
+
+```text
+画一张概念研究框架图，从左往右读。严格按下面列出的关系画，不多画：
+1. 【社交媒体使用 → 社会比较（实线箭头）。】
+2. 【社会比较 → 幸福感（实线箭头）。】
+3. 【社交媒体使用 → 幸福感（在前两条下方，一条直接的实线箭头）。】
+4. 【自尊用一条虚线箭头指向第 2 条箭头的中间。】
+5. 【底部一个灰色方框列出控制变量。】
+每个变量画成一个圆角矩形。
+标签（每个只出现一次，不加其他文字）：【Social media use, Social comparison, Well-being, Self-esteem, Control variables】。
+
+风格：期刊式示意框图。白色背景上干净的扁平矢量图形。模块画成圆角矩形或简洁图标，名称写在里面；用浅色面板把相关的层归在一起。只用 3–4 种低饱和度颜色，每种颜色含义固定。细而粗细一致的箭头表示数据、能量、物质或影响的流向，间接或反馈关系用虚线箭头。图中文字只用英文无衬线字体，每个标签只出现一次，拼写与给定完全一致。不要 3D 渲染、阴影、发光、赛博朋克或科技感背景装饰，不要照片质感。
+```
+
+<details><summary>English prompt</summary>
+
+```text
+Create a conceptual research framework diagram, read from left to right. Draw each relationship exactly as listed and nothing more:
+1. 【Social media use → Social comparison (solid arrow).】
+2. 【Social comparison → Well-being (solid arrow).】
+3. 【Social media use → Well-being (a direct solid arrow below the other two).】
+4. 【Self-esteem points with a dashed arrow onto the middle of arrow 2.】
+5. 【A gray box at the bottom lists control variables.】
+Each variable is a rounded rectangle.
+Labels, each used once, no other text: 【Social media use, Social comparison, Well-being, Self-esteem, Control variables】.
+
+Style: journal-style schematic diagram. Clean flat vector graphics on a white background. Modules are rounded rectangles or simple icons with their short names inside; light pastel panels group related layers. Only 3-4 muted colors, each with one fixed meaning. Thin, uniform arrows show the flow of data, energy, material or influence; dashed arrows for indirect or feedback links. Sans-serif English labels only, each label appears exactly once, spelled exactly as given. No 3D rendering, no shadows, no glow, no cyberpunk or tech-background decoration, no photorealism.
+```
+
+</details>
+
+模型：Nano Banana 2 Lite (gemini-3.1-flash-lite-image, 1K)　·　这条提示词共生成 3 次，展示的是核对通过的结果
+
+---
+
+<a id="no-39"></a>
+
+### No. 39：课题技术路线图
+
+写法技巧：**竖向技术路线**　·　风格：期刊式示意框图　·　比例：3:4
+
+| 英文提示词出图 | 中文提示词出图 |
+|---|---|
+| <img src="gallery/social-science/technical-roadmap-en.jpg" width="420"> | <img src="gallery/social-science/technical-roadmap-zh.jpg" width="420"> |
+
+**中文提示词**
+
+```text
+画一张【课题研究】的竖向技术路线图，从上往下读，每个阶段是一个带小图标的浅色圆角面板，用细箭头连接：【研究问题（问号图标）→ 数据收集，分成并排的三个小框：问卷、访谈、档案 → 分析（图表图标）→ 研究发现（灯泡图标）→ 政策启示（文件图标）】。
+标签（每个只出现一次，不加其他文字）：【Research question, Data collection, Analysis, Findings, Implications】。
+
+风格：期刊式示意框图。白色背景上干净的扁平矢量图形。模块画成圆角矩形或简洁图标，名称写在里面；用浅色面板把相关的层归在一起。只用 3–4 种低饱和度颜色，每种颜色含义固定。细而粗细一致的箭头表示数据、能量、物质或影响的流向，间接或反馈关系用虚线箭头。图中文字只用英文无衬线字体，每个标签只出现一次，拼写与给定完全一致。不要 3D 渲染、阴影、发光、赛博朋克或科技感背景装饰，不要照片质感。
+```
+
+<details><summary>English prompt</summary>
+
+```text
+Create a vertical technical roadmap for 【a research project】, read from top to bottom, each stage a light pastel rounded panel with a small icon, connected by thin arrows: 【Research question (a question-mark icon) → Data collection, split into three side-by-side boxes for survey, interviews and archives → Analysis (a chart icon) → Findings (a lightbulb icon) → Policy implications (a document icon)】.
+Labels, each used once, no other text: 【Research question, Data collection, Analysis, Findings, Implications】.
+
+Style: journal-style schematic diagram. Clean flat vector graphics on a white background. Modules are rounded rectangles or simple icons with their short names inside; light pastel panels group related layers. Only 3-4 muted colors, each with one fixed meaning. Thin, uniform arrows show the flow of data, energy, material or influence; dashed arrows for indirect or feedback links. Sans-serif English labels only, each label appears exactly once, spelled exactly as given. No 3D rendering, no shadows, no glow, no cyberpunk or tech-background decoration, no photorealism.
+```
+
+</details>
+
+模型：Nano Banana 2 Lite (gemini-3.1-flash-lite-image, 1K)　·　这条提示词共生成 3 次，展示的是核对通过的结果
 
 ---
 
