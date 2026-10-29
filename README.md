@@ -14,8 +14,8 @@ Copy-paste prompt templates for research design and roadmap figures, graphical a
 🔄 **Continuously updated**: new templates for commonly needed figures are added regularly, growing to 1,000. ⭐ Star or Watch to get updates.
 
 [![GitHub stars](https://img.shields.io/github/stars/Yila-AI/awesome-scientific-figure-prompts?style=social)](https://github.com/Yila-AI/awesome-scientific-figure-prompts)
-![Templates](https://img.shields.io/badge/templates-215-blue)
-![Examples](https://img.shields.io/badge/example_images-358-blue)
+![Templates](https://img.shields.io/badge/templates-239-blue)
+![Examples](https://img.shields.io/badge/example_images-400-blue)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
 
@@ -26,8 +26,8 @@ Copy-paste prompt templates for research design and roadmap figures, graphical a
 ## ⭐ 精选 / Featured
 
 <table>
-<tr><td align="center"><a href="#no-26"><img src="gallery/graphical-abstract/car-t-solid-tumor-en.jpg" alt="CAR-T cells against a solid tumor" width="420"></a><br><a href="#no-26">CAR-T cells against a solid tumor</a></td><td align="center"><a href="#no-49"><img src="gallery/signaling-pathway/cgas-sting-en.jpg" alt="cGAS–STING innate immune pathway" width="420"></a><br><a href="#no-49">cGAS–STING innate immune pathway</a></td></tr>
-<tr><td align="center"><a href="#no-71"><img src="gallery/medical-illustration/alzheimers-brain-en.jpg" alt="Healthy versus Alzheimer's brain" width="420"></a><br><a href="#no-71">Healthy versus Alzheimer's brain</a></td><td align="center"><a href="#no-108"><img src="gallery/experimental-workflow/mouse-model-dosing-en.jpg" alt="Mouse disease model: grouping, dosing and sampling" width="420"></a><br><a href="#no-108">Mouse disease model: grouping, dosing and sampling</a></td></tr>
+<tr><td align="center"><a href="#no-30"><img src="gallery/graphical-abstract/car-t-solid-tumor-en.jpg" alt="CAR-T cells against a solid tumor" width="420"></a><br><a href="#no-30">CAR-T cells against a solid tumor</a></td><td align="center"><a href="#no-53"><img src="gallery/signaling-pathway/cgas-sting-en.jpg" alt="cGAS–STING innate immune pathway" width="420"></a><br><a href="#no-53">cGAS–STING innate immune pathway</a></td></tr>
+<tr><td align="center"><a href="#no-75"><img src="gallery/medical-illustration/alzheimers-brain-en.jpg" alt="Healthy versus Alzheimer's brain" width="420"></a><br><a href="#no-75">Healthy versus Alzheimer's brain</a></td><td align="center"><a href="#no-118"><img src="gallery/experimental-workflow/mouse-model-dosing-en.jpg" alt="Mouse disease model: grouping, dosing and sampling" width="420"></a><br><a href="#no-118">Mouse disease model: grouping, dosing and sampling</a></td></tr>
 </table>
 
 ## Browse by figure type
@@ -35,17 +35,17 @@ Copy-paste prompt templates for research design and roadmap figures, graphical a
 | [🗺️ Research Design](#research-design) | [🧭 Graphical Abstract](#graphical-abstract) | [🧬 Signaling Pathway](#signaling-pathway) | [🫀 Medical Illustration](#medical-illustration) |
 |:-:|:-:|:-:|:-:|
 | <a href="#research-design"><img src="gallery/research-design/hypothesis-mechanism-en.jpg" alt="Hypothesis mechanism overview" width="200"></a> | <a href="#graphical-abstract"><img src="gallery/graphical-abstract/nanoparticle-tumor-delivery-en.jpg" alt="Tumor-targeted nanoparticle drug delivery" width="200"></a> | <a href="#signaling-pathway"><img src="gallery/signaling-pathway/cgas-sting-en.jpg" alt="cGAS–STING innate immune pathway" width="200"></a> | <a href="#medical-illustration"><img src="gallery/medical-illustration/alzheimers-brain-en.jpg" alt="Healthy versus Alzheimer's brain" width="200"></a> |
-| 24 templates | 22 templates | 22 templates | 20 templates |
+| 28 templates | 22 templates | 22 templates | 20 templates |
 
 | [🧪 Experimental Workflow](#experimental-workflow) | [🔋 Materials & Energy](#materials-energy) | [🌍 Earth & Environment](#earth-environment) | [🤖 AI & Computing](#ai-computing) |
 |:-:|:-:|:-:|:-:|
 | <a href="#experimental-workflow"><img src="gallery/experimental-workflow/mouse-model-dosing-en.jpg" alt="Mouse disease model: grouping, dosing and sampling" width="200"></a> | <a href="#materials-energy"><img src="gallery/materials-energy/li-ion-battery-en.jpg" alt="Lithium-ion battery charge and discharge" width="200"></a> | <a href="#earth-environment"><img src="gallery/earth-environment/carbon-cycle-en.jpg" alt="Global carbon cycle" width="200"></a> | <a href="#ai-computing"><img src="gallery/ai-computing/llm-agent-loop-en.jpg" alt="LLM agent loop" width="200"></a> |
-| 31 templates | 13 templates | 14 templates | 21 templates |
+| 41 templates | 16 templates | 17 templates | 24 templates |
 
 | [⚙️ Engineering Systems](#engineering-systems) | [⚗️ Chemistry & Instruments](#chemistry-instruments) | [🌱 Plant & Agriculture](#plant-agriculture) | [📊 Social Science](#social-science) |
 |:-:|:-:|:-:|:-:|
 | <a href="#engineering-systems"><img src="gallery/engineering-systems/integrated-energy-system-en.jpg" alt="Integrated energy system" width="200"></a> | <a href="#chemistry-instruments"><img src="gallery/chemistry-instruments/hplc-system-en.jpg" alt="HPLC system" width="200"></a> | <a href="#plant-agriculture"><img src="gallery/plant-agriculture/leaf-photosynthesis-en.jpg" alt="Leaf structure and photosynthesis" width="200"></a> | <a href="#social-science"><img src="gallery/social-science/technical-roadmap-en.jpg" alt="Research technical roadmap" width="200"></a> |
-| 11 templates | 9 templates | 11 templates | 17 templates |
+| 11 templates | 9 templates | 12 templates | 17 templates |
 
 ## How to use
 
@@ -58,22 +58,22 @@ Copy-paste prompt templates for research design and roadmap figures, graphical a
 
 **Related:** [awesome-research-skills](https://github.com/Yila-AI/awesome-research-skills): agent skills for literature review, writing and data analysis.
 
-215 templates · 358 example images · Nano Banana 2 Lite (gemini-3.1-flash-lite-image, 1K) · updated 2026-10-29
+239 templates · 400 example images · Nano Banana 2 Lite (gemini-3.1-flash-lite-image, 1K) · updated 2026-10-29
 
 ## Contents
 
-- **Research Design**: [No. 1 Bench-to-bedside translational pathway](#no-1), [No. 2 Case-control study design](#no-2), [No. 3 Cell experiment groups and treatment timeline](#no-3), [No. 4 Clinical prediction model workflow](#no-4), [No. 5 Cross-scale view: organ, tissue, cell, molecule](#no-5), [No. 6 Cross-sectional study design](#no-6), [No. 7 Generic data processing pipeline](#no-7), [No. 8 Delphi method workflow](#no-8), [No. 9 Drug development pipeline](#no-9), [No. 10 Evidence chain: in vitro, in vivo, clinical](#no-10), [No. 11 Grant proposal: research content map](#no-11), [No. 12 Grant proposal logic loop](#no-12), [No. 13 Hypothesis mechanism overview](#no-13), [No. 14 Lab research program overview](#no-14), [No. 15 Method comparison: conventional versus proposed](#no-15), [No. 16 Multi-omics integration framework](#no-16), [No. 17 Technical roadmap: three parallel work packages](#no-17), [No. 18 Qualitative study: interviews and three-level coding](#no-18), [No. 19 Questionnaire study workflow](#no-19), [No. 20 Randomized controlled trial design](#no-20), [No. 21 Study design overview (paper Figure 1)](#no-21), [No. 22 Systematic review and meta-analysis workflow](#no-22), [No. 23 Three-layer framework: objectives, content, methods](#no-23), [No. 24 Vertical graphical abstract](#no-24)
-- **Graphical Abstract**: [No. 25 Antibody–drug conjugate (ADC) mechanism](#no-25), [No. 26 CAR-T cells against a solid tumor](#no-26), [No. 27 CRISPR-Cas9 gene editing](#no-27), [No. 28 Drug mechanism of action](#no-28), [No. 29 Epithelial–mesenchymal transition (EMT)](#no-29), [No. 30 Exercise improves muscle insulin resistance](#no-30), [No. 31 Tumor exosomes prepare a pre-metastatic niche](#no-31), [No. 32 Gut–brain axis in depression](#no-32), [No. 33 Gut microbiota, short-chain fatty acids and host metabolism](#no-33), [No. 34 Hydrogel-assisted wound healing](#no-34), [No. 35 Resolution of inflammation](#no-35), [No. 36 Macrophage M1/M2 polarization](#no-36), [No. 37 Microglia and neuroinflammation](#no-37), [No. 38 Mitochondrial dysfunction](#no-38), [No. 39 mRNA vaccine immune response](#no-39), [No. 40 Tumor-targeted nanoparticle drug delivery](#no-40), [No. 41 Oxidative stress and ROS damage](#no-41), [No. 42 Cellular senescence and SASP](#no-42), [No. 43 Stem cell differentiation and tissue repair](#no-43), [No. 44 T cell activation and the immune synapse](#no-44), [No. 45 Tumor microenvironment](#no-45), [No. 46 Viral entry and replication cycle](#no-46)
-- **Signaling Pathway**: [No. 47 AMPK energy sensing](#no-47), [No. 48 Autophagy](#no-48), [No. 49 cGAS–STING innate immune pathway](#no-49), [No. 50 Extrinsic (death receptor) apoptosis](#no-50), [No. 51 Ferroptosis](#no-51), [No. 52 HIF-1α response: normoxia versus hypoxia](#no-52), [No. 53 Hippo/YAP signaling pathway](#no-53), [No. 54 Insulin signaling and GLUT4 translocation](#no-54), [No. 55 Intrinsic (mitochondrial) apoptosis](#no-55), [No. 56 JAK/STAT pathway](#no-56), [No. 57 Keap1/Nrf2 antioxidant pathway](#no-57), [No. 58 MAPK/ERK pathway](#no-58), [No. 59 Canonical NF-κB pathway](#no-59), [No. 60 NLRP3 inflammasome: two-signal activation](#no-60), [No. 61 p53 and the DNA damage response](#no-61), [No. 62 PD-1/PD-L1 immune checkpoint and its blockade](#no-62), [No. 63 PI3K/AKT/mTOR pathway](#no-63), [No. 64 Pyroptosis via gasdermin D pores](#no-64), [No. 65 TGF-β/SMAD pro-fibrotic pathway](#no-65), [No. 66 TLR4 signaling (MyD88 branch to NF-κB)](#no-66), [No. 67 VEGF/VEGFR2 signaling in an endothelial cell](#no-67), [No. 68 Wnt/β-catenin pathway: OFF versus ON](#no-68)
-- **Medical Illustration**: [No. 69 Acute kidney injury: tubular damage](#no-69), [No. 70 Alveolar gas exchange](#no-70), [No. 71 Healthy versus Alzheimer's brain](#no-71), [No. 72 Atherosclerotic plaque formation](#no-72), [No. 73 Bone remodeling: formation and resorption](#no-73), [No. 74 Coronary artery stenosis](#no-74), [No. 75 Four stages of fracture healing](#no-75), [No. 76 Three layers of the glomerular filtration barrier](#no-76), [No. 77 Heart anatomy and blood flow](#no-77), [No. 78 Inflammatory bowel disease: healthy versus inflamed colon](#no-78), [No. 79 Intestinal barrier: healthy versus leaky](#no-79), [No. 80 Healthy versus fibrotic liver](#no-80), [No. 81 Nephron structure and filtrate flow](#no-81), [No. 82 Neuron and synaptic transmission](#no-82), [No. 83 Osteoarthritis: healthy versus diseased joint](#no-83), [No. 84 Placenta structure](#no-84), [No. 85 Layers of the retina](#no-85), [No. 86 Layers of the skin](#no-86), [No. 87 Tumor angiogenesis](#no-87), [No. 88 Four stages of skin wound healing](#no-88)
-- **Experimental Workflow**: [No. 89 16S rRNA microbiome sequencing workflow](#no-89), [No. 90 ATAC-seq workflow](#no-90), [No. 91 Clinical biobank and multi-omics profiling workflow](#no-91), [No. 92 Biomarker discovery and validation workflow](#no-92), [No. 93 Bulk RNA-seq workflow](#no-93), [No. 94 Cell culture and transfection workflow](#no-94), [No. 95 ChIP-seq workflow](#no-95), [No. 96 Clinical trial enrollment and follow-up](#no-96), [No. 97 Co-immunoprecipitation (Co-IP) and pull-down workflow](#no-97), [No. 98 Pooled CRISPR screen workflow](#no-98), [No. 99 Molecular docking and dynamics workflow](#no-99), [No. 100 Sandwich ELISA workflow](#no-100), [No. 101 Flow cytometry workflow](#no-101), [No. 102 Genome-wide association study (GWAS) workflow](#no-102), [No. 103 H&E staining histology workflow](#no-103), [No. 104 Immunohistochemistry (IHC) workflow](#no-104), [No. 105 Immunofluorescence staining workflow](#no-105), [No. 106 Mendelian randomization design](#no-106), [No. 107 Metabolomics workflow](#no-107), [No. 108 Mouse disease model: grouping, dosing and sampling](#no-108), [No. 109 Network pharmacology workflow](#no-109), [No. 110 Organ-on-a-chip workflow](#no-110), [No. 111 Organoid culture and drug screening](#no-111), [No. 112 LC-MS/MS proteomics workflow](#no-112), [No. 113 Public database mining workflow (TCGA/GEO)](#no-113), [No. 114 qPCR workflow](#no-114), [No. 115 Knockdown, overexpression and rescue logic](#no-115), [No. 116 Single-cell RNA sequencing workflow](#no-116), [No. 117 Spatial transcriptomics workflow](#no-117), [No. 118 Transwell migration and invasion assay](#no-118), [No. 119 Western blot workflow](#no-119)
-- **Materials & Energy**: [No. 120 3D-printed tissue engineering scaffold](#no-120), [No. 121 Flexible wearable sensor](#no-121), [No. 122 Green hydrogen system: from renewable power to end use](#no-122), [No. 123 Heterogeneous catalysis mechanism](#no-123), [No. 124 Hydrothermal synthesis route](#no-124), [No. 125 Lithium-ion battery charge and discharge](#no-125), [No. 126 Materials characterization workflow](#no-126), [No. 127 Materials research overview: preparation, characterization, performance, mechanism](#no-127), [No. 128 Metal–organic framework (MOF) structure and uses](#no-128), [No. 129 Perovskite–silicon tandem solar cell](#no-129), [No. 130 Self-healing polymer](#no-130), [No. 131 2D material van der Waals heterostructure](#no-131), [No. 132 Water electrolysis: HER and OER](#no-132)
-- **Earth & Environment**: [No. 133 Carbon capture and storage (CCS)](#no-133), [No. 134 Global carbon cycle](#no-134), [No. 135 Contaminated soil and remediation options](#no-135), [No. 136 Ecosystem services framework](#no-136), [No. 137 Field sampling design: transects and plots](#no-137), [No. 138 Groundwater contamination plume](#no-138), [No. 139 Life cycle assessment (LCA) framework](#no-139), [No. 140 Microplastics pathway](#no-140), [No. 141 PM2.5 sources and transport](#no-141), [No. 142 Remote sensing processing workflow](#no-142), [No. 143 Urban heat island and mitigation](#no-143), [No. 144 Wastewater treatment process](#no-144), [No. 145 Water cycle](#no-145), [No. 146 Watershed nutrient runoff to a lake](#no-146)
-- **AI & Computing**: [No. 147 Cloud–edge–device computing](#no-147), [No. 148 Convolutional neural network (CNN) architecture](#no-148), [No. 149 Diffusion model: forward noising and reverse denoising](#no-149), [No. 150 Digital twin](#no-150), [No. 151 Federated learning](#no-151), [No. 152 Generative adversarial network (GAN)](#no-152), [No. 153 Graph neural network: message passing](#no-153), [No. 154 Knowledge graph construction workflow](#no-154), [No. 155 LLM agent loop](#no-155), [No. 156 LoRA fine-tuning of a large language model](#no-156), [No. 157 Medical imaging and digital pathology AI workflow](#no-157), [No. 158 Machine learning modeling pipeline](#no-158), [No. 159 Multi-agent collaboration framework](#no-159), [No. 160 Multimodal large language model architecture](#no-160), [No. 161 Retrieval-augmented generation (RAG) pipeline](#no-161), [No. 162 Recommender system: retrieval, ranking and feedback](#no-162), [No. 163 Reinforcement learning: agent–environment loop](#no-163), [No. 164 Transformer architecture](#no-164), [No. 165 U-Net architecture](#no-165), [No. 166 Variational autoencoder (VAE)](#no-166), [No. 167 Vision Transformer (ViT) architecture](#no-167)
-- **Engineering Systems**: [No. 168 Autonomous driving perception to control](#no-168), [No. 169 Bridge structural health monitoring](#no-169), [No. 170 Electric vehicle powertrain](#no-170), [No. 171 Integrated energy system](#no-171), [No. 172 IoT monitoring architecture](#no-172), [No. 173 Microgrid](#no-173), [No. 174 PID closed-loop control](#no-174), [No. 175 Robotic arm system](#no-175), [No. 176 Smart grid](#no-176), [No. 177 Wind turbine nacelle cutaway](#no-177), [No. 178 Wireless sensor network](#no-178)
-- **Chemistry & Instruments**: [No. 179 Continuous flow chemistry setup](#no-179), [No. 180 Cross-coupling catalytic cycle (Suzuki)](#no-180), [No. 181 Enzyme catalysis and induced fit](#no-181), [No. 182 Fluorescent probe sensing mechanism](#no-182), [No. 183 HPLC system](#no-183), [No. 184 Triple quadrupole mass spectrometer](#no-184), [No. 185 NMR principle](#no-185), [No. 186 Three-electrode electrochemical cell](#no-186), [No. 187 UV-Vis spectrophotometer principle](#no-187)
-- **Plant & Agriculture**: [No. 188 C3 versus C4 photosynthesis](#no-188), [No. 189 CRISPR gene-edited crop breeding workflow](#no-189), [No. 190 Drought stress and ABA signaling](#no-190), [No. 191 Field trial layout: randomized complete block design](#no-191), [No. 192 Leaf structure and photosynthesis](#no-192), [No. 193 Plant hormone crosstalk: auxin, cytokinin, ABA and GA](#no-193), [No. 194 Plant immunity: PTI and ETI](#no-194), [No. 195 Precision agriculture with drones](#no-195), [No. 196 Root nodule nitrogen fixation](#no-196), [No. 197 Roots and the rhizosphere](#no-197), [No. 198 Seed germination stages](#no-198)
-- **Social Science**: [No. 199 ADDIE instructional design model](#no-199), [No. 200 AI-enabled education framework](#no-200), [No. 201 Bronfenbrenner's ecological systems theory](#no-201), [No. 202 Difference-in-differences policy evaluation design](#no-202), [No. 203 FAIR research data lifecycle](#no-203), [No. 204 Flipped classroom model](#no-204), [No. 205 Learning analytics workflow](#no-205), [No. 206 Logic model: inputs, activities, outputs, outcomes](#no-206), [No. 207 Explanatory sequential mixed-methods design](#no-207), [No. 208 Open science research lifecycle](#no-208), [No. 209 Research framework with mediator and moderator](#no-209), [No. 210 Scale development and validation workflow](#no-210), [No. 211 Stakeholder map (power–interest grid)](#no-211), [No. 212 Technology acceptance model (TAM)](#no-212), [No. 213 Research technical roadmap](#no-213), [No. 214 Theory of planned behavior (TPB)](#no-214), [No. 215 Unified theory of acceptance and use of technology (UTAUT)](#no-215)
+- **Research Design**: [No. 1 Bench-to-bedside translational pathway](#no-1), [No. 2 Case-control study design](#no-2), [No. 3 Cell experiment groups and treatment timeline](#no-3), [No. 4 Clinical prediction model workflow](#no-4), [No. 5 Cross-scale view: organ, tissue, cell, molecule](#no-5), [No. 6 Cross-sectional study design](#no-6), [No. 7 Generic data processing pipeline](#no-7), [No. 8 Delphi method workflow](#no-8), [No. 9 Drug development pipeline](#no-9), [No. 10 Evidence chain: in vitro, in vivo, clinical](#no-10), [No. 11 2×2 factorial design](#no-11), [No. 12 Focus group study workflow](#no-12), [No. 13 Grant proposal: research content map](#no-13), [No. 14 Grant proposal logic loop](#no-14), [No. 15 Hypothesis mechanism overview](#no-15), [No. 16 Lab research program overview](#no-16), [No. 17 Literature search strategy workflow](#no-17), [No. 18 Method comparison: conventional versus proposed](#no-18), [No. 19 Multi-omics integration framework](#no-19), [No. 20 Technical roadmap: three parallel work packages](#no-20), [No. 21 Pretest–posttest control group design](#no-21), [No. 22 Qualitative study: interviews and three-level coding](#no-22), [No. 23 Questionnaire study workflow](#no-23), [No. 24 Randomized controlled trial design](#no-24), [No. 25 Study design overview (paper Figure 1)](#no-25), [No. 26 Systematic review and meta-analysis workflow](#no-26), [No. 27 Three-layer framework: objectives, content, methods](#no-27), [No. 28 Vertical graphical abstract](#no-28)
+- **Graphical Abstract**: [No. 29 Antibody–drug conjugate (ADC) mechanism](#no-29), [No. 30 CAR-T cells against a solid tumor](#no-30), [No. 31 CRISPR-Cas9 gene editing](#no-31), [No. 32 Drug mechanism of action](#no-32), [No. 33 Epithelial–mesenchymal transition (EMT)](#no-33), [No. 34 Exercise improves muscle insulin resistance](#no-34), [No. 35 Tumor exosomes prepare a pre-metastatic niche](#no-35), [No. 36 Gut–brain axis in depression](#no-36), [No. 37 Gut microbiota, short-chain fatty acids and host metabolism](#no-37), [No. 38 Hydrogel-assisted wound healing](#no-38), [No. 39 Resolution of inflammation](#no-39), [No. 40 Macrophage M1/M2 polarization](#no-40), [No. 41 Microglia and neuroinflammation](#no-41), [No. 42 Mitochondrial dysfunction](#no-42), [No. 43 mRNA vaccine immune response](#no-43), [No. 44 Tumor-targeted nanoparticle drug delivery](#no-44), [No. 45 Oxidative stress and ROS damage](#no-45), [No. 46 Cellular senescence and SASP](#no-46), [No. 47 Stem cell differentiation and tissue repair](#no-47), [No. 48 T cell activation and the immune synapse](#no-48), [No. 49 Tumor microenvironment](#no-49), [No. 50 Viral entry and replication cycle](#no-50)
+- **Signaling Pathway**: [No. 51 AMPK energy sensing](#no-51), [No. 52 Autophagy](#no-52), [No. 53 cGAS–STING innate immune pathway](#no-53), [No. 54 Extrinsic (death receptor) apoptosis](#no-54), [No. 55 Ferroptosis](#no-55), [No. 56 HIF-1α response: normoxia versus hypoxia](#no-56), [No. 57 Hippo/YAP signaling pathway](#no-57), [No. 58 Insulin signaling and GLUT4 translocation](#no-58), [No. 59 Intrinsic (mitochondrial) apoptosis](#no-59), [No. 60 JAK/STAT pathway](#no-60), [No. 61 Keap1/Nrf2 antioxidant pathway](#no-61), [No. 62 MAPK/ERK pathway](#no-62), [No. 63 Canonical NF-κB pathway](#no-63), [No. 64 NLRP3 inflammasome: two-signal activation](#no-64), [No. 65 p53 and the DNA damage response](#no-65), [No. 66 PD-1/PD-L1 immune checkpoint and its blockade](#no-66), [No. 67 PI3K/AKT/mTOR pathway](#no-67), [No. 68 Pyroptosis via gasdermin D pores](#no-68), [No. 69 TGF-β/SMAD pro-fibrotic pathway](#no-69), [No. 70 TLR4 signaling (MyD88 branch to NF-κB)](#no-70), [No. 71 VEGF/VEGFR2 signaling in an endothelial cell](#no-71), [No. 72 Wnt/β-catenin pathway: OFF versus ON](#no-72)
+- **Medical Illustration**: [No. 73 Acute kidney injury: tubular damage](#no-73), [No. 74 Alveolar gas exchange](#no-74), [No. 75 Healthy versus Alzheimer's brain](#no-75), [No. 76 Atherosclerotic plaque formation](#no-76), [No. 77 Bone remodeling: formation and resorption](#no-77), [No. 78 Coronary artery stenosis](#no-78), [No. 79 Four stages of fracture healing](#no-79), [No. 80 Three layers of the glomerular filtration barrier](#no-80), [No. 81 Heart anatomy and blood flow](#no-81), [No. 82 Inflammatory bowel disease: healthy versus inflamed colon](#no-82), [No. 83 Intestinal barrier: healthy versus leaky](#no-83), [No. 84 Healthy versus fibrotic liver](#no-84), [No. 85 Nephron structure and filtrate flow](#no-85), [No. 86 Neuron and synaptic transmission](#no-86), [No. 87 Osteoarthritis: healthy versus diseased joint](#no-87), [No. 88 Placenta structure](#no-88), [No. 89 Layers of the retina](#no-89), [No. 90 Layers of the skin](#no-90), [No. 91 Tumor angiogenesis](#no-91), [No. 92 Four stages of skin wound healing](#no-92)
+- **Experimental Workflow**: [No. 93 16S rRNA microbiome sequencing workflow](#no-93), [No. 94 ATAC-seq workflow](#no-94), [No. 95 Clinical biobank and multi-omics profiling workflow](#no-95), [No. 96 Biomarker discovery and validation workflow](#no-96), [No. 97 Bulk RNA-seq workflow](#no-97), [No. 98 CCK-8 cell viability assay workflow](#no-98), [No. 99 Cell culture and transfection workflow](#no-99), [No. 100 ChIP-seq workflow](#no-100), [No. 101 Clinical trial enrollment and follow-up](#no-101), [No. 102 Co-immunoprecipitation (Co-IP) and pull-down workflow](#no-102), [No. 103 Colony formation assay workflow](#no-103), [No. 104 CRISPR knockout cell line workflow](#no-104), [No. 105 Pooled CRISPR screen workflow](#no-105), [No. 106 Molecular docking and dynamics workflow](#no-106), [No. 107 Dual-luciferase reporter assay workflow](#no-107), [No. 108 EdU cell proliferation assay workflow](#no-108), [No. 109 Sandwich ELISA workflow](#no-109), [No. 110 Flow cytometry workflow](#no-110), [No. 111 Genome-wide association study (GWAS) workflow](#no-111), [No. 112 H&E staining histology workflow](#no-112), [No. 113 Immunohistochemistry (IHC) workflow](#no-113), [No. 114 Immunofluorescence staining workflow](#no-114), [No. 115 Mendelian randomization design](#no-115), [No. 116 Metabolomics workflow](#no-116), [No. 117 Molecular cloning workflow](#no-117), [No. 118 Mouse disease model: grouping, dosing and sampling](#no-118), [No. 119 Network pharmacology workflow](#no-119), [No. 120 Organ-on-a-chip workflow](#no-120), [No. 121 Organoid culture and drug screening](#no-121), [No. 122 Recombinant protein expression and purification workflow](#no-122), [No. 123 LC-MS/MS proteomics workflow](#no-123), [No. 124 Public database mining workflow (TCGA/GEO)](#no-124), [No. 125 qPCR workflow](#no-125), [No. 126 Knockdown, overexpression and rescue logic](#no-126), [No. 127 Scratch wound healing assay workflow](#no-127), [No. 128 Single-cell RNA sequencing workflow](#no-128), [No. 129 Spatial transcriptomics workflow](#no-129), [No. 130 Transwell migration and invasion assay](#no-130), [No. 131 TUNEL apoptosis assay workflow](#no-131), [No. 132 Western blot workflow](#no-132), [No. 133 Subcutaneous xenograft tumor model workflow](#no-133)
+- **Materials & Energy**: [No. 134 3D-printed tissue engineering scaffold](#no-134), [No. 135 Coin cell assembly workflow](#no-135), [No. 136 Electrospinning nanofiber workflow](#no-136), [No. 137 Flexible wearable sensor](#no-137), [No. 138 Green hydrogen system: from renewable power to end use](#no-138), [No. 139 Heterogeneous catalysis mechanism](#no-139), [No. 140 Hydrothermal synthesis route](#no-140), [No. 141 Lithium-ion battery charge and discharge](#no-141), [No. 142 Materials characterization workflow](#no-142), [No. 143 Materials research overview: preparation, characterization, performance, mechanism](#no-143), [No. 144 Metal–organic framework (MOF) structure and uses](#no-144), [No. 145 Perovskite–silicon tandem solar cell](#no-145), [No. 146 Self-healing polymer](#no-146), [No. 147 Spin-coated thin film workflow](#no-147), [No. 148 2D material van der Waals heterostructure](#no-148), [No. 149 Water electrolysis: HER and OER](#no-149)
+- **Earth & Environment**: [No. 150 Air quality monitoring workflow](#no-150), [No. 151 Carbon capture and storage (CCS)](#no-151), [No. 152 Global carbon cycle](#no-152), [No. 153 Contaminated soil and remediation options](#no-153), [No. 154 Ecosystem services framework](#no-154), [No. 155 Field sampling design: transects and plots](#no-155), [No. 156 Groundwater contamination plume](#no-156), [No. 157 Life cycle assessment (LCA) framework](#no-157), [No. 158 Microplastics pathway](#no-158), [No. 159 PM2.5 sources and transport](#no-159), [No. 160 Remote sensing processing workflow](#no-160), [No. 161 Soil sampling and analysis workflow](#no-161), [No. 162 Urban heat island and mitigation](#no-162), [No. 163 Wastewater treatment process](#no-163), [No. 164 Water cycle](#no-164), [No. 165 Water quality sampling and testing workflow](#no-165), [No. 166 Watershed nutrient runoff to a lake](#no-166)
+- **AI & Computing**: [No. 167 Cloud–edge–device computing](#no-167), [No. 168 Convolutional neural network (CNN) architecture](#no-168), [No. 169 Data annotation pipeline](#no-169), [No. 170 Diffusion model: forward noising and reverse denoising](#no-170), [No. 171 Digital twin](#no-171), [No. 172 Federated learning](#no-172), [No. 173 Generative adversarial network (GAN)](#no-173), [No. 174 Graph neural network: message passing](#no-174), [No. 175 Knowledge graph construction workflow](#no-175), [No. 176 LLM agent loop](#no-176), [No. 177 LoRA fine-tuning of a large language model](#no-177), [No. 178 Medical imaging and digital pathology AI workflow](#no-178), [No. 179 Machine learning modeling pipeline](#no-179), [No. 180 Model evaluation workflow](#no-180), [No. 181 Multi-agent collaboration framework](#no-181), [No. 182 Multimodal large language model architecture](#no-182), [No. 183 Retrieval-augmented generation (RAG) pipeline](#no-183), [No. 184 Recommender system: retrieval, ranking and feedback](#no-184), [No. 185 Reinforcement learning: agent–environment loop](#no-185), [No. 186 Transfer learning](#no-186), [No. 187 Transformer architecture](#no-187), [No. 188 U-Net architecture](#no-188), [No. 189 Variational autoencoder (VAE)](#no-189), [No. 190 Vision Transformer (ViT) architecture](#no-190)
+- **Engineering Systems**: [No. 191 Autonomous driving perception to control](#no-191), [No. 192 Bridge structural health monitoring](#no-192), [No. 193 Electric vehicle powertrain](#no-193), [No. 194 Integrated energy system](#no-194), [No. 195 IoT monitoring architecture](#no-195), [No. 196 Microgrid](#no-196), [No. 197 PID closed-loop control](#no-197), [No. 198 Robotic arm system](#no-198), [No. 199 Smart grid](#no-199), [No. 200 Wind turbine nacelle cutaway](#no-200), [No. 201 Wireless sensor network](#no-201)
+- **Chemistry & Instruments**: [No. 202 Continuous flow chemistry setup](#no-202), [No. 203 Cross-coupling catalytic cycle (Suzuki)](#no-203), [No. 204 Enzyme catalysis and induced fit](#no-204), [No. 205 Fluorescent probe sensing mechanism](#no-205), [No. 206 HPLC system](#no-206), [No. 207 Triple quadrupole mass spectrometer](#no-207), [No. 208 NMR principle](#no-208), [No. 209 Three-electrode electrochemical cell](#no-209), [No. 210 UV-Vis spectrophotometer principle](#no-210)
+- **Plant & Agriculture**: [No. 211 C3 versus C4 photosynthesis](#no-211), [No. 212 CRISPR gene-edited crop breeding workflow](#no-212), [No. 213 Drought stress and ABA signaling](#no-213), [No. 214 Field trial layout: randomized complete block design](#no-214), [No. 215 Leaf structure and photosynthesis](#no-215), [No. 216 Plant hormone crosstalk: auxin, cytokinin, ABA and GA](#no-216), [No. 217 Plant immunity: PTI and ETI](#no-217), [No. 218 Plant tissue culture workflow](#no-218), [No. 219 Precision agriculture with drones](#no-219), [No. 220 Root nodule nitrogen fixation](#no-220), [No. 221 Roots and the rhizosphere](#no-221), [No. 222 Seed germination stages](#no-222)
+- **Social Science**: [No. 223 ADDIE instructional design model](#no-223), [No. 224 AI-enabled education framework](#no-224), [No. 225 Bronfenbrenner's ecological systems theory](#no-225), [No. 226 Difference-in-differences policy evaluation design](#no-226), [No. 227 FAIR research data lifecycle](#no-227), [No. 228 Flipped classroom model](#no-228), [No. 229 Learning analytics workflow](#no-229), [No. 230 Logic model: inputs, activities, outputs, outcomes](#no-230), [No. 231 Explanatory sequential mixed-methods design](#no-231), [No. 232 Open science research lifecycle](#no-232), [No. 233 Research framework with mediator and moderator](#no-233), [No. 234 Scale development and validation workflow](#no-234), [No. 235 Stakeholder map (power–interest grid)](#no-235), [No. 236 Technology acceptance model (TAM)](#no-236), [No. 237 Research technical roadmap](#no-237), [No. 238 Theory of planned behavior (TPB)](#no-238), [No. 239 Unified theory of acceptance and use of technology (UTAUT)](#no-239)
 
 <a id="research-design"></a>
 
@@ -581,7 +581,103 @@ Model: Nano Banana 2 Lite (gemini-3.1-flash-lite-image, 1K) · Generated 2 times
 
 <a id="no-11"></a>
 
-### No. 11: Grant proposal: research content map
+### No. 11: 2×2 factorial design
+
+by [@Yila-AI](https://github.com/Yila-AI)
+
+Technique: **two factors crossed into four cells** · Style: schematic diagram · Aspect ratio: 1:1
+
+| Chinese prompt |
+|---|
+| <img src="gallery/research-design/factorial-design-2x2-zh.jpg" width="420"> |
+
+**English prompt**
+
+```text
+Create a diagram of 【a 2×2 factorial experimental design】: a square grid of four cells. Along the top, two column headers for the two levels of Factor A; along the left side, two row headers for the two levels of Factor B. Each of the four cells contains a small group-of-people icon in a different light color, with no text inside the cells.
+Write each label only once in the whole figure.
+Labels, each used once, no other text: 【Factor A, Factor B, A1, A2, B1, B2】.
+
+Style: journal-style schematic diagram. Clean flat vector graphics on a white background. Modules are rounded rectangles or simple icons with their short names inside; light pastel panels group related layers. Only 3-4 muted colors, each with one fixed meaning. Thin, uniform arrows show the flow of data, energy, material or influence; dashed arrows for indirect or feedback links. Sans-serif English labels only, each label appears exactly once, spelled exactly as given. No 3D rendering, no shadows, no glow, no cyberpunk or tech-background decoration, no photorealism.
+```
+
+<details><summary>Chinese prompt</summary>
+
+```text
+画一张【2×2 析因实验设计】示意图：一个由四个格子组成的方形网格。上方是因素 A 两个水平的列标题，左侧是因素 B 两个水平的行标题。四个格子里各放一个小人群图标，颜色各不相同，格子内不写字。
+整张图里每个标签只写一次。
+标签（每个只出现一次，不加其他文字）：【Factor A, Factor B, A1, A2, B1, B2】。
+
+风格：期刊式示意框图。白色背景上干净的扁平矢量图形。模块画成圆角矩形或简洁图标，名称写在里面；用浅色面板把相关的层归在一起。只用 3–4 种低饱和度颜色，每种颜色含义固定。细而粗细一致的箭头表示数据、能量、物质或影响的流向，间接或反馈关系用虚线箭头。图中文字只用英文无衬线字体，每个标签只出现一次，拼写与给定完全一致。不要 3D 渲染、阴影、发光、赛博朋克或科技感背景装饰，不要照片质感。
+```
+
+</details>
+
+Model: Nano Banana 2 Lite (gemini-3.1-flash-lite-image, 1K) · Generated 4 times in total; shown are the outputs that passed review
+
+[↑ Back to top](#top)
+
+<sub><a href="https://yila.ai/?utm_source=github&utm_medium=readme&utm_campaign=sci-figure-prompts&utm_content=factorial-design-2x2">Try in Yila →</a></sub>
+
+---
+
+<a id="no-12"></a>
+
+### No. 12: Focus group study workflow
+
+by [@Yila-AI](https://github.com/Yila-AI)
+
+Technique: **one panel per step, step names only** · Style: flat workflow · Aspect ratio: 16:9
+
+| English prompt | Chinese prompt |
+|---|---|
+| <img src="gallery/research-design/focus-group-study-en.jpg" width="420"> | <img src="gallery/research-design/focus-group-study-zh.jpg" width="420"> |
+
+**English prompt**
+
+```text
+Create a workflow figure for 【a focus group study】, 6 steps from left to right:
+1. 【Participant recruitment: a poster and a few people】
+2. 【Discussion guide: a clipboard with a few lines】
+3. 【Group session: six people around a table with a moderator】
+4. 【Audio recording: a microphone】
+5. 【Thematic analysis: colored sticky notes grouped into clusters】
+6. 【Themes: three labeled-looking bubbles without text】
+Do not write the numbered sentences in the figure.
+Step names, each used once, no other text: 【Participant recruitment, Discussion guide, Group session, Audio recording, Thematic analysis, Themes】.
+
+Style: journal-style experimental workflow figure. Clean flat vector icons on a white background, one light pastel rounded panel per step, thin gray arrows between panels. Only 3-4 muted colors. Each panel shows one simple scene with no text inside it; the only text in the whole figure is the step names given. Sans-serif English, each step name appears exactly once, spelled exactly as given. No legends, no captions, no extra labels, no 3D rendering, no shadows, no decorative background.
+```
+
+<details><summary>Chinese prompt</summary>
+
+```text
+画一张【焦点小组研究】的流程图，从左往右六步：
+1. 【招募参与者：一张海报和几个人】
+2. 【访谈提纲：写着几行字的写字板】
+3. 【小组讨论：六人围坐一桌，一位主持人】
+4. 【录音：一个麦克风】
+5. 【主题分析：彩色便签归成几簇】
+6. 【主题：三个气泡（气泡里不写字）】
+不要把编号句子写进图里。
+步骤名（每个只出现一次，不加其他文字）：【Participant recruitment, Discussion guide, Group session, Audio recording, Thematic analysis, Themes】。
+
+风格：期刊式实验流程图。白色背景上干净的扁平矢量图标，每一步一个浅色圆角面板，面板之间用细灰色箭头连接。只用 3–4 种低饱和度颜色。每个面板里只画一个简洁的小场景，面板内不写任何文字；整张图唯一的文字就是给定的步骤名。用英文无衬线字体，每个步骤名只出现一次，拼写与给定完全一致。不要图例、不要说明文字、不要额外标签、不要 3D 渲染、阴影或装饰性背景。
+```
+
+</details>
+
+Model: Nano Banana 2 Lite (gemini-3.1-flash-lite-image, 1K) · Generated 4 times in total; shown are the outputs that passed review
+
+[↑ Back to top](#top)
+
+<sub><a href="https://yila.ai/?utm_source=github&utm_medium=readme&utm_campaign=sci-figure-prompts&utm_content=focus-group-study">Try in Yila →</a></sub>
+
+---
+
+<a id="no-13"></a>
+
+### No. 13: Grant proposal: research content map
 
 by [@Yila-AI](https://github.com/Yila-AI)
 
@@ -627,9 +723,9 @@ Model: Nano Banana 2 Lite (gemini-3.1-flash-lite-image, 1K) · Generated 2 times
 
 ---
 
-<a id="no-12"></a>
+<a id="no-14"></a>
 
-### No. 12: Grant proposal logic loop
+### No. 14: Grant proposal logic loop
 
 by [@Yila-AI](https://github.com/Yila-AI)
 
@@ -679,9 +775,9 @@ Model: Nano Banana 2 Lite (gemini-3.1-flash-lite-image, 1K) · Generated 3 times
 
 ---
 
-<a id="no-13"></a>
+<a id="no-15"></a>
 
-### No. 13: Hypothesis mechanism overview
+### No. 15: Hypothesis mechanism overview
 
 by [@Yila-AI](https://github.com/Yila-AI)
 
@@ -729,9 +825,9 @@ Model: Nano Banana 2 Lite (gemini-3.1-flash-lite-image, 1K) · Generated 5 times
 
 ---
 
-<a id="no-14"></a>
+<a id="no-16"></a>
 
-### No. 14: Lab research program overview
+### No. 16: Lab research program overview
 
 by [@Yila-AI](https://github.com/Yila-AI)
 
@@ -777,9 +873,65 @@ Model: Nano Banana 2 Lite (gemini-3.1-flash-lite-image, 1K) · Generated 2 times
 
 ---
 
-<a id="no-15"></a>
+<a id="no-17"></a>
 
-### No. 15: Method comparison: conventional versus proposed
+### No. 17: Literature search strategy workflow
+
+by [@Yila-AI](https://github.com/Yila-AI)
+
+Technique: **one panel per step, step names only** · Style: flat workflow · Aspect ratio: 16:9
+
+| English prompt | Chinese prompt |
+|---|---|
+| <img src="gallery/research-design/literature-search-strategy-en.jpg" width="420"> | <img src="gallery/research-design/literature-search-strategy-zh.jpg" width="420"> |
+
+**English prompt**
+
+```text
+Create a workflow figure for 【a literature search】, 6 steps from left to right:
+1. 【Research question: a magnifier over a question mark】
+2. 【Keywords: three blank rounded tags】
+3. 【Boolean string: blank tags joined by small link symbols】
+4. 【Databases: three stacked database icons】
+5. 【Screening: papers passing through a funnel】
+6. 【Reference management: a bookshelf with colored folders】
+Do not write the numbered sentences in the figure.
+Every icon is a pure picture with no words, letters or chemical structures inside it.
+Step names, each used once, no other text: 【Research question, Keywords, Boolean string, Databases, Screening, Reference management】.
+
+Style: journal-style experimental workflow figure. Clean flat vector icons on a white background, one light pastel rounded panel per step, thin gray arrows between panels. Only 3-4 muted colors. Each panel shows one simple scene with no text inside it; the only text in the whole figure is the step names given. Sans-serif English, each step name appears exactly once, spelled exactly as given. No legends, no captions, no extra labels, no 3D rendering, no shadows, no decorative background.
+```
+
+<details><summary>Chinese prompt</summary>
+
+```text
+画一张【文献检索】的流程图，从左往右六步：
+1. 【研究问题：放大镜对着问号】
+2. 【关键词：三个空白圆角标签】
+3. 【布尔检索式：空白标签用小连接符串起来】
+4. 【数据库：三个叠放的数据库图标】
+5. 【筛选：论文穿过漏斗】
+6. 【文献管理：放着彩色文件夹的书架】
+不要把编号句子写进图里。
+所有图标都是纯图形，里面不写任何单词、字母，也不画化学结构式。
+步骤名（每个只出现一次，不加其他文字）：【Research question, Keywords, Boolean string, Databases, Screening, Reference management】。
+
+风格：期刊式实验流程图。白色背景上干净的扁平矢量图标，每一步一个浅色圆角面板，面板之间用细灰色箭头连接。只用 3–4 种低饱和度颜色。每个面板里只画一个简洁的小场景，面板内不写任何文字；整张图唯一的文字就是给定的步骤名。用英文无衬线字体，每个步骤名只出现一次，拼写与给定完全一致。不要图例、不要说明文字、不要额外标签、不要 3D 渲染、阴影或装饰性背景。
+```
+
+</details>
+
+Model: Nano Banana 2 Lite (gemini-3.1-flash-lite-image, 1K) · Generated 8 times in total; shown are the outputs that passed review
+
+[↑ Back to top](#top)
+
+<sub><a href="https://yila.ai/?utm_source=github&utm_medium=readme&utm_campaign=sci-figure-prompts&utm_content=literature-search-strategy">Try in Yila →</a></sub>
+
+---
+
+<a id="no-18"></a>
+
+### No. 18: Method comparison: conventional versus proposed
 
 by [@Yila-AI](https://github.com/Yila-AI)
 
@@ -825,9 +977,9 @@ Model: Nano Banana 2 Lite (gemini-3.1-flash-lite-image, 1K) · Generated 4 times
 
 ---
 
-<a id="no-16"></a>
+<a id="no-19"></a>
 
-### No. 16: Multi-omics integration framework
+### No. 19: Multi-omics integration framework
 
 by [@Yila-AI](https://github.com/Yila-AI)
 
@@ -871,9 +1023,9 @@ Model: Nano Banana 2 Lite (gemini-3.1-flash-lite-image, 1K) · Generated 2 times
 
 ---
 
-<a id="no-17"></a>
+<a id="no-20"></a>
 
-### No. 17: Technical roadmap: three parallel work packages
+### No. 20: Technical roadmap: three parallel work packages
 
 by [@Yila-AI](https://github.com/Yila-AI)
 
@@ -919,9 +1071,61 @@ Model: Nano Banana 2 Lite (gemini-3.1-flash-lite-image, 1K) · Generated 3 times
 
 ---
 
-<a id="no-18"></a>
+<a id="no-21"></a>
 
-### No. 18: Qualitative study: interviews and three-level coding
+### No. 21: Pretest–posttest control group design
+
+by [@Yila-AI](https://github.com/Yila-AI)
+
+Technique: **a grid whose column headers name the stages** · Style: schematic diagram · Aspect ratio: 16:9
+
+| English prompt | Chinese prompt |
+|---|---|
+| <img src="gallery/research-design/pretest-posttest-design-en.jpg" width="420"> | <img src="gallery/research-design/pretest-posttest-design-zh.jpg" width="420"> |
+
+**English prompt**
+
+```text
+Create a research design diagram of 【a pretest–posttest control group design】 as a table-like grid with three columns and two rows.
+1. Column headers across the top, written once each: 【Pretest, Intervention, Posttest】.
+2. Row headers on the left, written once each: 【Experimental group, Control group】; a dice icon labeled Random assignment sits to the left of both rows with two arrows into them.
+3. Top row cells: a clipboard icon, a lightbulb icon, a clipboard-with-check icon, joined by arrows.
+4. Bottom row cells: a clipboard icon, an empty dashed box, a clipboard-with-check icon, joined by arrows.
+5. Both Posttest cells point to one box on the right labeled Comparison.
+The cells themselves contain icons only, no text. Write each label exactly once.
+Labels, each used once, no other text: 【Random assignment, Experimental group, Control group, Pretest, Intervention, Posttest, Comparison】.
+
+Style: journal-style schematic diagram. Clean flat vector graphics on a white background. Modules are rounded rectangles or simple icons with their short names inside; light pastel panels group related layers. Only 3-4 muted colors, each with one fixed meaning. Thin, uniform arrows show the flow of data, energy, material or influence; dashed arrows for indirect or feedback links. Sans-serif English labels only, each label appears exactly once, spelled exactly as given. No 3D rendering, no shadows, no glow, no cyberpunk or tech-background decoration, no photorealism.
+```
+
+<details><summary>Chinese prompt</summary>
+
+```text
+画一张【前后测对照组设计】的研究设计图，做成三列两行的表格式网格。
+1. 顶部列标题各写一次：【Pretest, Intervention, Posttest】。
+2. 左侧行标题各写一次：【Experimental group, Control group】；两行左边放一个标注 Random assignment 的骰子图标，用两条箭头指向两行。
+3. 上行格子：写字板图标、灯泡图标、带对勾的写字板图标，用箭头连接。
+4. 下行格子：写字板图标、空的虚线框、带对勾的写字板图标，用箭头连接。
+5. 两个 Posttest 格子都指向右侧一个标注 Comparison 的框。
+格子里只放图标，不写字。每个标签只写一次。
+标签（每个只出现一次，不加其他文字）：【Random assignment, Experimental group, Control group, Pretest, Intervention, Posttest, Comparison】。
+
+风格：期刊式示意框图。白色背景上干净的扁平矢量图形。模块画成圆角矩形或简洁图标，名称写在里面；用浅色面板把相关的层归在一起。只用 3–4 种低饱和度颜色，每种颜色含义固定。细而粗细一致的箭头表示数据、能量、物质或影响的流向，间接或反馈关系用虚线箭头。图中文字只用英文无衬线字体，每个标签只出现一次，拼写与给定完全一致。不要 3D 渲染、阴影、发光、赛博朋克或科技感背景装饰，不要照片质感。
+```
+
+</details>
+
+Model: Nano Banana 2 Lite (gemini-3.1-flash-lite-image, 1K) · Generated 8 times in total; shown are the outputs that passed review
+
+[↑ Back to top](#top)
+
+<sub><a href="https://yila.ai/?utm_source=github&utm_medium=readme&utm_campaign=sci-figure-prompts&utm_content=pretest-posttest-design">Try in Yila →</a></sub>
+
+---
+
+<a id="no-22"></a>
+
+### No. 22: Qualitative study: interviews and three-level coding
 
 by [@Yila-AI](https://github.com/Yila-AI)
 
@@ -973,9 +1177,9 @@ Model: Nano Banana 2 Lite (gemini-3.1-flash-lite-image, 1K) · Generated 2 times
 
 ---
 
-<a id="no-19"></a>
+<a id="no-23"></a>
 
-### No. 19: Questionnaire study workflow
+### No. 23: Questionnaire study workflow
 
 by [@Yila-AI](https://github.com/Yila-AI)
 
@@ -1027,9 +1231,9 @@ Model: Nano Banana 2 Lite (gemini-3.1-flash-lite-image, 1K) · Generated 2 times
 
 ---
 
-<a id="no-20"></a>
+<a id="no-24"></a>
 
-### No. 20: Randomized controlled trial design
+### No. 24: Randomized controlled trial design
 
 by [@Yila-AI](https://github.com/Yila-AI)
 
@@ -1077,9 +1281,9 @@ Model: Nano Banana 2 Lite (gemini-3.1-flash-lite-image, 1K) · Generated 4 times
 
 ---
 
-<a id="no-21"></a>
+<a id="no-25"></a>
 
-### No. 21: Study design overview (paper Figure 1)
+### No. 25: Study design overview (paper Figure 1)
 
 by [@Yila-AI](https://github.com/Yila-AI)
 
@@ -1123,9 +1327,9 @@ Model: Nano Banana 2 Lite (gemini-3.1-flash-lite-image, 1K) · Generated 3 times
 
 ---
 
-<a id="no-22"></a>
+<a id="no-26"></a>
 
-### No. 22: Systematic review and meta-analysis workflow
+### No. 26: Systematic review and meta-analysis workflow
 
 by [@Yila-AI](https://github.com/Yila-AI)
 
@@ -1175,9 +1379,9 @@ Model: Nano Banana 2 Lite (gemini-3.1-flash-lite-image, 1K) · Generated 2 times
 
 ---
 
-<a id="no-23"></a>
+<a id="no-27"></a>
 
-### No. 23: Three-layer framework: objectives, content, methods
+### No. 27: Three-layer framework: objectives, content, methods
 
 by [@Yila-AI](https://github.com/Yila-AI)
 
@@ -1225,9 +1429,9 @@ Model: Nano Banana 2 Lite (gemini-3.1-flash-lite-image, 1K) · Generated 2 times
 
 ---
 
-<a id="no-24"></a>
+<a id="no-28"></a>
 
-### No. 24: Vertical graphical abstract
+### No. 28: Vertical graphical abstract
 
 by [@Yila-AI](https://github.com/Yila-AI)
 
@@ -1277,9 +1481,9 @@ Model: Nano Banana 2 Lite (gemini-3.1-flash-lite-image, 1K) · Generated 2 times
 
 ## Graphical Abstract
 
-<a id="no-25"></a>
+<a id="no-29"></a>
 
-### No. 25: Antibody–drug conjugate (ADC) mechanism
+### No. 29: Antibody–drug conjugate (ADC) mechanism
 
 by [@Yila-AI](https://github.com/Yila-AI)
 
@@ -1331,9 +1535,9 @@ Model: Nano Banana 2 Lite (gemini-3.1-flash-lite-image, 1K) · Generated 2 times
 
 ---
 
-<a id="no-26"></a>
+<a id="no-30"></a>
 
-### No. 26: CAR-T cells against a solid tumor
+### No. 30: CAR-T cells against a solid tumor
 
 by [@Yila-AI](https://github.com/Yila-AI)
 
@@ -1377,9 +1581,9 @@ Model: Nano Banana 2 Lite (gemini-3.1-flash-lite-image, 1K) · Generated 2 times
 
 ---
 
-<a id="no-27"></a>
+<a id="no-31"></a>
 
-### No. 27: CRISPR-Cas9 gene editing
+### No. 31: CRISPR-Cas9 gene editing
 
 by [@Yila-AI](https://github.com/Yila-AI)
 
@@ -1425,9 +1629,9 @@ Model: Nano Banana 2 Lite (gemini-3.1-flash-lite-image, 1K) · Generated 4 times
 
 ---
 
-<a id="no-28"></a>
+<a id="no-32"></a>
 
-### No. 28: Drug mechanism of action
+### No. 32: Drug mechanism of action
 
 by [@Yila-AI](https://github.com/Yila-AI)
 
@@ -1473,9 +1677,9 @@ Model: Nano Banana 2 Lite (gemini-3.1-flash-lite-image, 1K) · Generated 5 times
 
 ---
 
-<a id="no-29"></a>
+<a id="no-33"></a>
 
-### No. 29: Epithelial–mesenchymal transition (EMT)
+### No. 33: Epithelial–mesenchymal transition (EMT)
 
 by [@Yila-AI](https://github.com/Yila-AI)
 
@@ -1521,9 +1725,9 @@ Model: Nano Banana 2 Lite (gemini-3.1-flash-lite-image, 1K) · Generated 2 times
 
 ---
 
-<a id="no-30"></a>
+<a id="no-34"></a>
 
-### No. 30: Exercise improves muscle insulin resistance
+### No. 34: Exercise improves muscle insulin resistance
 
 by [@Yila-AI](https://github.com/Yila-AI)
 
@@ -1567,9 +1771,9 @@ Model: Nano Banana 2 Lite (gemini-3.1-flash-lite-image, 1K) · Generated 4 times
 
 ---
 
-<a id="no-31"></a>
+<a id="no-35"></a>
 
-### No. 31: Tumor exosomes prepare a pre-metastatic niche
+### No. 35: Tumor exosomes prepare a pre-metastatic niche
 
 by [@Yila-AI](https://github.com/Yila-AI)
 
@@ -1613,9 +1817,9 @@ Model: Nano Banana 2 Lite (gemini-3.1-flash-lite-image, 1K) · Generated 4 times
 
 ---
 
-<a id="no-32"></a>
+<a id="no-36"></a>
 
-### No. 32: Gut–brain axis in depression
+### No. 36: Gut–brain axis in depression
 
 by [@Yila-AI](https://github.com/Yila-AI)
 
@@ -1661,9 +1865,9 @@ Model: Nano Banana 2 Lite (gemini-3.1-flash-lite-image, 1K) · Generated 4 times
 
 ---
 
-<a id="no-33"></a>
+<a id="no-37"></a>
 
-### No. 33: Gut microbiota, short-chain fatty acids and host metabolism
+### No. 37: Gut microbiota, short-chain fatty acids and host metabolism
 
 by [@Yila-AI](https://github.com/Yila-AI)
 
@@ -1711,9 +1915,9 @@ Model: Nano Banana 2 Lite (gemini-3.1-flash-lite-image, 1K) · Generated 6 times
 
 ---
 
-<a id="no-34"></a>
+<a id="no-38"></a>
 
-### No. 34: Hydrogel-assisted wound healing
+### No. 38: Hydrogel-assisted wound healing
 
 by [@Yila-AI](https://github.com/Yila-AI)
 
@@ -1755,9 +1959,9 @@ Model: Nano Banana 2 Lite (gemini-3.1-flash-lite-image, 1K) · Generated 2 times
 
 ---
 
-<a id="no-35"></a>
+<a id="no-39"></a>
 
-### No. 35: Resolution of inflammation
+### No. 39: Resolution of inflammation
 
 by [@Yila-AI](https://github.com/Yila-AI)
 
@@ -1803,9 +2007,9 @@ Model: Nano Banana 2 Lite (gemini-3.1-flash-lite-image, 1K) · Generated 2 times
 
 ---
 
-<a id="no-36"></a>
+<a id="no-40"></a>
 
-### No. 36: Macrophage M1/M2 polarization
+### No. 40: Macrophage M1/M2 polarization
 
 by [@Yila-AI](https://github.com/Yila-AI)
 
@@ -1847,9 +2051,9 @@ Model: Nano Banana 2 Lite (gemini-3.1-flash-lite-image, 1K) · Generated 2 times
 
 ---
 
-<a id="no-37"></a>
+<a id="no-41"></a>
 
-### No. 37: Microglia and neuroinflammation
+### No. 41: Microglia and neuroinflammation
 
 by [@Yila-AI](https://github.com/Yila-AI)
 
@@ -1895,9 +2099,9 @@ Model: Nano Banana 2 Lite (gemini-3.1-flash-lite-image, 1K) · Generated 2 times
 
 ---
 
-<a id="no-38"></a>
+<a id="no-42"></a>
 
-### No. 38: Mitochondrial dysfunction
+### No. 42: Mitochondrial dysfunction
 
 by [@Yila-AI](https://github.com/Yila-AI)
 
@@ -1943,9 +2147,9 @@ Model: Nano Banana 2 Lite (gemini-3.1-flash-lite-image, 1K) · Generated 2 times
 
 ---
 
-<a id="no-39"></a>
+<a id="no-43"></a>
 
-### No. 39: mRNA vaccine immune response
+### No. 43: mRNA vaccine immune response
 
 by [@Yila-AI](https://github.com/Yila-AI)
 
@@ -1989,9 +2193,9 @@ Model: Nano Banana 2 Lite (gemini-3.1-flash-lite-image, 1K) · Generated 2 times
 
 ---
 
-<a id="no-40"></a>
+<a id="no-44"></a>
 
-### No. 40: Tumor-targeted nanoparticle drug delivery
+### No. 44: Tumor-targeted nanoparticle drug delivery
 
 by [@Yila-AI](https://github.com/Yila-AI)
 
@@ -2035,9 +2239,9 @@ Model: Nano Banana 2 Lite (gemini-3.1-flash-lite-image, 1K) · Generated 2 times
 
 ---
 
-<a id="no-41"></a>
+<a id="no-45"></a>
 
-### No. 41: Oxidative stress and ROS damage
+### No. 45: Oxidative stress and ROS damage
 
 by [@Yila-AI](https://github.com/Yila-AI)
 
@@ -2083,9 +2287,9 @@ Model: Nano Banana 2 Lite (gemini-3.1-flash-lite-image, 1K) · Generated 4 times
 
 ---
 
-<a id="no-42"></a>
+<a id="no-46"></a>
 
-### No. 42: Cellular senescence and SASP
+### No. 46: Cellular senescence and SASP
 
 by [@Yila-AI](https://github.com/Yila-AI)
 
@@ -2131,9 +2335,9 @@ Model: Nano Banana 2 Lite (gemini-3.1-flash-lite-image, 1K) · Generated 4 times
 
 ---
 
-<a id="no-43"></a>
+<a id="no-47"></a>
 
-### No. 43: Stem cell differentiation and tissue repair
+### No. 47: Stem cell differentiation and tissue repair
 
 by [@Yila-AI](https://github.com/Yila-AI)
 
@@ -2183,9 +2387,9 @@ Model: Nano Banana 2 Lite (gemini-3.1-flash-lite-image, 1K) · Generated 2 times
 
 ---
 
-<a id="no-44"></a>
+<a id="no-48"></a>
 
-### No. 44: T cell activation and the immune synapse
+### No. 48: T cell activation and the immune synapse
 
 by [@Yila-AI](https://github.com/Yila-AI)
 
@@ -2231,9 +2435,9 @@ Model: Nano Banana 2 Lite (gemini-3.1-flash-lite-image, 1K) · Generated 2 times
 
 ---
 
-<a id="no-45"></a>
+<a id="no-49"></a>
 
-### No. 45: Tumor microenvironment
+### No. 49: Tumor microenvironment
 
 by [@Yila-AI](https://github.com/Yila-AI)
 
@@ -2271,9 +2475,9 @@ Model: Nano Banana 2 Lite (gemini-3.1-flash-lite-image, 1K) · Generated 4 times
 
 ---
 
-<a id="no-46"></a>
+<a id="no-50"></a>
 
-### No. 46: Viral entry and replication cycle
+### No. 50: Viral entry and replication cycle
 
 by [@Yila-AI](https://github.com/Yila-AI)
 
@@ -2335,9 +2539,9 @@ Model: Nano Banana 2 Lite (gemini-3.1-flash-lite-image, 1K) · Generated 6 times
 
 ## Signaling Pathway
 
-<a id="no-47"></a>
+<a id="no-51"></a>
 
-### No. 47: AMPK energy sensing
+### No. 51: AMPK energy sensing
 
 by [@Yila-AI](https://github.com/Yila-AI)
 
@@ -2385,9 +2589,9 @@ Model: Nano Banana 2 Lite (gemini-3.1-flash-lite-image, 1K) · Generated 8 times
 
 ---
 
-<a id="no-48"></a>
+<a id="no-52"></a>
 
-### No. 48: Autophagy
+### No. 52: Autophagy
 
 by [@Yila-AI](https://github.com/Yila-AI)
 
@@ -2435,9 +2639,9 @@ Model: Nano Banana 2 Lite (gemini-3.1-flash-lite-image, 1K) · Generated 2 times
 
 ---
 
-<a id="no-49"></a>
+<a id="no-53"></a>
 
-### No. 49: cGAS–STING innate immune pathway
+### No. 53: cGAS–STING innate immune pathway
 
 by [@Yila-AI](https://github.com/Yila-AI)
 
@@ -2489,9 +2693,9 @@ Model: Nano Banana 2 Lite (gemini-3.1-flash-lite-image, 1K) · Generated 2 times
 
 ---
 
-<a id="no-50"></a>
+<a id="no-54"></a>
 
-### No. 50: Extrinsic (death receptor) apoptosis
+### No. 54: Extrinsic (death receptor) apoptosis
 
 by [@Yila-AI](https://github.com/Yila-AI)
 
@@ -2543,9 +2747,9 @@ Model: Nano Banana 2 Lite (gemini-3.1-flash-lite-image, 1K) · Generated 4 times
 
 ---
 
-<a id="no-51"></a>
+<a id="no-55"></a>
 
-### No. 51: Ferroptosis
+### No. 55: Ferroptosis
 
 by [@Yila-AI](https://github.com/Yila-AI)
 
@@ -2597,9 +2801,9 @@ Model: Nano Banana 2 Lite (gemini-3.1-flash-lite-image, 1K) · Generated 3 times
 
 ---
 
-<a id="no-52"></a>
+<a id="no-56"></a>
 
-### No. 52: HIF-1α response: normoxia versus hypoxia
+### No. 56: HIF-1α response: normoxia versus hypoxia
 
 by [@Yila-AI](https://github.com/Yila-AI)
 
@@ -2647,9 +2851,9 @@ Model: Nano Banana 2 Lite (gemini-3.1-flash-lite-image, 1K) · Generated 6 times
 
 ---
 
-<a id="no-53"></a>
+<a id="no-57"></a>
 
-### No. 53: Hippo/YAP signaling pathway
+### No. 57: Hippo/YAP signaling pathway
 
 by [@Yila-AI](https://github.com/Yila-AI)
 
@@ -2703,9 +2907,9 @@ Model: Nano Banana 2 Lite (gemini-3.1-flash-lite-image, 1K) · Generated 2 times
 
 ---
 
-<a id="no-54"></a>
+<a id="no-58"></a>
 
-### No. 54: Insulin signaling and GLUT4 translocation
+### No. 58: Insulin signaling and GLUT4 translocation
 
 by [@Yila-AI](https://github.com/Yila-AI)
 
@@ -2759,9 +2963,9 @@ Model: Nano Banana 2 Lite (gemini-3.1-flash-lite-image, 1K) · Generated 6 times
 
 ---
 
-<a id="no-55"></a>
+<a id="no-59"></a>
 
-### No. 55: Intrinsic (mitochondrial) apoptosis
+### No. 59: Intrinsic (mitochondrial) apoptosis
 
 by [@Yila-AI](https://github.com/Yila-AI)
 
@@ -2815,9 +3019,9 @@ Model: Nano Banana 2 Lite (gemini-3.1-flash-lite-image, 1K) · Generated 5 times
 
 ---
 
-<a id="no-56"></a>
+<a id="no-60"></a>
 
-### No. 56: JAK/STAT pathway
+### No. 60: JAK/STAT pathway
 
 by [@Yila-AI](https://github.com/Yila-AI)
 
@@ -2871,9 +3075,9 @@ Model: Nano Banana 2 Lite (gemini-3.1-flash-lite-image, 1K) · Generated 4 times
 
 ---
 
-<a id="no-57"></a>
+<a id="no-61"></a>
 
-### No. 57: Keap1/Nrf2 antioxidant pathway
+### No. 61: Keap1/Nrf2 antioxidant pathway
 
 by [@Yila-AI](https://github.com/Yila-AI)
 
@@ -2921,9 +3125,9 @@ Model: Nano Banana 2 Lite (gemini-3.1-flash-lite-image, 1K) · Generated 6 times
 
 ---
 
-<a id="no-58"></a>
+<a id="no-62"></a>
 
-### No. 58: MAPK/ERK pathway
+### No. 62: MAPK/ERK pathway
 
 by [@Yila-AI](https://github.com/Yila-AI)
 
@@ -2977,9 +3181,9 @@ Model: Nano Banana 2 Lite (gemini-3.1-flash-lite-image, 1K) · Generated 4 times
 
 ---
 
-<a id="no-59"></a>
+<a id="no-63"></a>
 
-### No. 59: Canonical NF-κB pathway
+### No. 63: Canonical NF-κB pathway
 
 by [@Yila-AI](https://github.com/Yila-AI)
 
@@ -3029,9 +3233,9 @@ Model: Nano Banana 2 Lite (gemini-3.1-flash-lite-image, 1K) · Generated 6 times
 
 ---
 
-<a id="no-60"></a>
+<a id="no-64"></a>
 
-### No. 60: NLRP3 inflammasome: two-signal activation
+### No. 64: NLRP3 inflammasome: two-signal activation
 
 by [@Yila-AI](https://github.com/Yila-AI)
 
@@ -3079,9 +3283,9 @@ Model: Nano Banana 2 Lite (gemini-3.1-flash-lite-image, 1K) · Generated 6 times
 
 ---
 
-<a id="no-61"></a>
+<a id="no-65"></a>
 
-### No. 61: p53 and the DNA damage response
+### No. 65: p53 and the DNA damage response
 
 by [@Yila-AI](https://github.com/Yila-AI)
 
@@ -3131,9 +3335,9 @@ Model: Nano Banana 2 Lite (gemini-3.1-flash-lite-image, 1K) · Generated 4 times
 
 ---
 
-<a id="no-62"></a>
+<a id="no-66"></a>
 
-### No. 62: PD-1/PD-L1 immune checkpoint and its blockade
+### No. 66: PD-1/PD-L1 immune checkpoint and its blockade
 
 by [@Yila-AI](https://github.com/Yila-AI)
 
@@ -3189,9 +3393,9 @@ Model: Nano Banana 2 Lite (gemini-3.1-flash-lite-image, 1K) · Generated 8 times
 
 ---
 
-<a id="no-63"></a>
+<a id="no-67"></a>
 
-### No. 63: PI3K/AKT/mTOR pathway
+### No. 67: PI3K/AKT/mTOR pathway
 
 by [@Yila-AI](https://github.com/Yila-AI)
 
@@ -3245,9 +3449,9 @@ Model: Nano Banana 2 Lite (gemini-3.1-flash-lite-image, 1K) · Generated 3 times
 
 ---
 
-<a id="no-64"></a>
+<a id="no-68"></a>
 
-### No. 64: Pyroptosis via gasdermin D pores
+### No. 68: Pyroptosis via gasdermin D pores
 
 by [@Yila-AI](https://github.com/Yila-AI)
 
@@ -3299,9 +3503,9 @@ Model: Nano Banana 2 Lite (gemini-3.1-flash-lite-image, 1K) · Generated 5 times
 
 ---
 
-<a id="no-65"></a>
+<a id="no-69"></a>
 
-### No. 65: TGF-β/SMAD pro-fibrotic pathway
+### No. 69: TGF-β/SMAD pro-fibrotic pathway
 
 by [@Yila-AI](https://github.com/Yila-AI)
 
@@ -3349,9 +3553,9 @@ Model: Nano Banana 2 Lite (gemini-3.1-flash-lite-image, 1K) · Generated 2 times
 
 ---
 
-<a id="no-66"></a>
+<a id="no-70"></a>
 
-### No. 66: TLR4 signaling (MyD88 branch to NF-κB)
+### No. 70: TLR4 signaling (MyD88 branch to NF-κB)
 
 by [@Yila-AI](https://github.com/Yila-AI)
 
@@ -3411,9 +3615,9 @@ Model: Nano Banana 2 Lite (gemini-3.1-flash-lite-image, 1K) · Generated 6 times
 
 ---
 
-<a id="no-67"></a>
+<a id="no-71"></a>
 
-### No. 67: VEGF/VEGFR2 signaling in an endothelial cell
+### No. 71: VEGF/VEGFR2 signaling in an endothelial cell
 
 by [@Yila-AI](https://github.com/Yila-AI)
 
@@ -3465,9 +3669,9 @@ Model: Nano Banana 2 Lite (gemini-3.1-flash-lite-image, 1K) · Generated 2 times
 
 ---
 
-<a id="no-68"></a>
+<a id="no-72"></a>
 
-### No. 68: Wnt/β-catenin pathway: OFF versus ON
+### No. 72: Wnt/β-catenin pathway: OFF versus ON
 
 by [@Yila-AI](https://github.com/Yila-AI)
 
@@ -3521,9 +3725,9 @@ Model: Nano Banana 2 Lite (gemini-3.1-flash-lite-image, 1K) · Generated 5 times
 
 ## Medical Illustration
 
-<a id="no-69"></a>
+<a id="no-73"></a>
 
-### No. 69: Acute kidney injury: tubular damage
+### No. 73: Acute kidney injury: tubular damage
 
 by [@Yila-AI](https://github.com/Yila-AI)
 
@@ -3571,9 +3775,9 @@ Model: Nano Banana 2 Lite (gemini-3.1-flash-lite-image, 1K) · Generated 2 times
 
 ---
 
-<a id="no-70"></a>
+<a id="no-74"></a>
 
-### No. 70: Alveolar gas exchange
+### No. 74: Alveolar gas exchange
 
 by [@Yila-AI](https://github.com/Yila-AI)
 
@@ -3615,9 +3819,9 @@ Model: Nano Banana 2 Lite (gemini-3.1-flash-lite-image, 1K) · Generated 4 times
 
 ---
 
-<a id="no-71"></a>
+<a id="no-75"></a>
 
-### No. 71: Healthy versus Alzheimer's brain
+### No. 75: Healthy versus Alzheimer's brain
 
 by [@Yila-AI](https://github.com/Yila-AI)
 
@@ -3659,9 +3863,9 @@ Model: Nano Banana 2 Lite (gemini-3.1-flash-lite-image, 1K) · Generated 2 times
 
 ---
 
-<a id="no-72"></a>
+<a id="no-76"></a>
 
-### No. 72: Atherosclerotic plaque formation
+### No. 76: Atherosclerotic plaque formation
 
 by [@Yila-AI](https://github.com/Yila-AI)
 
@@ -3709,9 +3913,9 @@ Model: Nano Banana 2 Lite (gemini-3.1-flash-lite-image, 1K) · Generated 6 times
 
 ---
 
-<a id="no-73"></a>
+<a id="no-77"></a>
 
-### No. 73: Bone remodeling: formation and resorption
+### No. 77: Bone remodeling: formation and resorption
 
 by [@Yila-AI](https://github.com/Yila-AI)
 
@@ -3753,9 +3957,9 @@ Model: Nano Banana 2 Lite (gemini-3.1-flash-lite-image, 1K) · Generated 6 times
 
 ---
 
-<a id="no-74"></a>
+<a id="no-78"></a>
 
-### No. 74: Coronary artery stenosis
+### No. 78: Coronary artery stenosis
 
 by [@Yila-AI](https://github.com/Yila-AI)
 
@@ -3797,9 +4001,9 @@ Model: Nano Banana 2 Lite (gemini-3.1-flash-lite-image, 1K) · Generated 2 times
 
 ---
 
-<a id="no-75"></a>
+<a id="no-79"></a>
 
-### No. 75: Four stages of fracture healing
+### No. 79: Four stages of fracture healing
 
 by [@Yila-AI](https://github.com/Yila-AI)
 
@@ -3845,9 +4049,9 @@ Model: Nano Banana 2 Lite (gemini-3.1-flash-lite-image, 1K) · Generated 2 times
 
 ---
 
-<a id="no-76"></a>
+<a id="no-80"></a>
 
-### No. 76: Three layers of the glomerular filtration barrier
+### No. 80: Three layers of the glomerular filtration barrier
 
 by [@Yila-AI](https://github.com/Yila-AI)
 
@@ -3889,9 +4093,9 @@ Model: Nano Banana 2 Lite (gemini-3.1-flash-lite-image, 1K) · Generated 5 times
 
 ---
 
-<a id="no-77"></a>
+<a id="no-81"></a>
 
-### No. 77: Heart anatomy and blood flow
+### No. 81: Heart anatomy and blood flow
 
 by [@Yila-AI](https://github.com/Yila-AI)
 
@@ -3931,9 +4135,9 @@ Model: Nano Banana 2 Lite (gemini-3.1-flash-lite-image, 1K) · Generated 4 times
 
 ---
 
-<a id="no-78"></a>
+<a id="no-82"></a>
 
-### No. 78: Inflammatory bowel disease: healthy versus inflamed colon
+### No. 82: Inflammatory bowel disease: healthy versus inflamed colon
 
 by [@Yila-AI](https://github.com/Yila-AI)
 
@@ -3979,9 +4183,9 @@ Model: Nano Banana 2 Lite (gemini-3.1-flash-lite-image, 1K) · Generated 2 times
 
 ---
 
-<a id="no-79"></a>
+<a id="no-83"></a>
 
-### No. 79: Intestinal barrier: healthy versus leaky
+### No. 83: Intestinal barrier: healthy versus leaky
 
 by [@Yila-AI](https://github.com/Yila-AI)
 
@@ -4023,9 +4227,9 @@ Model: Nano Banana 2 Lite (gemini-3.1-flash-lite-image, 1K) · Generated 2 times
 
 ---
 
-<a id="no-80"></a>
+<a id="no-84"></a>
 
-### No. 80: Healthy versus fibrotic liver
+### No. 84: Healthy versus fibrotic liver
 
 by [@Yila-AI](https://github.com/Yila-AI)
 
@@ -4067,9 +4271,9 @@ Model: Nano Banana 2 Lite (gemini-3.1-flash-lite-image, 1K) · Generated 4 times
 
 ---
 
-<a id="no-81"></a>
+<a id="no-85"></a>
 
-### No. 81: Nephron structure and filtrate flow
+### No. 85: Nephron structure and filtrate flow
 
 by [@Yila-AI](https://github.com/Yila-AI)
 
@@ -4113,9 +4317,9 @@ Model: Nano Banana 2 Lite (gemini-3.1-flash-lite-image, 1K) · Generated 2 times
 
 ---
 
-<a id="no-82"></a>
+<a id="no-86"></a>
 
-### No. 82: Neuron and synaptic transmission
+### No. 86: Neuron and synaptic transmission
 
 by [@Yila-AI](https://github.com/Yila-AI)
 
@@ -4159,9 +4363,9 @@ Model: Nano Banana 2 Lite (gemini-3.1-flash-lite-image, 1K) · Generated 2 times
 
 ---
 
-<a id="no-83"></a>
+<a id="no-87"></a>
 
-### No. 83: Osteoarthritis: healthy versus diseased joint
+### No. 87: Osteoarthritis: healthy versus diseased joint
 
 by [@Yila-AI](https://github.com/Yila-AI)
 
@@ -4207,9 +4411,9 @@ Model: Nano Banana 2 Lite (gemini-3.1-flash-lite-image, 1K) · Generated 2 times
 
 ---
 
-<a id="no-84"></a>
+<a id="no-88"></a>
 
-### No. 84: Placenta structure
+### No. 88: Placenta structure
 
 by [@Yila-AI](https://github.com/Yila-AI)
 
@@ -4255,9 +4459,9 @@ Model: Nano Banana 2 Lite (gemini-3.1-flash-lite-image, 1K) · Generated 6 times
 
 ---
 
-<a id="no-85"></a>
+<a id="no-89"></a>
 
-### No. 85: Layers of the retina
+### No. 89: Layers of the retina
 
 by [@Yila-AI](https://github.com/Yila-AI)
 
@@ -4299,9 +4503,9 @@ Model: Nano Banana 2 Lite (gemini-3.1-flash-lite-image, 1K) · Generated 2 times
 
 ---
 
-<a id="no-86"></a>
+<a id="no-90"></a>
 
-### No. 86: Layers of the skin
+### No. 90: Layers of the skin
 
 by [@Yila-AI](https://github.com/Yila-AI)
 
@@ -4343,9 +4547,9 @@ Model: Nano Banana 2 Lite (gemini-3.1-flash-lite-image, 1K) · Generated 2 times
 
 ---
 
-<a id="no-87"></a>
+<a id="no-91"></a>
 
-### No. 87: Tumor angiogenesis
+### No. 91: Tumor angiogenesis
 
 by [@Yila-AI](https://github.com/Yila-AI)
 
@@ -4389,9 +4593,9 @@ Model: Nano Banana 2 Lite (gemini-3.1-flash-lite-image, 1K) · Generated 4 times
 
 ---
 
-<a id="no-88"></a>
+<a id="no-92"></a>
 
-### No. 88: Four stages of skin wound healing
+### No. 92: Four stages of skin wound healing
 
 by [@Yila-AI](https://github.com/Yila-AI)
 
@@ -4441,9 +4645,9 @@ Model: Nano Banana 2 Lite (gemini-3.1-flash-lite-image, 1K) · Generated 2 times
 
 ## Experimental Workflow
 
-<a id="no-89"></a>
+<a id="no-93"></a>
 
-### No. 89: 16S rRNA microbiome sequencing workflow
+### No. 93: 16S rRNA microbiome sequencing workflow
 
 by [@Yila-AI](https://github.com/Yila-AI)
 
@@ -4493,9 +4697,9 @@ Model: Nano Banana 2 Lite (gemini-3.1-flash-lite-image, 1K) · Generated 2 times
 
 ---
 
-<a id="no-90"></a>
+<a id="no-94"></a>
 
-### No. 90: ATAC-seq workflow
+### No. 94: ATAC-seq workflow
 
 by [@Yila-AI](https://github.com/Yila-AI)
 
@@ -4547,9 +4751,9 @@ Model: Nano Banana 2 Lite (gemini-3.1-flash-lite-image, 1K) · Generated 2 times
 
 ---
 
-<a id="no-91"></a>
+<a id="no-95"></a>
 
-### No. 91: Clinical biobank and multi-omics profiling workflow
+### No. 95: Clinical biobank and multi-omics profiling workflow
 
 by [@Yila-AI](https://github.com/Yila-AI)
 
@@ -4607,9 +4811,9 @@ Model: Nano Banana 2 Lite (gemini-3.1-flash-lite-image, 1K) · Generated 6 times
 
 ---
 
-<a id="no-92"></a>
+<a id="no-96"></a>
 
-### No. 92: Biomarker discovery and validation workflow
+### No. 96: Biomarker discovery and validation workflow
 
 by [@Yila-AI](https://github.com/Yila-AI)
 
@@ -4661,9 +4865,9 @@ Model: Nano Banana 2 Lite (gemini-3.1-flash-lite-image, 1K) · Generated 2 times
 
 ---
 
-<a id="no-93"></a>
+<a id="no-97"></a>
 
-### No. 93: Bulk RNA-seq workflow
+### No. 97: Bulk RNA-seq workflow
 
 by [@Yila-AI](https://github.com/Yila-AI)
 
@@ -4713,9 +4917,63 @@ Model: Nano Banana 2 Lite (gemini-3.1-flash-lite-image, 1K) · Generated 2 times
 
 ---
 
-<a id="no-94"></a>
+<a id="no-98"></a>
 
-### No. 94: Cell culture and transfection workflow
+### No. 98: CCK-8 cell viability assay workflow
+
+by [@Yila-AI](https://github.com/Yila-AI)
+
+Technique: **one panel per step, step names only** · Style: flat workflow · Aspect ratio: 16:9
+
+| Chinese prompt |
+|---|
+| <img src="gallery/experimental-workflow/cck8-viability-assay-zh.jpg" width="420"> |
+
+**English prompt**
+
+```text
+Create a workflow figure for 【a CCK-8 cell viability assay】, 6 steps from left to right:
+1. 【Cell seeding: cells in a 96-well plate】
+2. 【Drug treatment: a pipette adding drops to the wells】
+3. 【Incubation: the plate in an incubator】
+4. 【CCK-8 reagent: a dropper adding yellow reagent to the wells】
+5. 【Color development: wells turning orange】
+6. 【Absorbance reading: a plate reader】
+Do not write the numbered sentences in the figure.
+Step names, each used once, no other text: 【Cell seeding, Drug treatment, Incubation, CCK-8 reagent, Color development, Absorbance reading】.
+
+Style: journal-style experimental workflow figure. Clean flat vector icons on a white background, one light pastel rounded panel per step, thin gray arrows between panels. Only 3-4 muted colors. Each panel shows one simple scene with no text inside it; the only text in the whole figure is the step names given. Sans-serif English, each step name appears exactly once, spelled exactly as given. No legends, no captions, no extra labels, no 3D rendering, no shadows, no decorative background.
+```
+
+<details><summary>Chinese prompt</summary>
+
+```text
+画一张【CCK-8 细胞活力检测】的流程图，从左往右六步：
+1. 【铺板：96 孔板里的细胞】
+2. 【加药处理：移液枪往孔里加液滴】
+3. 【孵育：孔板放进培养箱】
+4. 【加 CCK-8：滴管往孔里加黄色试剂】
+5. 【显色：孔变成橙色】
+6. 【读吸光度：一台酶标仪】
+不要把编号句子写进图里。
+步骤名（每个只出现一次，不加其他文字）：【Cell seeding, Drug treatment, Incubation, CCK-8 reagent, Color development, Absorbance reading】。
+
+风格：期刊式实验流程图。白色背景上干净的扁平矢量图标，每一步一个浅色圆角面板，面板之间用细灰色箭头连接。只用 3–4 种低饱和度颜色。每个面板里只画一个简洁的小场景，面板内不写任何文字；整张图唯一的文字就是给定的步骤名。用英文无衬线字体，每个步骤名只出现一次，拼写与给定完全一致。不要图例、不要说明文字、不要额外标签、不要 3D 渲染、阴影或装饰性背景。
+```
+
+</details>
+
+Model: Nano Banana 2 Lite (gemini-3.1-flash-lite-image, 1K) · Generated 4 times in total; shown are the outputs that passed review
+
+[↑ Back to top](#top)
+
+<sub><a href="https://yila.ai/?utm_source=github&utm_medium=readme&utm_campaign=sci-figure-prompts&utm_content=cck8-viability-assay">Try in Yila →</a></sub>
+
+---
+
+<a id="no-99"></a>
+
+### No. 99: Cell culture and transfection workflow
 
 by [@Yila-AI](https://github.com/Yila-AI)
 
@@ -4767,9 +5025,9 @@ Model: Nano Banana 2 Lite (gemini-3.1-flash-lite-image, 1K) · Generated 4 times
 
 ---
 
-<a id="no-95"></a>
+<a id="no-100"></a>
 
-### No. 95: ChIP-seq workflow
+### No. 100: ChIP-seq workflow
 
 by [@Yila-AI](https://github.com/Yila-AI)
 
@@ -4823,9 +5081,9 @@ Model: Nano Banana 2 Lite (gemini-3.1-flash-lite-image, 1K) · Generated 2 times
 
 ---
 
-<a id="no-96"></a>
+<a id="no-101"></a>
 
-### No. 96: Clinical trial enrollment and follow-up
+### No. 101: Clinical trial enrollment and follow-up
 
 by [@Yila-AI](https://github.com/Yila-AI)
 
@@ -4865,9 +5123,9 @@ Model: Nano Banana 2 Lite (gemini-3.1-flash-lite-image, 1K) · Generated 2 times
 
 ---
 
-<a id="no-97"></a>
+<a id="no-102"></a>
 
-### No. 97: Co-immunoprecipitation (Co-IP) and pull-down workflow
+### No. 102: Co-immunoprecipitation (Co-IP) and pull-down workflow
 
 by [@Yila-AI](https://github.com/Yila-AI)
 
@@ -4921,9 +5179,119 @@ Model: Nano Banana 2 Lite (gemini-3.1-flash-lite-image, 1K) · Generated 2 times
 
 ---
 
-<a id="no-98"></a>
+<a id="no-103"></a>
 
-### No. 98: Pooled CRISPR screen workflow
+### No. 103: Colony formation assay workflow
+
+by [@Yila-AI](https://github.com/Yila-AI)
+
+Technique: **one panel per step, step names only** · Style: flat workflow · Aspect ratio: 16:9
+
+| English prompt |
+|---|
+| <img src="gallery/experimental-workflow/colony-formation-assay-en.jpg" width="420"> |
+
+> The Chinese-prompt output did not pass review, so it is not shown.
+
+**English prompt**
+
+```text
+Create a workflow figure for 【a colony formation assay】, 6 steps from left to right:
+1. 【Low-density seeding: a few single cells in a 6-well plate】
+2. 【Treatment: a dropper adding drug】
+3. 【Long-term culture: the plate in an incubator with a calendar icon】
+4. 【Fixation: a bottle of fixative】
+5. 【Crystal violet staining: purple dots appearing in the wells】
+6. 【Colony counting: a magnifier over purple colonies】
+Do not write the numbered sentences in the figure.
+Step names, each used once, no other text: 【Low-density seeding, Treatment, Long-term culture, Fixation, Crystal violet staining, Colony counting】.
+
+Style: journal-style experimental workflow figure. Clean flat vector icons on a white background, one light pastel rounded panel per step, thin gray arrows between panels. Only 3-4 muted colors. Each panel shows one simple scene with no text inside it; the only text in the whole figure is the step names given. Sans-serif English, each step name appears exactly once, spelled exactly as given. No legends, no captions, no extra labels, no 3D rendering, no shadows, no decorative background.
+```
+
+<details><summary>Chinese prompt</summary>
+
+```text
+画一张【克隆形成实验】的流程图，从左往右六步：
+1. 【低密度铺板：6 孔板里稀疏的单个细胞】
+2. 【处理：滴管加药】
+3. 【长期培养：培养箱配日历图标】
+4. 【固定：一瓶固定液】
+5. 【结晶紫染色：孔里出现紫色圆点】
+6. 【克隆计数：放大镜对着紫色克隆】
+不要把编号句子写进图里。
+步骤名（每个只出现一次，不加其他文字）：【Low-density seeding, Treatment, Long-term culture, Fixation, Crystal violet staining, Colony counting】。
+
+风格：期刊式实验流程图。白色背景上干净的扁平矢量图标，每一步一个浅色圆角面板，面板之间用细灰色箭头连接。只用 3–4 种低饱和度颜色。每个面板里只画一个简洁的小场景，面板内不写任何文字；整张图唯一的文字就是给定的步骤名。用英文无衬线字体，每个步骤名只出现一次，拼写与给定完全一致。不要图例、不要说明文字、不要额外标签、不要 3D 渲染、阴影或装饰性背景。
+```
+
+</details>
+
+Model: Nano Banana 2 Lite (gemini-3.1-flash-lite-image, 1K) · Generated 4 times in total; shown are the outputs that passed review
+
+[↑ Back to top](#top)
+
+<sub><a href="https://yila.ai/?utm_source=github&utm_medium=readme&utm_campaign=sci-figure-prompts&utm_content=colony-formation-assay">Try in Yila →</a></sub>
+
+---
+
+<a id="no-104"></a>
+
+### No. 104: CRISPR knockout cell line workflow
+
+by [@Yila-AI](https://github.com/Yila-AI)
+
+Technique: **one panel per step, step names only** · Style: flat workflow · Aspect ratio: 16:9
+
+| English prompt | Chinese prompt |
+|---|---|
+| <img src="gallery/experimental-workflow/crispr-knockout-cell-line-en.jpg" width="420"> | <img src="gallery/experimental-workflow/crispr-knockout-cell-line-zh.jpg" width="420"> |
+
+**English prompt**
+
+```text
+Create a workflow figure for 【building a CRISPR knockout cell line】, 6 steps from left to right:
+1. 【sgRNA design: a DNA strand with a highlighted target site】
+2. 【Vector delivery: a plasmid entering a cell】
+3. 【Selection: a dish where only some cells survive】
+4. 【Single-cell cloning: a 96-well plate with one cell per well】
+5. 【Genotype check: a short DNA strand with a gap】
+6. 【Protein validation: a gel with a missing band】
+Do not write the numbered sentences in the figure.
+Step names, each used once, no other text: 【sgRNA design, Vector delivery, Selection, Single-cell cloning, Genotype check, Protein validation】.
+
+Style: journal-style experimental workflow figure. Clean flat vector icons on a white background, one light pastel rounded panel per step, thin gray arrows between panels. Only 3-4 muted colors. Each panel shows one simple scene with no text inside it; the only text in the whole figure is the step names given. Sans-serif English, each step name appears exactly once, spelled exactly as given. No legends, no captions, no extra labels, no 3D rendering, no shadows, no decorative background.
+```
+
+<details><summary>Chinese prompt</summary>
+
+```text
+画一张【构建 CRISPR 敲除细胞系】的流程图，从左往右六步：
+1. 【sgRNA 设计：DNA 链上高亮一个靶位点】
+2. 【载体递送：质粒进入细胞】
+3. 【筛选：培养皿里只有部分细胞存活】
+4. 【单克隆挑选：96 孔板每孔一个细胞】
+5. 【基因型验证：带缺口的短 DNA 链】
+6. 【蛋白验证：缺一条带的凝胶】
+不要把编号句子写进图里。
+步骤名（每个只出现一次，不加其他文字）：【sgRNA design, Vector delivery, Selection, Single-cell cloning, Genotype check, Protein validation】。
+
+风格：期刊式实验流程图。白色背景上干净的扁平矢量图标，每一步一个浅色圆角面板，面板之间用细灰色箭头连接。只用 3–4 种低饱和度颜色。每个面板里只画一个简洁的小场景，面板内不写任何文字；整张图唯一的文字就是给定的步骤名。用英文无衬线字体，每个步骤名只出现一次，拼写与给定完全一致。不要图例、不要说明文字、不要额外标签、不要 3D 渲染、阴影或装饰性背景。
+```
+
+</details>
+
+Model: Nano Banana 2 Lite (gemini-3.1-flash-lite-image, 1K) · Generated 4 times in total; shown are the outputs that passed review
+
+[↑ Back to top](#top)
+
+<sub><a href="https://yila.ai/?utm_source=github&utm_medium=readme&utm_campaign=sci-figure-prompts&utm_content=crispr-knockout-cell-line">Try in Yila →</a></sub>
+
+---
+
+<a id="no-105"></a>
+
+### No. 105: Pooled CRISPR screen workflow
 
 by [@Yila-AI](https://github.com/Yila-AI)
 
@@ -4971,9 +5339,9 @@ Model: Nano Banana 2 Lite (gemini-3.1-flash-lite-image, 1K) · Generated 6 times
 
 ---
 
-<a id="no-99"></a>
+<a id="no-106"></a>
 
-### No. 99: Molecular docking and dynamics workflow
+### No. 106: Molecular docking and dynamics workflow
 
 by [@Yila-AI](https://github.com/Yila-AI)
 
@@ -5023,9 +5391,121 @@ Model: Nano Banana 2 Lite (gemini-3.1-flash-lite-image, 1K) · Generated 2 times
 
 ---
 
-<a id="no-100"></a>
+<a id="no-107"></a>
 
-### No. 100: Sandwich ELISA workflow
+### No. 107: Dual-luciferase reporter assay workflow
+
+by [@Yila-AI](https://github.com/Yila-AI)
+
+Technique: **one panel per step, step names only** · Style: flat workflow · Aspect ratio: 16:9
+
+| English prompt |
+|---|
+| <img src="gallery/experimental-workflow/dual-luciferase-reporter-en.jpg" width="420"> |
+
+> The Chinese-prompt output did not pass review, so it is not shown.
+
+**English prompt**
+
+```text
+Create a workflow figure for 【a dual-luciferase reporter assay】, 6 steps from left to right:
+1. 【Plasmid construction: a circular plasmid with a promoter segment】
+2. 【Co-transfection: two plasmids entering cells in a well】
+3. 【Incubation: the plate in an incubator】
+4. 【Cell lysis: a tube of lysed cells】
+5. 【Luminescence reading: a luminometer with a glowing tube】
+6. 【Normalization: two glowing bars side by side】
+Do not write the numbered sentences in the figure.
+Step names, each used once, no other text: 【Plasmid construction, Co-transfection, Incubation, Cell lysis, Luminescence reading, Normalization】.
+
+Style: journal-style experimental workflow figure. Clean flat vector icons on a white background, one light pastel rounded panel per step, thin gray arrows between panels. Only 3-4 muted colors. Each panel shows one simple scene with no text inside it; the only text in the whole figure is the step names given. Sans-serif English, each step name appears exactly once, spelled exactly as given. No legends, no captions, no extra labels, no 3D rendering, no shadows, no decorative background.
+```
+
+<details><summary>Chinese prompt</summary>
+
+```text
+画一张【双荧光素酶报告基因实验】的流程图，从左往右六步：
+1. 【质粒构建：带启动子片段的环形质粒】
+2. 【共转染：两种质粒进入孔里的细胞】
+3. 【孵育：孔板放进培养箱】
+4. 【细胞裂解：一管裂解后的细胞】
+5. 【化学发光检测：发光管配发光检测仪】
+6. 【标准化：并排的两根发光条】
+不要把编号句子写进图里。
+步骤名（每个只出现一次，不加其他文字）：【Plasmid construction, Co-transfection, Incubation, Cell lysis, Luminescence reading, Normalization】。
+
+风格：期刊式实验流程图。白色背景上干净的扁平矢量图标，每一步一个浅色圆角面板，面板之间用细灰色箭头连接。只用 3–4 种低饱和度颜色。每个面板里只画一个简洁的小场景，面板内不写任何文字；整张图唯一的文字就是给定的步骤名。用英文无衬线字体，每个步骤名只出现一次，拼写与给定完全一致。不要图例、不要说明文字、不要额外标签、不要 3D 渲染、阴影或装饰性背景。
+```
+
+</details>
+
+Model: Nano Banana 2 Lite (gemini-3.1-flash-lite-image, 1K) · Generated 4 times in total; shown are the outputs that passed review
+
+[↑ Back to top](#top)
+
+<sub><a href="https://yila.ai/?utm_source=github&utm_medium=readme&utm_campaign=sci-figure-prompts&utm_content=dual-luciferase-reporter">Try in Yila →</a></sub>
+
+---
+
+<a id="no-108"></a>
+
+### No. 108: EdU cell proliferation assay workflow
+
+by [@Yila-AI](https://github.com/Yila-AI)
+
+Technique: **one panel per step, step names only** · Style: flat workflow · Aspect ratio: 16:9
+
+| English prompt | Chinese prompt |
+|---|---|
+| <img src="gallery/experimental-workflow/edu-proliferation-assay-en.jpg" width="420"> | <img src="gallery/experimental-workflow/edu-proliferation-assay-zh.jpg" width="420"> |
+
+**English prompt**
+
+```text
+Create a workflow figure for 【an EdU cell proliferation assay】, 6 steps from left to right:
+1. 【EdU labeling: a dropper adding EdU to cultured cells】
+2. 【Fixation: a plain unlabeled bottle】
+3. 【Click reaction: a small red star snapping onto a DNA strand】
+4. 【Nuclear staining: blue dye on all nuclei】
+5. 【Imaging: a fluorescence microscope】
+6. 【Quantification: a magnifier over red and blue nuclei】
+Do not write the numbered sentences in the figure.
+Every icon is a pure picture with no words, letters or chemical structures inside it.
+Step names, each used once, no other text: 【EdU labeling, Fixation, Click reaction, Nuclear staining, Imaging, Quantification】.
+
+Style: journal-style experimental workflow figure. Clean flat vector icons on a white background, one light pastel rounded panel per step, thin gray arrows between panels. Only 3-4 muted colors. Each panel shows one simple scene with no text inside it; the only text in the whole figure is the step names given. Sans-serif English, each step name appears exactly once, spelled exactly as given. No legends, no captions, no extra labels, no 3D rendering, no shadows, no decorative background.
+```
+
+<details><summary>Chinese prompt</summary>
+
+```text
+画一张【EdU 细胞增殖检测】的流程图，从左往右六步：
+1. 【EdU 标记：滴管往培养的细胞里加 EdU】
+2. 【固定：一个没有标签的瓶子】
+3. 【点击反应：一颗红色小星星连接到一条 DNA 链上】
+4. 【核染色：蓝色染料染所有细胞核】
+5. 【成像：一台荧光显微镜】
+6. 【定量：放大镜对着红色和蓝色细胞核】
+不要把编号句子写进图里。
+所有图标都是纯图形，里面不写任何单词、字母，也不画化学结构式。
+步骤名（每个只出现一次，不加其他文字）：【EdU labeling, Fixation, Click reaction, Nuclear staining, Imaging, Quantification】。
+
+风格：期刊式实验流程图。白色背景上干净的扁平矢量图标，每一步一个浅色圆角面板，面板之间用细灰色箭头连接。只用 3–4 种低饱和度颜色。每个面板里只画一个简洁的小场景，面板内不写任何文字；整张图唯一的文字就是给定的步骤名。用英文无衬线字体，每个步骤名只出现一次，拼写与给定完全一致。不要图例、不要说明文字、不要额外标签、不要 3D 渲染、阴影或装饰性背景。
+```
+
+</details>
+
+Model: Nano Banana 2 Lite (gemini-3.1-flash-lite-image, 1K) · Generated 8 times in total; shown are the outputs that passed review
+
+[↑ Back to top](#top)
+
+<sub><a href="https://yila.ai/?utm_source=github&utm_medium=readme&utm_campaign=sci-figure-prompts&utm_content=edu-proliferation-assay">Try in Yila →</a></sub>
+
+---
+
+<a id="no-109"></a>
+
+### No. 109: Sandwich ELISA workflow
 
 by [@Yila-AI](https://github.com/Yila-AI)
 
@@ -5077,9 +5557,9 @@ Model: Nano Banana 2 Lite (gemini-3.1-flash-lite-image, 1K) · Generated 2 times
 
 ---
 
-<a id="no-101"></a>
+<a id="no-110"></a>
 
-### No. 101: Flow cytometry workflow
+### No. 110: Flow cytometry workflow
 
 by [@Yila-AI](https://github.com/Yila-AI)
 
@@ -5127,9 +5607,9 @@ Model: Nano Banana 2 Lite (gemini-3.1-flash-lite-image, 1K) · Generated 2 times
 
 ---
 
-<a id="no-102"></a>
+<a id="no-111"></a>
 
-### No. 102: Genome-wide association study (GWAS) workflow
+### No. 111: Genome-wide association study (GWAS) workflow
 
 by [@Yila-AI](https://github.com/Yila-AI)
 
@@ -5185,9 +5665,9 @@ Model: Nano Banana 2 Lite (gemini-3.1-flash-lite-image, 1K) · Generated 2 times
 
 ---
 
-<a id="no-103"></a>
+<a id="no-112"></a>
 
-### No. 103: H&E staining histology workflow
+### No. 112: H&E staining histology workflow
 
 by [@Yila-AI](https://github.com/Yila-AI)
 
@@ -5243,9 +5723,9 @@ Model: Nano Banana 2 Lite (gemini-3.1-flash-lite-image, 1K) · Generated 2 times
 
 ---
 
-<a id="no-104"></a>
+<a id="no-113"></a>
 
-### No. 104: Immunohistochemistry (IHC) workflow
+### No. 113: Immunohistochemistry (IHC) workflow
 
 by [@Yila-AI](https://github.com/Yila-AI)
 
@@ -5295,9 +5775,9 @@ Model: Nano Banana 2 Lite (gemini-3.1-flash-lite-image, 1K) · Generated 2 times
 
 ---
 
-<a id="no-105"></a>
+<a id="no-114"></a>
 
-### No. 105: Immunofluorescence staining workflow
+### No. 114: Immunofluorescence staining workflow
 
 by [@Yila-AI](https://github.com/Yila-AI)
 
@@ -5347,9 +5827,9 @@ Model: Nano Banana 2 Lite (gemini-3.1-flash-lite-image, 1K) · Generated 2 times
 
 ---
 
-<a id="no-106"></a>
+<a id="no-115"></a>
 
-### No. 106: Mendelian randomization design
+### No. 115: Mendelian randomization design
 
 by [@Yila-AI](https://github.com/Yila-AI)
 
@@ -5397,9 +5877,9 @@ Model: Nano Banana 2 Lite (gemini-3.1-flash-lite-image, 1K) · Generated 5 times
 
 ---
 
-<a id="no-107"></a>
+<a id="no-116"></a>
 
-### No. 107: Metabolomics workflow
+### No. 116: Metabolomics workflow
 
 by [@Yila-AI](https://github.com/Yila-AI)
 
@@ -5451,9 +5931,63 @@ Model: Nano Banana 2 Lite (gemini-3.1-flash-lite-image, 1K) · Generated 2 times
 
 ---
 
-<a id="no-108"></a>
+<a id="no-117"></a>
 
-### No. 108: Mouse disease model: grouping, dosing and sampling
+### No. 117: Molecular cloning workflow
+
+by [@Yila-AI](https://github.com/Yila-AI)
+
+Technique: **one panel per step, step names only** · Style: flat workflow · Aspect ratio: 16:9
+
+| English prompt | Chinese prompt |
+|---|---|
+| <img src="gallery/experimental-workflow/molecular-cloning-en.jpg" width="420"> | <img src="gallery/experimental-workflow/molecular-cloning-zh.jpg" width="420"> |
+
+**English prompt**
+
+```text
+Create a workflow figure for 【molecular cloning of a gene into a plasmid】, 6 steps from left to right:
+1. 【PCR amplification: a short DNA segment being copied】
+2. 【Restriction digestion: scissors cutting a circular plasmid open】
+3. 【Ligation: the insert joined into the open plasmid】
+4. 【Transformation: plasmids entering bacteria】
+5. 【Colony selection: bacterial colonies on an agar plate】
+6. 【Sequencing verification: a check mark over a DNA strand】
+Do not write the numbered sentences in the figure.
+Step names, each used once, no other text: 【PCR amplification, Restriction digestion, Ligation, Transformation, Colony selection, Sequencing verification】.
+
+Style: journal-style experimental workflow figure. Clean flat vector icons on a white background, one light pastel rounded panel per step, thin gray arrows between panels. Only 3-4 muted colors. Each panel shows one simple scene with no text inside it; the only text in the whole figure is the step names given. Sans-serif English, each step name appears exactly once, spelled exactly as given. No legends, no captions, no extra labels, no 3D rendering, no shadows, no decorative background.
+```
+
+<details><summary>Chinese prompt</summary>
+
+```text
+画一张【把目的基因克隆进质粒】的流程图，从左往右六步：
+1. 【PCR 扩增：一段短 DNA 被复制】
+2. 【酶切：剪刀把环形质粒剪开】
+3. 【连接：插入片段接入打开的质粒】
+4. 【转化：质粒进入细菌】
+5. 【挑菌：琼脂平板上的细菌菌落】
+6. 【测序验证：DNA 链上方一个对勾】
+不要把编号句子写进图里。
+步骤名（每个只出现一次，不加其他文字）：【PCR amplification, Restriction digestion, Ligation, Transformation, Colony selection, Sequencing verification】。
+
+风格：期刊式实验流程图。白色背景上干净的扁平矢量图标，每一步一个浅色圆角面板，面板之间用细灰色箭头连接。只用 3–4 种低饱和度颜色。每个面板里只画一个简洁的小场景，面板内不写任何文字；整张图唯一的文字就是给定的步骤名。用英文无衬线字体，每个步骤名只出现一次，拼写与给定完全一致。不要图例、不要说明文字、不要额外标签、不要 3D 渲染、阴影或装饰性背景。
+```
+
+</details>
+
+Model: Nano Banana 2 Lite (gemini-3.1-flash-lite-image, 1K) · Generated 4 times in total; shown are the outputs that passed review
+
+[↑ Back to top](#top)
+
+<sub><a href="https://yila.ai/?utm_source=github&utm_medium=readme&utm_campaign=sci-figure-prompts&utm_content=molecular-cloning">Try in Yila →</a></sub>
+
+---
+
+<a id="no-118"></a>
+
+### No. 118: Mouse disease model: grouping, dosing and sampling
 
 by [@Yila-AI](https://github.com/Yila-AI)
 
@@ -5501,9 +6035,9 @@ Model: Nano Banana 2 Lite (gemini-3.1-flash-lite-image, 1K) · Generated 2 times
 
 ---
 
-<a id="no-109"></a>
+<a id="no-119"></a>
 
-### No. 109: Network pharmacology workflow
+### No. 119: Network pharmacology workflow
 
 by [@Yila-AI](https://github.com/Yila-AI)
 
@@ -5555,9 +6089,9 @@ Model: Nano Banana 2 Lite (gemini-3.1-flash-lite-image, 1K) · Generated 2 times
 
 ---
 
-<a id="no-110"></a>
+<a id="no-120"></a>
 
-### No. 110: Organ-on-a-chip workflow
+### No. 120: Organ-on-a-chip workflow
 
 by [@Yila-AI](https://github.com/Yila-AI)
 
@@ -5609,9 +6143,9 @@ Model: Nano Banana 2 Lite (gemini-3.1-flash-lite-image, 1K) · Generated 2 times
 
 ---
 
-<a id="no-111"></a>
+<a id="no-121"></a>
 
-### No. 111: Organoid culture and drug screening
+### No. 121: Organoid culture and drug screening
 
 by [@Yila-AI](https://github.com/Yila-AI)
 
@@ -5659,9 +6193,63 @@ Model: Nano Banana 2 Lite (gemini-3.1-flash-lite-image, 1K) · Generated 3 times
 
 ---
 
-<a id="no-112"></a>
+<a id="no-122"></a>
 
-### No. 112: LC-MS/MS proteomics workflow
+### No. 122: Recombinant protein expression and purification workflow
+
+by [@Yila-AI](https://github.com/Yila-AI)
+
+Technique: **one panel per step, step names only** · Style: flat workflow · Aspect ratio: 16:9
+
+| English prompt | Chinese prompt |
+|---|---|
+| <img src="gallery/experimental-workflow/protein-expression-purification-en.jpg" width="420"> | <img src="gallery/experimental-workflow/protein-expression-purification-zh.jpg" width="420"> |
+
+**English prompt**
+
+```text
+Create a workflow figure for 【recombinant protein expression and purification】, 6 steps from left to right:
+1. 【Expression vector: a circular plasmid】
+2. 【Bacterial culture: a flask of cloudy bacteria】
+3. 【Induction: a dropper adding inducer to the flask】
+4. 【Cell lysis: a tube of broken bacteria】
+5. 【Affinity column: a column with beads catching the protein】
+6. 【Purity check: a gel with one clean band】
+Do not write the numbered sentences in the figure.
+Step names, each used once, no other text: 【Expression vector, Bacterial culture, Induction, Cell lysis, Affinity column, Purity check】.
+
+Style: journal-style experimental workflow figure. Clean flat vector icons on a white background, one light pastel rounded panel per step, thin gray arrows between panels. Only 3-4 muted colors. Each panel shows one simple scene with no text inside it; the only text in the whole figure is the step names given. Sans-serif English, each step name appears exactly once, spelled exactly as given. No legends, no captions, no extra labels, no 3D rendering, no shadows, no decorative background.
+```
+
+<details><summary>Chinese prompt</summary>
+
+```text
+画一张【重组蛋白表达与纯化】的流程图，从左往右六步：
+1. 【表达载体：环形质粒】
+2. 【细菌培养：一瓶浑浊的菌液】
+3. 【诱导表达：滴管往瓶里加诱导剂】
+4. 【细胞裂解：一管破碎的细菌】
+5. 【亲和层析：柱子里的小珠子捕获蛋白】
+6. 【纯度检测：只有一条干净条带的凝胶】
+不要把编号句子写进图里。
+步骤名（每个只出现一次，不加其他文字）：【Expression vector, Bacterial culture, Induction, Cell lysis, Affinity column, Purity check】。
+
+风格：期刊式实验流程图。白色背景上干净的扁平矢量图标，每一步一个浅色圆角面板，面板之间用细灰色箭头连接。只用 3–4 种低饱和度颜色。每个面板里只画一个简洁的小场景，面板内不写任何文字；整张图唯一的文字就是给定的步骤名。用英文无衬线字体，每个步骤名只出现一次，拼写与给定完全一致。不要图例、不要说明文字、不要额外标签、不要 3D 渲染、阴影或装饰性背景。
+```
+
+</details>
+
+Model: Nano Banana 2 Lite (gemini-3.1-flash-lite-image, 1K) · Generated 4 times in total; shown are the outputs that passed review
+
+[↑ Back to top](#top)
+
+<sub><a href="https://yila.ai/?utm_source=github&utm_medium=readme&utm_campaign=sci-figure-prompts&utm_content=protein-expression-purification">Try in Yila →</a></sub>
+
+---
+
+<a id="no-123"></a>
+
+### No. 123: LC-MS/MS proteomics workflow
 
 by [@Yila-AI](https://github.com/Yila-AI)
 
@@ -5709,9 +6297,9 @@ Model: Nano Banana 2 Lite (gemini-3.1-flash-lite-image, 1K) · Generated 4 times
 
 ---
 
-<a id="no-113"></a>
+<a id="no-124"></a>
 
-### No. 113: Public database mining workflow (TCGA/GEO)
+### No. 124: Public database mining workflow (TCGA/GEO)
 
 by [@Yila-AI](https://github.com/Yila-AI)
 
@@ -5763,9 +6351,9 @@ Model: Nano Banana 2 Lite (gemini-3.1-flash-lite-image, 1K) · Generated 2 times
 
 ---
 
-<a id="no-114"></a>
+<a id="no-125"></a>
 
-### No. 114: qPCR workflow
+### No. 125: qPCR workflow
 
 by [@Yila-AI](https://github.com/Yila-AI)
 
@@ -5813,9 +6401,9 @@ Model: Nano Banana 2 Lite (gemini-3.1-flash-lite-image, 1K) · Generated 2 times
 
 ---
 
-<a id="no-115"></a>
+<a id="no-126"></a>
 
-### No. 115: Knockdown, overexpression and rescue logic
+### No. 126: Knockdown, overexpression and rescue logic
 
 by [@Yila-AI](https://github.com/Yila-AI)
 
@@ -5865,9 +6453,63 @@ Model: Nano Banana 2 Lite (gemini-3.1-flash-lite-image, 1K) · Generated 6 times
 
 ---
 
-<a id="no-116"></a>
+<a id="no-127"></a>
 
-### No. 116: Single-cell RNA sequencing workflow
+### No. 127: Scratch wound healing assay workflow
+
+by [@Yila-AI](https://github.com/Yila-AI)
+
+Technique: **one panel per step, step names only** · Style: flat workflow · Aspect ratio: 16:9
+
+| English prompt | Chinese prompt |
+|---|---|
+| <img src="gallery/experimental-workflow/scratch-wound-assay-en.jpg" width="420"> | <img src="gallery/experimental-workflow/scratch-wound-assay-zh.jpg" width="420"> |
+
+**English prompt**
+
+```text
+Create a workflow figure for 【a scratch wound healing assay】, 6 steps from left to right:
+1. 【Confluent monolayer: a dish fully covered with cells】
+2. 【Scratch: a pipette tip drawing a straight line through the cells】
+3. 【Washing: medium being replaced】
+4. 【Imaging at start: a microscope view showing a wide gap】
+5. 【Migration: cells moving into the gap】
+6. 【Imaging later: a microscope view showing a narrow gap】
+Do not write the numbered sentences in the figure.
+Step names, each used once, no other text: 【Confluent monolayer, Scratch, Washing, Imaging at start, Migration, Imaging later】.
+
+Style: journal-style experimental workflow figure. Clean flat vector icons on a white background, one light pastel rounded panel per step, thin gray arrows between panels. Only 3-4 muted colors. Each panel shows one simple scene with no text inside it; the only text in the whole figure is the step names given. Sans-serif English, each step name appears exactly once, spelled exactly as given. No legends, no captions, no extra labels, no 3D rendering, no shadows, no decorative background.
+```
+
+<details><summary>Chinese prompt</summary>
+
+```text
+画一张【细胞划痕实验】的流程图，从左往右六步：
+1. 【长满单层：长满细胞的培养皿】
+2. 【划痕：枪头在细胞层上划一条直线】
+3. 【清洗：更换培养基】
+4. 【初始拍照：显微镜下一道宽缝】
+5. 【迁移：细胞向缝中移动】
+6. 【后续拍照：显微镜下的缝变窄】
+不要把编号句子写进图里。
+步骤名（每个只出现一次，不加其他文字）：【Confluent monolayer, Scratch, Washing, Imaging at start, Migration, Imaging later】。
+
+风格：期刊式实验流程图。白色背景上干净的扁平矢量图标，每一步一个浅色圆角面板，面板之间用细灰色箭头连接。只用 3–4 种低饱和度颜色。每个面板里只画一个简洁的小场景，面板内不写任何文字；整张图唯一的文字就是给定的步骤名。用英文无衬线字体，每个步骤名只出现一次，拼写与给定完全一致。不要图例、不要说明文字、不要额外标签、不要 3D 渲染、阴影或装饰性背景。
+```
+
+</details>
+
+Model: Nano Banana 2 Lite (gemini-3.1-flash-lite-image, 1K) · Generated 4 times in total; shown are the outputs that passed review
+
+[↑ Back to top](#top)
+
+<sub><a href="https://yila.ai/?utm_source=github&utm_medium=readme&utm_campaign=sci-figure-prompts&utm_content=scratch-wound-assay">Try in Yila →</a></sub>
+
+---
+
+<a id="no-128"></a>
+
+### No. 128: Single-cell RNA sequencing workflow
 
 by [@Yila-AI](https://github.com/Yila-AI)
 
@@ -5915,9 +6557,9 @@ Model: Nano Banana 2 Lite (gemini-3.1-flash-lite-image, 1K) · Generated 7 times
 
 ---
 
-<a id="no-117"></a>
+<a id="no-129"></a>
 
-### No. 117: Spatial transcriptomics workflow
+### No. 129: Spatial transcriptomics workflow
 
 by [@Yila-AI](https://github.com/Yila-AI)
 
@@ -5965,9 +6607,9 @@ Model: Nano Banana 2 Lite (gemini-3.1-flash-lite-image, 1K) · Generated 4 times
 
 ---
 
-<a id="no-118"></a>
+<a id="no-130"></a>
 
-### No. 118: Transwell migration and invasion assay
+### No. 130: Transwell migration and invasion assay
 
 by [@Yila-AI](https://github.com/Yila-AI)
 
@@ -6019,9 +6661,63 @@ Model: Nano Banana 2 Lite (gemini-3.1-flash-lite-image, 1K) · Generated 2 times
 
 ---
 
-<a id="no-119"></a>
+<a id="no-131"></a>
 
-### No. 119: Western blot workflow
+### No. 131: TUNEL apoptosis assay workflow
+
+by [@Yila-AI](https://github.com/Yila-AI)
+
+Technique: **one panel per step, step names only** · Style: flat workflow · Aspect ratio: 16:9
+
+| English prompt | Chinese prompt |
+|---|---|
+| <img src="gallery/experimental-workflow/tunel-apoptosis-assay-en.jpg" width="420"> | <img src="gallery/experimental-workflow/tunel-apoptosis-assay-zh.jpg" width="420"> |
+
+**English prompt**
+
+```text
+Create a workflow figure for 【a TUNEL apoptosis assay on tissue sections】, 6 steps from left to right:
+1. 【Tissue section: a thin slice on a glass slide】
+2. 【Permeabilization: a drop of enzyme on the slide】
+3. 【TUNEL labeling: green dye attaching to broken DNA ends】
+4. 【Nuclear counterstain: blue dye on the nuclei】
+5. 【Fluorescence imaging: a microscope with green and blue nuclei on screen】
+6. 【Positive cell counting: a magnifier over green nuclei】
+Do not write the numbered sentences in the figure.
+Step names, each used once, no other text: 【Tissue section, Permeabilization, TUNEL labeling, Nuclear counterstain, Fluorescence imaging, Positive cell counting】.
+
+Style: journal-style experimental workflow figure. Clean flat vector icons on a white background, one light pastel rounded panel per step, thin gray arrows between panels. Only 3-4 muted colors. Each panel shows one simple scene with no text inside it; the only text in the whole figure is the step names given. Sans-serif English, each step name appears exactly once, spelled exactly as given. No legends, no captions, no extra labels, no 3D rendering, no shadows, no decorative background.
+```
+
+<details><summary>Chinese prompt</summary>
+
+```text
+画一张【组织切片 TUNEL 凋亡检测】的流程图，从左往右六步：
+1. 【组织切片：载玻片上的一片薄切片】
+2. 【通透：玻片上滴一滴酶液】
+3. 【TUNEL 标记：绿色染料结合到断裂的 DNA 末端】
+4. 【核复染：蓝色染料染细胞核】
+5. 【荧光成像：显微镜屏幕上绿色和蓝色细胞核】
+6. 【阳性细胞计数：放大镜对着绿色细胞核】
+不要把编号句子写进图里。
+步骤名（每个只出现一次，不加其他文字）：【Tissue section, Permeabilization, TUNEL labeling, Nuclear counterstain, Fluorescence imaging, Positive cell counting】。
+
+风格：期刊式实验流程图。白色背景上干净的扁平矢量图标，每一步一个浅色圆角面板，面板之间用细灰色箭头连接。只用 3–4 种低饱和度颜色。每个面板里只画一个简洁的小场景，面板内不写任何文字；整张图唯一的文字就是给定的步骤名。用英文无衬线字体，每个步骤名只出现一次，拼写与给定完全一致。不要图例、不要说明文字、不要额外标签、不要 3D 渲染、阴影或装饰性背景。
+```
+
+</details>
+
+Model: Nano Banana 2 Lite (gemini-3.1-flash-lite-image, 1K) · Generated 4 times in total; shown are the outputs that passed review
+
+[↑ Back to top](#top)
+
+<sub><a href="https://yila.ai/?utm_source=github&utm_medium=readme&utm_campaign=sci-figure-prompts&utm_content=tunel-apoptosis-assay">Try in Yila →</a></sub>
+
+---
+
+<a id="no-132"></a>
+
+### No. 132: Western blot workflow
 
 by [@Yila-AI](https://github.com/Yila-AI)
 
@@ -6071,13 +6767,67 @@ Model: Nano Banana 2 Lite (gemini-3.1-flash-lite-image, 1K) · Generated 2 times
 
 ---
 
+<a id="no-133"></a>
+
+### No. 133: Subcutaneous xenograft tumor model workflow
+
+by [@Yila-AI](https://github.com/Yila-AI)
+
+Technique: **one panel per step, step names only** · Style: flat workflow · Aspect ratio: 16:9
+
+| English prompt | Chinese prompt |
+|---|---|
+| <img src="gallery/experimental-workflow/xenograft-tumor-model-en.jpg" width="420"> | <img src="gallery/experimental-workflow/xenograft-tumor-model-zh.jpg" width="420"> |
+
+**English prompt**
+
+```text
+Create a workflow figure for 【a subcutaneous xenograft tumor model in nude mice】, 6 steps from left to right:
+1. 【Cell preparation: a tube of tumor cells】
+2. 【Subcutaneous injection: a syringe at the flank of a mouse】
+3. 【Tumor growth: a mouse with a small bump on its flank】
+4. 【Grouping and treatment: mice in two cages, one receiving a syringe】
+5. 【Tumor measurement: calipers on the bump】
+6. 【Tumor harvest: a small tumor on a dish】
+Do not write the numbered sentences in the figure.
+Step names, each used once, no other text: 【Cell preparation, Subcutaneous injection, Tumor growth, Grouping and treatment, Tumor measurement, Tumor harvest】.
+
+Style: journal-style experimental workflow figure. Clean flat vector icons on a white background, one light pastel rounded panel per step, thin gray arrows between panels. Only 3-4 muted colors. Each panel shows one simple scene with no text inside it; the only text in the whole figure is the step names given. Sans-serif English, each step name appears exactly once, spelled exactly as given. No legends, no captions, no extra labels, no 3D rendering, no shadows, no decorative background.
+```
+
+<details><summary>Chinese prompt</summary>
+
+```text
+画一张【裸鼠皮下移植瘤模型】的流程图，从左往右六步：
+1. 【细胞准备：一管肿瘤细胞】
+2. 【皮下注射：注射器扎在小鼠侧腹】
+3. 【肿瘤生长：侧腹有小鼓包的小鼠】
+4. 【分组给药：两笼小鼠，其中一笼接受注射】
+5. 【测量瘤体：游标卡尺量鼓包】
+6. 【取瘤：培养皿上一个小肿瘤】
+不要把编号句子写进图里。
+步骤名（每个只出现一次，不加其他文字）：【Cell preparation, Subcutaneous injection, Tumor growth, Grouping and treatment, Tumor measurement, Tumor harvest】。
+
+风格：期刊式实验流程图。白色背景上干净的扁平矢量图标，每一步一个浅色圆角面板，面板之间用细灰色箭头连接。只用 3–4 种低饱和度颜色。每个面板里只画一个简洁的小场景，面板内不写任何文字；整张图唯一的文字就是给定的步骤名。用英文无衬线字体，每个步骤名只出现一次，拼写与给定完全一致。不要图例、不要说明文字、不要额外标签、不要 3D 渲染、阴影或装饰性背景。
+```
+
+</details>
+
+Model: Nano Banana 2 Lite (gemini-3.1-flash-lite-image, 1K) · Generated 4 times in total; shown are the outputs that passed review
+
+[↑ Back to top](#top)
+
+<sub><a href="https://yila.ai/?utm_source=github&utm_medium=readme&utm_campaign=sci-figure-prompts&utm_content=xenograft-tumor-model">Try in Yila →</a></sub>
+
+---
+
 <a id="materials-energy"></a>
 
 ## Materials & Energy
 
-<a id="no-120"></a>
+<a id="no-134"></a>
 
-### No. 120: 3D-printed tissue engineering scaffold
+### No. 134: 3D-printed tissue engineering scaffold
 
 by [@Yila-AI](https://github.com/Yila-AI)
 
@@ -6127,9 +6877,117 @@ Model: Nano Banana 2 Lite (gemini-3.1-flash-lite-image, 1K) · Generated 6 times
 
 ---
 
-<a id="no-121"></a>
+<a id="no-135"></a>
 
-### No. 121: Flexible wearable sensor
+### No. 135: Coin cell assembly workflow
+
+by [@Yila-AI](https://github.com/Yila-AI)
+
+Technique: **one panel per step, step names only** · Style: flat workflow · Aspect ratio: 16:9
+
+| English prompt | Chinese prompt |
+|---|---|
+| <img src="gallery/materials-energy/coin-cell-assembly-en.jpg" width="420"> | <img src="gallery/materials-energy/coin-cell-assembly-zh.jpg" width="420"> |
+
+**English prompt**
+
+```text
+Create a workflow figure for 【assembling a coin cell】, 6 steps from left to right:
+1. 【Slurry mixing: a beaker with a stirrer】
+2. 【Electrode coating: a blade spreading slurry on foil】
+3. 【Drying and punching: round discs cut from the foil】
+4. 【Glovebox: hands in gloves inside a sealed box】
+5. 【Stacking: discs stacked in a coin case】
+6. 【Crimping: a press sealing the coin cell】
+Do not write the numbered sentences in the figure.
+Step names, each used once, no other text: 【Slurry mixing, Electrode coating, Drying and punching, Glovebox, Stacking, Crimping】.
+
+Style: journal-style experimental workflow figure. Clean flat vector icons on a white background, one light pastel rounded panel per step, thin gray arrows between panels. Only 3-4 muted colors. Each panel shows one simple scene with no text inside it; the only text in the whole figure is the step names given. Sans-serif English, each step name appears exactly once, spelled exactly as given. No legends, no captions, no extra labels, no 3D rendering, no shadows, no decorative background.
+```
+
+<details><summary>Chinese prompt</summary>
+
+```text
+画一张【组装扣式电池】的流程图，从左往右六步：
+1. 【浆料混合：带搅拌器的烧杯】
+2. 【极片涂布：刮刀把浆料刮在箔上】
+3. 【干燥冲片：从箔上冲出圆片】
+4. 【手套箱：密封箱里伸进一双手套】
+5. 【叠片：圆片叠放进电池壳】
+6. 【封口：压机把扣式电池压紧】
+不要把编号句子写进图里。
+步骤名（每个只出现一次，不加其他文字）：【Slurry mixing, Electrode coating, Drying and punching, Glovebox, Stacking, Crimping】。
+
+风格：期刊式实验流程图。白色背景上干净的扁平矢量图标，每一步一个浅色圆角面板，面板之间用细灰色箭头连接。只用 3–4 种低饱和度颜色。每个面板里只画一个简洁的小场景，面板内不写任何文字；整张图唯一的文字就是给定的步骤名。用英文无衬线字体，每个步骤名只出现一次，拼写与给定完全一致。不要图例、不要说明文字、不要额外标签、不要 3D 渲染、阴影或装饰性背景。
+```
+
+</details>
+
+Model: Nano Banana 2 Lite (gemini-3.1-flash-lite-image, 1K) · Generated 4 times in total; shown are the outputs that passed review
+
+[↑ Back to top](#top)
+
+<sub><a href="https://yila.ai/?utm_source=github&utm_medium=readme&utm_campaign=sci-figure-prompts&utm_content=coin-cell-assembly">Try in Yila →</a></sub>
+
+---
+
+<a id="no-136"></a>
+
+### No. 136: Electrospinning nanofiber workflow
+
+by [@Yila-AI](https://github.com/Yila-AI)
+
+Technique: **one panel per step, step names only** · Style: flat workflow · Aspect ratio: 16:9
+
+| English prompt | Chinese prompt |
+|---|---|
+| <img src="gallery/materials-energy/electrospinning-workflow-en.jpg" width="420"> | <img src="gallery/materials-energy/electrospinning-workflow-zh.jpg" width="420"> |
+
+**English prompt**
+
+```text
+Create a workflow figure for 【making nanofibers by electrospinning】, 6 steps from left to right:
+1. 【Polymer solution: a beaker of solution】
+2. 【Syringe loading: a syringe filled with solution】
+3. 【High voltage: a lightning bolt at the needle tip】
+4. 【Fiber jet: a thin stream stretching from the needle】
+5. 【Collector: a rotating drum covered in fibers】
+6. 【Nanofiber mat: a close-up of a mesh of fibers】
+Do not write the numbered sentences in the figure.
+Step names, each used once, no other text: 【Polymer solution, Syringe loading, High voltage, Fiber jet, Collector, Nanofiber mat】.
+
+Style: journal-style experimental workflow figure. Clean flat vector icons on a white background, one light pastel rounded panel per step, thin gray arrows between panels. Only 3-4 muted colors. Each panel shows one simple scene with no text inside it; the only text in the whole figure is the step names given. Sans-serif English, each step name appears exactly once, spelled exactly as given. No legends, no captions, no extra labels, no 3D rendering, no shadows, no decorative background.
+```
+
+<details><summary>Chinese prompt</summary>
+
+```text
+画一张【静电纺丝制备纳米纤维】的流程图，从左往右六步：
+1. 【聚合物溶液：一烧杯溶液】
+2. 【装针筒：装满溶液的注射器】
+3. 【高压电场：针尖处一道闪电】
+4. 【纤维射流：从针尖拉出的细流】
+5. 【接收器：缠满纤维的旋转滚筒】
+6. 【纳米纤维膜：纤维网的特写】
+不要把编号句子写进图里。
+步骤名（每个只出现一次，不加其他文字）：【Polymer solution, Syringe loading, High voltage, Fiber jet, Collector, Nanofiber mat】。
+
+风格：期刊式实验流程图。白色背景上干净的扁平矢量图标，每一步一个浅色圆角面板，面板之间用细灰色箭头连接。只用 3–4 种低饱和度颜色。每个面板里只画一个简洁的小场景，面板内不写任何文字；整张图唯一的文字就是给定的步骤名。用英文无衬线字体，每个步骤名只出现一次，拼写与给定完全一致。不要图例、不要说明文字、不要额外标签、不要 3D 渲染、阴影或装饰性背景。
+```
+
+</details>
+
+Model: Nano Banana 2 Lite (gemini-3.1-flash-lite-image, 1K) · Generated 4 times in total; shown are the outputs that passed review
+
+[↑ Back to top](#top)
+
+<sub><a href="https://yila.ai/?utm_source=github&utm_medium=readme&utm_campaign=sci-figure-prompts&utm_content=electrospinning-workflow">Try in Yila →</a></sub>
+
+---
+
+<a id="no-137"></a>
+
+### No. 137: Flexible wearable sensor
 
 by [@Yila-AI](https://github.com/Yila-AI)
 
@@ -6175,9 +7033,9 @@ Model: Nano Banana 2 Lite (gemini-3.1-flash-lite-image, 1K) · Generated 2 times
 
 ---
 
-<a id="no-122"></a>
+<a id="no-138"></a>
 
-### No. 122: Green hydrogen system: from renewable power to end use
+### No. 138: Green hydrogen system: from renewable power to end use
 
 by [@Yila-AI](https://github.com/Yila-AI)
 
@@ -6227,9 +7085,9 @@ Model: Nano Banana 2 Lite (gemini-3.1-flash-lite-image, 1K) · Generated 6 times
 
 ---
 
-<a id="no-123"></a>
+<a id="no-139"></a>
 
-### No. 123: Heterogeneous catalysis mechanism
+### No. 139: Heterogeneous catalysis mechanism
 
 by [@Yila-AI](https://github.com/Yila-AI)
 
@@ -6275,9 +7133,9 @@ Model: Nano Banana 2 Lite (gemini-3.1-flash-lite-image, 1K) · Generated 6 times
 
 ---
 
-<a id="no-124"></a>
+<a id="no-140"></a>
 
-### No. 124: Hydrothermal synthesis route
+### No. 140: Hydrothermal synthesis route
 
 by [@Yila-AI](https://github.com/Yila-AI)
 
@@ -6327,9 +7185,9 @@ Model: Nano Banana 2 Lite (gemini-3.1-flash-lite-image, 1K) · Generated 2 times
 
 ---
 
-<a id="no-125"></a>
+<a id="no-141"></a>
 
-### No. 125: Lithium-ion battery charge and discharge
+### No. 141: Lithium-ion battery charge and discharge
 
 by [@Yila-AI](https://github.com/Yila-AI)
 
@@ -6367,9 +7225,9 @@ Model: Nano Banana 2 Lite (gemini-3.1-flash-lite-image, 1K) · Generated 2 times
 
 ---
 
-<a id="no-126"></a>
+<a id="no-142"></a>
 
-### No. 126: Materials characterization workflow
+### No. 142: Materials characterization workflow
 
 by [@Yila-AI](https://github.com/Yila-AI)
 
@@ -6421,9 +7279,9 @@ Model: Nano Banana 2 Lite (gemini-3.1-flash-lite-image, 1K) · Generated 2 times
 
 ---
 
-<a id="no-127"></a>
+<a id="no-143"></a>
 
-### No. 127: Materials research overview: preparation, characterization, performance, mechanism
+### No. 143: Materials research overview: preparation, characterization, performance, mechanism
 
 by [@Yila-AI](https://github.com/Yila-AI)
 
@@ -6471,9 +7329,9 @@ Model: Nano Banana 2 Lite (gemini-3.1-flash-lite-image, 1K) · Generated 2 times
 
 ---
 
-<a id="no-128"></a>
+<a id="no-144"></a>
 
-### No. 128: Metal–organic framework (MOF) structure and uses
+### No. 144: Metal–organic framework (MOF) structure and uses
 
 by [@Yila-AI](https://github.com/Yila-AI)
 
@@ -6513,9 +7371,9 @@ Model: Nano Banana 2 Lite (gemini-3.1-flash-lite-image, 1K) · Generated 4 times
 
 ---
 
-<a id="no-129"></a>
+<a id="no-145"></a>
 
-### No. 129: Perovskite–silicon tandem solar cell
+### No. 145: Perovskite–silicon tandem solar cell
 
 by [@Yila-AI](https://github.com/Yila-AI)
 
@@ -6553,9 +7411,9 @@ Model: Nano Banana 2 Lite (gemini-3.1-flash-lite-image, 1K) · Generated 2 times
 
 ---
 
-<a id="no-130"></a>
+<a id="no-146"></a>
 
-### No. 130: Self-healing polymer
+### No. 146: Self-healing polymer
 
 by [@Yila-AI](https://github.com/Yila-AI)
 
@@ -6603,9 +7461,63 @@ Model: Nano Banana 2 Lite (gemini-3.1-flash-lite-image, 1K) · Generated 2 times
 
 ---
 
-<a id="no-131"></a>
+<a id="no-147"></a>
 
-### No. 131: 2D material van der Waals heterostructure
+### No. 147: Spin-coated thin film workflow
+
+by [@Yila-AI](https://github.com/Yila-AI)
+
+Technique: **one panel per step, step names only** · Style: flat workflow · Aspect ratio: 16:9
+
+| English prompt | Chinese prompt |
+|---|---|
+| <img src="gallery/materials-energy/spin-coating-thin-film-en.jpg" width="420"> | <img src="gallery/materials-energy/spin-coating-thin-film-zh.jpg" width="420"> |
+
+**English prompt**
+
+```text
+Create a workflow figure for 【preparing a thin film by spin coating】, 6 steps from left to right:
+1. 【Substrate cleaning: a glass slide in an ultrasonic bath】
+2. 【Precursor solution: a vial of solution】
+3. 【Dispensing: a pipette dropping solution onto the slide】
+4. 【Spin coating: the slide spinning on a stage with curved arrows】
+5. 【Annealing: the slide on a hot plate】
+6. 【Thin film: a slide with a smooth colored layer】
+Do not write the numbered sentences in the figure.
+Step names, each used once, no other text: 【Substrate cleaning, Precursor solution, Dispensing, Spin coating, Annealing, Thin film】.
+
+Style: journal-style experimental workflow figure. Clean flat vector icons on a white background, one light pastel rounded panel per step, thin gray arrows between panels. Only 3-4 muted colors. Each panel shows one simple scene with no text inside it; the only text in the whole figure is the step names given. Sans-serif English, each step name appears exactly once, spelled exactly as given. No legends, no captions, no extra labels, no 3D rendering, no shadows, no decorative background.
+```
+
+<details><summary>Chinese prompt</summary>
+
+```text
+画一张【旋涂法制备薄膜】的流程图，从左往右六步：
+1. 【基底清洗：超声清洗槽里的玻璃片】
+2. 【前驱体溶液：一小瓶溶液】
+3. 【滴加：移液器把溶液滴到玻璃片上】
+4. 【旋涂：玻璃片在转台上旋转，配弧形箭头】
+5. 【退火：玻璃片放在加热台上】
+6. 【薄膜：表面有一层均匀彩色膜的玻璃片】
+不要把编号句子写进图里。
+步骤名（每个只出现一次，不加其他文字）：【Substrate cleaning, Precursor solution, Dispensing, Spin coating, Annealing, Thin film】。
+
+风格：期刊式实验流程图。白色背景上干净的扁平矢量图标，每一步一个浅色圆角面板，面板之间用细灰色箭头连接。只用 3–4 种低饱和度颜色。每个面板里只画一个简洁的小场景，面板内不写任何文字；整张图唯一的文字就是给定的步骤名。用英文无衬线字体，每个步骤名只出现一次，拼写与给定完全一致。不要图例、不要说明文字、不要额外标签、不要 3D 渲染、阴影或装饰性背景。
+```
+
+</details>
+
+Model: Nano Banana 2 Lite (gemini-3.1-flash-lite-image, 1K) · Generated 4 times in total; shown are the outputs that passed review
+
+[↑ Back to top](#top)
+
+<sub><a href="https://yila.ai/?utm_source=github&utm_medium=readme&utm_campaign=sci-figure-prompts&utm_content=spin-coating-thin-film">Try in Yila →</a></sub>
+
+---
+
+<a id="no-148"></a>
+
+### No. 148: 2D material van der Waals heterostructure
 
 by [@Yila-AI](https://github.com/Yila-AI)
 
@@ -6651,9 +7563,9 @@ Model: Nano Banana 2 Lite (gemini-3.1-flash-lite-image, 1K) · Generated 2 times
 
 ---
 
-<a id="no-132"></a>
+<a id="no-149"></a>
 
-### No. 132: Water electrolysis: HER and OER
+### No. 149: Water electrolysis: HER and OER
 
 by [@Yila-AI](https://github.com/Yila-AI)
 
@@ -6703,9 +7615,63 @@ Model: Nano Banana 2 Lite (gemini-3.1-flash-lite-image, 1K) · Generated 5 times
 
 ## Earth & Environment
 
-<a id="no-133"></a>
+<a id="no-150"></a>
 
-### No. 133: Carbon capture and storage (CCS)
+### No. 150: Air quality monitoring workflow
+
+by [@Yila-AI](https://github.com/Yila-AI)
+
+Technique: **one panel per step, step names only** · Style: flat workflow · Aspect ratio: 16:9
+
+| Chinese prompt |
+|---|
+| <img src="gallery/earth-environment/air-quality-monitoring-zh.jpg" width="420"> |
+
+**English prompt**
+
+```text
+Create a workflow figure for 【urban air quality monitoring】, 6 steps from left to right:
+1. 【Monitoring stations: small station boxes across a city】
+2. 【Sampling inlet: an air intake on a rooftop】
+3. 【Sensors: a box with several sensor icons】
+4. 【Data transmission: a signal arrow to a cloud】
+5. 【Data processing: a server】
+6. 【Public alert: a phone showing a colored air-quality badge】
+Do not write the numbered sentences in the figure.
+Step names, each used once, no other text: 【Monitoring stations, Sampling inlet, Sensors, Data transmission, Data processing, Public alert】.
+
+Style: journal-style experimental workflow figure. Clean flat vector icons on a white background, one light pastel rounded panel per step, thin gray arrows between panels. Only 3-4 muted colors. Each panel shows one simple scene with no text inside it; the only text in the whole figure is the step names given. Sans-serif English, each step name appears exactly once, spelled exactly as given. No legends, no captions, no extra labels, no 3D rendering, no shadows, no decorative background.
+```
+
+<details><summary>Chinese prompt</summary>
+
+```text
+画一张【城市空气质量监测】的流程图，从左往右六步：
+1. 【监测站：分布在城市里的小站点】
+2. 【采样口：屋顶上的进气口】
+3. 【传感器：装有几个传感器图标的仪器箱】
+4. 【数据传输：信号箭头传到云端】
+5. 【数据处理：一台服务器】
+6. 【公众发布：手机上显示彩色空气质量徽章】
+不要把编号句子写进图里。
+步骤名（每个只出现一次，不加其他文字）：【Monitoring stations, Sampling inlet, Sensors, Data transmission, Data processing, Public alert】。
+
+风格：期刊式实验流程图。白色背景上干净的扁平矢量图标，每一步一个浅色圆角面板，面板之间用细灰色箭头连接。只用 3–4 种低饱和度颜色。每个面板里只画一个简洁的小场景，面板内不写任何文字；整张图唯一的文字就是给定的步骤名。用英文无衬线字体，每个步骤名只出现一次，拼写与给定完全一致。不要图例、不要说明文字、不要额外标签、不要 3D 渲染、阴影或装饰性背景。
+```
+
+</details>
+
+Model: Nano Banana 2 Lite (gemini-3.1-flash-lite-image, 1K) · Generated 4 times in total; shown are the outputs that passed review
+
+[↑ Back to top](#top)
+
+<sub><a href="https://yila.ai/?utm_source=github&utm_medium=readme&utm_campaign=sci-figure-prompts&utm_content=air-quality-monitoring">Try in Yila →</a></sub>
+
+---
+
+<a id="no-151"></a>
+
+### No. 151: Carbon capture and storage (CCS)
 
 by [@Yila-AI](https://github.com/Yila-AI)
 
@@ -6757,9 +7723,9 @@ Model: Nano Banana 2 Lite (gemini-3.1-flash-lite-image, 1K) · Generated 4 times
 
 ---
 
-<a id="no-134"></a>
+<a id="no-152"></a>
 
-### No. 134: Global carbon cycle
+### No. 152: Global carbon cycle
 
 by [@Yila-AI](https://github.com/Yila-AI)
 
@@ -6797,9 +7763,9 @@ Model: Nano Banana 2 Lite (gemini-3.1-flash-lite-image, 1K) · Generated 2 times
 
 ---
 
-<a id="no-135"></a>
+<a id="no-153"></a>
 
-### No. 135: Contaminated soil and remediation options
+### No. 153: Contaminated soil and remediation options
 
 by [@Yila-AI](https://github.com/Yila-AI)
 
@@ -6851,9 +7817,9 @@ Model: Nano Banana 2 Lite (gemini-3.1-flash-lite-image, 1K) · Generated 4 times
 
 ---
 
-<a id="no-136"></a>
+<a id="no-154"></a>
 
-### No. 136: Ecosystem services framework
+### No. 154: Ecosystem services framework
 
 by [@Yila-AI](https://github.com/Yila-AI)
 
@@ -6905,9 +7871,9 @@ Model: Nano Banana 2 Lite (gemini-3.1-flash-lite-image, 1K) · Generated 6 times
 
 ---
 
-<a id="no-137"></a>
+<a id="no-155"></a>
 
-### No. 137: Field sampling design: transects and plots
+### No. 155: Field sampling design: transects and plots
 
 by [@Yila-AI](https://github.com/Yila-AI)
 
@@ -6955,9 +7921,9 @@ Model: Nano Banana 2 Lite (gemini-3.1-flash-lite-image, 1K) · Generated 2 times
 
 ---
 
-<a id="no-138"></a>
+<a id="no-156"></a>
 
-### No. 138: Groundwater contamination plume
+### No. 156: Groundwater contamination plume
 
 by [@Yila-AI](https://github.com/Yila-AI)
 
@@ -7011,9 +7977,9 @@ Model: Nano Banana 2 Lite (gemini-3.1-flash-lite-image, 1K) · Generated 2 times
 
 ---
 
-<a id="no-139"></a>
+<a id="no-157"></a>
 
-### No. 139: Life cycle assessment (LCA) framework
+### No. 157: Life cycle assessment (LCA) framework
 
 by [@Yila-AI](https://github.com/Yila-AI)
 
@@ -7053,9 +8019,9 @@ Model: Nano Banana 2 Lite (gemini-3.1-flash-lite-image, 1K) · Generated 2 times
 
 ---
 
-<a id="no-140"></a>
+<a id="no-158"></a>
 
-### No. 140: Microplastics pathway
+### No. 158: Microplastics pathway
 
 by [@Yila-AI](https://github.com/Yila-AI)
 
@@ -7105,9 +8071,9 @@ Model: Nano Banana 2 Lite (gemini-3.1-flash-lite-image, 1K) · Generated 4 times
 
 ---
 
-<a id="no-141"></a>
+<a id="no-159"></a>
 
-### No. 141: PM2.5 sources and transport
+### No. 159: PM2.5 sources and transport
 
 by [@Yila-AI](https://github.com/Yila-AI)
 
@@ -7161,9 +8127,9 @@ Model: Nano Banana 2 Lite (gemini-3.1-flash-lite-image, 1K) · Generated 4 times
 
 ---
 
-<a id="no-142"></a>
+<a id="no-160"></a>
 
-### No. 142: Remote sensing processing workflow
+### No. 160: Remote sensing processing workflow
 
 by [@Yila-AI](https://github.com/Yila-AI)
 
@@ -7215,9 +8181,63 @@ Model: Nano Banana 2 Lite (gemini-3.1-flash-lite-image, 1K) · Generated 2 times
 
 ---
 
-<a id="no-143"></a>
+<a id="no-161"></a>
 
-### No. 143: Urban heat island and mitigation
+### No. 161: Soil sampling and analysis workflow
+
+by [@Yila-AI](https://github.com/Yila-AI)
+
+Technique: **one panel per step, step names only** · Style: flat workflow · Aspect ratio: 16:9
+
+| English prompt | Chinese prompt |
+|---|---|
+| <img src="gallery/earth-environment/soil-sampling-analysis-en.jpg" width="420"> | <img src="gallery/earth-environment/soil-sampling-analysis-zh.jpg" width="420"> |
+
+**English prompt**
+
+```text
+Create a workflow figure for 【soil sampling and analysis】, 6 steps from left to right:
+1. 【Grid layout: a field divided into a grid with dots】
+2. 【Coring: a soil auger pulling up a core】
+3. 【Composite sample: several cores mixed in a bag】
+4. 【Air drying and sieving: soil spread on a tray and a sieve】
+5. 【Lab analysis: a lab bench with test tubes】
+6. 【Soil map: a field colored in zones】
+Do not write the numbered sentences in the figure.
+Step names, each used once, no other text: 【Grid layout, Coring, Composite sample, Air drying and sieving, Lab analysis, Soil map】.
+
+Style: journal-style experimental workflow figure. Clean flat vector icons on a white background, one light pastel rounded panel per step, thin gray arrows between panels. Only 3-4 muted colors. Each panel shows one simple scene with no text inside it; the only text in the whole figure is the step names given. Sans-serif English, each step name appears exactly once, spelled exactly as given. No legends, no captions, no extra labels, no 3D rendering, no shadows, no decorative background.
+```
+
+<details><summary>Chinese prompt</summary>
+
+```text
+画一张【土壤采样与分析】的流程图，从左往右六步：
+1. 【网格布点：画了网格和圆点的田块】
+2. 【取土：土钻提出一根土柱】
+3. 【混合样：几根土柱混装进袋】
+4. 【风干过筛：摊开的土和一个筛子】
+5. 【实验室分析：放试管的实验台】
+6. 【土壤分区图：分区着色的田块】
+不要把编号句子写进图里。
+步骤名（每个只出现一次，不加其他文字）：【Grid layout, Coring, Composite sample, Air drying and sieving, Lab analysis, Soil map】。
+
+风格：期刊式实验流程图。白色背景上干净的扁平矢量图标，每一步一个浅色圆角面板，面板之间用细灰色箭头连接。只用 3–4 种低饱和度颜色。每个面板里只画一个简洁的小场景，面板内不写任何文字；整张图唯一的文字就是给定的步骤名。用英文无衬线字体，每个步骤名只出现一次，拼写与给定完全一致。不要图例、不要说明文字、不要额外标签、不要 3D 渲染、阴影或装饰性背景。
+```
+
+</details>
+
+Model: Nano Banana 2 Lite (gemini-3.1-flash-lite-image, 1K) · Generated 4 times in total; shown are the outputs that passed review
+
+[↑ Back to top](#top)
+
+<sub><a href="https://yila.ai/?utm_source=github&utm_medium=readme&utm_campaign=sci-figure-prompts&utm_content=soil-sampling-analysis">Try in Yila →</a></sub>
+
+---
+
+<a id="no-162"></a>
+
+### No. 162: Urban heat island and mitigation
 
 by [@Yila-AI](https://github.com/Yila-AI)
 
@@ -7259,9 +8279,9 @@ Model: Nano Banana 2 Lite (gemini-3.1-flash-lite-image, 1K) · Generated 3 times
 
 ---
 
-<a id="no-144"></a>
+<a id="no-163"></a>
 
-### No. 144: Wastewater treatment process
+### No. 163: Wastewater treatment process
 
 by [@Yila-AI](https://github.com/Yila-AI)
 
@@ -7303,9 +8323,9 @@ Model: Nano Banana 2 Lite (gemini-3.1-flash-lite-image, 1K) · Generated 2 times
 
 ---
 
-<a id="no-145"></a>
+<a id="no-164"></a>
 
-### No. 145: Water cycle
+### No. 164: Water cycle
 
 by [@Yila-AI](https://github.com/Yila-AI)
 
@@ -7361,9 +8381,63 @@ Model: Nano Banana 2 Lite (gemini-3.1-flash-lite-image, 1K) · Generated 4 times
 
 ---
 
-<a id="no-146"></a>
+<a id="no-165"></a>
 
-### No. 146: Watershed nutrient runoff to a lake
+### No. 165: Water quality sampling and testing workflow
+
+by [@Yila-AI](https://github.com/Yila-AI)
+
+Technique: **one panel per step, step names only** · Style: flat workflow · Aspect ratio: 16:9
+
+| English prompt | Chinese prompt |
+|---|---|
+| <img src="gallery/earth-environment/water-quality-sampling-en.jpg" width="420"> | <img src="gallery/earth-environment/water-quality-sampling-zh.jpg" width="420"> |
+
+**English prompt**
+
+```text
+Create a workflow figure for 【water quality monitoring of a river】, 6 steps from left to right:
+1. 【Site selection: a map with three pins along a river】
+2. 【Sampling: a bottle lowered into the river】
+3. 【On-site measurement: a handheld probe in the water】
+4. 【Preservation: sample bottles in a cooler】
+5. 【Lab analysis: a lab bench with a spectrometer】
+6. 【Assessment: a river icon with a quality badge】
+Do not write the numbered sentences in the figure.
+Step names, each used once, no other text: 【Site selection, Sampling, On-site measurement, Preservation, Lab analysis, Assessment】.
+
+Style: journal-style experimental workflow figure. Clean flat vector icons on a white background, one light pastel rounded panel per step, thin gray arrows between panels. Only 3-4 muted colors. Each panel shows one simple scene with no text inside it; the only text in the whole figure is the step names given. Sans-serif English, each step name appears exactly once, spelled exactly as given. No legends, no captions, no extra labels, no 3D rendering, no shadows, no decorative background.
+```
+
+<details><summary>Chinese prompt</summary>
+
+```text
+画一张【河流水质监测】的流程图，从左往右六步：
+1. 【选点：河流沿线有三个定位钉的地图】
+2. 【采样：瓶子放入河中】
+3. 【现场测定：手持探头插入水中】
+4. 【样品保存：放在保温箱里的样品瓶】
+5. 【实验室分析：带分光光度计的实验台】
+6. 【水质评价：河流图标配质量徽章】
+不要把编号句子写进图里。
+步骤名（每个只出现一次，不加其他文字）：【Site selection, Sampling, On-site measurement, Preservation, Lab analysis, Assessment】。
+
+风格：期刊式实验流程图。白色背景上干净的扁平矢量图标，每一步一个浅色圆角面板，面板之间用细灰色箭头连接。只用 3–4 种低饱和度颜色。每个面板里只画一个简洁的小场景，面板内不写任何文字；整张图唯一的文字就是给定的步骤名。用英文无衬线字体，每个步骤名只出现一次，拼写与给定完全一致。不要图例、不要说明文字、不要额外标签、不要 3D 渲染、阴影或装饰性背景。
+```
+
+</details>
+
+Model: Nano Banana 2 Lite (gemini-3.1-flash-lite-image, 1K) · Generated 4 times in total; shown are the outputs that passed review
+
+[↑ Back to top](#top)
+
+<sub><a href="https://yila.ai/?utm_source=github&utm_medium=readme&utm_campaign=sci-figure-prompts&utm_content=water-quality-sampling">Try in Yila →</a></sub>
+
+---
+
+<a id="no-166"></a>
+
+### No. 166: Watershed nutrient runoff to a lake
 
 by [@Yila-AI](https://github.com/Yila-AI)
 
@@ -7425,9 +8499,9 @@ Model: Nano Banana 2 Lite (gemini-3.1-flash-lite-image, 1K) · Generated 6 times
 
 ## AI & Computing
 
-<a id="no-147"></a>
+<a id="no-167"></a>
 
-### No. 147: Cloud–edge–device computing
+### No. 167: Cloud–edge–device computing
 
 by [@Yila-AI](https://github.com/Yila-AI)
 
@@ -7479,9 +8553,9 @@ Model: Nano Banana 2 Lite (gemini-3.1-flash-lite-image, 1K) · Generated 2 times
 
 ---
 
-<a id="no-148"></a>
+<a id="no-168"></a>
 
-### No. 148: Convolutional neural network (CNN) architecture
+### No. 168: Convolutional neural network (CNN) architecture
 
 by [@Yila-AI](https://github.com/Yila-AI)
 
@@ -7521,9 +8595,63 @@ Model: Nano Banana 2 Lite (gemini-3.1-flash-lite-image, 1K) · Generated 4 times
 
 ---
 
-<a id="no-149"></a>
+<a id="no-169"></a>
 
-### No. 149: Diffusion model: forward noising and reverse denoising
+### No. 169: Data annotation pipeline
+
+by [@Yila-AI](https://github.com/Yila-AI)
+
+Technique: **one panel per step, step names only** · Style: flat workflow · Aspect ratio: 16:9
+
+| English prompt | Chinese prompt |
+|---|---|
+| <img src="gallery/ai-computing/data-annotation-pipeline-en.jpg" width="420"> | <img src="gallery/ai-computing/data-annotation-pipeline-zh.jpg" width="420"> |
+
+**English prompt**
+
+```text
+Create a workflow figure for 【building a labeled dataset】, 6 steps from left to right:
+1. 【Raw data: a stack of images and documents】
+2. 【Annotation guideline: a document with a check list】
+3. 【Labeling: a person drawing a box on an image】
+4. 【Quality check: two people comparing labels】
+5. 【Dataset split: one block divided into three parts】
+6. 【Labeled dataset: a database icon with a tag】
+Do not write the numbered sentences in the figure.
+Step names, each used once, no other text: 【Raw data, Annotation guideline, Labeling, Quality check, Dataset split, Labeled dataset】.
+
+Style: journal-style experimental workflow figure. Clean flat vector icons on a white background, one light pastel rounded panel per step, thin gray arrows between panels. Only 3-4 muted colors. Each panel shows one simple scene with no text inside it; the only text in the whole figure is the step names given. Sans-serif English, each step name appears exactly once, spelled exactly as given. No legends, no captions, no extra labels, no 3D rendering, no shadows, no decorative background.
+```
+
+<details><summary>Chinese prompt</summary>
+
+```text
+画一张【构建标注数据集】的流程图，从左往右六步：
+1. 【原始数据：一叠图片和文档】
+2. 【标注规范：带核对清单的文档】
+3. 【标注：一个人在图片上画框】
+4. 【质量检查：两人对比标注结果】
+5. 【数据集划分：一块分成三份】
+6. 【标注数据集：带标签的数据库图标】
+不要把编号句子写进图里。
+步骤名（每个只出现一次，不加其他文字）：【Raw data, Annotation guideline, Labeling, Quality check, Dataset split, Labeled dataset】。
+
+风格：期刊式实验流程图。白色背景上干净的扁平矢量图标，每一步一个浅色圆角面板，面板之间用细灰色箭头连接。只用 3–4 种低饱和度颜色。每个面板里只画一个简洁的小场景，面板内不写任何文字；整张图唯一的文字就是给定的步骤名。用英文无衬线字体，每个步骤名只出现一次，拼写与给定完全一致。不要图例、不要说明文字、不要额外标签、不要 3D 渲染、阴影或装饰性背景。
+```
+
+</details>
+
+Model: Nano Banana 2 Lite (gemini-3.1-flash-lite-image, 1K) · Generated 4 times in total; shown are the outputs that passed review
+
+[↑ Back to top](#top)
+
+<sub><a href="https://yila.ai/?utm_source=github&utm_medium=readme&utm_campaign=sci-figure-prompts&utm_content=data-annotation-pipeline">Try in Yila →</a></sub>
+
+---
+
+<a id="no-170"></a>
+
+### No. 170: Diffusion model: forward noising and reverse denoising
 
 by [@Yila-AI](https://github.com/Yila-AI)
 
@@ -7573,9 +8701,9 @@ Model: Nano Banana 2 Lite (gemini-3.1-flash-lite-image, 1K) · Generated 2 times
 
 ---
 
-<a id="no-150"></a>
+<a id="no-171"></a>
 
-### No. 150: Digital twin
+### No. 171: Digital twin
 
 by [@Yila-AI](https://github.com/Yila-AI)
 
@@ -7623,9 +8751,9 @@ Model: Nano Banana 2 Lite (gemini-3.1-flash-lite-image, 1K) · Generated 2 times
 
 ---
 
-<a id="no-151"></a>
+<a id="no-172"></a>
 
-### No. 151: Federated learning
+### No. 172: Federated learning
 
 by [@Yila-AI](https://github.com/Yila-AI)
 
@@ -7665,9 +8793,9 @@ Model: Nano Banana 2 Lite (gemini-3.1-flash-lite-image, 1K) · Generated 2 times
 
 ---
 
-<a id="no-152"></a>
+<a id="no-173"></a>
 
-### No. 152: Generative adversarial network (GAN)
+### No. 173: Generative adversarial network (GAN)
 
 by [@Yila-AI](https://github.com/Yila-AI)
 
@@ -7719,9 +8847,9 @@ Model: Nano Banana 2 Lite (gemini-3.1-flash-lite-image, 1K) · Generated 2 times
 
 ---
 
-<a id="no-153"></a>
+<a id="no-174"></a>
 
-### No. 153: Graph neural network: message passing
+### No. 174: Graph neural network: message passing
 
 by [@Yila-AI](https://github.com/Yila-AI)
 
@@ -7773,9 +8901,9 @@ Model: Nano Banana 2 Lite (gemini-3.1-flash-lite-image, 1K) · Generated 6 times
 
 ---
 
-<a id="no-154"></a>
+<a id="no-175"></a>
 
-### No. 154: Knowledge graph construction workflow
+### No. 175: Knowledge graph construction workflow
 
 by [@Yila-AI](https://github.com/Yila-AI)
 
@@ -7827,9 +8955,9 @@ Model: Nano Banana 2 Lite (gemini-3.1-flash-lite-image, 1K) · Generated 4 times
 
 ---
 
-<a id="no-155"></a>
+<a id="no-176"></a>
 
-### No. 155: LLM agent loop
+### No. 176: LLM agent loop
 
 by [@Yila-AI](https://github.com/Yila-AI)
 
@@ -7867,9 +8995,9 @@ Model: Nano Banana 2 Lite (gemini-3.1-flash-lite-image, 1K) · Generated 2 times
 
 ---
 
-<a id="no-156"></a>
+<a id="no-177"></a>
 
-### No. 156: LoRA fine-tuning of a large language model
+### No. 177: LoRA fine-tuning of a large language model
 
 by [@Yila-AI](https://github.com/Yila-AI)
 
@@ -7919,9 +9047,9 @@ Model: Nano Banana 2 Lite (gemini-3.1-flash-lite-image, 1K) · Generated 2 times
 
 ---
 
-<a id="no-157"></a>
+<a id="no-178"></a>
 
-### No. 157: Medical imaging and digital pathology AI workflow
+### No. 178: Medical imaging and digital pathology AI workflow
 
 by [@Yila-AI](https://github.com/Yila-AI)
 
@@ -7973,9 +9101,9 @@ Model: Nano Banana 2 Lite (gemini-3.1-flash-lite-image, 1K) · Generated 2 times
 
 ---
 
-<a id="no-158"></a>
+<a id="no-179"></a>
 
-### No. 158: Machine learning modeling pipeline
+### No. 179: Machine learning modeling pipeline
 
 by [@Yila-AI](https://github.com/Yila-AI)
 
@@ -8025,9 +9153,63 @@ Model: Nano Banana 2 Lite (gemini-3.1-flash-lite-image, 1K) · Generated 2 times
 
 ---
 
-<a id="no-159"></a>
+<a id="no-180"></a>
 
-### No. 159: Multi-agent collaboration framework
+### No. 180: Model evaluation workflow
+
+by [@Yila-AI](https://github.com/Yila-AI)
+
+Technique: **one panel per step, step names only** · Style: flat workflow · Aspect ratio: 16:9
+
+| English prompt | Chinese prompt |
+|---|---|
+| <img src="gallery/ai-computing/model-evaluation-workflow-en.jpg" width="420"> | <img src="gallery/ai-computing/model-evaluation-workflow-zh.jpg" width="420"> |
+
+**English prompt**
+
+```text
+Create a workflow figure for 【evaluating a machine learning model】, 6 steps from left to right:
+1. 【Held-out test set: a locked database】
+2. 【Prediction: a small neural network producing outputs】
+3. 【Metrics: a target with a check mark】
+4. 【Error analysis: a magnifier over a few wrong examples】
+5. 【Robustness check: a shield】
+6. 【Report: a document with a stamp】
+Do not write the numbered sentences in the figure.
+Step names, each used once, no other text: 【Test set, Prediction, Metrics, Error analysis, Robustness check, Report】.
+
+Style: journal-style experimental workflow figure. Clean flat vector icons on a white background, one light pastel rounded panel per step, thin gray arrows between panels. Only 3-4 muted colors. Each panel shows one simple scene with no text inside it; the only text in the whole figure is the step names given. Sans-serif English, each step name appears exactly once, spelled exactly as given. No legends, no captions, no extra labels, no 3D rendering, no shadows, no decorative background.
+```
+
+<details><summary>Chinese prompt</summary>
+
+```text
+画一张【评估机器学习模型】的流程图，从左往右六步：
+1. 【独立测试集：带锁的数据库】
+2. 【预测：一个小神经网络输出结果】
+3. 【评估指标：带对勾的靶心】
+4. 【误差分析：放大镜对着几个错例】
+5. 【鲁棒性检验：一面盾牌】
+6. 【报告：盖了章的文档】
+不要把编号句子写进图里。
+步骤名（每个只出现一次，不加其他文字）：【Test set, Prediction, Metrics, Error analysis, Robustness check, Report】。
+
+风格：期刊式实验流程图。白色背景上干净的扁平矢量图标，每一步一个浅色圆角面板，面板之间用细灰色箭头连接。只用 3–4 种低饱和度颜色。每个面板里只画一个简洁的小场景，面板内不写任何文字；整张图唯一的文字就是给定的步骤名。用英文无衬线字体，每个步骤名只出现一次，拼写与给定完全一致。不要图例、不要说明文字、不要额外标签、不要 3D 渲染、阴影或装饰性背景。
+```
+
+</details>
+
+Model: Nano Banana 2 Lite (gemini-3.1-flash-lite-image, 1K) · Generated 4 times in total; shown are the outputs that passed review
+
+[↑ Back to top](#top)
+
+<sub><a href="https://yila.ai/?utm_source=github&utm_medium=readme&utm_campaign=sci-figure-prompts&utm_content=model-evaluation-workflow">Try in Yila →</a></sub>
+
+---
+
+<a id="no-181"></a>
+
+### No. 181: Multi-agent collaboration framework
 
 by [@Yila-AI](https://github.com/Yila-AI)
 
@@ -8077,9 +9259,9 @@ Model: Nano Banana 2 Lite (gemini-3.1-flash-lite-image, 1K) · Generated 4 times
 
 ---
 
-<a id="no-160"></a>
+<a id="no-182"></a>
 
-### No. 160: Multimodal large language model architecture
+### No. 182: Multimodal large language model architecture
 
 by [@Yila-AI](https://github.com/Yila-AI)
 
@@ -8125,9 +9307,9 @@ Model: Nano Banana 2 Lite (gemini-3.1-flash-lite-image, 1K) · Generated 2 times
 
 ---
 
-<a id="no-161"></a>
+<a id="no-183"></a>
 
-### No. 161: Retrieval-augmented generation (RAG) pipeline
+### No. 183: Retrieval-augmented generation (RAG) pipeline
 
 by [@Yila-AI](https://github.com/Yila-AI)
 
@@ -8179,9 +9361,9 @@ Model: Nano Banana 2 Lite (gemini-3.1-flash-lite-image, 1K) · Generated 3 times
 
 ---
 
-<a id="no-162"></a>
+<a id="no-184"></a>
 
-### No. 162: Recommender system: retrieval, ranking and feedback
+### No. 184: Recommender system: retrieval, ranking and feedback
 
 by [@Yila-AI](https://github.com/Yila-AI)
 
@@ -8229,9 +9411,9 @@ Model: Nano Banana 2 Lite (gemini-3.1-flash-lite-image, 1K) · Generated 2 times
 
 ---
 
-<a id="no-163"></a>
+<a id="no-185"></a>
 
-### No. 163: Reinforcement learning: agent–environment loop
+### No. 185: Reinforcement learning: agent–environment loop
 
 by [@Yila-AI](https://github.com/Yila-AI)
 
@@ -8279,9 +9461,57 @@ Model: Nano Banana 2 Lite (gemini-3.1-flash-lite-image, 1K) · Generated 2 times
 
 ---
 
-<a id="no-164"></a>
+<a id="no-186"></a>
 
-### No. 164: Transformer architecture
+### No. 186: Transfer learning
+
+by [@Yila-AI](https://github.com/Yila-AI)
+
+Technique: **pretraining then fine-tuning** · Style: schematic diagram · Aspect ratio: 16:9
+
+| Chinese prompt |
+|---|
+| <img src="gallery/ai-computing/transfer-learning-zh.jpg" width="420"> |
+
+**English prompt**
+
+```text
+Create a schematic of 【transfer learning】, read from left to right, in two light panels. Draw each relationship exactly as listed and nothing more:
+1. 【Left panel: a large source dataset (a big database icon) → a pretrained model (a network drawn in blue).】
+2. 【A thick arrow carries the pretrained layers from the left panel into the right panel.】
+3. 【Right panel: a small target dataset (a small database icon) → the same network, its early layers in blue marked frozen with a small lock, and its last layer in orange → target task (a check mark).】
+There are no T-bars in this figure. Do not write the numbered sentences in the figure. Write each label only once in the whole figure.
+Labels, each used once, no other text: 【Source dataset, Pretrained model, Target dataset, Frozen layers, Fine-tuned layer, Target task】.
+
+Style: journal-style schematic diagram. Clean flat vector graphics on a white background. Modules are rounded rectangles or simple icons with their short names inside; light pastel panels group related layers. Only 3-4 muted colors, each with one fixed meaning. Thin, uniform arrows show the flow of data, energy, material or influence; dashed arrows for indirect or feedback links. Sans-serif English labels only, each label appears exactly once, spelled exactly as given. No 3D rendering, no shadows, no glow, no cyberpunk or tech-background decoration, no photorealism.
+```
+
+<details><summary>Chinese prompt</summary>
+
+```text
+画一张【迁移学习】示意图，从左往右读，两个浅色面板。严格按下面列出的关系画，不多画：
+1. 【左面板：大型源数据集（大数据库图标）→ 预训练模型（画成蓝色的网络）。】
+2. 【一条粗箭头把预训练层从左面板带到右面板。】
+3. 【右面板：小型目标数据集（小数据库图标）→ 同一个网络，前面几层为蓝色并带小锁表示冻结，最后一层为橙色 → 目标任务（对勾）。】
+图中没有 T 形线。不要把编号句子写进图里。整张图里每个标签只写一次。
+标签（每个只出现一次，不加其他文字）：【Source dataset, Pretrained model, Target dataset, Frozen layers, Fine-tuned layer, Target task】。
+
+风格：期刊式示意框图。白色背景上干净的扁平矢量图形。模块画成圆角矩形或简洁图标，名称写在里面；用浅色面板把相关的层归在一起。只用 3–4 种低饱和度颜色，每种颜色含义固定。细而粗细一致的箭头表示数据、能量、物质或影响的流向，间接或反馈关系用虚线箭头。图中文字只用英文无衬线字体，每个标签只出现一次，拼写与给定完全一致。不要 3D 渲染、阴影、发光、赛博朋克或科技感背景装饰，不要照片质感。
+```
+
+</details>
+
+Model: Nano Banana 2 Lite (gemini-3.1-flash-lite-image, 1K) · Generated 4 times in total; shown are the outputs that passed review
+
+[↑ Back to top](#top)
+
+<sub><a href="https://yila.ai/?utm_source=github&utm_medium=readme&utm_campaign=sci-figure-prompts&utm_content=transfer-learning">Try in Yila →</a></sub>
+
+---
+
+<a id="no-187"></a>
+
+### No. 187: Transformer architecture
 
 by [@Yila-AI](https://github.com/Yila-AI)
 
@@ -8329,9 +9559,9 @@ Model: Nano Banana 2 Lite (gemini-3.1-flash-lite-image, 1K) · Generated 2 times
 
 ---
 
-<a id="no-165"></a>
+<a id="no-188"></a>
 
-### No. 165: U-Net architecture
+### No. 188: U-Net architecture
 
 by [@Yila-AI](https://github.com/Yila-AI)
 
@@ -8373,9 +9603,9 @@ Model: Nano Banana 2 Lite (gemini-3.1-flash-lite-image, 1K) · Generated 4 times
 
 ---
 
-<a id="no-166"></a>
+<a id="no-189"></a>
 
-### No. 166: Variational autoencoder (VAE)
+### No. 189: Variational autoencoder (VAE)
 
 by [@Yila-AI](https://github.com/Yila-AI)
 
@@ -8425,9 +9655,9 @@ Model: Nano Banana 2 Lite (gemini-3.1-flash-lite-image, 1K) · Generated 6 times
 
 ---
 
-<a id="no-167"></a>
+<a id="no-190"></a>
 
-### No. 167: Vision Transformer (ViT) architecture
+### No. 190: Vision Transformer (ViT) architecture
 
 by [@Yila-AI](https://github.com/Yila-AI)
 
@@ -8485,9 +9715,9 @@ Model: Nano Banana 2 Lite (gemini-3.1-flash-lite-image, 1K) · Generated 6 times
 
 ## Engineering Systems
 
-<a id="no-168"></a>
+<a id="no-191"></a>
 
-### No. 168: Autonomous driving perception to control
+### No. 191: Autonomous driving perception to control
 
 by [@Yila-AI](https://github.com/Yila-AI)
 
@@ -8531,9 +9761,9 @@ Model: Nano Banana 2 Lite (gemini-3.1-flash-lite-image, 1K) · Generated 2 times
 
 ---
 
-<a id="no-169"></a>
+<a id="no-192"></a>
 
-### No. 169: Bridge structural health monitoring
+### No. 192: Bridge structural health monitoring
 
 by [@Yila-AI](https://github.com/Yila-AI)
 
@@ -8585,9 +9815,9 @@ Model: Nano Banana 2 Lite (gemini-3.1-flash-lite-image, 1K) · Generated 6 times
 
 ---
 
-<a id="no-170"></a>
+<a id="no-193"></a>
 
-### No. 170: Electric vehicle powertrain
+### No. 193: Electric vehicle powertrain
 
 by [@Yila-AI](https://github.com/Yila-AI)
 
@@ -8639,9 +9869,9 @@ Model: Nano Banana 2 Lite (gemini-3.1-flash-lite-image, 1K) · Generated 6 times
 
 ---
 
-<a id="no-171"></a>
+<a id="no-194"></a>
 
-### No. 171: Integrated energy system
+### No. 194: Integrated energy system
 
 by [@Yila-AI](https://github.com/Yila-AI)
 
@@ -8679,9 +9909,9 @@ Model: Nano Banana 2 Lite (gemini-3.1-flash-lite-image, 1K) · Generated 2 times
 
 ---
 
-<a id="no-172"></a>
+<a id="no-195"></a>
 
-### No. 172: IoT monitoring architecture
+### No. 195: IoT monitoring architecture
 
 by [@Yila-AI](https://github.com/Yila-AI)
 
@@ -8719,9 +9949,9 @@ Model: Nano Banana 2 Lite (gemini-3.1-flash-lite-image, 1K) · Generated 2 times
 
 ---
 
-<a id="no-173"></a>
+<a id="no-196"></a>
 
-### No. 173: Microgrid
+### No. 196: Microgrid
 
 by [@Yila-AI](https://github.com/Yila-AI)
 
@@ -8761,9 +9991,9 @@ Model: Nano Banana 2 Lite (gemini-3.1-flash-lite-image, 1K) · Generated 2 times
 
 ---
 
-<a id="no-174"></a>
+<a id="no-197"></a>
 
-### No. 174: PID closed-loop control
+### No. 197: PID closed-loop control
 
 by [@Yila-AI](https://github.com/Yila-AI)
 
@@ -8811,9 +10041,9 @@ Model: Nano Banana 2 Lite (gemini-3.1-flash-lite-image, 1K) · Generated 3 times
 
 ---
 
-<a id="no-175"></a>
+<a id="no-198"></a>
 
-### No. 175: Robotic arm system
+### No. 198: Robotic arm system
 
 by [@Yila-AI](https://github.com/Yila-AI)
 
@@ -8867,9 +10097,9 @@ Model: Nano Banana 2 Lite (gemini-3.1-flash-lite-image, 1K) · Generated 6 times
 
 ---
 
-<a id="no-176"></a>
+<a id="no-199"></a>
 
-### No. 176: Smart grid
+### No. 199: Smart grid
 
 by [@Yila-AI](https://github.com/Yila-AI)
 
@@ -8919,9 +10149,9 @@ Model: Nano Banana 2 Lite (gemini-3.1-flash-lite-image, 1K) · Generated 2 times
 
 ---
 
-<a id="no-177"></a>
+<a id="no-200"></a>
 
-### No. 177: Wind turbine nacelle cutaway
+### No. 200: Wind turbine nacelle cutaway
 
 by [@Yila-AI](https://github.com/Yila-AI)
 
@@ -8969,9 +10199,9 @@ Model: Nano Banana 2 Lite (gemini-3.1-flash-lite-image, 1K) · Generated 2 times
 
 ---
 
-<a id="no-178"></a>
+<a id="no-201"></a>
 
-### No. 178: Wireless sensor network
+### No. 201: Wireless sensor network
 
 by [@Yila-AI](https://github.com/Yila-AI)
 
@@ -9027,9 +10257,9 @@ Model: Nano Banana 2 Lite (gemini-3.1-flash-lite-image, 1K) · Generated 6 times
 
 ## Chemistry & Instruments
 
-<a id="no-179"></a>
+<a id="no-202"></a>
 
-### No. 179: Continuous flow chemistry setup
+### No. 202: Continuous flow chemistry setup
 
 by [@Yila-AI](https://github.com/Yila-AI)
 
@@ -9083,9 +10313,9 @@ Model: Nano Banana 2 Lite (gemini-3.1-flash-lite-image, 1K) · Generated 2 times
 
 ---
 
-<a id="no-180"></a>
+<a id="no-203"></a>
 
-### No. 180: Cross-coupling catalytic cycle (Suzuki)
+### No. 203: Cross-coupling catalytic cycle (Suzuki)
 
 by [@Yila-AI](https://github.com/Yila-AI)
 
@@ -9133,9 +10363,9 @@ Model: Nano Banana 2 Lite (gemini-3.1-flash-lite-image, 1K) · Generated 4 times
 
 ---
 
-<a id="no-181"></a>
+<a id="no-204"></a>
 
-### No. 181: Enzyme catalysis and induced fit
+### No. 204: Enzyme catalysis and induced fit
 
 by [@Yila-AI](https://github.com/Yila-AI)
 
@@ -9183,9 +10413,9 @@ Model: Nano Banana 2 Lite (gemini-3.1-flash-lite-image, 1K) · Generated 2 times
 
 ---
 
-<a id="no-182"></a>
+<a id="no-205"></a>
 
-### No. 182: Fluorescent probe sensing mechanism
+### No. 205: Fluorescent probe sensing mechanism
 
 by [@Yila-AI](https://github.com/Yila-AI)
 
@@ -9231,9 +10461,9 @@ Model: Nano Banana 2 Lite (gemini-3.1-flash-lite-image, 1K) · Generated 4 times
 
 ---
 
-<a id="no-183"></a>
+<a id="no-206"></a>
 
-### No. 183: HPLC system
+### No. 206: HPLC system
 
 by [@Yila-AI](https://github.com/Yila-AI)
 
@@ -9271,9 +10501,9 @@ Model: Nano Banana 2 Lite (gemini-3.1-flash-lite-image, 1K) · Generated 3 times
 
 ---
 
-<a id="no-184"></a>
+<a id="no-207"></a>
 
-### No. 184: Triple quadrupole mass spectrometer
+### No. 207: Triple quadrupole mass spectrometer
 
 by [@Yila-AI](https://github.com/Yila-AI)
 
@@ -9311,9 +10541,9 @@ Model: Nano Banana 2 Lite (gemini-3.1-flash-lite-image, 1K) · Generated 3 times
 
 ---
 
-<a id="no-185"></a>
+<a id="no-208"></a>
 
-### No. 185: NMR principle
+### No. 208: NMR principle
 
 by [@Yila-AI](https://github.com/Yila-AI)
 
@@ -9359,9 +10589,9 @@ Model: Nano Banana 2 Lite (gemini-3.1-flash-lite-image, 1K) · Generated 6 times
 
 ---
 
-<a id="no-186"></a>
+<a id="no-209"></a>
 
-### No. 186: Three-electrode electrochemical cell
+### No. 209: Three-electrode electrochemical cell
 
 by [@Yila-AI](https://github.com/Yila-AI)
 
@@ -9403,9 +10633,9 @@ Model: Nano Banana 2 Lite (gemini-3.1-flash-lite-image, 1K) · Generated 4 times
 
 ---
 
-<a id="no-187"></a>
+<a id="no-210"></a>
 
-### No. 187: UV-Vis spectrophotometer principle
+### No. 210: UV-Vis spectrophotometer principle
 
 by [@Yila-AI](https://github.com/Yila-AI)
 
@@ -9463,9 +10693,9 @@ Model: Nano Banana 2 Lite (gemini-3.1-flash-lite-image, 1K) · Generated 6 times
 
 ## Plant & Agriculture
 
-<a id="no-188"></a>
+<a id="no-211"></a>
 
-### No. 188: C3 versus C4 photosynthesis
+### No. 211: C3 versus C4 photosynthesis
 
 by [@Yila-AI](https://github.com/Yila-AI)
 
@@ -9513,9 +10743,9 @@ Model: Nano Banana 2 Lite (gemini-3.1-flash-lite-image, 1K) · Generated 4 times
 
 ---
 
-<a id="no-189"></a>
+<a id="no-212"></a>
 
-### No. 189: CRISPR gene-edited crop breeding workflow
+### No. 212: CRISPR gene-edited crop breeding workflow
 
 by [@Yila-AI](https://github.com/Yila-AI)
 
@@ -9571,9 +10801,9 @@ Model: Nano Banana 2 Lite (gemini-3.1-flash-lite-image, 1K) · Generated 4 times
 
 ---
 
-<a id="no-190"></a>
+<a id="no-213"></a>
 
-### No. 190: Drought stress and ABA signaling
+### No. 213: Drought stress and ABA signaling
 
 by [@Yila-AI](https://github.com/Yila-AI)
 
@@ -9623,9 +10853,9 @@ Model: Nano Banana 2 Lite (gemini-3.1-flash-lite-image, 1K) · Generated 6 times
 
 ---
 
-<a id="no-191"></a>
+<a id="no-214"></a>
 
-### No. 191: Field trial layout: randomized complete block design
+### No. 214: Field trial layout: randomized complete block design
 
 by [@Yila-AI](https://github.com/Yila-AI)
 
@@ -9663,9 +10893,9 @@ Model: Nano Banana 2 Lite (gemini-3.1-flash-lite-image, 1K) · Generated 5 times
 
 ---
 
-<a id="no-192"></a>
+<a id="no-215"></a>
 
-### No. 192: Leaf structure and photosynthesis
+### No. 215: Leaf structure and photosynthesis
 
 by [@Yila-AI](https://github.com/Yila-AI)
 
@@ -9705,9 +10935,9 @@ Model: Nano Banana 2 Lite (gemini-3.1-flash-lite-image, 1K) · Generated 3 times
 
 ---
 
-<a id="no-193"></a>
+<a id="no-216"></a>
 
-### No. 193: Plant hormone crosstalk: auxin, cytokinin, ABA and GA
+### No. 216: Plant hormone crosstalk: auxin, cytokinin, ABA and GA
 
 by [@Yila-AI](https://github.com/Yila-AI)
 
@@ -9759,9 +10989,9 @@ Model: Nano Banana 2 Lite (gemini-3.1-flash-lite-image, 1K) · Generated 4 times
 
 ---
 
-<a id="no-194"></a>
+<a id="no-217"></a>
 
-### No. 194: Plant immunity: PTI and ETI
+### No. 217: Plant immunity: PTI and ETI
 
 by [@Yila-AI](https://github.com/Yila-AI)
 
@@ -9811,9 +11041,63 @@ Model: Nano Banana 2 Lite (gemini-3.1-flash-lite-image, 1K) · Generated 6 times
 
 ---
 
-<a id="no-195"></a>
+<a id="no-218"></a>
 
-### No. 195: Precision agriculture with drones
+### No. 218: Plant tissue culture workflow
+
+by [@Yila-AI](https://github.com/Yila-AI)
+
+Technique: **one panel per step, step names only** · Style: flat workflow · Aspect ratio: 16:9
+
+| English prompt | Chinese prompt |
+|---|---|
+| <img src="gallery/plant-agriculture/plant-tissue-culture-en.jpg" width="420"> | <img src="gallery/plant-agriculture/plant-tissue-culture-zh.jpg" width="420"> |
+
+**English prompt**
+
+```text
+Create a workflow figure for 【plant tissue culture】, 6 steps from left to right:
+1. 【Explant: a small leaf piece cut from a plant】
+2. 【Sterilization: the piece in a beaker of disinfectant】
+3. 【Callus induction: a pale lump on medium in a jar】
+4. 【Shoot regeneration: small shoots growing from the lump】
+5. 【Rooting: a shoot with roots in a tube】
+6. 【Acclimatization: a small plant in a pot】
+Do not write the numbered sentences in the figure.
+Step names, each used once, no other text: 【Explant, Sterilization, Callus induction, Shoot regeneration, Rooting, Acclimatization】.
+
+Style: journal-style experimental workflow figure. Clean flat vector icons on a white background, one light pastel rounded panel per step, thin gray arrows between panels. Only 3-4 muted colors. Each panel shows one simple scene with no text inside it; the only text in the whole figure is the step names given. Sans-serif English, each step name appears exactly once, spelled exactly as given. No legends, no captions, no extra labels, no 3D rendering, no shadows, no decorative background.
+```
+
+<details><summary>Chinese prompt</summary>
+
+```text
+画一张【植物组织培养】的流程图，从左往右六步：
+1. 【外植体：从植株上切下的小叶片】
+2. 【消毒：叶片放在消毒液烧杯里】
+3. 【愈伤诱导：培养瓶中培养基上的浅色团块】
+4. 【不定芽再生：团块上长出小芽】
+5. 【生根：试管里带根的小苗】
+6. 【炼苗移栽：花盆里的小植株】
+不要把编号句子写进图里。
+步骤名（每个只出现一次，不加其他文字）：【Explant, Sterilization, Callus induction, Shoot regeneration, Rooting, Acclimatization】。
+
+风格：期刊式实验流程图。白色背景上干净的扁平矢量图标，每一步一个浅色圆角面板，面板之间用细灰色箭头连接。只用 3–4 种低饱和度颜色。每个面板里只画一个简洁的小场景，面板内不写任何文字；整张图唯一的文字就是给定的步骤名。用英文无衬线字体，每个步骤名只出现一次，拼写与给定完全一致。不要图例、不要说明文字、不要额外标签、不要 3D 渲染、阴影或装饰性背景。
+```
+
+</details>
+
+Model: Nano Banana 2 Lite (gemini-3.1-flash-lite-image, 1K) · Generated 4 times in total; shown are the outputs that passed review
+
+[↑ Back to top](#top)
+
+<sub><a href="https://yila.ai/?utm_source=github&utm_medium=readme&utm_campaign=sci-figure-prompts&utm_content=plant-tissue-culture">Try in Yila →</a></sub>
+
+---
+
+<a id="no-219"></a>
+
+### No. 219: Precision agriculture with drones
 
 by [@Yila-AI](https://github.com/Yila-AI)
 
@@ -9863,9 +11147,9 @@ Model: Nano Banana 2 Lite (gemini-3.1-flash-lite-image, 1K) · Generated 4 times
 
 ---
 
-<a id="no-196"></a>
+<a id="no-220"></a>
 
-### No. 196: Root nodule nitrogen fixation
+### No. 220: Root nodule nitrogen fixation
 
 by [@Yila-AI](https://github.com/Yila-AI)
 
@@ -9917,9 +11201,9 @@ Model: Nano Banana 2 Lite (gemini-3.1-flash-lite-image, 1K) · Generated 4 times
 
 ---
 
-<a id="no-197"></a>
+<a id="no-221"></a>
 
-### No. 197: Roots and the rhizosphere
+### No. 221: Roots and the rhizosphere
 
 by [@Yila-AI](https://github.com/Yila-AI)
 
@@ -9959,9 +11243,9 @@ Model: Nano Banana 2 Lite (gemini-3.1-flash-lite-image, 1K) · Generated 4 times
 
 ---
 
-<a id="no-198"></a>
+<a id="no-222"></a>
 
-### No. 198: Seed germination stages
+### No. 222: Seed germination stages
 
 by [@Yila-AI](https://github.com/Yila-AI)
 
@@ -10019,9 +11303,9 @@ Model: Nano Banana 2 Lite (gemini-3.1-flash-lite-image, 1K) · Generated 2 times
 
 ## Social Science
 
-<a id="no-199"></a>
+<a id="no-223"></a>
 
-### No. 199: ADDIE instructional design model
+### No. 223: ADDIE instructional design model
 
 by [@Yila-AI](https://github.com/Yila-AI)
 
@@ -10067,9 +11351,9 @@ Model: Nano Banana 2 Lite (gemini-3.1-flash-lite-image, 1K) · Generated 2 times
 
 ---
 
-<a id="no-200"></a>
+<a id="no-224"></a>
 
-### No. 200: AI-enabled education framework
+### No. 224: AI-enabled education framework
 
 by [@Yila-AI](https://github.com/Yila-AI)
 
@@ -10121,9 +11405,9 @@ Model: Nano Banana 2 Lite (gemini-3.1-flash-lite-image, 1K) · Generated 4 times
 
 ---
 
-<a id="no-201"></a>
+<a id="no-225"></a>
 
-### No. 201: Bronfenbrenner's ecological systems theory
+### No. 225: Bronfenbrenner's ecological systems theory
 
 by [@Yila-AI](https://github.com/Yila-AI)
 
@@ -10177,9 +11461,9 @@ Model: Nano Banana 2 Lite (gemini-3.1-flash-lite-image, 1K) · Generated 4 times
 
 ---
 
-<a id="no-202"></a>
+<a id="no-226"></a>
 
-### No. 202: Difference-in-differences policy evaluation design
+### No. 226: Difference-in-differences policy evaluation design
 
 by [@Yila-AI](https://github.com/Yila-AI)
 
@@ -10229,9 +11513,9 @@ Model: Nano Banana 2 Lite (gemini-3.1-flash-lite-image, 1K) · Generated 2 times
 
 ---
 
-<a id="no-203"></a>
+<a id="no-227"></a>
 
-### No. 203: FAIR research data lifecycle
+### No. 227: FAIR research data lifecycle
 
 by [@Yila-AI](https://github.com/Yila-AI)
 
@@ -10277,9 +11561,9 @@ Model: Nano Banana 2 Lite (gemini-3.1-flash-lite-image, 1K) · Generated 2 times
 
 ---
 
-<a id="no-204"></a>
+<a id="no-228"></a>
 
-### No. 204: Flipped classroom model
+### No. 228: Flipped classroom model
 
 by [@Yila-AI](https://github.com/Yila-AI)
 
@@ -10329,9 +11613,9 @@ Model: Nano Banana 2 Lite (gemini-3.1-flash-lite-image, 1K) · Generated 4 times
 
 ---
 
-<a id="no-205"></a>
+<a id="no-229"></a>
 
-### No. 205: Learning analytics workflow
+### No. 229: Learning analytics workflow
 
 by [@Yila-AI](https://github.com/Yila-AI)
 
@@ -10383,9 +11667,9 @@ Model: Nano Banana 2 Lite (gemini-3.1-flash-lite-image, 1K) · Generated 2 times
 
 ---
 
-<a id="no-206"></a>
+<a id="no-230"></a>
 
-### No. 206: Logic model: inputs, activities, outputs, outcomes
+### No. 230: Logic model: inputs, activities, outputs, outcomes
 
 by [@Yila-AI](https://github.com/Yila-AI)
 
@@ -10433,9 +11717,9 @@ Model: Nano Banana 2 Lite (gemini-3.1-flash-lite-image, 1K) · Generated 2 times
 
 ---
 
-<a id="no-207"></a>
+<a id="no-231"></a>
 
-### No. 207: Explanatory sequential mixed-methods design
+### No. 231: Explanatory sequential mixed-methods design
 
 by [@Yila-AI](https://github.com/Yila-AI)
 
@@ -10481,9 +11765,9 @@ Model: Nano Banana 2 Lite (gemini-3.1-flash-lite-image, 1K) · Generated 2 times
 
 ---
 
-<a id="no-208"></a>
+<a id="no-232"></a>
 
-### No. 208: Open science research lifecycle
+### No. 232: Open science research lifecycle
 
 by [@Yila-AI](https://github.com/Yila-AI)
 
@@ -10529,9 +11813,9 @@ Model: Nano Banana 2 Lite (gemini-3.1-flash-lite-image, 1K) · Generated 4 times
 
 ---
 
-<a id="no-209"></a>
+<a id="no-233"></a>
 
-### No. 209: Research framework with mediator and moderator
+### No. 233: Research framework with mediator and moderator
 
 by [@Yila-AI](https://github.com/Yila-AI)
 
@@ -10583,9 +11867,9 @@ Model: Nano Banana 2 Lite (gemini-3.1-flash-lite-image, 1K) · Generated 3 times
 
 ---
 
-<a id="no-210"></a>
+<a id="no-234"></a>
 
-### No. 210: Scale development and validation workflow
+### No. 234: Scale development and validation workflow
 
 by [@Yila-AI](https://github.com/Yila-AI)
 
@@ -10639,9 +11923,9 @@ Model: Nano Banana 2 Lite (gemini-3.1-flash-lite-image, 1K) · Generated 4 times
 
 ---
 
-<a id="no-211"></a>
+<a id="no-235"></a>
 
-### No. 211: Stakeholder map (power–interest grid)
+### No. 235: Stakeholder map (power–interest grid)
 
 by [@Yila-AI](https://github.com/Yila-AI)
 
@@ -10691,9 +11975,9 @@ Model: Nano Banana 2 Lite (gemini-3.1-flash-lite-image, 1K) · Generated 4 times
 
 ---
 
-<a id="no-212"></a>
+<a id="no-236"></a>
 
-### No. 212: Technology acceptance model (TAM)
+### No. 236: Technology acceptance model (TAM)
 
 by [@Yila-AI](https://github.com/Yila-AI)
 
@@ -10741,9 +12025,9 @@ Model: Nano Banana 2 Lite (gemini-3.1-flash-lite-image, 1K) · Generated 2 times
 
 ---
 
-<a id="no-213"></a>
+<a id="no-237"></a>
 
-### No. 213: Research technical roadmap
+### No. 237: Research technical roadmap
 
 by [@Yila-AI](https://github.com/Yila-AI)
 
@@ -10781,9 +12065,9 @@ Model: Nano Banana 2 Lite (gemini-3.1-flash-lite-image, 1K) · Generated 3 times
 
 ---
 
-<a id="no-214"></a>
+<a id="no-238"></a>
 
-### No. 214: Theory of planned behavior (TPB)
+### No. 238: Theory of planned behavior (TPB)
 
 by [@Yila-AI](https://github.com/Yila-AI)
 
@@ -10829,9 +12113,9 @@ Model: Nano Banana 2 Lite (gemini-3.1-flash-lite-image, 1K) · Generated 2 times
 
 ---
 
-<a id="no-215"></a>
+<a id="no-239"></a>
 
-### No. 215: Unified theory of acceptance and use of technology (UTAUT)
+### No. 239: Unified theory of acceptance and use of technology (UTAUT)
 
 by [@Yila-AI](https://github.com/Yila-AI)
 

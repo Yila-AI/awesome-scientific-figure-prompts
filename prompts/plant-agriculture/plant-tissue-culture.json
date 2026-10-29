@@ -1,0 +1,20 @@
+{
+  "id": "plant-tissue-culture",
+  "theme": "plant-agriculture",
+  "technique": "每步一个面板，只写步骤名",
+  "technique_en": "one panel per step, step names only",
+  "featured": false,
+  "added": "2026-10-28",
+  "author": "Yila-AI",
+  "author_url": "https://github.com/Yila-AI",
+  "title": {
+    "zh": "植物组织培养流程",
+    "en": "Plant tissue culture workflow"
+  },
+  "style": "W",
+  "size": "16:9",
+  "content": {
+    "en": "Create a workflow figure for 【plant tissue culture】, 6 steps from left to right:\n1. 【Explant: a small leaf piece cut from a plant】\n2. 【Sterilization: the piece in a beaker of disinfectant】\n3. 【Callus induction: a pale lump on medium in a jar】\n4. 【Shoot regeneration: small shoots growing from the lump】\n5. 【Rooting: a shoot with roots in a tube】\n6. 【Acclimatization: a small plant in a pot】\nDo not write the numbered sentences in the figure.\nStep names, each used once, no other text: 【Explant, Sterilization, Callus induction, Shoot regeneration, Rooting, Acclimatization】.",
+    "zh": "画一张【植物组织培养】的流程图，从左往右六步：\n1. 【外植体：从植株上切下的小叶片】\n2. 【消毒：叶片放在消毒液烧杯里】\n3. 【愈伤诱导：培养瓶中培养基上的浅色团块】\n4. 【不定芽再生：团块上长出小芽】\n5. 【生根：试管里带根的小苗】\n6. 【炼苗移栽：花盆里的小植株】\n不要把编号句子写进图里。\n步骤名（每个只出现一次，不加其他文字）：【Explant, Sterilization, Callus induction, Shoot regeneration, Rooting, Acclimatization】。"
+  }
+}

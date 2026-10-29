@@ -1,0 +1,20 @@
+{
+  "id": "cck8-viability-assay",
+  "theme": "experimental-workflow",
+  "technique": "每步一个面板，只写步骤名",
+  "technique_en": "one panel per step, step names only",
+  "featured": false,
+  "added": "2026-10-28",
+  "author": "Yila-AI",
+  "author_url": "https://github.com/Yila-AI",
+  "title": {
+    "zh": "CCK-8 细胞活力检测流程",
+    "en": "CCK-8 cell viability assay workflow"
+  },
+  "style": "W",
+  "size": "16:9",
+  "content": {
+    "en": "Create a workflow figure for 【a CCK-8 cell viability assay】, 6 steps from left to right:\n1. 【Cell seeding: cells in a 96-well plate】\n2. 【Drug treatment: a pipette adding drops to the wells】\n3. 【Incubation: the plate in an incubator】\n4. 【CCK-8 reagent: a dropper adding yellow reagent to the wells】\n5. 【Color development: wells turning orange】\n6. 【Absorbance reading: a plate reader】\nDo not write the numbered sentences in the figure.\nStep names, each used once, no other text: 【Cell seeding, Drug treatment, Incubation, CCK-8 reagent, Color development, Absorbance reading】.",
+    "zh": "画一张【CCK-8 细胞活力检测】的流程图，从左往右六步：\n1. 【铺板：96 孔板里的细胞】\n2. 【加药处理：移液枪往孔里加液滴】\n3. 【孵育：孔板放进培养箱】\n4. 【加 CCK-8：滴管往孔里加黄色试剂】\n5. 【显色：孔变成橙色】\n6. 【读吸光度：一台酶标仪】\n不要把编号句子写进图里。\n步骤名（每个只出现一次，不加其他文字）：【Cell seeding, Drug treatment, Incubation, CCK-8 reagent, Color development, Absorbance reading】。"
+  }
+}

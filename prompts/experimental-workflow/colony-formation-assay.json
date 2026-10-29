@@ -1,0 +1,20 @@
+{
+  "id": "colony-formation-assay",
+  "theme": "experimental-workflow",
+  "technique": "每步一个面板，只写步骤名",
+  "technique_en": "one panel per step, step names only",
+  "featured": false,
+  "added": "2026-10-28",
+  "author": "Yila-AI",
+  "author_url": "https://github.com/Yila-AI",
+  "title": {
+    "zh": "克隆形成实验流程",
+    "en": "Colony formation assay workflow"
+  },
+  "style": "W",
+  "size": "16:9",
+  "content": {
+    "en": "Create a workflow figure for 【a colony formation assay】, 6 steps from left to right:\n1. 【Low-density seeding: a few single cells in a 6-well plate】\n2. 【Treatment: a dropper adding drug】\n3. 【Long-term culture: the plate in an incubator with a calendar icon】\n4. 【Fixation: a bottle of fixative】\n5. 【Crystal violet staining: purple dots appearing in the wells】\n6. 【Colony counting: a magnifier over purple colonies】\nDo not write the numbered sentences in the figure.\nStep names, each used once, no other text: 【Low-density seeding, Treatment, Long-term culture, Fixation, Crystal violet staining, Colony counting】.",
+    "zh": "画一张【克隆形成实验】的流程图，从左往右六步：\n1. 【低密度铺板：6 孔板里稀疏的单个细胞】\n2. 【处理：滴管加药】\n3. 【长期培养：培养箱配日历图标】\n4. 【固定：一瓶固定液】\n5. 【结晶紫染色：孔里出现紫色圆点】\n6. 【克隆计数：放大镜对着紫色克隆】\n不要把编号句子写进图里。\n步骤名（每个只出现一次，不加其他文字）：【Low-density seeding, Treatment, Long-term culture, Fixation, Crystal violet staining, Colony counting】。"
+  }
+}

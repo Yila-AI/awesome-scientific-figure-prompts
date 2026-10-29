@@ -1,0 +1,20 @@
+{
+  "id": "factorial-design-2x2",
+  "theme": "research-design",
+  "technique": "两因素交叉成四格",
+  "technique_en": "two factors crossed into four cells",
+  "featured": false,
+  "added": "2026-10-28",
+  "author": "Yila-AI",
+  "author_url": "https://github.com/Yila-AI",
+  "title": {
+    "zh": "2×2 析因设计",
+    "en": "2×2 factorial design"
+  },
+  "style": "D",
+  "size": "1:1",
+  "content": {
+    "en": "Create a diagram of 【a 2×2 factorial experimental design】: a square grid of four cells. Along the top, two column headers for the two levels of Factor A; along the left side, two row headers for the two levels of Factor B. Each of the four cells contains a small group-of-people icon in a different light color, with no text inside the cells.\nWrite each label only once in the whole figure.\nLabels, each used once, no other text: 【Factor A, Factor B, A1, A2, B1, B2】.",
+    "zh": "画一张【2×2 析因实验设计】示意图：一个由四个格子组成的方形网格。上方是因素 A 两个水平的列标题，左侧是因素 B 两个水平的行标题。四个格子里各放一个小人群图标，颜色各不相同，格子内不写字。\n整张图里每个标签只写一次。\n标签（每个只出现一次，不加其他文字）：【Factor A, Factor B, A1, A2, B1, B2】。"
+  }
+}

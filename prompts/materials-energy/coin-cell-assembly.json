@@ -1,0 +1,20 @@
+{
+  "id": "coin-cell-assembly",
+  "theme": "materials-energy",
+  "technique": "每步一个面板，只写步骤名",
+  "technique_en": "one panel per step, step names only",
+  "featured": false,
+  "added": "2026-10-28",
+  "author": "Yila-AI",
+  "author_url": "https://github.com/Yila-AI",
+  "title": {
+    "zh": "扣式电池组装流程",
+    "en": "Coin cell assembly workflow"
+  },
+  "style": "W",
+  "size": "16:9",
+  "content": {
+    "en": "Create a workflow figure for 【assembling a coin cell】, 6 steps from left to right:\n1. 【Slurry mixing: a beaker with a stirrer】\n2. 【Electrode coating: a blade spreading slurry on foil】\n3. 【Drying and punching: round discs cut from the foil】\n4. 【Glovebox: hands in gloves inside a sealed box】\n5. 【Stacking: discs stacked in a coin case】\n6. 【Crimping: a press sealing the coin cell】\nDo not write the numbered sentences in the figure.\nStep names, each used once, no other text: 【Slurry mixing, Electrode coating, Drying and punching, Glovebox, Stacking, Crimping】.",
+    "zh": "画一张【组装扣式电池】的流程图，从左往右六步：\n1. 【浆料混合：带搅拌器的烧杯】\n2. 【极片涂布：刮刀把浆料刮在箔上】\n3. 【干燥冲片：从箔上冲出圆片】\n4. 【手套箱：密封箱里伸进一双手套】\n5. 【叠片：圆片叠放进电池壳】\n6. 【封口：压机把扣式电池压紧】\n不要把编号句子写进图里。\n步骤名（每个只出现一次，不加其他文字）：【Slurry mixing, Electrode coating, Drying and punching, Glovebox, Stacking, Crimping】。"
+  }
+}

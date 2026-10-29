@@ -1,0 +1,20 @@
+{
+  "id": "pretest-posttest-design",
+  "theme": "research-design",
+  "technique": "表格式网格，列标题写阶段",
+  "technique_en": "a grid whose column headers name the stages",
+  "featured": false,
+  "added": "2026-10-28",
+  "author": "Yila-AI",
+  "author_url": "https://github.com/Yila-AI",
+  "title": {
+    "zh": "前后测对照组设计",
+    "en": "Pretest–posttest control group design"
+  },
+  "style": "D",
+  "size": "16:9",
+  "content": {
+    "en": "Create a research design diagram of 【a pretest–posttest control group design】 as a table-like grid with three columns and two rows.\n1. Column headers across the top, written once each: 【Pretest, Intervention, Posttest】.\n2. Row headers on the left, written once each: 【Experimental group, Control group】; a dice icon labeled Random assignment sits to the left of both rows with two arrows into them.\n3. Top row cells: a clipboard icon, a lightbulb icon, a clipboard-with-check icon, joined by arrows.\n4. Bottom row cells: a clipboard icon, an empty dashed box, a clipboard-with-check icon, joined by arrows.\n5. Both Posttest cells point to one box on the right labeled Comparison.\nThe cells themselves contain icons only, no text. Write each label exactly once.\nLabels, each used once, no other text: 【Random assignment, Experimental group, Control group, Pretest, Intervention, Posttest, Comparison】.",
+    "zh": "画一张【前后测对照组设计】的研究设计图，做成三列两行的表格式网格。\n1. 顶部列标题各写一次：【Pretest, Intervention, Posttest】。\n2. 左侧行标题各写一次：【Experimental group, Control group】；两行左边放一个标注 Random assignment 的骰子图标，用两条箭头指向两行。\n3. 上行格子：写字板图标、灯泡图标、带对勾的写字板图标，用箭头连接。\n4. 下行格子：写字板图标、空的虚线框、带对勾的写字板图标，用箭头连接。\n5. 两个 Posttest 格子都指向右侧一个标注 Comparison 的框。\n格子里只放图标，不写字。每个标签只写一次。\n标签（每个只出现一次，不加其他文字）：【Random assignment, Experimental group, Control group, Pretest, Intervention, Posttest, Comparison】。"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "soil-sampling-analysis",
+  "theme": "earth-environment",
+  "technique": "每步一个面板，只写步骤名",
+  "technique_en": "one panel per step, step names only",
+  "featured": false,
+  "added": "2026-10-28",
+  "author": "Yila-AI",
+  "author_url": "https://github.com/Yila-AI",
+  "title": {
+    "zh": "土壤采样与分析流程",
+    "en": "Soil sampling and analysis workflow"
+  },
+  "style": "W",
+  "size": "16:9",
+  "content": {
+    "en": "Create a workflow figure for 【soil sampling and analysis】, 6 steps from left to right:\n1. 【Grid layout: a field divided into a grid with dots】\n2. 【Coring: a soil auger pulling up a core】\n3. 【Composite sample: several cores mixed in a bag】\n4. 【Air drying and sieving: soil spread on a tray and a sieve】\n5. 【Lab analysis: a lab bench with test tubes】\n6. 【Soil map: a field colored in zones】\nDo not write the numbered sentences in the figure.\nStep names, each used once, no other text: 【Grid layout, Coring, Composite sample, Air drying and sieving, Lab analysis, Soil map】.",
+    "zh": "画一张【土壤采样与分析】的流程图，从左往右六步：\n1. 【网格布点：画了网格和圆点的田块】\n2. 【取土：土钻提出一根土柱】\n3. 【混合样：几根土柱混装进袋】\n4. 【风干过筛：摊开的土和一个筛子】\n5. 【实验室分析：放试管的实验台】\n6. 【土壤分区图：分区着色的田块】\n不要把编号句子写进图里。\n步骤名（每个只出现一次，不加其他文字）：【Grid layout, Coring, Composite sample, Air drying and sieving, Lab analysis, Soil map】。"
+  }
+}

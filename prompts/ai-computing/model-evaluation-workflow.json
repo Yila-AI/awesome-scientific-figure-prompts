@@ -1,0 +1,20 @@
+{
+  "id": "model-evaluation-workflow",
+  "theme": "ai-computing",
+  "technique": "每步一个面板，只写步骤名",
+  "technique_en": "one panel per step, step names only",
+  "featured": false,
+  "added": "2026-10-28",
+  "author": "Yila-AI",
+  "author_url": "https://github.com/Yila-AI",
+  "title": {
+    "zh": "模型评估流程",
+    "en": "Model evaluation workflow"
+  },
+  "style": "W",
+  "size": "16:9",
+  "content": {
+    "en": "Create a workflow figure for 【evaluating a machine learning model】, 6 steps from left to right:\n1. 【Held-out test set: a locked database】\n2. 【Prediction: a small neural network producing outputs】\n3. 【Metrics: a target with a check mark】\n4. 【Error analysis: a magnifier over a few wrong examples】\n5. 【Robustness check: a shield】\n6. 【Report: a document with a stamp】\nDo not write the numbered sentences in the figure.\nStep names, each used once, no other text: 【Test set, Prediction, Metrics, Error analysis, Robustness check, Report】.",
+    "zh": "画一张【评估机器学习模型】的流程图，从左往右六步：\n1. 【独立测试集：带锁的数据库】\n2. 【预测：一个小神经网络输出结果】\n3. 【评估指标：带对勾的靶心】\n4. 【误差分析：放大镜对着几个错例】\n5. 【鲁棒性检验：一面盾牌】\n6. 【报告：盖了章的文档】\n不要把编号句子写进图里。\n步骤名（每个只出现一次，不加其他文字）：【Test set, Prediction, Metrics, Error analysis, Robustness check, Report】。"
+  }
+}

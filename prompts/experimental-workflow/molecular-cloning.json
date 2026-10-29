@@ -1,0 +1,20 @@
+{
+  "id": "molecular-cloning",
+  "theme": "experimental-workflow",
+  "technique": "每步一个面板，只写步骤名",
+  "technique_en": "one panel per step, step names only",
+  "featured": false,
+  "added": "2026-10-28",
+  "author": "Yila-AI",
+  "author_url": "https://github.com/Yila-AI",
+  "title": {
+    "zh": "分子克隆流程",
+    "en": "Molecular cloning workflow"
+  },
+  "style": "W",
+  "size": "16:9",
+  "content": {
+    "en": "Create a workflow figure for 【molecular cloning of a gene into a plasmid】, 6 steps from left to right:\n1. 【PCR amplification: a short DNA segment being copied】\n2. 【Restriction digestion: scissors cutting a circular plasmid open】\n3. 【Ligation: the insert joined into the open plasmid】\n4. 【Transformation: plasmids entering bacteria】\n5. 【Colony selection: bacterial colonies on an agar plate】\n6. 【Sequencing verification: a check mark over a DNA strand】\nDo not write the numbered sentences in the figure.\nStep names, each used once, no other text: 【PCR amplification, Restriction digestion, Ligation, Transformation, Colony selection, Sequencing verification】.",
+    "zh": "画一张【把目的基因克隆进质粒】的流程图，从左往右六步：\n1. 【PCR 扩增：一段短 DNA 被复制】\n2. 【酶切：剪刀把环形质粒剪开】\n3. 【连接：插入片段接入打开的质粒】\n4. 【转化：质粒进入细菌】\n5. 【挑菌：琼脂平板上的细菌菌落】\n6. 【测序验证：DNA 链上方一个对勾】\n不要把编号句子写进图里。\n步骤名（每个只出现一次，不加其他文字）：【PCR amplification, Restriction digestion, Ligation, Transformation, Colony selection, Sequencing verification】。"
+  }
+}

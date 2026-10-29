@@ -1,0 +1,20 @@
+{
+  "id": "tunel-apoptosis-assay",
+  "theme": "experimental-workflow",
+  "technique": "每步一个面板，只写步骤名",
+  "technique_en": "one panel per step, step names only",
+  "featured": false,
+  "added": "2026-10-28",
+  "author": "Yila-AI",
+  "author_url": "https://github.com/Yila-AI",
+  "title": {
+    "zh": "TUNEL 凋亡检测流程",
+    "en": "TUNEL apoptosis assay workflow"
+  },
+  "style": "W",
+  "size": "16:9",
+  "content": {
+    "en": "Create a workflow figure for 【a TUNEL apoptosis assay on tissue sections】, 6 steps from left to right:\n1. 【Tissue section: a thin slice on a glass slide】\n2. 【Permeabilization: a drop of enzyme on the slide】\n3. 【TUNEL labeling: green dye attaching to broken DNA ends】\n4. 【Nuclear counterstain: blue dye on the nuclei】\n5. 【Fluorescence imaging: a microscope with green and blue nuclei on screen】\n6. 【Positive cell counting: a magnifier over green nuclei】\nDo not write the numbered sentences in the figure.\nStep names, each used once, no other text: 【Tissue section, Permeabilization, TUNEL labeling, Nuclear counterstain, Fluorescence imaging, Positive cell counting】.",
+    "zh": "画一张【组织切片 TUNEL 凋亡检测】的流程图，从左往右六步：\n1. 【组织切片：载玻片上的一片薄切片】\n2. 【通透：玻片上滴一滴酶液】\n3. 【TUNEL 标记：绿色染料结合到断裂的 DNA 末端】\n4. 【核复染：蓝色染料染细胞核】\n5. 【荧光成像：显微镜屏幕上绿色和蓝色细胞核】\n6. 【阳性细胞计数：放大镜对着绿色细胞核】\n不要把编号句子写进图里。\n步骤名（每个只出现一次，不加其他文字）：【Tissue section, Permeabilization, TUNEL labeling, Nuclear counterstain, Fluorescence imaging, Positive cell counting】。"
+  }
+}

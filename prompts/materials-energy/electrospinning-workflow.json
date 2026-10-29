@@ -1,0 +1,20 @@
+{
+  "id": "electrospinning-workflow",
+  "theme": "materials-energy",
+  "technique": "每步一个面板，只写步骤名",
+  "technique_en": "one panel per step, step names only",
+  "featured": false,
+  "added": "2026-10-28",
+  "author": "Yila-AI",
+  "author_url": "https://github.com/Yila-AI",
+  "title": {
+    "zh": "静电纺丝制备纳米纤维流程",
+    "en": "Electrospinning nanofiber workflow"
+  },
+  "style": "W",
+  "size": "16:9",
+  "content": {
+    "en": "Create a workflow figure for 【making nanofibers by electrospinning】, 6 steps from left to right:\n1. 【Polymer solution: a beaker of solution】\n2. 【Syringe loading: a syringe filled with solution】\n3. 【High voltage: a lightning bolt at the needle tip】\n4. 【Fiber jet: a thin stream stretching from the needle】\n5. 【Collector: a rotating drum covered in fibers】\n6. 【Nanofiber mat: a close-up of a mesh of fibers】\nDo not write the numbered sentences in the figure.\nStep names, each used once, no other text: 【Polymer solution, Syringe loading, High voltage, Fiber jet, Collector, Nanofiber mat】.",
+    "zh": "画一张【静电纺丝制备纳米纤维】的流程图，从左往右六步：\n1. 【聚合物溶液：一烧杯溶液】\n2. 【装针筒：装满溶液的注射器】\n3. 【高压电场：针尖处一道闪电】\n4. 【纤维射流：从针尖拉出的细流】\n5. 【接收器：缠满纤维的旋转滚筒】\n6. 【纳米纤维膜：纤维网的特写】\n不要把编号句子写进图里。\n步骤名（每个只出现一次，不加其他文字）：【Polymer solution, Syringe loading, High voltage, Fiber jet, Collector, Nanofiber mat】。"
+  }
+}

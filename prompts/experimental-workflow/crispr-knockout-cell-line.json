@@ -1,0 +1,20 @@
+{
+  "id": "crispr-knockout-cell-line",
+  "theme": "experimental-workflow",
+  "technique": "每步一个面板，只写步骤名",
+  "technique_en": "one panel per step, step names only",
+  "featured": false,
+  "added": "2026-10-28",
+  "author": "Yila-AI",
+  "author_url": "https://github.com/Yila-AI",
+  "title": {
+    "zh": "CRISPR 敲除细胞系构建流程",
+    "en": "CRISPR knockout cell line workflow"
+  },
+  "style": "W",
+  "size": "16:9",
+  "content": {
+    "en": "Create a workflow figure for 【building a CRISPR knockout cell line】, 6 steps from left to right:\n1. 【sgRNA design: a DNA strand with a highlighted target site】\n2. 【Vector delivery: a plasmid entering a cell】\n3. 【Selection: a dish where only some cells survive】\n4. 【Single-cell cloning: a 96-well plate with one cell per well】\n5. 【Genotype check: a short DNA strand with a gap】\n6. 【Protein validation: a gel with a missing band】\nDo not write the numbered sentences in the figure.\nStep names, each used once, no other text: 【sgRNA design, Vector delivery, Selection, Single-cell cloning, Genotype check, Protein validation】.",
+    "zh": "画一张【构建 CRISPR 敲除细胞系】的流程图，从左往右六步：\n1. 【sgRNA 设计：DNA 链上高亮一个靶位点】\n2. 【载体递送：质粒进入细胞】\n3. 【筛选：培养皿里只有部分细胞存活】\n4. 【单克隆挑选：96 孔板每孔一个细胞】\n5. 【基因型验证：带缺口的短 DNA 链】\n6. 【蛋白验证：缺一条带的凝胶】\n不要把编号句子写进图里。\n步骤名（每个只出现一次，不加其他文字）：【sgRNA design, Vector delivery, Selection, Single-cell cloning, Genotype check, Protein validation】。"
+  }
+}

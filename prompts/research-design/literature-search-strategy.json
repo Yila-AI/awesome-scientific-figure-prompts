@@ -1,0 +1,20 @@
+{
+  "id": "literature-search-strategy",
+  "theme": "research-design",
+  "technique": "每步一个面板，只写步骤名",
+  "technique_en": "one panel per step, step names only",
+  "featured": false,
+  "added": "2026-10-28",
+  "author": "Yila-AI",
+  "author_url": "https://github.com/Yila-AI",
+  "title": {
+    "zh": "文献检索策略流程",
+    "en": "Literature search strategy workflow"
+  },
+  "style": "W",
+  "size": "16:9",
+  "content": {
+    "en": "Create a workflow figure for 【a literature search】, 6 steps from left to right:\n1. 【Research question: a magnifier over a question mark】\n2. 【Keywords: three blank rounded tags】\n3. 【Boolean string: blank tags joined by small link symbols】\n4. 【Databases: three stacked database icons】\n5. 【Screening: papers passing through a funnel】\n6. 【Reference management: a bookshelf with colored folders】\nDo not write the numbered sentences in the figure.\nEvery icon is a pure picture with no words, letters or chemical structures inside it.\nStep names, each used once, no other text: 【Research question, Keywords, Boolean string, Databases, Screening, Reference management】.",
+    "zh": "画一张【文献检索】的流程图，从左往右六步：\n1. 【研究问题：放大镜对着问号】\n2. 【关键词：三个空白圆角标签】\n3. 【布尔检索式：空白标签用小连接符串起来】\n4. 【数据库：三个叠放的数据库图标】\n5. 【筛选：论文穿过漏斗】\n6. 【文献管理：放着彩色文件夹的书架】\n不要把编号句子写进图里。\n所有图标都是纯图形，里面不写任何单词、字母，也不画化学结构式。\n步骤名（每个只出现一次，不加其他文字）：【Research question, Keywords, Boolean string, Databases, Screening, Reference management】。"
+  }
+}
