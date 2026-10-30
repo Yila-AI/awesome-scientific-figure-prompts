@@ -11,7 +11,7 @@
 **Turn your research into a journal-style figure draft in 5 minutes — no BioRender, no drawing skills.**
 Copy-paste prompt templates for research design and roadmap figures, graphical abstracts, signaling pathways, medical illustrations and experimental workflows, plus materials, energy, environment, AI, engineering, chemistry, plant science and social science. Each template is tested with real Nano Banana / Gemini outputs.
 
-🔄 **Continuously updated**: new templates for commonly needed figures are added regularly, growing to 1,000. ⭐ Star or Watch to get updates.
+Continuously updated, growing to 1,000 templates.
 
 [![GitHub stars](https://img.shields.io/github/stars/Yila-AI/awesome-scientific-figure-prompts?style=social)](https://github.com/Yila-AI/awesome-scientific-figure-prompts)
 ![Templates](https://img.shields.io/badge/templates-239-blue)

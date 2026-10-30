@@ -11,7 +11,7 @@
 **5 分钟做出期刊风格的科研图初稿——不用 BioRender，也不用会画画。**
 可直接复制的提示词模板，覆盖研究设计与技术路线图、图形摘要、信号通路、医学插图和实验流程，以及材料能源、环境、AI、工程、化学、农学和社科。每条都用真实的 Nano Banana / Gemini 出图检验过。
 
-🔄 **持续更新中**：定期新增常用科研绘图模板，目标 1,000 个。点 ⭐ Star 或 Watch 获取更新。
+持续更新中，目标收录 1,000 个模板。
 
 [![GitHub stars](https://img.shields.io/github/stars/Yila-AI/awesome-scientific-figure-prompts?style=social)](https://github.com/Yila-AI/awesome-scientific-figure-prompts)
 ![Templates](https://img.shields.io/badge/templates-239-blue)
