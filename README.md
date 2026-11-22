@@ -2,96 +2,378 @@
 
 <a id="top"></a>
 
-<div align="center">
+<a href="https://yila.ai/scientific-figure-prompts?utm_source=github&utm_medium=readme_banner&utm_campaign=sci-figure-prompts">
+  <img src="gallery/banner.jpg" alt="Awesome Scientific Figure Prompts — GPT Image 2.6 templates on YILA" width="100%" />
+</a>
 
-**English** | [简体中文](README_zh.md)
+> 💡 🔬 Generate journal-style scientific figures in 1 click with GPT Image 2.6 — browse all 1000+ templates in our interactive gallery 👉 [YILA Scientific Figure Prompts](https://yila.ai/scientific-figure-prompts?utm_source=github&utm_medium=readme_callout&utm_campaign=sci-figure-prompts)
 
 # 🔬 Awesome Scientific Figure Prompts
 
-**Turn your research into a journal-style figure draft in 5 minutes — no BioRender, no drawing skills.**
-Copy-paste prompt templates for research design and roadmap figures, graphical abstracts, signaling pathways, medical illustrations and experimental workflows, plus materials, energy, environment, AI, engineering, chemistry, plant science and social science. Each template is tested with real Nano Banana / Gemini outputs.
-
-🔄 **Continuously updated**: new templates for commonly needed figures are added regularly, growing to 1,000. ⭐ Star or Watch to get updates.
-
+[![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome)
 [![GitHub stars](https://img.shields.io/github/stars/Yila-AI/awesome-scientific-figure-prompts?style=social)](https://github.com/Yila-AI/awesome-scientific-figure-prompts)
-![Templates](https://img.shields.io/badge/templates-239-blue)
-![Examples](https://img.shields.io/badge/example_images-400-blue)
+![Templates](https://img.shields.io/badge/templates-1000%2B-blue)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](LICENSE)
+[![Verify README](https://github.com/Yila-AI/awesome-scientific-figure-prompts/actions/workflows/check-readme.yml/badge.svg)](https://github.com/Yila-AI/awesome-scientific-figure-prompts/actions)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
 
-<img src="gallery/cover.jpg" alt="AI-generated scientific figures: graphical abstract, cGAS-STING signaling pathway, Alzheimer's brain, fracture healing, mouse experimental workflow" width="900">
+> 🎨 A curated library of publication-ready scientific figure prompts for GPT Image 2.6 — graphical abstracts, signaling pathways, medical illustrations, experimental workflows & 12 disciplines.
+
+> ⚠️ **Academic Draft Notice**: AI-generated figures are first drafts. Always verify scientific accuracy, arrows, structures, and spelling with our [pre-submission checklist](docs/checklist.md). Found an error? [Report it here](https://github.com/Yila-AI/awesome-scientific-figure-prompts/issues/new?template=scientific-error.yml).
+
+---
+
+[![English](https://img.shields.io/badge/English-Current-brightgreen)](README.md) [![简体中文](https://img.shields.io/badge/%E7%AE%80%E4%BD%93%E4%B8%AD%E6%96%87-Click%20to%20View-lightgrey)](README_zh.md) [![繁體中文](https://img.shields.io/badge/%E7%B9%81%E9%AB%94%E4%B8%AD%E6%96%87-Click%20to%20View-lightgrey)](README_zh-TW.md) [![日本語](https://img.shields.io/badge/%E6%97%A5%E6%9C%AC%E8%AA%9E-Click%20to%20View-lightgrey)](README_ja-JP.md) [![한국어](https://img.shields.io/badge/%ED%95%9C%EA%B5%AD%EC%96%B4-Click%20to%20View-lightgrey)](README_ko-KR.md) [![ไทย](https://img.shields.io/badge/%E0%B9%84%E0%B8%97%E0%B8%A2-Click%20to%20View-lightgrey)](README_th-TH.md) [![Tiếng Việt](https://img.shields.io/badge/Ti%E1%BA%BFng%20Vi%E1%BB%87t-Click%20to%20View-lightgrey)](README_vi-VN.md) [![Hindi](https://img.shields.io/badge/Hindi-Click%20to%20View-lightgrey)](README_hi-IN.md) [![Español](https://img.shields.io/badge/Espa%C3%B1ol-Click%20to%20View-lightgrey)](README_es-ES.md) [![Español (Latinoamérica)](https://img.shields.io/badge/Espa%C3%B1ol%20%28Latinoam%C3%A9rica%29-Click%20to%20View-lightgrey)](README_es-419.md) [![Deutsch](https://img.shields.io/badge/Deutsch-Click%20to%20View-lightgrey)](README_de-DE.md) [![Français](https://img.shields.io/badge/Fran%C3%A7ais-Click%20to%20View-lightgrey)](README_fr-FR.md) [![Italiano](https://img.shields.io/badge/Italiano-Click%20to%20View-lightgrey)](README_it-IT.md) [![Português (Brasil)](https://img.shields.io/badge/Portugu%C3%AAs%20%28Brasil%29-Click%20to%20View-lightgrey)](README_pt-BR.md) [![Português](https://img.shields.io/badge/Portugu%C3%AAs-Click%20to%20View-lightgrey)](README_pt-PT.md) [![Türkçe](https://img.shields.io/badge/T%C3%BCrk%C3%A7e-Click%20to%20View-lightgrey)](README_tr-TR.md)
+
+---
+
+<a id="web-gallery"></a>
+
+## 🌐 View in Web Gallery
+
+<div align="center">
+
+<a href="https://yila.ai/scientific-figure-prompts?utm_source=github&utm_medium=readme_cover&utm_campaign=sci-figure-prompts">
+  <img src="gallery/web-gallery-en.jpg" alt="Awesome Scientific Figure Prompts — GPT Image 2.6 templates on YILA" width="100%" />
+</a>
 
 </div>
 
-## ⭐ 精选 / Featured
+**[👉 Browse on YILA Scientific Figure Prompts Gallery](https://yila.ai/scientific-figure-prompts?utm_source=github&utm_medium=readme_gallery&utm_campaign=sci-figure-prompts)**
 
-<table>
-<tr><td align="center"><a href="#no-30"><img src="gallery/graphical-abstract/car-t-solid-tumor-en.jpg" alt="CAR-T cells against a solid tumor" width="420"></a><br><a href="#no-30">CAR-T cells against a solid tumor</a></td><td align="center"><a href="#no-53"><img src="gallery/signaling-pathway/cgas-sting-en.jpg" alt="cGAS–STING innate immune pathway" width="420"></a><br><a href="#no-53">cGAS–STING innate immune pathway</a></td></tr>
-<tr><td align="center"><a href="#no-75"><img src="gallery/medical-illustration/alzheimers-brain-en.jpg" alt="Healthy versus Alzheimer's brain" width="420"></a><br><a href="#no-75">Healthy versus Alzheimer's brain</a></td><td align="center"><a href="#no-118"><img src="gallery/experimental-workflow/mouse-model-dosing-en.jpg" alt="Mouse disease model: grouping, dosing and sampling" width="420"></a><br><a href="#no-118">Mouse disease model: grouping, dosing and sampling</a></td></tr>
-</table>
+Why use the YILA Web Gallery?
 
-## Browse by figure type
+| Feature | GitHub README | yila.ai Gallery |
+|---------|--------------|---------------------|
+| 🎨 Visual Layout | Linear list | Interactive Masonry Grid |
+| 🔍 Search & Filter | Ctrl+F only | Full-text search & discipline filters |
+| 🤖 One-Click Generation | Manual copy-paste | AI one-click figure generation from your abstract |
+| 📱 Mobile | Basic | Fully responsive |
+| 🏷️ Categories | 12 sections | Instant category & style browsing |
 
-| [🗺️ Research Design](#research-design) | [🧭 Graphical Abstract](#graphical-abstract) | [🧬 Signaling Pathway](#signaling-pathway) | [🫀 Medical Illustration](#medical-illustration) |
-|:-:|:-:|:-:|:-:|
-| <a href="#research-design"><img src="gallery/research-design/hypothesis-mechanism-en.jpg" alt="Hypothesis mechanism overview" width="200"></a> | <a href="#graphical-abstract"><img src="gallery/graphical-abstract/nanoparticle-tumor-delivery-en.jpg" alt="Tumor-targeted nanoparticle drug delivery" width="200"></a> | <a href="#signaling-pathway"><img src="gallery/signaling-pathway/cgas-sting-en.jpg" alt="cGAS–STING innate immune pathway" width="200"></a> | <a href="#medical-illustration"><img src="gallery/medical-illustration/alzheimers-brain-en.jpg" alt="Healthy versus Alzheimer's brain" width="200"></a> |
-| 28 templates | 22 templates | 22 templates | 20 templates |
+### 🏷️ Browse by Discipline & Figure Type
 
-| [🧪 Experimental Workflow](#experimental-workflow) | [🔋 Materials & Energy](#materials-energy) | [🌍 Earth & Environment](#earth-environment) | [🤖 AI & Computing](#ai-computing) |
-|:-:|:-:|:-:|:-:|
-| <a href="#experimental-workflow"><img src="gallery/experimental-workflow/mouse-model-dosing-en.jpg" alt="Mouse disease model: grouping, dosing and sampling" width="200"></a> | <a href="#materials-energy"><img src="gallery/materials-energy/li-ion-battery-en.jpg" alt="Lithium-ion battery charge and discharge" width="200"></a> | <a href="#earth-environment"><img src="gallery/earth-environment/carbon-cycle-en.jpg" alt="Global carbon cycle" width="200"></a> | <a href="#ai-computing"><img src="gallery/ai-computing/llm-agent-loop-en.jpg" alt="LLM agent loop" width="200"></a> |
-| 41 templates | 16 templates | 17 templates | 24 templates |
+- 🗺️ **[Research Design](https://yila.ai/scientific-figure-prompts?theme=research-design&utm_source=github&utm_medium=readme_category&utm_campaign=sci-figure-prompts&utm_content=research-design)** (28 templates)
+- 🧭 **[Graphical Abstract](https://yila.ai/scientific-figure-prompts?theme=graphical-abstract&utm_source=github&utm_medium=readme_category&utm_campaign=sci-figure-prompts&utm_content=graphical-abstract)** (22 templates)
+- 🧬 **[Signaling Pathway](https://yila.ai/scientific-figure-prompts?theme=signaling-pathway&utm_source=github&utm_medium=readme_category&utm_campaign=sci-figure-prompts&utm_content=signaling-pathway)** (22 templates)
+- 🫀 **[Medical Illustration](https://yila.ai/scientific-figure-prompts?theme=medical-illustration&utm_source=github&utm_medium=readme_category&utm_campaign=sci-figure-prompts&utm_content=medical-illustration)** (20 templates)
+- 🧪 **[Experimental Workflow](https://yila.ai/scientific-figure-prompts?theme=experimental-workflow&utm_source=github&utm_medium=readme_category&utm_campaign=sci-figure-prompts&utm_content=experimental-workflow)** (41 templates)
+- 🔋 **[Materials & Energy](https://yila.ai/scientific-figure-prompts?theme=materials-energy&utm_source=github&utm_medium=readme_category&utm_campaign=sci-figure-prompts&utm_content=materials-energy)** (16 templates)
+- 🌍 **[Earth & Environment](https://yila.ai/scientific-figure-prompts?theme=earth-environment&utm_source=github&utm_medium=readme_category&utm_campaign=sci-figure-prompts&utm_content=earth-environment)** (17 templates)
+- 🤖 **[AI & Computing](https://yila.ai/scientific-figure-prompts?theme=ai-computing&utm_source=github&utm_medium=readme_category&utm_campaign=sci-figure-prompts&utm_content=ai-computing)** (24 templates)
+- ⚙️ **[Engineering Systems](https://yila.ai/scientific-figure-prompts?theme=engineering-systems&utm_source=github&utm_medium=readme_category&utm_campaign=sci-figure-prompts&utm_content=engineering-systems)** (11 templates)
+- ⚗️ **[Chemistry & Instruments](https://yila.ai/scientific-figure-prompts?theme=chemistry-instruments&utm_source=github&utm_medium=readme_category&utm_campaign=sci-figure-prompts&utm_content=chemistry-instruments)** (9 templates)
+- 🌱 **[Plant & Agriculture](https://yila.ai/scientific-figure-prompts?theme=plant-agriculture&utm_source=github&utm_medium=readme_category&utm_campaign=sci-figure-prompts&utm_content=plant-agriculture)** (12 templates)
+- 📊 **[Social Science](https://yila.ai/scientific-figure-prompts?theme=social-science&utm_source=github&utm_medium=readme_category&utm_campaign=sci-figure-prompts&utm_content=social-science)** (17 templates)
 
-| [⚙️ Engineering Systems](#engineering-systems) | [⚗️ Chemistry & Instruments](#chemistry-instruments) | [🌱 Plant & Agriculture](#plant-agriculture) | [📊 Social Science](#social-science) |
-|:-:|:-:|:-:|:-:|
-| <a href="#engineering-systems"><img src="gallery/engineering-systems/integrated-energy-system-en.jpg" alt="Integrated energy system" width="200"></a> | <a href="#chemistry-instruments"><img src="gallery/chemistry-instruments/hplc-system-en.jpg" alt="HPLC system" width="200"></a> | <a href="#plant-agriculture"><img src="gallery/plant-agriculture/leaf-photosynthesis-en.jpg" alt="Leaf structure and photosynthesis" width="200"></a> | <a href="#social-science"><img src="gallery/social-science/technical-roadmap-en.jpg" alt="Research technical roadmap" width="200"></a> |
-| 11 templates | 9 templates | 12 templates | 17 templates |
+---
 
-## How to use
+## 📖 Table of Contents
+
+- [🌐 View in Web Gallery](#web-gallery)
+- [🤔 What is GPT Image 2.6 for Scientific Figures?](#what-is-gpt-image-26)
+- [📊 Statistics](#statistics)
+- [🔥 Featured Prompts](#featured-prompts)
+- [📋 All Prompts](#all-prompts)
+- [🤝 How to Contribute](#how-to-contribute)
+- [📄 License](#license)
+- [🙏 Acknowledgements](#acknowledgements)
+- [⭐ Star History](#star-history)
+
+---
+
+<a id="what-is-gpt-image-26"></a>
+
+## 🤔 What is GPT Image 2.6 for Scientific Figures?
+
+**GPT Image 2.6** brings journal-grade clarity and structured layout control to academic visualization — no BioRender subscription or drawing skills required:
+
+- 🎯 **Journal-Style Clarity** — Clean flat vectors, muted palettes, and crisp layout hierarchy
+- 🧬 **12 Academic Disciplines** — Biomedicine, pathways, workflows, materials, AI, chemistry, and more
+- 🔤 **Reliable Short Labels** — Built for accurate sans-serif English scientific annotations
+- ⚡ **5-Minute First Drafts** — Copy a template, swap your topic inside `【】`, and iterate fast
+- 📐 **Structured Prompt Patterns** — Numbered relations and style blocks prevent hallucinated arrows
+- 🤝 **Seamless YILA Workflow** — Paste your paper abstract into YILA to auto-select templates and draw
+
+### 🛠️ How to Use
 
 1. Pick the closest template and copy its prompt.
-2. Replace everything inside 【】 with your own topic, then delete the 【】 marks. Keep the style paragraph as is.
-3. Paste into Gemini, ChatGPT or any image model. Short English labels give the fewest text errors.
-4. Always check arrows, structure positions and spelling. These are first drafts, not submission-ready figures. Use the [pre-submission checklist](docs/checklist.md).
+2. Replace everything inside `【】` with your own topic, then delete the `【】` marks. Keep the style paragraph as is.
+3. Paste into **GPT Image 2.6** (or YILA). Short English labels give the fewest text errors.
+4. Always verify arrows, structure positions, and spelling using the [pre-submission checklist](docs/checklist.md).
 
-> 💡 Don't want to fill templates by hand? Paste your abstract into [Yila](https://yila.ai/?utm_source=github&utm_medium=readme_howto&utm_campaign=sci-figure-prompts), a research agent that picks a template, writes the prompt and draws the draft for you.
+> 💡 Don't want to fill templates by hand? Paste your abstract into [YILA](https://yila.ai/scientific-figure-prompts?utm_source=github&utm_medium=readme_howto&utm_campaign=sci-figure-prompts), an academic research agent that picks a template, writes the prompt, and generates the draft for you.
 
-**Related:** [awesome-research-skills](https://github.com/Yila-AI/awesome-research-skills): agent skills for literature review, writing and data analysis.
+**Related:** [awesome-research-skills](https://github.com/Yila-AI/awesome-research-skills) — agent skills for literature review, academic writing, and data analysis.
 
-239 templates · 400 example images · Nano Banana 2 Lite (gemini-3.1-flash-lite-image, 1K) · updated 2026-10-29
+---
 
-## Contents
+<a id="statistics"></a>
 
-- **Research Design**: [No. 1 Bench-to-bedside translational pathway](#no-1), [No. 2 Case-control study design](#no-2), [No. 3 Cell experiment groups and treatment timeline](#no-3), [No. 4 Clinical prediction model workflow](#no-4), [No. 5 Cross-scale view: organ, tissue, cell, molecule](#no-5), [No. 6 Cross-sectional study design](#no-6), [No. 7 Generic data processing pipeline](#no-7), [No. 8 Delphi method workflow](#no-8), [No. 9 Drug development pipeline](#no-9), [No. 10 Evidence chain: in vitro, in vivo, clinical](#no-10), [No. 11 2×2 factorial design](#no-11), [No. 12 Focus group study workflow](#no-12), [No. 13 Grant proposal: research content map](#no-13), [No. 14 Grant proposal logic loop](#no-14), [No. 15 Hypothesis mechanism overview](#no-15), [No. 16 Lab research program overview](#no-16), [No. 17 Literature search strategy workflow](#no-17), [No. 18 Method comparison: conventional versus proposed](#no-18), [No. 19 Multi-omics integration framework](#no-19), [No. 20 Technical roadmap: three parallel work packages](#no-20), [No. 21 Pretest–posttest control group design](#no-21), [No. 22 Qualitative study: interviews and three-level coding](#no-22), [No. 23 Questionnaire study workflow](#no-23), [No. 24 Randomized controlled trial design](#no-24), [No. 25 Study design overview (paper Figure 1)](#no-25), [No. 26 Systematic review and meta-analysis workflow](#no-26), [No. 27 Three-layer framework: objectives, content, methods](#no-27), [No. 28 Vertical graphical abstract](#no-28)
-- **Graphical Abstract**: [No. 29 Antibody–drug conjugate (ADC) mechanism](#no-29), [No. 30 CAR-T cells against a solid tumor](#no-30), [No. 31 CRISPR-Cas9 gene editing](#no-31), [No. 32 Drug mechanism of action](#no-32), [No. 33 Epithelial–mesenchymal transition (EMT)](#no-33), [No. 34 Exercise improves muscle insulin resistance](#no-34), [No. 35 Tumor exosomes prepare a pre-metastatic niche](#no-35), [No. 36 Gut–brain axis in depression](#no-36), [No. 37 Gut microbiota, short-chain fatty acids and host metabolism](#no-37), [No. 38 Hydrogel-assisted wound healing](#no-38), [No. 39 Resolution of inflammation](#no-39), [No. 40 Macrophage M1/M2 polarization](#no-40), [No. 41 Microglia and neuroinflammation](#no-41), [No. 42 Mitochondrial dysfunction](#no-42), [No. 43 mRNA vaccine immune response](#no-43), [No. 44 Tumor-targeted nanoparticle drug delivery](#no-44), [No. 45 Oxidative stress and ROS damage](#no-45), [No. 46 Cellular senescence and SASP](#no-46), [No. 47 Stem cell differentiation and tissue repair](#no-47), [No. 48 T cell activation and the immune synapse](#no-48), [No. 49 Tumor microenvironment](#no-49), [No. 50 Viral entry and replication cycle](#no-50)
-- **Signaling Pathway**: [No. 51 AMPK energy sensing](#no-51), [No. 52 Autophagy](#no-52), [No. 53 cGAS–STING innate immune pathway](#no-53), [No. 54 Extrinsic (death receptor) apoptosis](#no-54), [No. 55 Ferroptosis](#no-55), [No. 56 HIF-1α response: normoxia versus hypoxia](#no-56), [No. 57 Hippo/YAP signaling pathway](#no-57), [No. 58 Insulin signaling and GLUT4 translocation](#no-58), [No. 59 Intrinsic (mitochondrial) apoptosis](#no-59), [No. 60 JAK/STAT pathway](#no-60), [No. 61 Keap1/Nrf2 antioxidant pathway](#no-61), [No. 62 MAPK/ERK pathway](#no-62), [No. 63 Canonical NF-κB pathway](#no-63), [No. 64 NLRP3 inflammasome: two-signal activation](#no-64), [No. 65 p53 and the DNA damage response](#no-65), [No. 66 PD-1/PD-L1 immune checkpoint and its blockade](#no-66), [No. 67 PI3K/AKT/mTOR pathway](#no-67), [No. 68 Pyroptosis via gasdermin D pores](#no-68), [No. 69 TGF-β/SMAD pro-fibrotic pathway](#no-69), [No. 70 TLR4 signaling (MyD88 branch to NF-κB)](#no-70), [No. 71 VEGF/VEGFR2 signaling in an endothelial cell](#no-71), [No. 72 Wnt/β-catenin pathway: OFF versus ON](#no-72)
-- **Medical Illustration**: [No. 73 Acute kidney injury: tubular damage](#no-73), [No. 74 Alveolar gas exchange](#no-74), [No. 75 Healthy versus Alzheimer's brain](#no-75), [No. 76 Atherosclerotic plaque formation](#no-76), [No. 77 Bone remodeling: formation and resorption](#no-77), [No. 78 Coronary artery stenosis](#no-78), [No. 79 Four stages of fracture healing](#no-79), [No. 80 Three layers of the glomerular filtration barrier](#no-80), [No. 81 Heart anatomy and blood flow](#no-81), [No. 82 Inflammatory bowel disease: healthy versus inflamed colon](#no-82), [No. 83 Intestinal barrier: healthy versus leaky](#no-83), [No. 84 Healthy versus fibrotic liver](#no-84), [No. 85 Nephron structure and filtrate flow](#no-85), [No. 86 Neuron and synaptic transmission](#no-86), [No. 87 Osteoarthritis: healthy versus diseased joint](#no-87), [No. 88 Placenta structure](#no-88), [No. 89 Layers of the retina](#no-89), [No. 90 Layers of the skin](#no-90), [No. 91 Tumor angiogenesis](#no-91), [No. 92 Four stages of skin wound healing](#no-92)
-- **Experimental Workflow**: [No. 93 16S rRNA microbiome sequencing workflow](#no-93), [No. 94 ATAC-seq workflow](#no-94), [No. 95 Clinical biobank and multi-omics profiling workflow](#no-95), [No. 96 Biomarker discovery and validation workflow](#no-96), [No. 97 Bulk RNA-seq workflow](#no-97), [No. 98 CCK-8 cell viability assay workflow](#no-98), [No. 99 Cell culture and transfection workflow](#no-99), [No. 100 ChIP-seq workflow](#no-100), [No. 101 Clinical trial enrollment and follow-up](#no-101), [No. 102 Co-immunoprecipitation (Co-IP) and pull-down workflow](#no-102), [No. 103 Colony formation assay workflow](#no-103), [No. 104 CRISPR knockout cell line workflow](#no-104), [No. 105 Pooled CRISPR screen workflow](#no-105), [No. 106 Molecular docking and dynamics workflow](#no-106), [No. 107 Dual-luciferase reporter assay workflow](#no-107), [No. 108 EdU cell proliferation assay workflow](#no-108), [No. 109 Sandwich ELISA workflow](#no-109), [No. 110 Flow cytometry workflow](#no-110), [No. 111 Genome-wide association study (GWAS) workflow](#no-111), [No. 112 H&E staining histology workflow](#no-112), [No. 113 Immunohistochemistry (IHC) workflow](#no-113), [No. 114 Immunofluorescence staining workflow](#no-114), [No. 115 Mendelian randomization design](#no-115), [No. 116 Metabolomics workflow](#no-116), [No. 117 Molecular cloning workflow](#no-117), [No. 118 Mouse disease model: grouping, dosing and sampling](#no-118), [No. 119 Network pharmacology workflow](#no-119), [No. 120 Organ-on-a-chip workflow](#no-120), [No. 121 Organoid culture and drug screening](#no-121), [No. 122 Recombinant protein expression and purification workflow](#no-122), [No. 123 LC-MS/MS proteomics workflow](#no-123), [No. 124 Public database mining workflow (TCGA/GEO)](#no-124), [No. 125 qPCR workflow](#no-125), [No. 126 Knockdown, overexpression and rescue logic](#no-126), [No. 127 Scratch wound healing assay workflow](#no-127), [No. 128 Single-cell RNA sequencing workflow](#no-128), [No. 129 Spatial transcriptomics workflow](#no-129), [No. 130 Transwell migration and invasion assay](#no-130), [No. 131 TUNEL apoptosis assay workflow](#no-131), [No. 132 Western blot workflow](#no-132), [No. 133 Subcutaneous xenograft tumor model workflow](#no-133)
-- **Materials & Energy**: [No. 134 3D-printed tissue engineering scaffold](#no-134), [No. 135 Coin cell assembly workflow](#no-135), [No. 136 Electrospinning nanofiber workflow](#no-136), [No. 137 Flexible wearable sensor](#no-137), [No. 138 Green hydrogen system: from renewable power to end use](#no-138), [No. 139 Heterogeneous catalysis mechanism](#no-139), [No. 140 Hydrothermal synthesis route](#no-140), [No. 141 Lithium-ion battery charge and discharge](#no-141), [No. 142 Materials characterization workflow](#no-142), [No. 143 Materials research overview: preparation, characterization, performance, mechanism](#no-143), [No. 144 Metal–organic framework (MOF) structure and uses](#no-144), [No. 145 Perovskite–silicon tandem solar cell](#no-145), [No. 146 Self-healing polymer](#no-146), [No. 147 Spin-coated thin film workflow](#no-147), [No. 148 2D material van der Waals heterostructure](#no-148), [No. 149 Water electrolysis: HER and OER](#no-149)
-- **Earth & Environment**: [No. 150 Air quality monitoring workflow](#no-150), [No. 151 Carbon capture and storage (CCS)](#no-151), [No. 152 Global carbon cycle](#no-152), [No. 153 Contaminated soil and remediation options](#no-153), [No. 154 Ecosystem services framework](#no-154), [No. 155 Field sampling design: transects and plots](#no-155), [No. 156 Groundwater contamination plume](#no-156), [No. 157 Life cycle assessment (LCA) framework](#no-157), [No. 158 Microplastics pathway](#no-158), [No. 159 PM2.5 sources and transport](#no-159), [No. 160 Remote sensing processing workflow](#no-160), [No. 161 Soil sampling and analysis workflow](#no-161), [No. 162 Urban heat island and mitigation](#no-162), [No. 163 Wastewater treatment process](#no-163), [No. 164 Water cycle](#no-164), [No. 165 Water quality sampling and testing workflow](#no-165), [No. 166 Watershed nutrient runoff to a lake](#no-166)
-- **AI & Computing**: [No. 167 Cloud–edge–device computing](#no-167), [No. 168 Convolutional neural network (CNN) architecture](#no-168), [No. 169 Data annotation pipeline](#no-169), [No. 170 Diffusion model: forward noising and reverse denoising](#no-170), [No. 171 Digital twin](#no-171), [No. 172 Federated learning](#no-172), [No. 173 Generative adversarial network (GAN)](#no-173), [No. 174 Graph neural network: message passing](#no-174), [No. 175 Knowledge graph construction workflow](#no-175), [No. 176 LLM agent loop](#no-176), [No. 177 LoRA fine-tuning of a large language model](#no-177), [No. 178 Medical imaging and digital pathology AI workflow](#no-178), [No. 179 Machine learning modeling pipeline](#no-179), [No. 180 Model evaluation workflow](#no-180), [No. 181 Multi-agent collaboration framework](#no-181), [No. 182 Multimodal large language model architecture](#no-182), [No. 183 Retrieval-augmented generation (RAG) pipeline](#no-183), [No. 184 Recommender system: retrieval, ranking and feedback](#no-184), [No. 185 Reinforcement learning: agent–environment loop](#no-185), [No. 186 Transfer learning](#no-186), [No. 187 Transformer architecture](#no-187), [No. 188 U-Net architecture](#no-188), [No. 189 Variational autoencoder (VAE)](#no-189), [No. 190 Vision Transformer (ViT) architecture](#no-190)
-- **Engineering Systems**: [No. 191 Autonomous driving perception to control](#no-191), [No. 192 Bridge structural health monitoring](#no-192), [No. 193 Electric vehicle powertrain](#no-193), [No. 194 Integrated energy system](#no-194), [No. 195 IoT monitoring architecture](#no-195), [No. 196 Microgrid](#no-196), [No. 197 PID closed-loop control](#no-197), [No. 198 Robotic arm system](#no-198), [No. 199 Smart grid](#no-199), [No. 200 Wind turbine nacelle cutaway](#no-200), [No. 201 Wireless sensor network](#no-201)
-- **Chemistry & Instruments**: [No. 202 Continuous flow chemistry setup](#no-202), [No. 203 Cross-coupling catalytic cycle (Suzuki)](#no-203), [No. 204 Enzyme catalysis and induced fit](#no-204), [No. 205 Fluorescent probe sensing mechanism](#no-205), [No. 206 HPLC system](#no-206), [No. 207 Triple quadrupole mass spectrometer](#no-207), [No. 208 NMR principle](#no-208), [No. 209 Three-electrode electrochemical cell](#no-209), [No. 210 UV-Vis spectrophotometer principle](#no-210)
-- **Plant & Agriculture**: [No. 211 C3 versus C4 photosynthesis](#no-211), [No. 212 CRISPR gene-edited crop breeding workflow](#no-212), [No. 213 Drought stress and ABA signaling](#no-213), [No. 214 Field trial layout: randomized complete block design](#no-214), [No. 215 Leaf structure and photosynthesis](#no-215), [No. 216 Plant hormone crosstalk: auxin, cytokinin, ABA and GA](#no-216), [No. 217 Plant immunity: PTI and ETI](#no-217), [No. 218 Plant tissue culture workflow](#no-218), [No. 219 Precision agriculture with drones](#no-219), [No. 220 Root nodule nitrogen fixation](#no-220), [No. 221 Roots and the rhizosphere](#no-221), [No. 222 Seed germination stages](#no-222)
-- **Social Science**: [No. 223 ADDIE instructional design model](#no-223), [No. 224 AI-enabled education framework](#no-224), [No. 225 Bronfenbrenner's ecological systems theory](#no-225), [No. 226 Difference-in-differences policy evaluation design](#no-226), [No. 227 FAIR research data lifecycle](#no-227), [No. 228 Flipped classroom model](#no-228), [No. 229 Learning analytics workflow](#no-229), [No. 230 Logic model: inputs, activities, outputs, outcomes](#no-230), [No. 231 Explanatory sequential mixed-methods design](#no-231), [No. 232 Open science research lifecycle](#no-232), [No. 233 Research framework with mediator and moderator](#no-233), [No. 234 Scale development and validation workflow](#no-234), [No. 235 Stakeholder map (power–interest grid)](#no-235), [No. 236 Technology acceptance model (TAM)](#no-236), [No. 237 Research technical roadmap](#no-237), [No. 238 Theory of planned behavior (TPB)](#no-238), [No. 239 Unified theory of acceptance and use of technology (UTAUT)](#no-239)
+## 📊 Statistics
+
+<div align="center">
+
+| Metric | Count |
+|--------|-------|
+| 📝 Total Prompts | **1000+** |
+| 🖼️ Example Images | **1000+** |
+| ⭐ Featured | **4** |
+| 🔬 Disciplines | **12** |
+| 🤖 Model | **GPT Image 2.6** |
+| 🔄 Last Updated | **2026-11-22** |
+
+</div>
+
+---
+
+<a id="featured-prompts"></a>
+
+## 🔥 Featured Prompts
+
+> ⭐ Hand-picked by the YILA team for publication-grade clarity and scientific structure
+
+<a id="featured-no-30"></a>
+
+### No. 30: CAR-T cells against a solid tumor
+
+![Model](https://img.shields.io/badge/Model-GPT%20Image%202.6-10a37f) ![Category](https://img.shields.io/badge/Graphical%20Abstract-blue) ![Featured](https://img.shields.io/badge/%E2%AD%90-Featured-gold)
+
+#### 📖 Description
+
+Technique: **staged sequence + magnified inset** · Style: soft semi-realistic illustration · Aspect Ratio: `16:9`
+
+#### 📝 Prompt
+
+```text
+Create a graphical abstract about 【CAR-T cell therapy against a solid tumor】, told from left to right in three stages.
+Left: 【a patient's T cells engineered to carry a chimeric antigen receptor on their surface】.
+Center: 【CAR-T cells leave a blood vessel and push into dense tumor tissue】.
+Right: 【a CAR-T cell attacks a tumor cell, which breaks apart】. A circular magnified inset shows 【the receptor on the CAR-T cell binding an antigen on the tumor cell】.
+Labels, each used once, no other text: 【CAR-T cell, Tumor antigen, Infiltration, Tumor killing】.
+
+Style: journal graphical-abstract illustration. Soft semi-realistic medical illustration with gentle volume and subtle hand-painted texture, on a clean white background. Muted, harmonious palette with one accent color. Clear left-to-right narrative, generous white space. Sans-serif English labels only, each label appears exactly once, spelled exactly as given. No cartoon style, no glossy CGI, no dark background, no stock-photo look.
+```
+
+<details><summary>Chinese prompt</summary>
+
+```text
+画一张关于【CAR-T 细胞治疗实体瘤】的图形摘要，从左到右分三段讲述。
+左：【患者的 T 细胞经过改造，表面带上嵌合抗原受体】。
+中：【CAR-T 细胞从血管中穿出，进入致密的肿瘤组织】。
+右：【一个 CAR-T 细胞攻击肿瘤细胞，肿瘤细胞破裂】。用一个圆形放大框展示【CAR-T 细胞上的受体结合肿瘤细胞上的抗原】。
+标签（每个只出现一次，不加其他文字）：【CAR-T cell, Tumor antigen, Infiltration, Tumor killing】。
+
+风格：期刊图形摘要插画。柔和的半写实医学插画，带轻微体积感和细腻的手绘质感，白色干净背景。配色低饱和、协调，只用一个强调色。从左到右叙事清晰，留白充足。图中文字只用英文无衬线字体，每个标签只出现一次，拼写与给定完全一致。不要卡通风格、不要光滑的 CG 渲染、不要深色背景、不要图库照片感。
+```
+
+</details>
+
+#### 🖼️ Generated Image
+
+<div align="center">
+<a href="https://yila.ai/scientific-figure-prompts/car-t-solid-tumor?utm_source=github&utm_medium=readme_featured&utm_campaign=sci-figure-prompts&utm_content=car-t-solid-tumor"><img src="gallery/graphical-abstract/car-t-solid-tumor-en.jpg" width="700" alt="CAR-T cells against a solid tumor"></a>
+</div>
+
+#### 📌 Details
+
+- **Author:** [@Yila-AI](https://github.com/Yila-AI)
+- **Model:** GPT Image 2.6
+- **Aspect Ratio:** 16:9
+- **Languages:** en, zh
+
+**[👉 Try it now in YILA →](https://yila.ai/scientific-figure-prompts/car-t-solid-tumor?utm_source=github&utm_medium=readme_featured&utm_campaign=sci-figure-prompts&utm_content=car-t-solid-tumor)** · [↑ Back to top](#top)
+
+---
+
+<a id="featured-no-53"></a>
+
+### No. 53: cGAS–STING innate immune pathway
+
+![Model](https://img.shields.io/badge/Model-GPT%20Image%202.6-10a37f) ![Category](https://img.shields.io/badge/Signaling%20Pathway-blue) ![Featured](https://img.shields.io/badge/%E2%AD%90-Featured-gold)
+
+#### 📖 Description
+
+Technique: **numbered relationships + membrane–cytosol–nucleus layout** · Style: flat vector schematic · Aspect Ratio: `4:3`
+
+#### 📝 Prompt
+
+```text
+Create a signaling pathway schematic of 【cGAS–STING DNA sensing】 inside one cell, read from top to bottom. Draw each relationship exactly as listed and nothing more:
+1. 【Double-stranded DNA in the cytoplasm binds cGAS.】
+2. 【cGAS produces cGAMP, a small molecule.】
+3. 【cGAMP activates STING, which sits on an ER membrane.】
+4. 【STING recruits TBK1.】
+5. 【TBK1 phosphorylates IRF3 (small 'P' circle).】
+6. 【IRF3 moves into the nucleus at the bottom and turns on Type I IFN genes.】
+All arrows are solid activation arrows.
+Labels, each used once, no other text: 【DNA, cGAS, cGAMP, STING, TBK1, IRF3, Type I IFN】.
+
+Style: journal-style scientific schematic. Clean flat vector illustration on a white background, light pastel rounded panels to separate regions. Only 3-4 muted colors, each with one fixed meaning; red only for inhibition or emphasis. Thin, uniform line weight. Proteins as rounded colored capsules with their names inside; membranes as lipid bilayers; activation as solid arrows, inhibition as T-bar lines, indirect effects as dashed arrows. Sans-serif English labels only, each label appears exactly once, spelled exactly as given. No 3D rendering, no shadows, no glow, no decorative background, no photorealism.
+```
+
+<details><summary>Chinese prompt</summary>
+
+```text
+画一张【cGAS–STING 识别 DNA】的信号通路示意图，在一个细胞内从上往下读。严格按下面列出的关系画，不多画：
+1. 【细胞质中的双链 DNA 结合 cGAS。】
+2. 【cGAS 生成小分子 cGAMP。】
+3. 【cGAMP 激活位于内质网膜上的 STING。】
+4. 【STING 招募 TBK1。】
+5. 【TBK1 磷酸化 IRF3（带 P 的小圆点）。】
+6. 【IRF3 进入底部的细胞核，开启 I 型干扰素基因。】
+所有箭头都是实线激活箭头。
+标签（每个只出现一次，不加其他文字）：【DNA, cGAS, cGAMP, STING, TBK1, IRF3, Type I IFN】。
+
+风格：期刊式科研示意图。白色背景上的干净扁平矢量插画，用浅色圆角面板区分区域。只用 3–4 种低饱和度颜色，每种颜色含义固定，红色只用于抑制或强调。线条细且粗细一致。蛋白画成彩色圆角胶囊，名称写在胶囊里；细胞膜画成磷脂双分子层；激活用实线箭头，抑制用 T 形线，间接作用用虚线箭头。图中文字只用英文无衬线字体，每个标签只出现一次，拼写与给定完全一致。不要 3D 渲染、阴影、发光、装饰性背景或照片质感。
+```
+
+</details>
+
+#### 🖼️ Generated Image
+
+<div align="center">
+<a href="https://yila.ai/scientific-figure-prompts/cgas-sting?utm_source=github&utm_medium=readme_featured&utm_campaign=sci-figure-prompts&utm_content=cgas-sting"><img src="gallery/signaling-pathway/cgas-sting-en.jpg" width="700" alt="cGAS–STING innate immune pathway"></a>
+</div>
+
+#### 📌 Details
+
+- **Author:** [@Yila-AI](https://github.com/Yila-AI)
+- **Model:** GPT Image 2.6
+- **Aspect Ratio:** 4:3
+- **Languages:** en, zh
+
+**[👉 Try it now in YILA →](https://yila.ai/scientific-figure-prompts/cgas-sting?utm_source=github&utm_medium=readme_featured&utm_campaign=sci-figure-prompts&utm_content=cgas-sting)** · [↑ Back to top](#top)
+
+---
+
+<a id="featured-no-75"></a>
+
+### No. 75: Healthy versus Alzheimer's brain
+
+![Model](https://img.shields.io/badge/Model-GPT%20Image%202.6-10a37f) ![Category](https://img.shields.io/badge/Medical%20Illustration-blue) ![Featured](https://img.shields.io/badge/%E2%AD%90-Featured-gold)
+
+#### 📖 Description
+
+Technique: **side-by-side panels + magnified inset** · Style: soft semi-realistic illustration · Aspect Ratio: `4:3`
+
+#### 📝 Prompt
+
+```text
+Create a side-by-side medical illustration comparing 【a healthy brain and an Alzheimer's disease brain】, separated by a thin dashed vertical line.
+Left: 【a full-sized healthy brain; a circular magnified inset shows healthy neurons with intact connections】.
+Right: 【a shrunken brain with wider grooves; a circular magnified inset shows amyloid plaques between neurons and twisted tangles inside a neuron】.
+Labels, each used once, no other text: 【Healthy brain, Alzheimer's brain, Amyloid plaque, Tau tangles】.
+
+Style: journal graphical-abstract illustration. Soft semi-realistic medical illustration with gentle volume and subtle hand-painted texture, on a clean white background. Muted, harmonious palette with one accent color. Clear left-to-right narrative, generous white space. Sans-serif English labels only, each label appears exactly once, spelled exactly as given. No cartoon style, no glossy CGI, no dark background, no stock-photo look.
+```
+
+<details><summary>Chinese prompt</summary>
+
+```text
+画一张左右并排的医学插图，比较【健康大脑和阿尔茨海默病大脑】，中间用一条细虚线分开。
+左：【大小正常的健康大脑；一个圆形放大框展示连接完整的健康神经元】。
+右：【萎缩、沟回变宽的大脑；一个圆形放大框展示神经元之间的淀粉样斑块和神经元内扭曲的缠结】。
+标签（每个只出现一次，不加其他文字）：【Healthy brain, Alzheimer's brain, Amyloid plaque, Tau tangles】。
+
+风格：期刊图形摘要插画。柔和的半写实医学插画，带轻微体积感和细腻的手绘质感，白色干净背景。配色低饱和、协调，只用一个强调色。从左到右叙事清晰，留白充足。图中文字只用英文无衬线字体，每个标签只出现一次，拼写与给定完全一致。不要卡通风格、不要光滑的 CG 渲染、不要深色背景、不要图库照片感。
+```
+
+</details>
+
+#### 🖼️ Generated Image
+
+<div align="center">
+<a href="https://yila.ai/scientific-figure-prompts/alzheimers-brain?utm_source=github&utm_medium=readme_featured&utm_campaign=sci-figure-prompts&utm_content=alzheimers-brain"><img src="gallery/medical-illustration/alzheimers-brain-en.jpg" width="700" alt="Healthy versus Alzheimer's brain"></a>
+</div>
+
+#### 📌 Details
+
+- **Author:** [@Yila-AI](https://github.com/Yila-AI)
+- **Model:** GPT Image 2.6
+- **Aspect Ratio:** 4:3
+- **Languages:** en, zh
+
+**[👉 Try it now in YILA →](https://yila.ai/scientific-figure-prompts/alzheimers-brain?utm_source=github&utm_medium=readme_featured&utm_campaign=sci-figure-prompts&utm_content=alzheimers-brain)** · [↑ Back to top](#top)
+
+---
+
+<a id="featured-no-118"></a>
+
+### No. 118: Mouse disease model: grouping, dosing and sampling
+
+![Model](https://img.shields.io/badge/Model-GPT%20Image%202.6-10a37f) ![Category](https://img.shields.io/badge/Experimental%20Workflow-blue) ![Featured](https://img.shields.io/badge/%E2%AD%90-Featured-gold)
+
+#### 📖 Description
+
+Technique: **one pastel rounded panel per step + icon-style scene** · Style: flat workflow · Aspect Ratio: `16:9`
+
+#### 📝 Prompt
+
+```text
+Create an experimental workflow figure for 【a mouse tumor treatment study】, in five steps from left to right. Each step is one light pastel rounded panel with its number and name at the top and one simple icon-style scene inside; thin arrows connect the panels.
+Step 1: 【mice randomly split into a control group and a treatment group】.
+Step 2: 【a tumor growing under the skin on the flank of a mouse】.
+Step 3: 【a syringe giving an intraperitoneal injection】.
+Step 4: 【a mouse on a small scale next to a caliper measuring the tumor】.
+Step 5: 【collected tumor, blood tube and organ samples in labeled tubes】.
+Labels, each used once, no other text: 【1 Grouping, 2 Model, 3 Dosing, 4 Monitoring, 5 Sampling】.
+
+Style: journal-style experimental workflow figure. Clean flat vector icons on a white background, one light pastel rounded panel per step, thin gray arrows between panels. Only 3-4 muted colors. Each panel shows one simple scene with no text inside it; the only text in the whole figure is the step names given. Sans-serif English, each step name appears exactly once, spelled exactly as given. No legends, no captions, no extra labels, no 3D rendering, no shadows, no decorative background.
+```
+
+<details><summary>Chinese prompt</summary>
+
+```text
+画一张【小鼠肿瘤治疗实验】的实验流程图，从左到右分五步。每一步是一个浅色圆角面板，顶部写编号和步骤名，面板里是一个简洁的图标化小场景，面板之间用细箭头连接。
+第 1 步：【小鼠被随机分成对照组和治疗组】。
+第 2 步：【小鼠侧腹皮下长出一个肿瘤】。
+第 3 步：【注射器进行腹腔注射】。
+第 4 步：【小鼠站在小秤上称重，旁边一把卡尺测量肿瘤】。
+第 5 步：【收集到的肿瘤、血液管和器官样本，放在贴好标签的管子里】。
+标签（每个只出现一次，不加其他文字）：【1 Grouping, 2 Model, 3 Dosing, 4 Monitoring, 5 Sampling】。
+
+风格：期刊式实验流程图。白色背景上干净的扁平矢量图标，每一步一个浅色圆角面板，面板之间用细灰色箭头连接。只用 3–4 种低饱和度颜色。每个面板里只画一个简洁的小场景，面板内不写任何文字；整张图唯一的文字就是给定的步骤名。用英文无衬线字体，每个步骤名只出现一次，拼写与给定完全一致。不要图例、不要说明文字、不要额外标签、不要 3D 渲染、阴影或装饰性背景。
+```
+
+</details>
+
+#### 🖼️ Generated Image
+
+<div align="center">
+<a href="https://yila.ai/scientific-figure-prompts/mouse-model-dosing?utm_source=github&utm_medium=readme_featured&utm_campaign=sci-figure-prompts&utm_content=mouse-model-dosing"><img src="gallery/experimental-workflow/mouse-model-dosing-en.jpg" width="700" alt="Mouse disease model: grouping, dosing and sampling"></a>
+</div>
+
+#### 📌 Details
+
+- **Author:** [@Yila-AI](https://github.com/Yila-AI)
+- **Model:** GPT Image 2.6
+- **Aspect Ratio:** 16:9
+- **Languages:** en, zh
+
+**[👉 Try it now in YILA →](https://yila.ai/scientific-figure-prompts/mouse-model-dosing?utm_source=github&utm_medium=readme_featured&utm_campaign=sci-figure-prompts&utm_content=mouse-model-dosing)** · [↑ Back to top](#top)
+
+---
+
+<a id="all-prompts"></a>
+
+## 📋 All Prompts
 
 <a id="research-design"></a>
 
-## Research Design
+### 🗺️ Research Design
 
 <a id="no-1"></a>
 
-### No. 1: Bench-to-bedside translational pathway
+#### No. 1: Bench-to-bedside translational pathway
 
-by [@Yila-AI](https://github.com/Yila-AI)
+![Model](https://img.shields.io/badge/Model-GPT%20Image%202.6-10a37f) ![Category](https://img.shields.io/badge/Research%20Design-blue)
 
-Technique: **main line plus a dashed feedback loop** · Style: schematic diagram · Aspect ratio: 16:9
+##### 📖 Description
 
-| English prompt | Chinese prompt |
-|---|---|
-| <img src="gallery/research-design/bench-to-bedside-en.jpg" width="420"> | <img src="gallery/research-design/bench-to-bedside-zh.jpg" width="420"> |
+Technique: **main line plus a dashed feedback loop** · Style: schematic diagram · Aspect Ratio: `16:9`
 
-**English prompt**
+##### 📝 Prompt
 
 ```text
 Create a translational research pathway for 【a new therapy】, read from left to right, each stage a rounded box with one icon. Draw each relationship exactly as listed and nothing more:
@@ -117,29 +399,34 @@ Style: journal-style schematic diagram. Clean flat vector graphics on a white ba
 
 </details>
 
-Model: Nano Banana 2 Lite (gemini-3.1-flash-lite-image, 1K) · Generated 2 times in total; shown are the outputs that passed review
+##### 🖼️ Generated Image
 
-[↑ Back to top](#top)
+<div align="center">
+<a href="https://yila.ai/scientific-figure-prompts/bench-to-bedside?utm_source=github&utm_medium=readme&utm_campaign=sci-figure-prompts&utm_content=bench-to-bedside"><img src="gallery/research-design/bench-to-bedside-en.jpg" width="600" alt="Bench-to-bedside translational pathway"></a>
+</div>
 
-<sub><a href="https://yila.ai/?utm_source=github&utm_medium=readme&utm_campaign=sci-figure-prompts&utm_content=bench-to-bedside">Try in Yila →</a></sub>
+##### 📌 Details
+
+- **Author:** [@Yila-AI](https://github.com/Yila-AI)
+- **Model:** GPT Image 2.6
+- **Aspect Ratio:** 16:9
+- **Languages:** en, zh
+
+**[👉 Try it now in YILA →](https://yila.ai/scientific-figure-prompts/bench-to-bedside?utm_source=github&utm_medium=readme&utm_campaign=sci-figure-prompts&utm_content=bench-to-bedside)** · [↑ Back to top](#top)
 
 ---
 
 <a id="no-2"></a>
 
-### No. 2: Case-control study design
+#### No. 2: Case-control study design
 
-by [@Yila-AI](https://github.com/Yila-AI)
+![Model](https://img.shields.io/badge/Model-GPT%20Image%202.6-10a37f) ![Category](https://img.shields.io/badge/Research%20Design-blue)
 
-Technique: **looking back from outcome to exposure** · Style: schematic diagram · Aspect ratio: 16:9
+##### 📖 Description
 
-| English prompt |
-|---|
-| <img src="gallery/research-design/case-control-design-en.jpg" width="420"> |
+Technique: **looking back from outcome to exposure** · Style: schematic diagram · Aspect Ratio: `16:9`
 
-> The Chinese-prompt output did not pass review, so it is not shown.
-
-**English prompt**
+##### 📝 Prompt
 
 ```text
 Create a study design diagram of 【a case-control study】: a time arrow along the bottom pointing from right to left, showing that the study looks back in time.
@@ -165,27 +452,34 @@ Style: journal-style schematic diagram. Clean flat vector graphics on a white ba
 
 </details>
 
-Model: Nano Banana 2 Lite (gemini-3.1-flash-lite-image, 1K) · Generated 4 times in total; shown are the outputs that passed review
+##### 🖼️ Generated Image
 
-[↑ Back to top](#top)
+<div align="center">
+<a href="https://yila.ai/scientific-figure-prompts/case-control-design?utm_source=github&utm_medium=readme&utm_campaign=sci-figure-prompts&utm_content=case-control-design"><img src="gallery/research-design/case-control-design-en.jpg" width="600" alt="Case-control study design"></a>
+</div>
 
-<sub><a href="https://yila.ai/?utm_source=github&utm_medium=readme&utm_campaign=sci-figure-prompts&utm_content=case-control-design">Try in Yila →</a></sub>
+##### 📌 Details
+
+- **Author:** [@Yila-AI](https://github.com/Yila-AI)
+- **Model:** GPT Image 2.6
+- **Aspect Ratio:** 16:9
+- **Languages:** en, zh
+
+**[👉 Try it now in YILA →](https://yila.ai/scientific-figure-prompts/case-control-design?utm_source=github&utm_medium=readme&utm_campaign=sci-figure-prompts&utm_content=case-control-design)** · [↑ Back to top](#top)
 
 ---
 
 <a id="no-3"></a>
 
-### No. 3: Cell experiment groups and treatment timeline
+#### No. 3: Cell experiment groups and treatment timeline
 
-by [@Yila-AI](https://github.com/Yila-AI)
+![Model](https://img.shields.io/badge/Model-GPT%20Image%202.6-10a37f) ![Category](https://img.shields.io/badge/Research%20Design-blue)
 
-Technique: **a time axis with colored group rows** · Style: schematic diagram · Aspect ratio: 16:9
+##### 📖 Description
 
-| English prompt | Chinese prompt |
-|---|---|
-| <img src="gallery/research-design/cell-treatment-timeline-en.jpg" width="420"> | <img src="gallery/research-design/cell-treatment-timeline-zh.jpg" width="420"> |
+Technique: **a time axis with colored group rows** · Style: schematic diagram · Aspect Ratio: `16:9`
 
-**English prompt**
+##### 📝 Prompt
 
 ```text
 Create a timeline figure for 【a cell experiment】: one horizontal time axis across the top with three tick marks.
@@ -213,27 +507,34 @@ Style: journal-style schematic diagram. Clean flat vector graphics on a white ba
 
 </details>
 
-Model: Nano Banana 2 Lite (gemini-3.1-flash-lite-image, 1K) · Generated 4 times in total; shown are the outputs that passed review
+##### 🖼️ Generated Image
 
-[↑ Back to top](#top)
+<div align="center">
+<a href="https://yila.ai/scientific-figure-prompts/cell-treatment-timeline?utm_source=github&utm_medium=readme&utm_campaign=sci-figure-prompts&utm_content=cell-treatment-timeline"><img src="gallery/research-design/cell-treatment-timeline-en.jpg" width="600" alt="Cell experiment groups and treatment timeline"></a>
+</div>
 
-<sub><a href="https://yila.ai/?utm_source=github&utm_medium=readme&utm_campaign=sci-figure-prompts&utm_content=cell-treatment-timeline">Try in Yila →</a></sub>
+##### 📌 Details
+
+- **Author:** [@Yila-AI](https://github.com/Yila-AI)
+- **Model:** GPT Image 2.6
+- **Aspect Ratio:** 16:9
+- **Languages:** en, zh
+
+**[👉 Try it now in YILA →](https://yila.ai/scientific-figure-prompts/cell-treatment-timeline?utm_source=github&utm_medium=readme&utm_campaign=sci-figure-prompts&utm_content=cell-treatment-timeline)** · [↑ Back to top](#top)
 
 ---
 
 <a id="no-4"></a>
 
-### No. 4: Clinical prediction model workflow
+#### No. 4: Clinical prediction model workflow
 
-by [@Yila-AI](https://github.com/Yila-AI)
+![Model](https://img.shields.io/badge/Model-GPT%20Image%202.6-10a37f) ![Category](https://img.shields.io/badge/Research%20Design-blue)
 
-Technique: **one panel per step, step names only** · Style: flat workflow · Aspect ratio: 16:9
+##### 📖 Description
 
-| English prompt | Chinese prompt |
-|---|---|
-| <img src="gallery/research-design/clinical-prediction-model-en.jpg" width="420"> | <img src="gallery/research-design/clinical-prediction-model-zh.jpg" width="420"> |
+Technique: **one panel per step, step names only** · Style: flat workflow · Aspect Ratio: `16:9`
 
-**English prompt**
+##### 📝 Prompt
 
 ```text
 Create a workflow figure for 【building a clinical prediction model】, 6 steps from left to right:
@@ -267,29 +568,34 @@ Style: journal-style experimental workflow figure. Clean flat vector icons on a 
 
 </details>
 
-Model: Nano Banana 2 Lite (gemini-3.1-flash-lite-image, 1K) · Generated 2 times in total; shown are the outputs that passed review
+##### 🖼️ Generated Image
 
-[↑ Back to top](#top)
+<div align="center">
+<a href="https://yila.ai/scientific-figure-prompts/clinical-prediction-model?utm_source=github&utm_medium=readme&utm_campaign=sci-figure-prompts&utm_content=clinical-prediction-model"><img src="gallery/research-design/clinical-prediction-model-en.jpg" width="600" alt="Clinical prediction model workflow"></a>
+</div>
 
-<sub><a href="https://yila.ai/?utm_source=github&utm_medium=readme&utm_campaign=sci-figure-prompts&utm_content=clinical-prediction-model">Try in Yila →</a></sub>
+##### 📌 Details
+
+- **Author:** [@Yila-AI](https://github.com/Yila-AI)
+- **Model:** GPT Image 2.6
+- **Aspect Ratio:** 16:9
+- **Languages:** en, zh
+
+**[👉 Try it now in YILA →](https://yila.ai/scientific-figure-prompts/clinical-prediction-model?utm_source=github&utm_medium=readme&utm_campaign=sci-figure-prompts&utm_content=clinical-prediction-model)** · [↑ Back to top](#top)
 
 ---
 
 <a id="no-5"></a>
 
-### No. 5: Cross-scale view: organ, tissue, cell, molecule
+#### No. 5: Cross-scale view: organ, tissue, cell, molecule
 
-by [@Yila-AI](https://github.com/Yila-AI)
+![Model](https://img.shields.io/badge/Model-GPT%20Image%202.6-10a37f) ![Category](https://img.shields.io/badge/Research%20Design-blue)
 
-Technique: **successive circular zoom-ins** · Style: scientific illustration · Aspect ratio: 16:9
+##### 📖 Description
 
-| English prompt |
-|---|
-| <img src="gallery/research-design/cross-scale-zoom-en.jpg" width="420"> |
+Technique: **successive circular zoom-ins** · Style: scientific illustration · Aspect Ratio: `16:9`
 
-> The Chinese-prompt output did not pass review, so it is not shown.
-
-**English prompt**
+##### 📝 Prompt
 
 ```text
 Create a cross-scale illustration of 【the kidney】, read from left to right as four levels joined by circular magnified insets:
@@ -321,27 +627,34 @@ Style: journal-style scientific illustration. Clean semi-realistic vector illust
 
 </details>
 
-Model: Nano Banana 2 Lite (gemini-3.1-flash-lite-image, 1K) · Generated 4 times in total; shown are the outputs that passed review
+##### 🖼️ Generated Image
 
-[↑ Back to top](#top)
+<div align="center">
+<a href="https://yila.ai/scientific-figure-prompts/cross-scale-zoom?utm_source=github&utm_medium=readme&utm_campaign=sci-figure-prompts&utm_content=cross-scale-zoom"><img src="gallery/research-design/cross-scale-zoom-en.jpg" width="600" alt="Cross-scale view: organ, tissue, cell, molecule"></a>
+</div>
 
-<sub><a href="https://yila.ai/?utm_source=github&utm_medium=readme&utm_campaign=sci-figure-prompts&utm_content=cross-scale-zoom">Try in Yila →</a></sub>
+##### 📌 Details
+
+- **Author:** [@Yila-AI](https://github.com/Yila-AI)
+- **Model:** GPT Image 2.6
+- **Aspect Ratio:** 16:9
+- **Languages:** en, zh
+
+**[👉 Try it now in YILA →](https://yila.ai/scientific-figure-prompts/cross-scale-zoom?utm_source=github&utm_medium=readme&utm_campaign=sci-figure-prompts&utm_content=cross-scale-zoom)** · [↑ Back to top](#top)
 
 ---
 
 <a id="no-6"></a>
 
-### No. 6: Cross-sectional study design
+#### No. 6: Cross-sectional study design
 
-by [@Yila-AI](https://github.com/Yila-AI)
+![Model](https://img.shields.io/badge/Model-GPT%20Image%202.6-10a37f) ![Category](https://img.shields.io/badge/Research%20Design-blue)
 
-Technique: **a snapshot at one point in time** · Style: schematic diagram · Aspect ratio: 16:9
+##### 📖 Description
 
-| Chinese prompt |
-|---|
-| <img src="gallery/research-design/cross-sectional-design-zh.jpg" width="420"> |
+Technique: **a snapshot at one point in time** · Style: schematic diagram · Aspect Ratio: `16:9`
 
-**English prompt**
+##### 📝 Prompt
 
 ```text
 Create a study design diagram of 【a cross-sectional study】, read from left to right:
@@ -371,27 +684,34 @@ Style: journal-style schematic diagram. Clean flat vector graphics on a white ba
 
 </details>
 
-Model: Nano Banana 2 Lite (gemini-3.1-flash-lite-image, 1K) · Generated 6 times in total; shown are the outputs that passed review
+##### 🖼️ Generated Image
 
-[↑ Back to top](#top)
+<div align="center">
+<a href="https://yila.ai/scientific-figure-prompts/cross-sectional-design?utm_source=github&utm_medium=readme&utm_campaign=sci-figure-prompts&utm_content=cross-sectional-design"><img src="gallery/research-design/cross-sectional-design-zh.jpg" width="600" alt="Cross-sectional study design"></a>
+</div>
 
-<sub><a href="https://yila.ai/?utm_source=github&utm_medium=readme&utm_campaign=sci-figure-prompts&utm_content=cross-sectional-design">Try in Yila →</a></sub>
+##### 📌 Details
+
+- **Author:** [@Yila-AI](https://github.com/Yila-AI)
+- **Model:** GPT Image 2.6
+- **Aspect Ratio:** 16:9
+- **Languages:** en, zh
+
+**[👉 Try it now in YILA →](https://yila.ai/scientific-figure-prompts/cross-sectional-design?utm_source=github&utm_medium=readme&utm_campaign=sci-figure-prompts&utm_content=cross-sectional-design)** · [↑ Back to top](#top)
 
 ---
 
 <a id="no-7"></a>
 
-### No. 7: Generic data processing pipeline
+#### No. 7: Generic data processing pipeline
 
-by [@Yila-AI](https://github.com/Yila-AI)
+![Model](https://img.shields.io/badge/Model-GPT%20Image%202.6-10a37f) ![Category](https://img.shields.io/badge/Research%20Design-blue)
 
-Technique: **one panel per step, step names only** · Style: flat workflow · Aspect ratio: 16:9
+##### 📖 Description
 
-| English prompt | Chinese prompt |
-|---|---|
-| <img src="gallery/research-design/data-processing-pipeline-en.jpg" width="420"> | <img src="gallery/research-design/data-processing-pipeline-zh.jpg" width="420"> |
+Technique: **one panel per step, step names only** · Style: flat workflow · Aspect Ratio: `16:9`
 
-**English prompt**
+##### 📝 Prompt
 
 ```text
 Create a workflow figure for 【a data processing pipeline】, 7 steps from left to right:
@@ -427,27 +747,34 @@ Style: journal-style experimental workflow figure. Clean flat vector icons on a 
 
 </details>
 
-Model: Nano Banana 2 Lite (gemini-3.1-flash-lite-image, 1K) · Generated 2 times in total; shown are the outputs that passed review
+##### 🖼️ Generated Image
 
-[↑ Back to top](#top)
+<div align="center">
+<a href="https://yila.ai/scientific-figure-prompts/data-processing-pipeline?utm_source=github&utm_medium=readme&utm_campaign=sci-figure-prompts&utm_content=data-processing-pipeline"><img src="gallery/research-design/data-processing-pipeline-en.jpg" width="600" alt="Generic data processing pipeline"></a>
+</div>
 
-<sub><a href="https://yila.ai/?utm_source=github&utm_medium=readme&utm_campaign=sci-figure-prompts&utm_content=data-processing-pipeline">Try in Yila →</a></sub>
+##### 📌 Details
+
+- **Author:** [@Yila-AI](https://github.com/Yila-AI)
+- **Model:** GPT Image 2.6
+- **Aspect Ratio:** 16:9
+- **Languages:** en, zh
+
+**[👉 Try it now in YILA →](https://yila.ai/scientific-figure-prompts/data-processing-pipeline?utm_source=github&utm_medium=readme&utm_campaign=sci-figure-prompts&utm_content=data-processing-pipeline)** · [↑ Back to top](#top)
 
 ---
 
 <a id="no-8"></a>
 
-### No. 8: Delphi method workflow
+#### No. 8: Delphi method workflow
 
-by [@Yila-AI](https://github.com/Yila-AI)
+![Model](https://img.shields.io/badge/Model-GPT%20Image%202.6-10a37f) ![Category](https://img.shields.io/badge/Research%20Design-blue)
 
-Technique: **one panel per step, step names only** · Style: flat workflow · Aspect ratio: 16:9
+##### 📖 Description
 
-| Chinese prompt |
-|---|
-| <img src="gallery/research-design/delphi-method-zh.jpg" width="420"> |
+Technique: **one panel per step, step names only** · Style: flat workflow · Aspect Ratio: `16:9`
 
-**English prompt**
+##### 📝 Prompt
 
 ```text
 Create a workflow figure for 【a Delphi consensus study】, 6 steps from left to right:
@@ -481,1021 +808,38 @@ Style: journal-style experimental workflow figure. Clean flat vector icons on a 
 
 </details>
 
-Model: Nano Banana 2 Lite (gemini-3.1-flash-lite-image, 1K) · Generated 2 times in total; shown are the outputs that passed review
+##### 🖼️ Generated Image
 
-[↑ Back to top](#top)
+<div align="center">
+<a href="https://yila.ai/scientific-figure-prompts/delphi-method?utm_source=github&utm_medium=readme&utm_campaign=sci-figure-prompts&utm_content=delphi-method"><img src="gallery/research-design/delphi-method-zh.jpg" width="600" alt="Delphi method workflow"></a>
+</div>
 
-<sub><a href="https://yila.ai/?utm_source=github&utm_medium=readme&utm_campaign=sci-figure-prompts&utm_content=delphi-method">Try in Yila →</a></sub>
+##### 📌 Details
 
----
+- **Author:** [@Yila-AI](https://github.com/Yila-AI)
+- **Model:** GPT Image 2.6
+- **Aspect Ratio:** 16:9
+- **Languages:** en, zh
 
-<a id="no-9"></a>
-
-### No. 9: Drug development pipeline
-
-by [@Yila-AI](https://github.com/Yila-AI)
-
-Technique: **a funnel that narrows stage by stage** · Style: schematic diagram · Aspect ratio: 16:9
-
-| English prompt | Chinese prompt |
-|---|---|
-| <img src="gallery/research-design/drug-development-pipeline-en.jpg" width="420"> | <img src="gallery/research-design/drug-development-pipeline-zh.jpg" width="420"> |
-
-**English prompt**
-
-```text
-Create a drug development pipeline for 【a small-molecule drug】: a horizontal funnel that narrows from left to right, divided into six stages, each with one icon:
-【target identification (a protein), screening (a well plate), lead optimization (a molecule with a wrench), preclinical studies (a mouse), clinical trials (a patient), approval (a stamp)】.
-Write each label only once in the whole figure.
-Labels, each used once, no other text: 【Target identification, Screening, Lead optimization, Preclinical, Clinical trials, Approval】.
-
-Style: journal-style schematic diagram. Clean flat vector graphics on a white background. Modules are rounded rectangles or simple icons with their short names inside; light pastel panels group related layers. Only 3-4 muted colors, each with one fixed meaning. Thin, uniform arrows show the flow of data, energy, material or influence; dashed arrows for indirect or feedback links. Sans-serif English labels only, each label appears exactly once, spelled exactly as given. No 3D rendering, no shadows, no glow, no cyberpunk or tech-background decoration, no photorealism.
-```
-
-<details><summary>Chinese prompt</summary>
-
-```text
-画一张【小分子药物】的研发管线图：一个从左往右逐渐收窄的横向漏斗，分成六段，每段一个图标：
-【靶点发现（蛋白质）、筛选（孔板）、先导优化（带扳手的分子）、临床前研究（小鼠）、临床试验（病人）、审批（印章）】。
-整张图里每个标签只写一次。
-标签（每个只出现一次，不加其他文字）：【Target identification, Screening, Lead optimization, Preclinical, Clinical trials, Approval】。
-
-风格：期刊式示意框图。白色背景上干净的扁平矢量图形。模块画成圆角矩形或简洁图标，名称写在里面；用浅色面板把相关的层归在一起。只用 3–4 种低饱和度颜色，每种颜色含义固定。细而粗细一致的箭头表示数据、能量、物质或影响的流向，间接或反馈关系用虚线箭头。图中文字只用英文无衬线字体，每个标签只出现一次，拼写与给定完全一致。不要 3D 渲染、阴影、发光、赛博朋克或科技感背景装饰，不要照片质感。
-```
-
-</details>
-
-Model: Nano Banana 2 Lite (gemini-3.1-flash-lite-image, 1K) · Generated 4 times in total; shown are the outputs that passed review
-
-[↑ Back to top](#top)
-
-<sub><a href="https://yila.ai/?utm_source=github&utm_medium=readme&utm_campaign=sci-figure-prompts&utm_content=drug-development-pipeline">Try in Yila →</a></sub>
-
----
-
-<a id="no-10"></a>
-
-### No. 10: Evidence chain: in vitro, in vivo, clinical
-
-by [@Yila-AI](https://github.com/Yila-AI)
-
-Technique: **three lines of evidence converging on one conclusion** · Style: schematic diagram · Aspect ratio: 16:9
-
-| English prompt | Chinese prompt |
-|---|---|
-| <img src="gallery/research-design/evidence-chain-en.jpg" width="420"> | <img src="gallery/research-design/evidence-chain-zh.jpg" width="420"> |
-
-**English prompt**
-
-```text
-Create an evidence-chain figure for 【a mechanism study】, read from left to right. Draw each relationship exactly as listed and nothing more:
-1. 【Three stacked panels on the left, each with one icon: in vitro (a culture dish), in vivo (a mouse), clinical samples (a test tube with a patient icon).】
-2. 【Each panel points with an arrow to one box on the right for the conclusion.】
-Do not write the numbered sentences in the figure.
-Labels, each used once, no other text: 【In vitro, In vivo, Clinical samples, Conclusion】.
-
-Style: journal-style schematic diagram. Clean flat vector graphics on a white background. Modules are rounded rectangles or simple icons with their short names inside; light pastel panels group related layers. Only 3-4 muted colors, each with one fixed meaning. Thin, uniform arrows show the flow of data, energy, material or influence; dashed arrows for indirect or feedback links. Sans-serif English labels only, each label appears exactly once, spelled exactly as given. No 3D rendering, no shadows, no glow, no cyberpunk or tech-background decoration, no photorealism.
-```
-
-<details><summary>Chinese prompt</summary>
-
-```text
-画一张【机制研究】的证据链图，从左往右读。严格按下面列出的关系画，不多画：
-1. 【左侧上下排列三个面板，各配一个图标：体外（培养皿）、体内（小鼠）、临床样本（试管加病人图标）。】
-2. 【每个面板都用箭头指向右侧一个代表结论的框。】
-不要把编号句子写进图里。
-标签（每个只出现一次，不加其他文字）：【In vitro, In vivo, Clinical samples, Conclusion】。
-
-风格：期刊式示意框图。白色背景上干净的扁平矢量图形。模块画成圆角矩形或简洁图标，名称写在里面；用浅色面板把相关的层归在一起。只用 3–4 种低饱和度颜色，每种颜色含义固定。细而粗细一致的箭头表示数据、能量、物质或影响的流向，间接或反馈关系用虚线箭头。图中文字只用英文无衬线字体，每个标签只出现一次，拼写与给定完全一致。不要 3D 渲染、阴影、发光、赛博朋克或科技感背景装饰，不要照片质感。
-```
-
-</details>
-
-Model: Nano Banana 2 Lite (gemini-3.1-flash-lite-image, 1K) · Generated 2 times in total; shown are the outputs that passed review
-
-[↑ Back to top](#top)
-
-<sub><a href="https://yila.ai/?utm_source=github&utm_medium=readme&utm_campaign=sci-figure-prompts&utm_content=evidence-chain">Try in Yila →</a></sub>
-
----
-
-<a id="no-11"></a>
-
-### No. 11: 2×2 factorial design
-
-by [@Yila-AI](https://github.com/Yila-AI)
-
-Technique: **two factors crossed into four cells** · Style: schematic diagram · Aspect ratio: 1:1
-
-| Chinese prompt |
-|---|
-| <img src="gallery/research-design/factorial-design-2x2-zh.jpg" width="420"> |
-
-**English prompt**
-
-```text
-Create a diagram of 【a 2×2 factorial experimental design】: a square grid of four cells. Along the top, two column headers for the two levels of Factor A; along the left side, two row headers for the two levels of Factor B. Each of the four cells contains a small group-of-people icon in a different light color, with no text inside the cells.
-Write each label only once in the whole figure.
-Labels, each used once, no other text: 【Factor A, Factor B, A1, A2, B1, B2】.
-
-Style: journal-style schematic diagram. Clean flat vector graphics on a white background. Modules are rounded rectangles or simple icons with their short names inside; light pastel panels group related layers. Only 3-4 muted colors, each with one fixed meaning. Thin, uniform arrows show the flow of data, energy, material or influence; dashed arrows for indirect or feedback links. Sans-serif English labels only, each label appears exactly once, spelled exactly as given. No 3D rendering, no shadows, no glow, no cyberpunk or tech-background decoration, no photorealism.
-```
-
-<details><summary>Chinese prompt</summary>
-
-```text
-画一张【2×2 析因实验设计】示意图：一个由四个格子组成的方形网格。上方是因素 A 两个水平的列标题，左侧是因素 B 两个水平的行标题。四个格子里各放一个小人群图标，颜色各不相同，格子内不写字。
-整张图里每个标签只写一次。
-标签（每个只出现一次，不加其他文字）：【Factor A, Factor B, A1, A2, B1, B2】。
-
-风格：期刊式示意框图。白色背景上干净的扁平矢量图形。模块画成圆角矩形或简洁图标，名称写在里面；用浅色面板把相关的层归在一起。只用 3–4 种低饱和度颜色，每种颜色含义固定。细而粗细一致的箭头表示数据、能量、物质或影响的流向，间接或反馈关系用虚线箭头。图中文字只用英文无衬线字体，每个标签只出现一次，拼写与给定完全一致。不要 3D 渲染、阴影、发光、赛博朋克或科技感背景装饰，不要照片质感。
-```
-
-</details>
-
-Model: Nano Banana 2 Lite (gemini-3.1-flash-lite-image, 1K) · Generated 4 times in total; shown are the outputs that passed review
-
-[↑ Back to top](#top)
-
-<sub><a href="https://yila.ai/?utm_source=github&utm_medium=readme&utm_campaign=sci-figure-prompts&utm_content=factorial-design-2x2">Try in Yila →</a></sub>
-
----
-
-<a id="no-12"></a>
-
-### No. 12: Focus group study workflow
-
-by [@Yila-AI](https://github.com/Yila-AI)
-
-Technique: **one panel per step, step names only** · Style: flat workflow · Aspect ratio: 16:9
-
-| English prompt | Chinese prompt |
-|---|---|
-| <img src="gallery/research-design/focus-group-study-en.jpg" width="420"> | <img src="gallery/research-design/focus-group-study-zh.jpg" width="420"> |
-
-**English prompt**
-
-```text
-Create a workflow figure for 【a focus group study】, 6 steps from left to right:
-1. 【Participant recruitment: a poster and a few people】
-2. 【Discussion guide: a clipboard with a few lines】
-3. 【Group session: six people around a table with a moderator】
-4. 【Audio recording: a microphone】
-5. 【Thematic analysis: colored sticky notes grouped into clusters】
-6. 【Themes: three labeled-looking bubbles without text】
-Do not write the numbered sentences in the figure.
-Step names, each used once, no other text: 【Participant recruitment, Discussion guide, Group session, Audio recording, Thematic analysis, Themes】.
-
-Style: journal-style experimental workflow figure. Clean flat vector icons on a white background, one light pastel rounded panel per step, thin gray arrows between panels. Only 3-4 muted colors. Each panel shows one simple scene with no text inside it; the only text in the whole figure is the step names given. Sans-serif English, each step name appears exactly once, spelled exactly as given. No legends, no captions, no extra labels, no 3D rendering, no shadows, no decorative background.
-```
-
-<details><summary>Chinese prompt</summary>
-
-```text
-画一张【焦点小组研究】的流程图，从左往右六步：
-1. 【招募参与者：一张海报和几个人】
-2. 【访谈提纲：写着几行字的写字板】
-3. 【小组讨论：六人围坐一桌，一位主持人】
-4. 【录音：一个麦克风】
-5. 【主题分析：彩色便签归成几簇】
-6. 【主题：三个气泡（气泡里不写字）】
-不要把编号句子写进图里。
-步骤名（每个只出现一次，不加其他文字）：【Participant recruitment, Discussion guide, Group session, Audio recording, Thematic analysis, Themes】。
-
-风格：期刊式实验流程图。白色背景上干净的扁平矢量图标，每一步一个浅色圆角面板，面板之间用细灰色箭头连接。只用 3–4 种低饱和度颜色。每个面板里只画一个简洁的小场景，面板内不写任何文字；整张图唯一的文字就是给定的步骤名。用英文无衬线字体，每个步骤名只出现一次，拼写与给定完全一致。不要图例、不要说明文字、不要额外标签、不要 3D 渲染、阴影或装饰性背景。
-```
-
-</details>
-
-Model: Nano Banana 2 Lite (gemini-3.1-flash-lite-image, 1K) · Generated 4 times in total; shown are the outputs that passed review
-
-[↑ Back to top](#top)
-
-<sub><a href="https://yila.ai/?utm_source=github&utm_medium=readme&utm_campaign=sci-figure-prompts&utm_content=focus-group-study">Try in Yila →</a></sub>
-
----
-
-<a id="no-13"></a>
-
-### No. 13: Grant proposal: research content map
-
-by [@Yila-AI](https://github.com/Yila-AI)
-
-Technique: **one scientific question over three research contents** · Style: schematic diagram · Aspect ratio: 4:3
-
-| English prompt | Chinese prompt |
-|---|---|
-| <img src="gallery/research-design/grant-content-map-en.jpg" width="420"> | <img src="gallery/research-design/grant-content-map-zh.jpg" width="420"> |
-
-**English prompt**
-
-```text
-Create a research content map for 【a grant proposal】, read from top to bottom:
-1. At the top, one wide dark-outlined box for the scientific question.
-2. Below it, three side-by-side rounded boxes for the three research contents, each with one small icon: 【a molecule icon, a cell icon, a mouse icon】.
-3. Thin arrows run from Content 1 to Content 2 to Content 3, showing that each builds on the previous one.
-4. All three boxes point down to one box for the expected outcome.
-Labels, each used once, no other text: 【Scientific question, Content 1, Content 2, Content 3, Expected outcome】.
-
-Style: journal-style schematic diagram. Clean flat vector graphics on a white background. Modules are rounded rectangles or simple icons with their short names inside; light pastel panels group related layers. Only 3-4 muted colors, each with one fixed meaning. Thin, uniform arrows show the flow of data, energy, material or influence; dashed arrows for indirect or feedback links. Sans-serif English labels only, each label appears exactly once, spelled exactly as given. No 3D rendering, no shadows, no glow, no cyberpunk or tech-background decoration, no photorealism.
-```
-
-<details><summary>Chinese prompt</summary>
-
-```text
-画一张【基金申请书】的研究内容关系图，从上往下读：
-1. 顶部一个宽的深色描边框，代表科学问题。
-2. 下面三个并排的圆角框，代表三项研究内容，每个框里一个小图标：【分子图标、细胞图标、小鼠图标】。
-3. 细箭头从内容 1 指向内容 2 再指向内容 3，表示层层递进。
-4. 三个框都向下指向一个代表预期成果的框。
-标签（每个只出现一次，不加其他文字）：【Scientific question, Content 1, Content 2, Content 3, Expected outcome】。
-
-风格：期刊式示意框图。白色背景上干净的扁平矢量图形。模块画成圆角矩形或简洁图标，名称写在里面；用浅色面板把相关的层归在一起。只用 3–4 种低饱和度颜色，每种颜色含义固定。细而粗细一致的箭头表示数据、能量、物质或影响的流向，间接或反馈关系用虚线箭头。图中文字只用英文无衬线字体，每个标签只出现一次，拼写与给定完全一致。不要 3D 渲染、阴影、发光、赛博朋克或科技感背景装饰，不要照片质感。
-```
-
-</details>
-
-Model: Nano Banana 2 Lite (gemini-3.1-flash-lite-image, 1K) · Generated 2 times in total; shown are the outputs that passed review
-
-[↑ Back to top](#top)
-
-<sub><a href="https://yila.ai/?utm_source=github&utm_medium=readme&utm_campaign=sci-figure-prompts&utm_content=grant-content-map">Try in Yila →</a></sub>
-
----
-
-<a id="no-14"></a>
-
-### No. 14: Grant proposal logic loop
-
-by [@Yila-AI](https://github.com/Yila-AI)
-
-Technique: **five stages closed into a loop** · Style: schematic diagram · Aspect ratio: 1:1
-
-| English prompt | Chinese prompt |
-|---|---|
-| <img src="gallery/research-design/grant-logic-loop-en.jpg" width="420"> | <img src="gallery/research-design/grant-logic-loop-zh.jpg" width="420"> |
-
-**English prompt**
-
-```text
-Create a circular logic diagram for 【a grant proposal】: five rounded boxes evenly spaced around a circle, connected clockwise by thin curved arrows, each box with one small icon:
-1. 【Scientific question (a question mark)】
-2. 【Hypothesis (a lightbulb)】
-3. 【Objectives (a target)】
-4. 【Research content (a clipboard)】
-5. 【Expected results (a trophy)】
-A dashed arrow runs from the last box back to the first. The center of the circle stays empty.
-Labels, each used once, no other text: 【Scientific question, Hypothesis, Objectives, Research content, Expected results】.
-
-Style: journal-style schematic diagram. Clean flat vector graphics on a white background. Modules are rounded rectangles or simple icons with their short names inside; light pastel panels group related layers. Only 3-4 muted colors, each with one fixed meaning. Thin, uniform arrows show the flow of data, energy, material or influence; dashed arrows for indirect or feedback links. Sans-serif English labels only, each label appears exactly once, spelled exactly as given. No 3D rendering, no shadows, no glow, no cyberpunk or tech-background decoration, no photorealism.
-```
-
-<details><summary>Chinese prompt</summary>
-
-```text
-画一张【基金申请书】的环形逻辑图：五个圆角框均匀分布在一个圆周上，用细弧形箭头顺时针连接，每个框一个小图标：
-1. 【科学问题（问号）】
-2. 【研究假说（灯泡）】
-3. 【研究目标（靶心）】
-4. 【研究内容（写字板）】
-5. 【预期成果（奖杯）】
-一条虚线箭头从最后一个框回到第一个框。圆心留空。
-标签（每个只出现一次，不加其他文字）：【Scientific question, Hypothesis, Objectives, Research content, Expected results】。
-
-风格：期刊式示意框图。白色背景上干净的扁平矢量图形。模块画成圆角矩形或简洁图标，名称写在里面；用浅色面板把相关的层归在一起。只用 3–4 种低饱和度颜色，每种颜色含义固定。细而粗细一致的箭头表示数据、能量、物质或影响的流向，间接或反馈关系用虚线箭头。图中文字只用英文无衬线字体，每个标签只出现一次，拼写与给定完全一致。不要 3D 渲染、阴影、发光、赛博朋克或科技感背景装饰，不要照片质感。
-```
-
-</details>
-
-Model: Nano Banana 2 Lite (gemini-3.1-flash-lite-image, 1K) · Generated 3 times in total; shown are the outputs that passed review
-
-[↑ Back to top](#top)
-
-<sub><a href="https://yila.ai/?utm_source=github&utm_medium=readme&utm_campaign=sci-figure-prompts&utm_content=grant-logic-loop">Try in Yila →</a></sub>
-
----
-
-<a id="no-15"></a>
-
-### No. 15: Hypothesis mechanism overview
-
-by [@Yila-AI](https://github.com/Yila-AI)
-
-Technique: **stimulus, target, pathway, phenotype, plus intervention** · Style: flat vector schematic · Aspect ratio: 16:9
-
-| English prompt | Chinese prompt |
-|---|---|
-| <img src="gallery/research-design/hypothesis-mechanism-en.jpg" width="420"> | <img src="gallery/research-design/hypothesis-mechanism-zh.jpg" width="420"> |
-
-**English prompt**
-
-```text
-Create a hypothesis mechanism figure for 【how a high-fat diet drives liver inflammation】, read from left to right inside one large light panel. Draw each relationship exactly as listed and nothing more:
-1. 【A high-fat diet icon (a burger)】 activates 【Gene X】 (solid arrow).
-2. 【Gene X】 activates 【NF-κB】 (solid arrow).
-3. 【NF-κB】 leads to 【Inflammation】, shown as a small inflamed liver (solid arrow).
-4. 【Drug Y】, a small pill, inhibits 【Gene X】 with a red T-bar line.
-Draw no membranes or extra shapes on the capsules.
-Labels, each used once, no other text: 【High-fat diet, Gene X, NF-κB, Inflammation, Drug Y】.
-
-Style: journal-style scientific schematic. Clean flat vector illustration on a white background, light pastel rounded panels to separate regions. Only 3-4 muted colors, each with one fixed meaning; red only for inhibition or emphasis. Thin, uniform line weight. Proteins as rounded colored capsules with their names inside; membranes as lipid bilayers; activation as solid arrows, inhibition as T-bar lines, indirect effects as dashed arrows. Sans-serif English labels only, each label appears exactly once, spelled exactly as given. No 3D rendering, no shadows, no glow, no decorative background, no photorealism.
-```
-
-<details><summary>Chinese prompt</summary>
-
-```text
-画一张【高脂饮食如何导致肝脏炎症】的假说机制图，在一个大的浅色面板里从左往右读。严格按下面列出的关系画，不多画：
-1. 【高脂饮食图标（汉堡）】激活【Gene X】（实线箭头）。
-2. 【Gene X】激活【NF-κB】（实线箭头）。
-3. 【NF-κB】导致【炎症】，画成一个发炎的小肝脏（实线箭头）。
-4. 【Drug Y】画成一颗小药片，用红色 T 形线抑制【Gene X】。
-不画细胞膜，胶囊上不加其他形状。
-标签（每个只出现一次，不加其他文字）：【High-fat diet, Gene X, NF-κB, Inflammation, Drug Y】。
-
-风格：期刊式科研示意图。白色背景上的干净扁平矢量插画，用浅色圆角面板区分区域。只用 3–4 种低饱和度颜色，每种颜色含义固定，红色只用于抑制或强调。线条细且粗细一致。蛋白画成彩色圆角胶囊，名称写在胶囊里；细胞膜画成磷脂双分子层；激活用实线箭头，抑制用 T 形线，间接作用用虚线箭头。图中文字只用英文无衬线字体，每个标签只出现一次，拼写与给定完全一致。不要 3D 渲染、阴影、发光、装饰性背景或照片质感。
-```
-
-</details>
-
-Model: Nano Banana 2 Lite (gemini-3.1-flash-lite-image, 1K) · Generated 5 times in total; shown are the outputs that passed review
-
-[↑ Back to top](#top)
-
-<sub><a href="https://yila.ai/?utm_source=github&utm_medium=readme&utm_campaign=sci-figure-prompts&utm_content=hypothesis-mechanism">Try in Yila →</a></sub>
-
----
-
-<a id="no-16"></a>
-
-### No. 16: Lab research program overview
-
-by [@Yila-AI](https://github.com/Yila-AI)
-
-Technique: **one core question in the center, directions around it** · Style: schematic diagram · Aspect ratio: 1:1
-
-| English prompt |
-|---|
-| <img src="gallery/research-design/lab-research-program-en.jpg" width="420"> |
-
-> The Chinese-prompt output did not pass review, so it is not shown.
-
-**English prompt**
-
-```text
-Create a research program overview for 【a lab studying tumor immunity】: one large circle in the center for the core question, with a small lightbulb icon. Around it, four rounded boxes evenly spaced, each linked to the center by a thick arrow and each with one icon:
-【mechanism (a molecule), disease models (a mouse), technology development (a microchip), clinical translation (a hospital)】.
-Thin dashed arrows link each box to its two neighbors, forming an outer ring that shows the directions feed each other.
-Write each label only once in the whole figure.
-Labels, each used once, no other text: 【Core question, Mechanism, Disease models, Technology development, Clinical translation】.
-
-Style: journal-style schematic diagram. Clean flat vector graphics on a white background. Modules are rounded rectangles or simple icons with their short names inside; light pastel panels group related layers. Only 3-4 muted colors, each with one fixed meaning. Thin, uniform arrows show the flow of data, energy, material or influence; dashed arrows for indirect or feedback links. Sans-serif English labels only, each label appears exactly once, spelled exactly as given. No 3D rendering, no shadows, no glow, no cyberpunk or tech-background decoration, no photorealism.
-```
-
-<details><summary>Chinese prompt</summary>
-
-```text
-画一张【肿瘤免疫课题组】的研究方向总览图：中央一个大圆代表核心问题，配一个小灯泡图标。四周均匀排列四个圆角框，每个框用粗箭头连到中心，各配一个图标：
-【机制（分子）、疾病模型（小鼠）、技术开发（芯片）、临床转化（医院）】。
-细虚线箭头把每个框和左右相邻的两个框连起来，形成外圈，表示各方向互相支撑。
-整张图里每个标签只写一次。
-标签（每个只出现一次，不加其他文字）：【Core question, Mechanism, Disease models, Technology development, Clinical translation】。
-
-风格：期刊式示意框图。白色背景上干净的扁平矢量图形。模块画成圆角矩形或简洁图标，名称写在里面；用浅色面板把相关的层归在一起。只用 3–4 种低饱和度颜色，每种颜色含义固定。细而粗细一致的箭头表示数据、能量、物质或影响的流向，间接或反馈关系用虚线箭头。图中文字只用英文无衬线字体，每个标签只出现一次，拼写与给定完全一致。不要 3D 渲染、阴影、发光、赛博朋克或科技感背景装饰，不要照片质感。
-```
-
-</details>
-
-Model: Nano Banana 2 Lite (gemini-3.1-flash-lite-image, 1K) · Generated 2 times in total; shown are the outputs that passed review
-
-[↑ Back to top](#top)
-
-<sub><a href="https://yila.ai/?utm_source=github&utm_medium=readme&utm_campaign=sci-figure-prompts&utm_content=lab-research-program">Try in Yila →</a></sub>
-
----
-
-<a id="no-17"></a>
-
-### No. 17: Literature search strategy workflow
-
-by [@Yila-AI](https://github.com/Yila-AI)
-
-Technique: **one panel per step, step names only** · Style: flat workflow · Aspect ratio: 16:9
-
-| English prompt | Chinese prompt |
-|---|---|
-| <img src="gallery/research-design/literature-search-strategy-en.jpg" width="420"> | <img src="gallery/research-design/literature-search-strategy-zh.jpg" width="420"> |
-
-**English prompt**
-
-```text
-Create a workflow figure for 【a literature search】, 6 steps from left to right:
-1. 【Research question: a magnifier over a question mark】
-2. 【Keywords: three blank rounded tags】
-3. 【Boolean string: blank tags joined by small link symbols】
-4. 【Databases: three stacked database icons】
-5. 【Screening: papers passing through a funnel】
-6. 【Reference management: a bookshelf with colored folders】
-Do not write the numbered sentences in the figure.
-Every icon is a pure picture with no words, letters or chemical structures inside it.
-Step names, each used once, no other text: 【Research question, Keywords, Boolean string, Databases, Screening, Reference management】.
-
-Style: journal-style experimental workflow figure. Clean flat vector icons on a white background, one light pastel rounded panel per step, thin gray arrows between panels. Only 3-4 muted colors. Each panel shows one simple scene with no text inside it; the only text in the whole figure is the step names given. Sans-serif English, each step name appears exactly once, spelled exactly as given. No legends, no captions, no extra labels, no 3D rendering, no shadows, no decorative background.
-```
-
-<details><summary>Chinese prompt</summary>
-
-```text
-画一张【文献检索】的流程图，从左往右六步：
-1. 【研究问题：放大镜对着问号】
-2. 【关键词：三个空白圆角标签】
-3. 【布尔检索式：空白标签用小连接符串起来】
-4. 【数据库：三个叠放的数据库图标】
-5. 【筛选：论文穿过漏斗】
-6. 【文献管理：放着彩色文件夹的书架】
-不要把编号句子写进图里。
-所有图标都是纯图形，里面不写任何单词、字母，也不画化学结构式。
-步骤名（每个只出现一次，不加其他文字）：【Research question, Keywords, Boolean string, Databases, Screening, Reference management】。
-
-风格：期刊式实验流程图。白色背景上干净的扁平矢量图标，每一步一个浅色圆角面板，面板之间用细灰色箭头连接。只用 3–4 种低饱和度颜色。每个面板里只画一个简洁的小场景，面板内不写任何文字；整张图唯一的文字就是给定的步骤名。用英文无衬线字体，每个步骤名只出现一次，拼写与给定完全一致。不要图例、不要说明文字、不要额外标签、不要 3D 渲染、阴影或装饰性背景。
-```
-
-</details>
-
-Model: Nano Banana 2 Lite (gemini-3.1-flash-lite-image, 1K) · Generated 8 times in total; shown are the outputs that passed review
-
-[↑ Back to top](#top)
-
-<sub><a href="https://yila.ai/?utm_source=github&utm_medium=readme&utm_campaign=sci-figure-prompts&utm_content=literature-search-strategy">Try in Yila →</a></sub>
-
----
-
-<a id="no-18"></a>
-
-### No. 18: Method comparison: conventional versus proposed
-
-by [@Yila-AI](https://github.com/Yila-AI)
-
-Technique: **two rows compared** · Style: schematic diagram · Aspect ratio: 16:9
-
-| English prompt | Chinese prompt |
-|---|---|
-| <img src="gallery/research-design/method-comparison-en.jpg" width="420"> | <img src="gallery/research-design/method-comparison-zh.jpg" width="420"> |
-
-**English prompt**
-
-```text
-Create a comparison figure of 【a conventional method versus a proposed method】: two horizontal rows in two light colors.
-1. Top row, gray: 【four small steps in a long chain with an hourglass icon and a hand icon, ending in a blurry result】.
-2. Bottom row, blue: 【two steps with a lightning icon and a robot-arm icon, ending in a sharp result】.
-Each row has its name on the far left and a short tag at its result on the right.
-Write each label only once in the whole figure.
-Labels, each used once, no other text: 【Conventional method, Proposed method, Manual, slow, Automated, fast, Low resolution, High resolution】.
-
-Style: journal-style schematic diagram. Clean flat vector graphics on a white background. Modules are rounded rectangles or simple icons with their short names inside; light pastel panels group related layers. Only 3-4 muted colors, each with one fixed meaning. Thin, uniform arrows show the flow of data, energy, material or influence; dashed arrows for indirect or feedback links. Sans-serif English labels only, each label appears exactly once, spelled exactly as given. No 3D rendering, no shadows, no glow, no cyberpunk or tech-background decoration, no photorealism.
-```
-
-<details><summary>Chinese prompt</summary>
-
-```text
-画一张【传统方法与新方法】的对比图：上下两行，两种浅色。
-1. 上排，灰色：【四个小步骤连成一条长链，配沙漏图标和手的图标，结尾是一个模糊的结果】。
-2. 下排，蓝色：【两个步骤，配闪电图标和机械臂图标，结尾是一个清晰的结果】。
-每行最左侧写行名，右侧结果处写一个短标签。
-整张图里每个标签只写一次。
-标签（每个只出现一次，不加其他文字）：【Conventional method, Proposed method, Manual, slow, Automated, fast, Low resolution, High resolution】。
-
-风格：期刊式示意框图。白色背景上干净的扁平矢量图形。模块画成圆角矩形或简洁图标，名称写在里面；用浅色面板把相关的层归在一起。只用 3–4 种低饱和度颜色，每种颜色含义固定。细而粗细一致的箭头表示数据、能量、物质或影响的流向，间接或反馈关系用虚线箭头。图中文字只用英文无衬线字体，每个标签只出现一次，拼写与给定完全一致。不要 3D 渲染、阴影、发光、赛博朋克或科技感背景装饰，不要照片质感。
-```
-
-</details>
-
-Model: Nano Banana 2 Lite (gemini-3.1-flash-lite-image, 1K) · Generated 4 times in total; shown are the outputs that passed review
-
-[↑ Back to top](#top)
-
-<sub><a href="https://yila.ai/?utm_source=github&utm_medium=readme&utm_campaign=sci-figure-prompts&utm_content=method-comparison">Try in Yila →</a></sub>
-
----
-
-<a id="no-19"></a>
-
-### No. 19: Multi-omics integration framework
-
-by [@Yila-AI](https://github.com/Yila-AI)
-
-Technique: **four omics layers feeding one integration step** · Style: schematic diagram · Aspect ratio: 16:9
-
-| English prompt | Chinese prompt |
-|---|---|
-| <img src="gallery/research-design/multi-omics-integration-en.jpg" width="420"> | <img src="gallery/research-design/multi-omics-integration-zh.jpg" width="420"> |
-
-**English prompt**
-
-```text
-Create a multi-omics integration framework for 【a disease study】, read from left to right:
-1. On the left, four stacked horizontal layers, each a light pastel band with one icon: 【Genomics (a DNA helix), Transcriptomics (an RNA strand), Proteomics (a protein), Metabolomics (a small molecule)】.
-2. Thin arrows from all four layers converge into one central box for integration.
-3. Integration points to a box for key pathways, which points to a final box for validation.
-Labels, each used once, no other text: 【Genomics, Transcriptomics, Proteomics, Metabolomics, Integration, Key pathways, Validation】.
-
-Style: journal-style schematic diagram. Clean flat vector graphics on a white background. Modules are rounded rectangles or simple icons with their short names inside; light pastel panels group related layers. Only 3-4 muted colors, each with one fixed meaning. Thin, uniform arrows show the flow of data, energy, material or influence; dashed arrows for indirect or feedback links. Sans-serif English labels only, each label appears exactly once, spelled exactly as given. No 3D rendering, no shadows, no glow, no cyberpunk or tech-background decoration, no photorealism.
-```
-
-<details><summary>Chinese prompt</summary>
-
-```text
-画一张【疾病研究】的多组学整合分析框架图，从左往右读：
-1. 左侧四条上下叠放的横向浅色色带，每条一个图标：【基因组（DNA 双螺旋）、转录组（RNA 链）、蛋白组（蛋白质）、代谢组（小分子）】。
-2. 四条色带的细箭头汇合到中间一个代表整合的框。
-3. 整合框指向代表关键通路的框，再指向最后代表验证的框。
-标签（每个只出现一次，不加其他文字）：【Genomics, Transcriptomics, Proteomics, Metabolomics, Integration, Key pathways, Validation】。
-
-风格：期刊式示意框图。白色背景上干净的扁平矢量图形。模块画成圆角矩形或简洁图标，名称写在里面；用浅色面板把相关的层归在一起。只用 3–4 种低饱和度颜色，每种颜色含义固定。细而粗细一致的箭头表示数据、能量、物质或影响的流向，间接或反馈关系用虚线箭头。图中文字只用英文无衬线字体，每个标签只出现一次，拼写与给定完全一致。不要 3D 渲染、阴影、发光、赛博朋克或科技感背景装饰，不要照片质感。
-```
-
-</details>
-
-Model: Nano Banana 2 Lite (gemini-3.1-flash-lite-image, 1K) · Generated 2 times in total; shown are the outputs that passed review
-
-[↑ Back to top](#top)
-
-<sub><a href="https://yila.ai/?utm_source=github&utm_medium=readme&utm_campaign=sci-figure-prompts&utm_content=multi-omics-integration">Try in Yila →</a></sub>
-
----
-
-<a id="no-20"></a>
-
-### No. 20: Technical roadmap: three parallel work packages
-
-by [@Yila-AI](https://github.com/Yila-AI)
-
-Technique: **three parallel lanes that converge** · Style: schematic diagram · Aspect ratio: 3:4
-
-| English prompt | Chinese prompt |
-|---|---|
-| <img src="gallery/research-design/parallel-roadmap-en.jpg" width="420"> | <img src="gallery/research-design/parallel-roadmap-zh.jpg" width="420"> |
-
-**English prompt**
-
-```text
-Create a vertical technical roadmap for 【a research project】, read from top to bottom:
-1. At the top, one box for the research goal.
-2. Below it, three parallel vertical lanes in three light pastel colors, each lane with two small stacked boxes and one icon: 【data lane with a database icon, model lane with a network icon, experiment lane with a flask icon】.
-3. The three lanes converge with arrows into one box for integration.
-4. Integration points down to a final box for the outcome.
-Labels, each used once, no other text: 【Research goal, Data, Model, Experiment, Integration, Outcome】.
-
-Style: journal-style schematic diagram. Clean flat vector graphics on a white background. Modules are rounded rectangles or simple icons with their short names inside; light pastel panels group related layers. Only 3-4 muted colors, each with one fixed meaning. Thin, uniform arrows show the flow of data, energy, material or influence; dashed arrows for indirect or feedback links. Sans-serif English labels only, each label appears exactly once, spelled exactly as given. No 3D rendering, no shadows, no glow, no cyberpunk or tech-background decoration, no photorealism.
-```
-
-<details><summary>Chinese prompt</summary>
-
-```text
-画一张【课题研究】的竖向技术路线图，从上往下读：
-1. 顶部一个框，代表研究目标。
-2. 下面三条并行的竖向泳道，三种浅色，每条泳道有两个上下排列的小框和一个图标：【数据泳道配数据库图标，模型泳道配网络图标，实验泳道配烧瓶图标】。
-3. 三条泳道用箭头汇合到一个代表整合的框。
-4. 整合框向下指向最后一个代表成果的框。
-标签（每个只出现一次，不加其他文字）：【Research goal, Data, Model, Experiment, Integration, Outcome】。
-
-风格：期刊式示意框图。白色背景上干净的扁平矢量图形。模块画成圆角矩形或简洁图标，名称写在里面；用浅色面板把相关的层归在一起。只用 3–4 种低饱和度颜色，每种颜色含义固定。细而粗细一致的箭头表示数据、能量、物质或影响的流向，间接或反馈关系用虚线箭头。图中文字只用英文无衬线字体，每个标签只出现一次，拼写与给定完全一致。不要 3D 渲染、阴影、发光、赛博朋克或科技感背景装饰，不要照片质感。
-```
-
-</details>
-
-Model: Nano Banana 2 Lite (gemini-3.1-flash-lite-image, 1K) · Generated 3 times in total; shown are the outputs that passed review
-
-[↑ Back to top](#top)
-
-<sub><a href="https://yila.ai/?utm_source=github&utm_medium=readme&utm_campaign=sci-figure-prompts&utm_content=parallel-roadmap">Try in Yila →</a></sub>
-
----
-
-<a id="no-21"></a>
-
-### No. 21: Pretest–posttest control group design
-
-by [@Yila-AI](https://github.com/Yila-AI)
-
-Technique: **a grid whose column headers name the stages** · Style: schematic diagram · Aspect ratio: 16:9
-
-| English prompt | Chinese prompt |
-|---|---|
-| <img src="gallery/research-design/pretest-posttest-design-en.jpg" width="420"> | <img src="gallery/research-design/pretest-posttest-design-zh.jpg" width="420"> |
-
-**English prompt**
-
-```text
-Create a research design diagram of 【a pretest–posttest control group design】 as a table-like grid with three columns and two rows.
-1. Column headers across the top, written once each: 【Pretest, Intervention, Posttest】.
-2. Row headers on the left, written once each: 【Experimental group, Control group】; a dice icon labeled Random assignment sits to the left of both rows with two arrows into them.
-3. Top row cells: a clipboard icon, a lightbulb icon, a clipboard-with-check icon, joined by arrows.
-4. Bottom row cells: a clipboard icon, an empty dashed box, a clipboard-with-check icon, joined by arrows.
-5. Both Posttest cells point to one box on the right labeled Comparison.
-The cells themselves contain icons only, no text. Write each label exactly once.
-Labels, each used once, no other text: 【Random assignment, Experimental group, Control group, Pretest, Intervention, Posttest, Comparison】.
-
-Style: journal-style schematic diagram. Clean flat vector graphics on a white background. Modules are rounded rectangles or simple icons with their short names inside; light pastel panels group related layers. Only 3-4 muted colors, each with one fixed meaning. Thin, uniform arrows show the flow of data, energy, material or influence; dashed arrows for indirect or feedback links. Sans-serif English labels only, each label appears exactly once, spelled exactly as given. No 3D rendering, no shadows, no glow, no cyberpunk or tech-background decoration, no photorealism.
-```
-
-<details><summary>Chinese prompt</summary>
-
-```text
-画一张【前后测对照组设计】的研究设计图，做成三列两行的表格式网格。
-1. 顶部列标题各写一次：【Pretest, Intervention, Posttest】。
-2. 左侧行标题各写一次：【Experimental group, Control group】；两行左边放一个标注 Random assignment 的骰子图标，用两条箭头指向两行。
-3. 上行格子：写字板图标、灯泡图标、带对勾的写字板图标，用箭头连接。
-4. 下行格子：写字板图标、空的虚线框、带对勾的写字板图标，用箭头连接。
-5. 两个 Posttest 格子都指向右侧一个标注 Comparison 的框。
-格子里只放图标，不写字。每个标签只写一次。
-标签（每个只出现一次，不加其他文字）：【Random assignment, Experimental group, Control group, Pretest, Intervention, Posttest, Comparison】。
-
-风格：期刊式示意框图。白色背景上干净的扁平矢量图形。模块画成圆角矩形或简洁图标，名称写在里面；用浅色面板把相关的层归在一起。只用 3–4 种低饱和度颜色，每种颜色含义固定。细而粗细一致的箭头表示数据、能量、物质或影响的流向，间接或反馈关系用虚线箭头。图中文字只用英文无衬线字体，每个标签只出现一次，拼写与给定完全一致。不要 3D 渲染、阴影、发光、赛博朋克或科技感背景装饰，不要照片质感。
-```
-
-</details>
-
-Model: Nano Banana 2 Lite (gemini-3.1-flash-lite-image, 1K) · Generated 8 times in total; shown are the outputs that passed review
-
-[↑ Back to top](#top)
-
-<sub><a href="https://yila.ai/?utm_source=github&utm_medium=readme&utm_campaign=sci-figure-prompts&utm_content=pretest-posttest-design">Try in Yila →</a></sub>
-
----
-
-<a id="no-22"></a>
-
-### No. 22: Qualitative study: interviews and three-level coding
-
-by [@Yila-AI](https://github.com/Yila-AI)
-
-Technique: **one panel per step, step names only** · Style: flat workflow · Aspect ratio: 16:9
-
-| English prompt | Chinese prompt |
-|---|---|
-| <img src="gallery/research-design/qualitative-coding-en.jpg" width="420"> | <img src="gallery/research-design/qualitative-coding-zh.jpg" width="420"> |
-
-**English prompt**
-
-```text
-Create a workflow figure for 【a qualitative interview study】, 6 steps from left to right:
-1. 【Interviews: two people talking】
-2. 【Transcription: a document with lines of text】
-3. 【Open coding: many small colored tags】
-4. 【Axial coding: tags grouped into a few clusters】
-5. 【Selective coding: clusters linked to one core node】
-6. 【Theory: a lightbulb over a small model】
-Do not write the numbered sentences in the figure.
-Step names, each used once, no other text: 【Interviews, Transcription, Open coding, Axial coding, Selective coding, Theory】.
-
-Style: journal-style experimental workflow figure. Clean flat vector icons on a white background, one light pastel rounded panel per step, thin gray arrows between panels. Only 3-4 muted colors. Each panel shows one simple scene with no text inside it; the only text in the whole figure is the step names given. Sans-serif English, each step name appears exactly once, spelled exactly as given. No legends, no captions, no extra labels, no 3D rendering, no shadows, no decorative background.
-```
-
-<details><summary>Chinese prompt</summary>
-
-```text
-画一张【质性访谈研究】的流程图，从左往右六步：
-1. 【访谈：两个人在交谈】
-2. 【转录：一份写满行的文档】
-3. 【开放式编码：许多彩色小标签】
-4. 【主轴编码：标签归成几簇】
-5. 【选择式编码：几簇连到一个核心节点】
-6. 【理论：灯泡和一个小模型】
-不要把编号句子写进图里。
-步骤名（每个只出现一次，不加其他文字）：【Interviews, Transcription, Open coding, Axial coding, Selective coding, Theory】。
-
-风格：期刊式实验流程图。白色背景上干净的扁平矢量图标，每一步一个浅色圆角面板，面板之间用细灰色箭头连接。只用 3–4 种低饱和度颜色。每个面板里只画一个简洁的小场景，面板内不写任何文字；整张图唯一的文字就是给定的步骤名。用英文无衬线字体，每个步骤名只出现一次，拼写与给定完全一致。不要图例、不要说明文字、不要额外标签、不要 3D 渲染、阴影或装饰性背景。
-```
-
-</details>
-
-Model: Nano Banana 2 Lite (gemini-3.1-flash-lite-image, 1K) · Generated 2 times in total; shown are the outputs that passed review
-
-[↑ Back to top](#top)
-
-<sub><a href="https://yila.ai/?utm_source=github&utm_medium=readme&utm_campaign=sci-figure-prompts&utm_content=qualitative-coding">Try in Yila →</a></sub>
-
----
-
-<a id="no-23"></a>
-
-### No. 23: Questionnaire study workflow
-
-by [@Yila-AI](https://github.com/Yila-AI)
-
-Technique: **one panel per step, step names only** · Style: flat workflow · Aspect ratio: 16:9
-
-| English prompt | Chinese prompt |
-|---|---|
-| <img src="gallery/research-design/questionnaire-workflow-en.jpg" width="420"> | <img src="gallery/research-design/questionnaire-workflow-zh.jpg" width="420"> |
-
-**English prompt**
-
-```text
-Create a workflow figure for 【a questionnaire study】, 6 steps from left to right:
-1. 【Questionnaire design: a clipboard with check boxes】
-2. 【Pilot test: a few people answering】
-3. 【Distribution: a paper plane and a phone】
-4. 【Data cleaning: a broom over a table】
-5. 【Reliability and validity: a target with a check mark】
-6. 【Analysis: a magnifier over a table】
-Do not write the numbered sentences in the figure.
-Step names, each used once, no other text: 【Questionnaire design, Pilot test, Distribution, Data cleaning, Reliability and validity, Analysis】.
-
-Style: journal-style experimental workflow figure. Clean flat vector icons on a white background, one light pastel rounded panel per step, thin gray arrows between panels. Only 3-4 muted colors. Each panel shows one simple scene with no text inside it; the only text in the whole figure is the step names given. Sans-serif English, each step name appears exactly once, spelled exactly as given. No legends, no captions, no extra labels, no 3D rendering, no shadows, no decorative background.
-```
-
-<details><summary>Chinese prompt</summary>
-
-```text
-画一张【问卷研究】的流程图，从左往右六步：
-1. 【问卷设计：带复选框的写字板】
-2. 【预调查：几个人在作答】
-3. 【发放：纸飞机和手机】
-4. 【数据清洗：扫帚扫过表格】
-5. 【信效度检验：带对勾的靶心】
-6. 【分析：放大镜对着表格】
-不要把编号句子写进图里。
-步骤名（每个只出现一次，不加其他文字）：【Questionnaire design, Pilot test, Distribution, Data cleaning, Reliability and validity, Analysis】。
-
-风格：期刊式实验流程图。白色背景上干净的扁平矢量图标，每一步一个浅色圆角面板，面板之间用细灰色箭头连接。只用 3–4 种低饱和度颜色。每个面板里只画一个简洁的小场景，面板内不写任何文字；整张图唯一的文字就是给定的步骤名。用英文无衬线字体，每个步骤名只出现一次，拼写与给定完全一致。不要图例、不要说明文字、不要额外标签、不要 3D 渲染、阴影或装饰性背景。
-```
-
-</details>
-
-Model: Nano Banana 2 Lite (gemini-3.1-flash-lite-image, 1K) · Generated 2 times in total; shown are the outputs that passed review
-
-[↑ Back to top](#top)
-
-<sub><a href="https://yila.ai/?utm_source=github&utm_medium=readme&utm_campaign=sci-figure-prompts&utm_content=questionnaire-workflow">Try in Yila →</a></sub>
-
----
-
-<a id="no-24"></a>
-
-### No. 24: Randomized controlled trial design
-
-by [@Yila-AI](https://github.com/Yila-AI)
-
-Technique: **randomized into two parallel arms** · Style: schematic diagram · Aspect ratio: 16:9
-
-| English prompt | Chinese prompt |
-|---|---|
-| <img src="gallery/research-design/rct-design-en.jpg" width="420"> | <img src="gallery/research-design/rct-design-zh.jpg" width="420"> |
-
-**English prompt**
-
-```text
-Create a study design diagram of 【a two-arm randomized controlled trial】, read from left to right. Draw each relationship exactly as listed and nothing more:
-1. 【Eligible participants (a group of people icons) → randomization (a dice icon).】
-2. 【Randomization splits into two parallel arms: intervention (a pill icon) on top, control (a placebo icon) below.】
-3. 【Each arm runs through a follow-up period (a calendar icon).】
-4. 【Both arms end in one box for outcome assessment.】
-Do not write the numbered sentences in the figure.
-Labels, each used once, no other text: 【Eligible participants, Randomization, Intervention, Control, Follow-up, Outcome assessment】.
-
-Style: journal-style schematic diagram. Clean flat vector graphics on a white background. Modules are rounded rectangles or simple icons with their short names inside; light pastel panels group related layers. Only 3-4 muted colors, each with one fixed meaning. Thin, uniform arrows show the flow of data, energy, material or influence; dashed arrows for indirect or feedback links. Sans-serif English labels only, each label appears exactly once, spelled exactly as given. No 3D rendering, no shadows, no glow, no cyberpunk or tech-background decoration, no photorealism.
-```
-
-<details><summary>Chinese prompt</summary>
-
-```text
-画一张【双臂随机对照试验】的研究设计图，从左往右读。严格按下面列出的关系画，不多画：
-1. 【符合条件的受试者（一组人形图标）→ 随机化（骰子图标）。】
-2. 【随机化分成两条并行的臂：上面是干预组（药片图标），下面是对照组（安慰剂图标）。】
-3. 【每条臂经过随访期（日历图标）。】
-4. 【两条臂都汇入一个结局评估框。】
-不要把编号句子写进图里。
-标签（每个只出现一次，不加其他文字）：【Eligible participants, Randomization, Intervention, Control, Follow-up, Outcome assessment】。
-
-风格：期刊式示意框图。白色背景上干净的扁平矢量图形。模块画成圆角矩形或简洁图标，名称写在里面；用浅色面板把相关的层归在一起。只用 3–4 种低饱和度颜色，每种颜色含义固定。细而粗细一致的箭头表示数据、能量、物质或影响的流向，间接或反馈关系用虚线箭头。图中文字只用英文无衬线字体，每个标签只出现一次，拼写与给定完全一致。不要 3D 渲染、阴影、发光、赛博朋克或科技感背景装饰，不要照片质感。
-```
-
-</details>
-
-Model: Nano Banana 2 Lite (gemini-3.1-flash-lite-image, 1K) · Generated 4 times in total; shown are the outputs that passed review
-
-[↑ Back to top](#top)
-
-<sub><a href="https://yila.ai/?utm_source=github&utm_medium=readme&utm_campaign=sci-figure-prompts&utm_content=rct-design">Try in Yila →</a></sub>
-
----
-
-<a id="no-25"></a>
-
-### No. 25: Study design overview (paper Figure 1)
-
-by [@Yila-AI](https://github.com/Yila-AI)
-
-Technique: **three panels: subjects, methods, findings** · Style: schematic diagram · Aspect ratio: 16:9
-
-| English prompt | Chinese prompt |
-|---|---|
-| <img src="gallery/research-design/study-overview-en.jpg" width="420"> | <img src="gallery/research-design/study-overview-zh.jpg" width="420"> |
-
-**English prompt**
-
-```text
-Create a study design overview figure for 【a study on immunotherapy response in lung cancer】, three light pastel panels read from left to right, connected by thin arrows:
-1. Left panel: 【a group of patient icons and a tissue sample tube】.
-2. Middle panel: 【three method icons side by side: sequencing, imaging and a computer model】.
-3. Right panel: 【a validation icon (a mouse) leading to a lightbulb for the key finding】.
-Labels, each used once, no other text: 【Patients, Samples, Sequencing, Imaging, Modeling, Validation, Key finding】.
-
-Style: journal-style schematic diagram. Clean flat vector graphics on a white background. Modules are rounded rectangles or simple icons with their short names inside; light pastel panels group related layers. Only 3-4 muted colors, each with one fixed meaning. Thin, uniform arrows show the flow of data, energy, material or influence; dashed arrows for indirect or feedback links. Sans-serif English labels only, each label appears exactly once, spelled exactly as given. No 3D rendering, no shadows, no glow, no cyberpunk or tech-background decoration, no photorealism.
-```
-
-<details><summary>Chinese prompt</summary>
-
-```text
-画一张【肺癌免疫治疗应答研究】的研究设计总览图，三个浅色面板从左往右读，用细箭头连接：
-1. 左面板：【一组病人图标和一支组织样本管】。
-2. 中面板：【三个并排的方法图标：测序、影像、计算模型】。
-3. 右面板：【一个验证图标（小鼠）通向代表关键发现的灯泡】。
-标签（每个只出现一次，不加其他文字）：【Patients, Samples, Sequencing, Imaging, Modeling, Validation, Key finding】。
-
-风格：期刊式示意框图。白色背景上干净的扁平矢量图形。模块画成圆角矩形或简洁图标，名称写在里面；用浅色面板把相关的层归在一起。只用 3–4 种低饱和度颜色，每种颜色含义固定。细而粗细一致的箭头表示数据、能量、物质或影响的流向，间接或反馈关系用虚线箭头。图中文字只用英文无衬线字体，每个标签只出现一次，拼写与给定完全一致。不要 3D 渲染、阴影、发光、赛博朋克或科技感背景装饰，不要照片质感。
-```
-
-</details>
-
-Model: Nano Banana 2 Lite (gemini-3.1-flash-lite-image, 1K) · Generated 3 times in total; shown are the outputs that passed review
-
-[↑ Back to top](#top)
-
-<sub><a href="https://yila.ai/?utm_source=github&utm_medium=readme&utm_campaign=sci-figure-prompts&utm_content=study-overview">Try in Yila →</a></sub>
-
----
-
-<a id="no-26"></a>
-
-### No. 26: Systematic review and meta-analysis workflow
-
-by [@Yila-AI](https://github.com/Yila-AI)
-
-Technique: **six steps, no study counts** · Style: flat workflow · Aspect ratio: 16:9
-
-| English prompt | Chinese prompt |
-|---|---|
-| <img src="gallery/research-design/systematic-review-workflow-en.jpg" width="420"> | <img src="gallery/research-design/systematic-review-workflow-zh.jpg" width="420"> |
-
-**English prompt**
-
-```text
-Create a workflow figure for 【a systematic review and meta-analysis】, six steps from left to right:
-1. 【Research question: a magnifier over four small boxes for population, intervention, comparison and outcome】
-2. 【Database search: three stacked database icons】
-3. 【Screening: a stack of papers passing through a funnel】
-4. 【Data extraction: a paper with a table icon】
-5. 【Risk of bias: a shield with a check mark】
-6. 【Synthesis: several small blocks merging into one】
-Step names, each used once, no other text: 【Research question, Search, Screening, Data extraction, Risk of bias, Synthesis】.
-
-Style: journal-style experimental workflow figure. Clean flat vector icons on a white background, one light pastel rounded panel per step, thin gray arrows between panels. Only 3-4 muted colors. Each panel shows one simple scene with no text inside it; the only text in the whole figure is the step names given. Sans-serif English, each step name appears exactly once, spelled exactly as given. No legends, no captions, no extra labels, no 3D rendering, no shadows, no decorative background.
-```
-
-<details><summary>Chinese prompt</summary>
-
-```text
-画一张【系统综述与 meta 分析】的流程图，从左往右六步：
-1. 【研究问题：放大镜下有四个小方块，代表人群、干预、对照、结局】
-2. 【数据库检索：三个叠放的数据库图标】
-3. 【筛选：一叠论文穿过漏斗】
-4. 【数据提取：一篇论文配表格图标】
-5. 【偏倚风险评估：带对勾的盾牌】
-6. 【证据合成：几个小方块汇成一个】
-步骤名（每个只出现一次，不加其他文字）：【Research question, Search, Screening, Data extraction, Risk of bias, Synthesis】。
-
-风格：期刊式实验流程图。白色背景上干净的扁平矢量图标，每一步一个浅色圆角面板，面板之间用细灰色箭头连接。只用 3–4 种低饱和度颜色。每个面板里只画一个简洁的小场景，面板内不写任何文字；整张图唯一的文字就是给定的步骤名。用英文无衬线字体，每个步骤名只出现一次，拼写与给定完全一致。不要图例、不要说明文字、不要额外标签、不要 3D 渲染、阴影或装饰性背景。
-```
-
-</details>
-
-Model: Nano Banana 2 Lite (gemini-3.1-flash-lite-image, 1K) · Generated 2 times in total; shown are the outputs that passed review
-
-[↑ Back to top](#top)
-
-<sub><a href="https://yila.ai/?utm_source=github&utm_medium=readme&utm_campaign=sci-figure-prompts&utm_content=systematic-review-workflow">Try in Yila →</a></sub>
-
----
-
-<a id="no-27"></a>
-
-### No. 27: Three-layer framework: objectives, content, methods
-
-by [@Yila-AI](https://github.com/Yila-AI)
-
-Technique: **three stacked layers, each supporting the one above** · Style: schematic diagram · Aspect ratio: 4:3
-
-| English prompt | Chinese prompt |
-|---|---|
-| <img src="gallery/research-design/three-layer-framework-en.jpg" width="420"> | <img src="gallery/research-design/three-layer-framework-zh.jpg" width="420"> |
-
-**English prompt**
-
-```text
-Create a research framework for 【a study on early diagnosis of liver cancer】 as three horizontal layers stacked from top to bottom, each a light colored band with its layer name at the far left:
-1. Top band: one wide box with a target icon for the overall objective.
-2. Middle band: three side-by-side boxes for the research contents: 【mechanism, biomarkers, intervention】.
-3. Bottom band: three method icons, one under each content box: 【a culture dish, a group of patient icons, a mouse】, drawn without text.
-Upward arrows run from each method icon to the content box above it, and from each content box to the objective.
-Write each label only once in the whole figure.
-Labels, each used once, no other text: 【Objectives, Research content, Methods, Mechanism, Biomarkers, Intervention】.
-
-Style: journal-style schematic diagram. Clean flat vector graphics on a white background. Modules are rounded rectangles or simple icons with their short names inside; light pastel panels group related layers. Only 3-4 muted colors, each with one fixed meaning. Thin, uniform arrows show the flow of data, energy, material or influence; dashed arrows for indirect or feedback links. Sans-serif English labels only, each label appears exactly once, spelled exactly as given. No 3D rendering, no shadows, no glow, no cyberpunk or tech-background decoration, no photorealism.
-```
-
-<details><summary>Chinese prompt</summary>
-
-```text
-画一张【肝癌早期诊断研究】的研究框架图，上中下三层横向色带，每层最左侧写层名：
-1. 上层：一个宽框，配靶心图标，代表总目标。
-2. 中层：三个并排的框，代表研究内容：【机制、生物标志物、干预】。
-3. 下层：三个方法图标，分别位于三个内容框正下方：【培养皿、一组病人图标、小鼠】，不加文字。
-向上的箭头从每个方法图标指向上方的内容框，再从每个内容框指向总目标。
-整张图里每个标签只写一次。
-标签（每个只出现一次，不加其他文字）：【Objectives, Research content, Methods, Mechanism, Biomarkers, Intervention】。
-
-风格：期刊式示意框图。白色背景上干净的扁平矢量图形。模块画成圆角矩形或简洁图标，名称写在里面；用浅色面板把相关的层归在一起。只用 3–4 种低饱和度颜色，每种颜色含义固定。细而粗细一致的箭头表示数据、能量、物质或影响的流向，间接或反馈关系用虚线箭头。图中文字只用英文无衬线字体，每个标签只出现一次，拼写与给定完全一致。不要 3D 渲染、阴影、发光、赛博朋克或科技感背景装饰，不要照片质感。
-```
-
-</details>
-
-Model: Nano Banana 2 Lite (gemini-3.1-flash-lite-image, 1K) · Generated 2 times in total; shown are the outputs that passed review
-
-[↑ Back to top](#top)
-
-<sub><a href="https://yila.ai/?utm_source=github&utm_medium=readme&utm_campaign=sci-figure-prompts&utm_content=three-layer-framework">Try in Yila →</a></sub>
-
----
-
-<a id="no-28"></a>
-
-### No. 28: Vertical graphical abstract
-
-by [@Yila-AI](https://github.com/Yila-AI)
-
-Technique: **top to bottom: problem, intervention, outcome** · Style: soft semi-realistic illustration · Aspect ratio: 3:4
-
-| English prompt | Chinese prompt |
-|---|---|
-| <img src="gallery/research-design/vertical-graphical-abstract-en.jpg" width="420"> | <img src="gallery/research-design/vertical-graphical-abstract-zh.jpg" width="420"> |
-
-**English prompt**
-
-```text
-Create a vertical graphical abstract about 【a hydrogel that delivers stem cells to repair heart tissue after a heart attack】, told from top to bottom in three stages:
-1. Top: 【a heart with a damaged, pale region of muscle】.
-2. Middle: 【a soft hydrogel patch loaded with stem cells being placed on the damaged region】.
-3. Bottom: 【the same heart with the region restored to healthy red muscle and new small blood vessels】.
-Thin downward arrows connect the stages.
-Labels, each used once, no other text: 【Myocardial infarction, Stem cell hydrogel, Cardiac repair】.
-
-Style: journal graphical-abstract illustration. Soft semi-realistic medical illustration with gentle volume and subtle hand-painted texture, on a clean white background. Muted, harmonious palette with one accent color. Clear left-to-right narrative, generous white space. Sans-serif English labels only, each label appears exactly once, spelled exactly as given. No cartoon style, no glossy CGI, no dark background, no stock-photo look.
-```
-
-<details><summary>Chinese prompt</summary>
-
-```text
-画一张关于【心梗后用水凝胶递送干细胞修复心肌】的竖版图文摘要，从上往下分三段：
-1. 上：【一颗心脏，部分心肌受损发白】。
-2. 中：【一片载有干细胞的柔软水凝胶贴片贴到受损区域】。
-3. 下：【同一颗心脏，受损区域恢复成健康的红色心肌，并长出新的小血管】。
-各段之间用向下的细箭头连接。
-标签（每个只出现一次，不加其他文字）：【Myocardial infarction, Stem cell hydrogel, Cardiac repair】。
-
-风格：期刊图形摘要插画。柔和的半写实医学插画，带轻微体积感和细腻的手绘质感，白色干净背景。配色低饱和、协调，只用一个强调色。从左到右叙事清晰，留白充足。图中文字只用英文无衬线字体，每个标签只出现一次，拼写与给定完全一致。不要卡通风格、不要光滑的 CG 渲染、不要深色背景、不要图库照片感。
-```
-
-</details>
-
-Model: Nano Banana 2 Lite (gemini-3.1-flash-lite-image, 1K) · Generated 2 times in total; shown are the outputs that passed review
-
-[↑ Back to top](#top)
-
-<sub><a href="https://yila.ai/?utm_source=github&utm_medium=readme&utm_campaign=sci-figure-prompts&utm_content=vertical-graphical-abstract">Try in Yila →</a></sub>
+**[👉 Try it now in YILA →](https://yila.ai/scientific-figure-prompts/delphi-method?utm_source=github&utm_medium=readme&utm_campaign=sci-figure-prompts&utm_content=delphi-method)** · [↑ Back to top](#top)
 
 ---
 
 <a id="graphical-abstract"></a>
 
-## Graphical Abstract
+### 🧭 Graphical Abstract
 
 <a id="no-29"></a>
 
-### No. 29: Antibody–drug conjugate (ADC) mechanism
+#### No. 29: Antibody–drug conjugate (ADC) mechanism
 
-by [@Yila-AI](https://github.com/Yila-AI)
+![Model](https://img.shields.io/badge/Model-GPT%20Image%202.6-10a37f) ![Category](https://img.shields.io/badge/Graphical%20Abstract-blue)
 
-Technique: **bind, internalize, release, kill** · Style: soft semi-realistic illustration · Aspect ratio: 16:9
+##### 📖 Description
 
-| English prompt |
-|---|
-| <img src="gallery/graphical-abstract/antibody-drug-conjugate-en.jpg" width="420"> |
+Technique: **bind, internalize, release, kill** · Style: soft semi-realistic illustration · Aspect Ratio: `16:9`
 
-> The Chinese-prompt output did not pass review, so it is not shown.
-
-**English prompt**
+##### 📝 Prompt
 
 ```text
 Create a graphical abstract of 【how an antibody–drug conjugate kills a cancer cell】, read from left to right:
@@ -1527,27 +871,34 @@ Style: journal graphical-abstract illustration. Soft semi-realistic medical illu
 
 </details>
 
-Model: Nano Banana 2 Lite (gemini-3.1-flash-lite-image, 1K) · Generated 2 times in total; shown are the outputs that passed review
+##### 🖼️ Generated Image
 
-[↑ Back to top](#top)
+<div align="center">
+<a href="https://yila.ai/scientific-figure-prompts/antibody-drug-conjugate?utm_source=github&utm_medium=readme&utm_campaign=sci-figure-prompts&utm_content=antibody-drug-conjugate"><img src="gallery/graphical-abstract/antibody-drug-conjugate-en.jpg" width="600" alt="Antibody–drug conjugate (ADC) mechanism"></a>
+</div>
 
-<sub><a href="https://yila.ai/?utm_source=github&utm_medium=readme&utm_campaign=sci-figure-prompts&utm_content=antibody-drug-conjugate">Try in Yila →</a></sub>
+##### 📌 Details
+
+- **Author:** [@Yila-AI](https://github.com/Yila-AI)
+- **Model:** GPT Image 2.6
+- **Aspect Ratio:** 16:9
+- **Languages:** en, zh
+
+**[👉 Try it now in YILA →](https://yila.ai/scientific-figure-prompts/antibody-drug-conjugate?utm_source=github&utm_medium=readme&utm_campaign=sci-figure-prompts&utm_content=antibody-drug-conjugate)** · [↑ Back to top](#top)
 
 ---
 
 <a id="no-30"></a>
 
-### No. 30: CAR-T cells against a solid tumor
+#### No. 30: CAR-T cells against a solid tumor
 
-by [@Yila-AI](https://github.com/Yila-AI)
+![Model](https://img.shields.io/badge/Model-GPT%20Image%202.6-10a37f) ![Category](https://img.shields.io/badge/Graphical%20Abstract-blue) ![Featured](https://img.shields.io/badge/%E2%AD%90-Featured-gold)
 
-Technique: **staged sequence + magnified inset** · Style: soft semi-realistic illustration · Aspect ratio: 16:9
+##### 📖 Description
 
-| English prompt | Chinese prompt |
-|---|---|
-| <img src="gallery/graphical-abstract/car-t-solid-tumor-en.jpg" width="420"> | <img src="gallery/graphical-abstract/car-t-solid-tumor-zh.jpg" width="420"> |
+Technique: **staged sequence + magnified inset** · Style: soft semi-realistic illustration · Aspect Ratio: `16:9`
 
-**English prompt**
+##### 📝 Prompt
 
 ```text
 Create a graphical abstract about 【CAR-T cell therapy against a solid tumor】, told from left to right in three stages.
@@ -1573,27 +924,34 @@ Style: journal graphical-abstract illustration. Soft semi-realistic medical illu
 
 </details>
 
-Model: Nano Banana 2 Lite (gemini-3.1-flash-lite-image, 1K) · Generated 2 times in total; shown are the outputs that passed review
+##### 🖼️ Generated Image
 
-[↑ Back to top](#top)
+<div align="center">
+<a href="https://yila.ai/scientific-figure-prompts/car-t-solid-tumor?utm_source=github&utm_medium=readme&utm_campaign=sci-figure-prompts&utm_content=car-t-solid-tumor"><img src="gallery/graphical-abstract/car-t-solid-tumor-en.jpg" width="600" alt="CAR-T cells against a solid tumor"></a>
+</div>
 
-<sub><a href="https://yila.ai/?utm_source=github&utm_medium=readme&utm_campaign=sci-figure-prompts&utm_content=car-t-solid-tumor">Try in Yila →</a></sub>
+##### 📌 Details
+
+- **Author:** [@Yila-AI](https://github.com/Yila-AI)
+- **Model:** GPT Image 2.6
+- **Aspect Ratio:** 16:9
+- **Languages:** en, zh
+
+**[👉 Try it now in YILA →](https://yila.ai/scientific-figure-prompts/car-t-solid-tumor?utm_source=github&utm_medium=readme&utm_campaign=sci-figure-prompts&utm_content=car-t-solid-tumor)** · [↑ Back to top](#top)
 
 ---
 
 <a id="no-31"></a>
 
-### No. 31: CRISPR-Cas9 gene editing
+#### No. 31: CRISPR-Cas9 gene editing
 
-by [@Yila-AI](https://github.com/Yila-AI)
+![Model](https://img.shields.io/badge/Model-GPT%20Image%202.6-10a37f) ![Category](https://img.shields.io/badge/Graphical%20Abstract-blue)
 
-Technique: **recognition and cutting, then two repair routes** · Style: scientific illustration · Aspect ratio: 16:9
+##### 📖 Description
 
-| English prompt | Chinese prompt |
-|---|---|
-| <img src="gallery/graphical-abstract/crispr-cas9-en.jpg" width="420"> | <img src="gallery/graphical-abstract/crispr-cas9-zh.jpg" width="420"> |
+Technique: **recognition and cutting, then two repair routes** · Style: scientific illustration · Aspect Ratio: `16:9`
 
-**English prompt**
+##### 📝 Prompt
 
 ```text
 Create a scientific illustration of 【CRISPR-Cas9 genome editing】, read from left to right:
@@ -1621,27 +979,34 @@ Style: journal-style scientific illustration. Clean semi-realistic vector illust
 
 </details>
 
-Model: Nano Banana 2 Lite (gemini-3.1-flash-lite-image, 1K) · Generated 4 times in total; shown are the outputs that passed review
+##### 🖼️ Generated Image
 
-[↑ Back to top](#top)
+<div align="center">
+<a href="https://yila.ai/scientific-figure-prompts/crispr-cas9?utm_source=github&utm_medium=readme&utm_campaign=sci-figure-prompts&utm_content=crispr-cas9"><img src="gallery/graphical-abstract/crispr-cas9-en.jpg" width="600" alt="CRISPR-Cas9 gene editing"></a>
+</div>
 
-<sub><a href="https://yila.ai/?utm_source=github&utm_medium=readme&utm_campaign=sci-figure-prompts&utm_content=crispr-cas9">Try in Yila →</a></sub>
+##### 📌 Details
+
+- **Author:** [@Yila-AI](https://github.com/Yila-AI)
+- **Model:** GPT Image 2.6
+- **Aspect Ratio:** 16:9
+- **Languages:** en, zh
+
+**[👉 Try it now in YILA →](https://yila.ai/scientific-figure-prompts/crispr-cas9?utm_source=github&utm_medium=readme&utm_campaign=sci-figure-prompts&utm_content=crispr-cas9)** · [↑ Back to top](#top)
 
 ---
 
 <a id="no-32"></a>
 
-### No. 32: Drug mechanism of action
+#### No. 32: Drug mechanism of action
 
-by [@Yila-AI](https://github.com/Yila-AI)
+![Model](https://img.shields.io/badge/Model-GPT%20Image%202.6-10a37f) ![Category](https://img.shields.io/badge/Graphical%20Abstract-blue)
 
-Technique: **binding, blocked signaling, cell outcome** · Style: soft semi-realistic illustration · Aspect ratio: 16:9
+##### 📖 Description
 
-| English prompt | Chinese prompt |
-|---|---|
-| <img src="gallery/graphical-abstract/drug-mechanism-en.jpg" width="420"> | <img src="gallery/graphical-abstract/drug-mechanism-zh.jpg" width="420"> |
+Technique: **binding, blocked signaling, cell outcome** · Style: soft semi-realistic illustration · Aspect Ratio: `16:9`
 
-**English prompt**
+##### 📝 Prompt
 
 ```text
 Create a graphical abstract of 【how a small-molecule kinase inhibitor works】, read from left to right:
@@ -1669,27 +1034,34 @@ Style: journal graphical-abstract illustration. Soft semi-realistic medical illu
 
 </details>
 
-Model: Nano Banana 2 Lite (gemini-3.1-flash-lite-image, 1K) · Generated 5 times in total; shown are the outputs that passed review
+##### 🖼️ Generated Image
 
-[↑ Back to top](#top)
+<div align="center">
+<a href="https://yila.ai/scientific-figure-prompts/drug-mechanism?utm_source=github&utm_medium=readme&utm_campaign=sci-figure-prompts&utm_content=drug-mechanism"><img src="gallery/graphical-abstract/drug-mechanism-en.jpg" width="600" alt="Drug mechanism of action"></a>
+</div>
 
-<sub><a href="https://yila.ai/?utm_source=github&utm_medium=readme&utm_campaign=sci-figure-prompts&utm_content=drug-mechanism">Try in Yila →</a></sub>
+##### 📌 Details
+
+- **Author:** [@Yila-AI](https://github.com/Yila-AI)
+- **Model:** GPT Image 2.6
+- **Aspect Ratio:** 16:9
+- **Languages:** en, zh
+
+**[👉 Try it now in YILA →](https://yila.ai/scientific-figure-prompts/drug-mechanism?utm_source=github&utm_medium=readme&utm_campaign=sci-figure-prompts&utm_content=drug-mechanism)** · [↑ Back to top](#top)
 
 ---
 
 <a id="no-33"></a>
 
-### No. 33: Epithelial–mesenchymal transition (EMT)
+#### No. 33: Epithelial–mesenchymal transition (EMT)
 
-by [@Yila-AI](https://github.com/Yila-AI)
+![Model](https://img.shields.io/badge/Model-GPT%20Image%202.6-10a37f) ![Category](https://img.shields.io/badge/Graphical%20Abstract-blue)
 
-Technique: **cell shape changes gradually from left to right** · Style: soft semi-realistic illustration · Aspect ratio: 16:9
+##### 📖 Description
 
-| English prompt | Chinese prompt |
-|---|---|
-| <img src="gallery/graphical-abstract/emt-en.jpg" width="420"> | <img src="gallery/graphical-abstract/emt-zh.jpg" width="420"> |
+Technique: **cell shape changes gradually from left to right** · Style: soft semi-realistic illustration · Aspect Ratio: `16:9`
 
-**English prompt**
+##### 📝 Prompt
 
 ```text
 Create a graphical abstract of 【epithelial–mesenchymal transition】, read from left to right:
@@ -1717,27 +1089,34 @@ Style: journal graphical-abstract illustration. Soft semi-realistic medical illu
 
 </details>
 
-Model: Nano Banana 2 Lite (gemini-3.1-flash-lite-image, 1K) · Generated 2 times in total; shown are the outputs that passed review
+##### 🖼️ Generated Image
 
-[↑ Back to top](#top)
+<div align="center">
+<a href="https://yila.ai/scientific-figure-prompts/emt?utm_source=github&utm_medium=readme&utm_campaign=sci-figure-prompts&utm_content=emt"><img src="gallery/graphical-abstract/emt-en.jpg" width="600" alt="Epithelial–mesenchymal transition (EMT)"></a>
+</div>
 
-<sub><a href="https://yila.ai/?utm_source=github&utm_medium=readme&utm_campaign=sci-figure-prompts&utm_content=emt">Try in Yila →</a></sub>
+##### 📌 Details
+
+- **Author:** [@Yila-AI](https://github.com/Yila-AI)
+- **Model:** GPT Image 2.6
+- **Aspect Ratio:** 16:9
+- **Languages:** en, zh
+
+**[👉 Try it now in YILA →](https://yila.ai/scientific-figure-prompts/emt?utm_source=github&utm_medium=readme&utm_campaign=sci-figure-prompts&utm_content=emt)** · [↑ Back to top](#top)
 
 ---
 
 <a id="no-34"></a>
 
-### No. 34: Exercise improves muscle insulin resistance
+#### No. 34: Exercise improves muscle insulin resistance
 
-by [@Yila-AI](https://github.com/Yila-AI)
+![Model](https://img.shields.io/badge/Model-GPT%20Image%202.6-10a37f) ![Category](https://img.shields.io/badge/Graphical%20Abstract-blue)
 
-Technique: **multi-scale magnified insets** · Style: soft semi-realistic illustration · Aspect ratio: 16:9
+##### 📖 Description
 
-| English prompt | Chinese prompt | Chinese prompt |
-|---|---|---|
-| <img src="gallery/graphical-abstract/exercise-glut4-en.jpg" width="420"> | <img src="gallery/graphical-abstract/exercise-glut4-zh.jpg" width="420"> | <img src="gallery/graphical-abstract/exercise-glut4-zh-2.jpg" width="420"> |
+Technique: **multi-scale magnified insets** · Style: soft semi-realistic illustration · Aspect Ratio: `16:9`
 
-**English prompt**
+##### 📝 Prompt
 
 ```text
 Create a graphical abstract about 【how exercise improves insulin resistance in skeletal muscle】, told from left to right.
@@ -1763,27 +1142,34 @@ Style: journal graphical-abstract illustration. Soft semi-realistic medical illu
 
 </details>
 
-Model: Nano Banana 2 Lite (gemini-3.1-flash-lite-image, 1K) · Generated 4 times in total; shown are the outputs that passed review
+##### 🖼️ Generated Image
 
-[↑ Back to top](#top)
+<div align="center">
+<a href="https://yila.ai/scientific-figure-prompts/exercise-glut4?utm_source=github&utm_medium=readme&utm_campaign=sci-figure-prompts&utm_content=exercise-glut4"><img src="gallery/graphical-abstract/exercise-glut4-en.jpg" width="600" alt="Exercise improves muscle insulin resistance"></a>
+</div>
 
-<sub><a href="https://yila.ai/?utm_source=github&utm_medium=readme&utm_campaign=sci-figure-prompts&utm_content=exercise-glut4">Try in Yila →</a></sub>
+##### 📌 Details
+
+- **Author:** [@Yila-AI](https://github.com/Yila-AI)
+- **Model:** GPT Image 2.6
+- **Aspect Ratio:** 16:9
+- **Languages:** en, zh
+
+**[👉 Try it now in YILA →](https://yila.ai/scientific-figure-prompts/exercise-glut4?utm_source=github&utm_medium=readme&utm_campaign=sci-figure-prompts&utm_content=exercise-glut4)** · [↑ Back to top](#top)
 
 ---
 
 <a id="no-35"></a>
 
-### No. 35: Tumor exosomes prepare a pre-metastatic niche
+#### No. 35: Tumor exosomes prepare a pre-metastatic niche
 
-by [@Yila-AI](https://github.com/Yila-AI)
+![Model](https://img.shields.io/badge/Model-GPT%20Image%202.6-10a37f) ![Category](https://img.shields.io/badge/Graphical%20Abstract-blue)
 
-Technique: **multi-scale magnified insets** · Style: soft semi-realistic illustration · Aspect ratio: 16:9
+##### 📖 Description
 
-| English prompt | Chinese prompt |
-|---|---|
-| <img src="gallery/graphical-abstract/exosome-premetastatic-niche-en.jpg" width="420"> | <img src="gallery/graphical-abstract/exosome-premetastatic-niche-zh.jpg" width="420"> |
+Technique: **multi-scale magnified insets** · Style: soft semi-realistic illustration · Aspect Ratio: `16:9`
 
-**English prompt**
+##### 📝 Prompt
 
 ```text
 Create a graphical abstract about 【tumor exosomes preparing the lung for metastasis】, told from left to right.
@@ -1809,27 +1195,34 @@ Style: journal graphical-abstract illustration. Soft semi-realistic medical illu
 
 </details>
 
-Model: Nano Banana 2 Lite (gemini-3.1-flash-lite-image, 1K) · Generated 4 times in total; shown are the outputs that passed review
+##### 🖼️ Generated Image
 
-[↑ Back to top](#top)
+<div align="center">
+<a href="https://yila.ai/scientific-figure-prompts/exosome-premetastatic-niche?utm_source=github&utm_medium=readme&utm_campaign=sci-figure-prompts&utm_content=exosome-premetastatic-niche"><img src="gallery/graphical-abstract/exosome-premetastatic-niche-en.jpg" width="600" alt="Tumor exosomes prepare a pre-metastatic niche"></a>
+</div>
 
-<sub><a href="https://yila.ai/?utm_source=github&utm_medium=readme&utm_campaign=sci-figure-prompts&utm_content=exosome-premetastatic-niche">Try in Yila →</a></sub>
+##### 📌 Details
+
+- **Author:** [@Yila-AI](https://github.com/Yila-AI)
+- **Model:** GPT Image 2.6
+- **Aspect Ratio:** 16:9
+- **Languages:** en, zh
+
+**[👉 Try it now in YILA →](https://yila.ai/scientific-figure-prompts/exosome-premetastatic-niche?utm_source=github&utm_medium=readme&utm_campaign=sci-figure-prompts&utm_content=exosome-premetastatic-niche)** · [↑ Back to top](#top)
 
 ---
 
 <a id="no-36"></a>
 
-### No. 36: Gut–brain axis in depression
+#### No. 36: Gut–brain axis in depression
 
-by [@Yila-AI](https://github.com/Yila-AI)
+![Model](https://img.shields.io/badge/Model-GPT%20Image%202.6-10a37f) ![Category](https://img.shields.io/badge/Graphical%20Abstract-blue)
 
-Technique: **two magnified insets** · Style: soft semi-realistic illustration · Aspect ratio: 16:9
+##### 📖 Description
 
-| English prompt | Chinese prompt |
-|---|---|
-| <img src="gallery/graphical-abstract/gut-brain-axis-en.jpg" width="420"> | <img src="gallery/graphical-abstract/gut-brain-axis-zh.jpg" width="420"> |
+Technique: **two magnified insets** · Style: soft semi-realistic illustration · Aspect Ratio: `16:9`
 
-**English prompt**
+##### 📝 Prompt
 
 ```text
 Create a graphical abstract about 【the gut–brain axis in depression】.
@@ -1857,701 +1250,38 @@ Style: journal graphical-abstract illustration. Soft semi-realistic medical illu
 
 </details>
 
-Model: Nano Banana 2 Lite (gemini-3.1-flash-lite-image, 1K) · Generated 4 times in total; shown are the outputs that passed review
+##### 🖼️ Generated Image
 
-[↑ Back to top](#top)
+<div align="center">
+<a href="https://yila.ai/scientific-figure-prompts/gut-brain-axis?utm_source=github&utm_medium=readme&utm_campaign=sci-figure-prompts&utm_content=gut-brain-axis"><img src="gallery/graphical-abstract/gut-brain-axis-en.jpg" width="600" alt="Gut–brain axis in depression"></a>
+</div>
 
-<sub><a href="https://yila.ai/?utm_source=github&utm_medium=readme&utm_campaign=sci-figure-prompts&utm_content=gut-brain-axis">Try in Yila →</a></sub>
+##### 📌 Details
 
----
+- **Author:** [@Yila-AI](https://github.com/Yila-AI)
+- **Model:** GPT Image 2.6
+- **Aspect Ratio:** 16:9
+- **Languages:** en, zh
 
-<a id="no-37"></a>
-
-### No. 37: Gut microbiota, short-chain fatty acids and host metabolism
-
-by [@Yila-AI](https://github.com/Yila-AI)
-
-Technique: **gut lumen, epithelium, then the whole body** · Style: soft semi-realistic illustration · Aspect ratio: 16:9
-
-| English prompt | Chinese prompt |
-|---|---|
-| <img src="gallery/graphical-abstract/gut-microbiota-scfa-en.jpg" width="420"> | <img src="gallery/graphical-abstract/gut-microbiota-scfa-zh.jpg" width="420"> |
-
-**English prompt**
-
-```text
-Create a graphical abstract of 【how gut microbiota shape host metabolism through short-chain fatty acids】, read from left to right:
-1. Left, the colon lumen: 【dietary fiber strands eaten by colorful gut bacteria, which release SCFAs as small spheres】.
-2. Middle, the epithelial lining: 【colonocytes taking up SCFAs as fuel; one L cell sensing SCFAs and releasing GLP-1 into a blood vessel below】.
-3. Right: 【the blood vessel carrying SCFAs and GLP-1 to two organ icons: the liver and the pancreas】.
-Write each label only once in the whole figure.
-If a component appears in more than one place or panel, write its label only at its first appearance; every other copy has no text. No label may appear twice anywhere in the figure. Spell every label exactly as given and add no titles.
-Labels, each used once, no other text: 【Dietary fiber, Gut microbiota, SCFAs, Colonocyte, L cell, GLP-1, Liver, Pancreas】.
-
-Style: journal graphical-abstract illustration. Soft semi-realistic medical illustration with gentle volume and subtle hand-painted texture, on a clean white background. Muted, harmonious palette with one accent color. Clear left-to-right narrative, generous white space. Sans-serif English labels only, each label appears exactly once, spelled exactly as given. No cartoon style, no glossy CGI, no dark background, no stock-photo look.
-```
-
-<details><summary>Chinese prompt</summary>
-
-```text
-画一张【肠道菌群经短链脂肪酸影响宿主代谢】的图文摘要，从左往右读：
-1. 左，结肠肠腔：【膳食纤维被彩色肠道细菌分解，细菌释放出小球状的 SCFAs】。
-2. 中，上皮层：【结肠细胞把 SCFAs 当作能量吸收；一个 L 细胞感受 SCFAs，向下方血管释放 GLP-1】。
-3. 右：【血管把 SCFAs 和 GLP-1 带到两个器官图标：肝脏和胰腺】。
-整张图里每个标签只写一次。
-如果同一组件在多处或多个面板出现，只在第一次出现时写标签，其余副本不写字。整张图里任何标签都不能出现两次。每个标签拼写与给定完全一致，不加标题。
-标签（每个只出现一次，不加其他文字）：【Dietary fiber, Gut microbiota, SCFAs, Colonocyte, L cell, GLP-1, Liver, Pancreas】。
-
-风格：期刊图形摘要插画。柔和的半写实医学插画，带轻微体积感和细腻的手绘质感，白色干净背景。配色低饱和、协调，只用一个强调色。从左到右叙事清晰，留白充足。图中文字只用英文无衬线字体，每个标签只出现一次，拼写与给定完全一致。不要卡通风格、不要光滑的 CG 渲染、不要深色背景、不要图库照片感。
-```
-
-</details>
-
-Model: Nano Banana 2 Lite (gemini-3.1-flash-lite-image, 1K) · Generated 6 times in total; shown are the outputs that passed review
-
-[↑ Back to top](#top)
-
-<sub><a href="https://yila.ai/?utm_source=github&utm_medium=readme&utm_campaign=sci-figure-prompts&utm_content=gut-microbiota-scfa">Try in Yila →</a></sub>
-
----
-
-<a id="no-38"></a>
-
-### No. 38: Hydrogel-assisted wound healing
-
-by [@Yila-AI](https://github.com/Yila-AI)
-
-Technique: **side-by-side panels + magnified inset** · Style: soft semi-realistic illustration · Aspect ratio: 16:9
-
-| English prompt | Chinese prompt |
-|---|---|
-| <img src="gallery/graphical-abstract/hydrogel-wound-en.jpg" width="420"> | <img src="gallery/graphical-abstract/hydrogel-wound-zh.jpg" width="420"> |
-
-**English prompt**
-
-```text
-Create a side-by-side graphical abstract comparing 【an untreated skin wound and a wound treated with an injectable hydrogel】, separated by a thin dashed vertical line. Both sides show 【the same cross-section of skin with an open wound】.
-Left: 【untreated: an open wound with bacteria and redness, healing slowly】.
-Right: 【treated: a translucent hydrogel fills the wound and releases small drug particles; new blood vessels and collagen grow and the wound is almost closed】. A circular magnified inset shows 【the hydrogel's cross-linked polymer network holding the drug particles】.
-Labels, each used once, no other text: 【Untreated, Hydrogel, Angiogenesis, Wound closure】.
-
-Style: journal graphical-abstract illustration. Soft semi-realistic medical illustration with gentle volume and subtle hand-painted texture, on a clean white background. Muted, harmonious palette with one accent color. Clear left-to-right narrative, generous white space. Sans-serif English labels only, each label appears exactly once, spelled exactly as given. No cartoon style, no glossy CGI, no dark background, no stock-photo look.
-```
-
-<details><summary>Chinese prompt</summary>
-
-```text
-画一张左右对比的图形摘要，比较【未处理的皮肤创面和用可注射水凝胶处理的创面】，中间用一条细虚线分开。两侧都是【同一个带开放创面的皮肤剖面】。
-左：【未处理：创面敞开，有细菌和红肿，愈合缓慢】。
-右：【处理后：半透明水凝胶填满创面并释放小药物颗粒；新生血管和胶原长出，创面几乎闭合】。用一个圆形放大框展示【水凝胶的交联高分子网络包裹着药物颗粒】。
-标签（每个只出现一次，不加其他文字）：【Untreated, Hydrogel, Angiogenesis, Wound closure】。
-
-风格：期刊图形摘要插画。柔和的半写实医学插画，带轻微体积感和细腻的手绘质感，白色干净背景。配色低饱和、协调，只用一个强调色。从左到右叙事清晰，留白充足。图中文字只用英文无衬线字体，每个标签只出现一次，拼写与给定完全一致。不要卡通风格、不要光滑的 CG 渲染、不要深色背景、不要图库照片感。
-```
-
-</details>
-
-Model: Nano Banana 2 Lite (gemini-3.1-flash-lite-image, 1K) · Generated 2 times in total; shown are the outputs that passed review
-
-[↑ Back to top](#top)
-
-<sub><a href="https://yila.ai/?utm_source=github&utm_medium=readme&utm_campaign=sci-figure-prompts&utm_content=hydrogel-wound">Try in Yila →</a></sub>
-
----
-
-<a id="no-39"></a>
-
-### No. 39: Resolution of inflammation
-
-by [@Yila-AI](https://github.com/Yila-AI)
-
-Technique: **a time axis from onset to resolution** · Style: soft semi-realistic illustration · Aspect ratio: 16:9
-
-| Chinese prompt |
-|---|
-| <img src="gallery/graphical-abstract/inflammation-resolution-zh.jpg" width="420"> |
-
-**English prompt**
-
-```text
-Create a graphical abstract of 【the resolution of inflammation】 along a horizontal time axis, the left half shaded light red for onset and the right half light green for resolution:
-1. Left: 【neutrophils rushing into injured tissue, with leukotrienes as small red dots】.
-2. Middle: 【a switch in lipid mediators, the red dots giving way to lipoxins and resolvins as small green dots】.
-3. Right: 【an apoptotic neutrophil being engulfed by a macrophage (efferocytosis), and the tissue returning to a neat, repaired layer】.
-Write each label only once in the whole figure.
-Labels, each used once, no other text: 【Neutrophil, Leukotrienes, Lipoxins, Resolvins, Apoptotic neutrophil, Macrophage, Efferocytosis, Tissue repair】.
-
-Style: journal graphical-abstract illustration. Soft semi-realistic medical illustration with gentle volume and subtle hand-painted texture, on a clean white background. Muted, harmonious palette with one accent color. Clear left-to-right narrative, generous white space. Sans-serif English labels only, each label appears exactly once, spelled exactly as given. No cartoon style, no glossy CGI, no dark background, no stock-photo look.
-```
-
-<details><summary>Chinese prompt</summary>
-
-```text
-画一张【炎症消退】的图文摘要，沿一条横向时间轴展开，左半边浅红色代表启动期，右半边浅绿色代表消退期：
-1. 左：【中性粒细胞涌入受损组织，白三烯画成红色小点】。
-2. 中：【脂质介质发生转换，红点让位于脂氧素和消退素，画成绿色小点】。
-3. 右：【凋亡的中性粒细胞被巨噬细胞吞噬（胞葬作用），组织恢复成整齐修复的一层】。
-整张图里每个标签只写一次。
-标签（每个只出现一次，不加其他文字）：【Neutrophil, Leukotrienes, Lipoxins, Resolvins, Apoptotic neutrophil, Macrophage, Efferocytosis, Tissue repair】。
-
-风格：期刊图形摘要插画。柔和的半写实医学插画，带轻微体积感和细腻的手绘质感，白色干净背景。配色低饱和、协调，只用一个强调色。从左到右叙事清晰，留白充足。图中文字只用英文无衬线字体，每个标签只出现一次，拼写与给定完全一致。不要卡通风格、不要光滑的 CG 渲染、不要深色背景、不要图库照片感。
-```
-
-</details>
-
-Model: Nano Banana 2 Lite (gemini-3.1-flash-lite-image, 1K) · Generated 2 times in total; shown are the outputs that passed review
-
-[↑ Back to top](#top)
-
-<sub><a href="https://yila.ai/?utm_source=github&utm_medium=readme&utm_campaign=sci-figure-prompts&utm_content=inflammation-resolution">Try in Yila →</a></sub>
-
----
-
-<a id="no-40"></a>
-
-### No. 40: Macrophage M1/M2 polarization
-
-by [@Yila-AI](https://github.com/Yila-AI)
-
-Technique: **unpolarized cell in the middle, two fates on either side** · Style: soft semi-realistic illustration · Aspect ratio: 16:9
-
-| English prompt | Chinese prompt |
-|---|---|
-| <img src="gallery/graphical-abstract/macrophage-polarization-en.jpg" width="420"> | <img src="gallery/graphical-abstract/macrophage-polarization-zh.jpg" width="420"> |
-
-**English prompt**
-
-```text
-Create a graphical abstract of 【macrophage polarization】: one unpolarized macrophage in the center, with two outcomes on either side:
-1. Left arrow: 【LPS + IFN-γ】 turns it into 【an M1 macrophage releasing inflammatory signals, shown in warm red tones】.
-2. Right arrow: 【IL-4 + IL-13】 turns it into 【an M2 macrophage helping repair tissue, shown in cool green tones】.
-Labels, each used once, no other text: 【M0, M1, M2, LPS + IFN-γ, IL-4 + IL-13, Pro-inflammatory, Tissue repair】.
-
-Style: journal graphical-abstract illustration. Soft semi-realistic medical illustration with gentle volume and subtle hand-painted texture, on a clean white background. Muted, harmonious palette with one accent color. Clear left-to-right narrative, generous white space. Sans-serif English labels only, each label appears exactly once, spelled exactly as given. No cartoon style, no glossy CGI, no dark background, no stock-photo look.
-```
-
-<details><summary>Chinese prompt</summary>
-
-```text
-画一张【巨噬细胞极化】的图文摘要：中央一个未极化的巨噬细胞，左右两侧是两种结局：
-1. 向左的箭头：【LPS + IFN-γ】使它变成【释放炎症信号的 M1 巨噬细胞，用暖红色调】。
-2. 向右的箭头：【IL-4 + IL-13】使它变成【帮助组织修复的 M2 巨噬细胞，用冷绿色调】。
-标签（每个只出现一次，不加其他文字）：【M0, M1, M2, LPS + IFN-γ, IL-4 + IL-13, Pro-inflammatory, Tissue repair】。
-
-风格：期刊图形摘要插画。柔和的半写实医学插画，带轻微体积感和细腻的手绘质感，白色干净背景。配色低饱和、协调，只用一个强调色。从左到右叙事清晰，留白充足。图中文字只用英文无衬线字体，每个标签只出现一次，拼写与给定完全一致。不要卡通风格、不要光滑的 CG 渲染、不要深色背景、不要图库照片感。
-```
-
-</details>
-
-Model: Nano Banana 2 Lite (gemini-3.1-flash-lite-image, 1K) · Generated 2 times in total; shown are the outputs that passed review
-
-[↑ Back to top](#top)
-
-<sub><a href="https://yila.ai/?utm_source=github&utm_medium=readme&utm_campaign=sci-figure-prompts&utm_content=macrophage-polarization">Try in Yila →</a></sub>
-
----
-
-<a id="no-41"></a>
-
-### No. 41: Microglia and neuroinflammation
-
-by [@Yila-AI](https://github.com/Yila-AI)
-
-Technique: **resting to activated, then neuronal damage** · Style: soft semi-realistic illustration · Aspect ratio: 16:9
-
-| Chinese prompt |
-|---|
-| <img src="gallery/graphical-abstract/microglia-neuroinflammation-zh.jpg" width="420"> |
-
-**English prompt**
-
-```text
-Create a graphical abstract of 【microglia driving neuroinflammation】, read from left to right:
-1. Left: 【a resting microglia with many long, thin branches】.
-2. Middle: 【amyloid-β plaques appear, and the microglia turns into an activated microglia: rounded, with short thick processes】.
-3. Right: 【the activated microglia releases TNF-α, IL-1β and ROS as colored dots toward a neuron with damaged, broken dendrites; a nearby astrocyte also becomes reactive】.
-Write each label only once in the whole figure.
-Labels, each used once, no other text: 【Resting microglia, Activated microglia, Amyloid-β, TNF-α, IL-1β, ROS, Neuron, Astrocyte】.
-
-Style: journal graphical-abstract illustration. Soft semi-realistic medical illustration with gentle volume and subtle hand-painted texture, on a clean white background. Muted, harmonious palette with one accent color. Clear left-to-right narrative, generous white space. Sans-serif English labels only, each label appears exactly once, spelled exactly as given. No cartoon style, no glossy CGI, no dark background, no stock-photo look.
-```
-
-<details><summary>Chinese prompt</summary>
-
-```text
-画一张【小胶质细胞驱动神经炎症】的图文摘要，从左往右读：
-1. 左：【一个静息态小胶质细胞，有许多细长分支】。
-2. 中：【出现 β-淀粉样蛋白斑块，小胶质细胞转为激活态：胞体变圆，突起短而粗】。
-3. 右：【激活的小胶质细胞释放 TNF-α、IL-1β 和 ROS（彩色小点），指向一个树突受损断裂的神经元；旁边一个星形胶质细胞也被激活】。
-整张图里每个标签只写一次。
-标签（每个只出现一次，不加其他文字）：【Resting microglia, Activated microglia, Amyloid-β, TNF-α, IL-1β, ROS, Neuron, Astrocyte】。
-
-风格：期刊图形摘要插画。柔和的半写实医学插画，带轻微体积感和细腻的手绘质感，白色干净背景。配色低饱和、协调，只用一个强调色。从左到右叙事清晰，留白充足。图中文字只用英文无衬线字体，每个标签只出现一次，拼写与给定完全一致。不要卡通风格、不要光滑的 CG 渲染、不要深色背景、不要图库照片感。
-```
-
-</details>
-
-Model: Nano Banana 2 Lite (gemini-3.1-flash-lite-image, 1K) · Generated 2 times in total; shown are the outputs that passed review
-
-[↑ Back to top](#top)
-
-<sub><a href="https://yila.ai/?utm_source=github&utm_medium=readme&utm_campaign=sci-figure-prompts&utm_content=microglia-neuroinflammation">Try in Yila →</a></sub>
-
----
-
-<a id="no-42"></a>
-
-### No. 42: Mitochondrial dysfunction
-
-by [@Yila-AI](https://github.com/Yila-AI)
-
-Technique: **healthy and damaged side by side** · Style: soft semi-realistic illustration · Aspect ratio: 16:9
-
-| English prompt | Chinese prompt |
-|---|---|
-| <img src="gallery/graphical-abstract/mitochondrial-dysfunction-en.jpg" width="420"> | <img src="gallery/graphical-abstract/mitochondrial-dysfunction-zh.jpg" width="420"> |
-
-**English prompt**
-
-```text
-Create a graphical abstract of 【mitochondrial dysfunction】: two mitochondria side by side.
-1. Left, healthy: 【neat folded cristae, steady ATP output shown as small yellow spheres】.
-2. Right, dysfunctional: 【swollen with broken cristae, few ATP spheres, red ROS particles leaking out, and mtDNA strands escaping into the cytosol】.
-A thin arrow points from left to right.
-Write each label only once in the whole figure.
-Labels, each used once, no other text: 【Healthy, Dysfunctional, ATP, ROS, mtDNA】.
-
-Style: journal graphical-abstract illustration. Soft semi-realistic medical illustration with gentle volume and subtle hand-painted texture, on a clean white background. Muted, harmonious palette with one accent color. Clear left-to-right narrative, generous white space. Sans-serif English labels only, each label appears exactly once, spelled exactly as given. No cartoon style, no glossy CGI, no dark background, no stock-photo look.
-```
-
-<details><summary>Chinese prompt</summary>
-
-```text
-画一张【线粒体功能障碍】的图文摘要：左右两个线粒体对照。
-1. 左，健康：【嵴折叠整齐，稳定产出 ATP，画成黄色小球】。
-2. 右，功能障碍：【肿胀、嵴断裂，ATP 小球很少，红色 ROS 颗粒外漏，mtDNA 链逸出到胞质】。
-中间一条细箭头从左指向右。
-整张图里每个标签只写一次。
-标签（每个只出现一次，不加其他文字）：【Healthy, Dysfunctional, ATP, ROS, mtDNA】。
-
-风格：期刊图形摘要插画。柔和的半写实医学插画，带轻微体积感和细腻的手绘质感，白色干净背景。配色低饱和、协调，只用一个强调色。从左到右叙事清晰，留白充足。图中文字只用英文无衬线字体，每个标签只出现一次，拼写与给定完全一致。不要卡通风格、不要光滑的 CG 渲染、不要深色背景、不要图库照片感。
-```
-
-</details>
-
-Model: Nano Banana 2 Lite (gemini-3.1-flash-lite-image, 1K) · Generated 2 times in total; shown are the outputs that passed review
-
-[↑ Back to top](#top)
-
-<sub><a href="https://yila.ai/?utm_source=github&utm_medium=readme&utm_campaign=sci-figure-prompts&utm_content=mitochondrial-dysfunction">Try in Yila →</a></sub>
-
----
-
-<a id="no-43"></a>
-
-### No. 43: mRNA vaccine immune response
-
-by [@Yila-AI](https://github.com/Yila-AI)
-
-Technique: **multi-scale magnified insets** · Style: soft semi-realistic illustration · Aspect ratio: 16:9
-
-| English prompt | Chinese prompt |
-|---|---|
-| <img src="gallery/graphical-abstract/mrna-vaccine-en.jpg" width="420"> | <img src="gallery/graphical-abstract/mrna-vaccine-zh.jpg" width="420"> |
-
-**English prompt**
-
-```text
-Create a graphical abstract about 【how an mRNA vaccine trains the immune system】, told from left to right in three stages.
-Left: 【a lipid nanoparticle carrying mRNA, injected into the upper-arm muscle】.
-Center: 【a muscle cell takes up the particle and makes the viral spike protein】. A circular magnified inset zooms in on 【ribosomes reading the mRNA and spike proteins appearing on the cell surface】.
-Right: 【B cells releasing Y-shaped antibodies and a T cell attacking an infected cell】.
-Labels, each used once, no other text: 【mRNA, Spike protein, Antibodies, T cell】.
-
-Style: journal graphical-abstract illustration. Soft semi-realistic medical illustration with gentle volume and subtle hand-painted texture, on a clean white background. Muted, harmonious palette with one accent color. Clear left-to-right narrative, generous white space. Sans-serif English labels only, each label appears exactly once, spelled exactly as given. No cartoon style, no glossy CGI, no dark background, no stock-photo look.
-```
-
-<details><summary>Chinese prompt</summary>
-
-```text
-画一张关于【mRNA 疫苗如何训练免疫系统】的图形摘要，从左到右分三段讲述。
-左：【携带 mRNA 的脂质纳米颗粒，注射进上臂肌肉】。
-中：【肌肉细胞摄取颗粒，制造病毒的刺突蛋白】。用一个圆形放大框放大【核糖体读取 mRNA，刺突蛋白出现在细胞表面】。
-右：【B 细胞释放 Y 形抗体，一个 T 细胞攻击被感染的细胞】。
-标签（每个只出现一次，不加其他文字）：【mRNA, Spike protein, Antibodies, T cell】。
-
-风格：期刊图形摘要插画。柔和的半写实医学插画，带轻微体积感和细腻的手绘质感，白色干净背景。配色低饱和、协调，只用一个强调色。从左到右叙事清晰，留白充足。图中文字只用英文无衬线字体，每个标签只出现一次，拼写与给定完全一致。不要卡通风格、不要光滑的 CG 渲染、不要深色背景、不要图库照片感。
-```
-
-</details>
-
-Model: Nano Banana 2 Lite (gemini-3.1-flash-lite-image, 1K) · Generated 2 times in total; shown are the outputs that passed review
-
-[↑ Back to top](#top)
-
-<sub><a href="https://yila.ai/?utm_source=github&utm_medium=readme&utm_campaign=sci-figure-prompts&utm_content=mrna-vaccine">Try in Yila →</a></sub>
-
----
-
-<a id="no-44"></a>
-
-### No. 44: Tumor-targeted nanoparticle drug delivery
-
-by [@Yila-AI](https://github.com/Yila-AI)
-
-Technique: **multi-scale magnified insets** · Style: soft semi-realistic illustration · Aspect ratio: 16:9
-
-| English prompt | Chinese prompt |
-|---|---|
-| <img src="gallery/graphical-abstract/nanoparticle-tumor-delivery-en.jpg" width="420"> | <img src="gallery/graphical-abstract/nanoparticle-tumor-delivery-zh.jpg" width="420"> |
-
-**English prompt**
-
-```text
-Create a graphical abstract about 【tumor-targeted nanoparticle drug delivery】, told from left to right in three stages.
-Left: 【one lipid nanoparticle with targeting ligands on its surface, a quarter cut away to show the drug inside】.
-Center: 【nanoparticles leave a leaky blood vessel and enter the tumor tissue】. A circular magnified inset zooms in on 【one tumor cell: the nanoparticle binds a surface receptor, is taken up by endocytosis and releases the drug inside the cell】.
-Right: 【a smaller tumor with dying tumor cells】.
-Labels, each used once, no other text: 【Nanoparticle, Leaky vessel, Drug release, Tumor regression】.
-
-Style: journal graphical-abstract illustration. Soft semi-realistic medical illustration with gentle volume and subtle hand-painted texture, on a clean white background. Muted, harmonious palette with one accent color. Clear left-to-right narrative, generous white space. Sans-serif English labels only, each label appears exactly once, spelled exactly as given. No cartoon style, no glossy CGI, no dark background, no stock-photo look.
-```
-
-<details><summary>Chinese prompt</summary>
-
-```text
-画一张关于【肿瘤靶向纳米颗粒药物递送】的图形摘要，从左到右分三段讲述。
-左：【一个表面带靶向配体的脂质纳米颗粒，切开四分之一，露出里面包裹的药物】。
-中：【纳米颗粒从有渗漏的血管中穿出，进入肿瘤组织】。用一个圆形放大框放大【一个肿瘤细胞：纳米颗粒结合细胞表面受体，经内吞进入细胞，在细胞内释放药物】。
-右：【体积缩小的肿瘤，肿瘤细胞正在死亡】。
-标签（每个只出现一次，不加其他文字）：【Nanoparticle, Leaky vessel, Drug release, Tumor regression】。
-
-风格：期刊图形摘要插画。柔和的半写实医学插画，带轻微体积感和细腻的手绘质感，白色干净背景。配色低饱和、协调，只用一个强调色。从左到右叙事清晰，留白充足。图中文字只用英文无衬线字体，每个标签只出现一次，拼写与给定完全一致。不要卡通风格、不要光滑的 CG 渲染、不要深色背景、不要图库照片感。
-```
-
-</details>
-
-Model: Nano Banana 2 Lite (gemini-3.1-flash-lite-image, 1K) · Generated 2 times in total; shown are the outputs that passed review
-
-[↑ Back to top](#top)
-
-<sub><a href="https://yila.ai/?utm_source=github&utm_medium=readme&utm_campaign=sci-figure-prompts&utm_content=nanoparticle-tumor-delivery">Try in Yila →</a></sub>
-
----
-
-<a id="no-45"></a>
-
-### No. 45: Oxidative stress and ROS damage
-
-by [@Yila-AI](https://github.com/Yila-AI)
-
-Technique: **source, damage and defense in three parts** · Style: soft semi-realistic illustration · Aspect ratio: 16:9
-
-| English prompt | Chinese prompt |
-|---|---|
-| <img src="gallery/graphical-abstract/oxidative-stress-en.jpg" width="420"> | <img src="gallery/graphical-abstract/oxidative-stress-zh.jpg" width="420"> |
-
-**English prompt**
-
-```text
-Create a graphical abstract of 【oxidative stress】, read from left to right. Draw each relationship exactly as listed and nothing more:
-1. 【A mitochondrion on the left releases small red ROS particles.】
-2. 【Three solid arrows lead from the ROS to three damaged targets on the right: a lipid membrane, a protein and a DNA strand.】
-3. 【Above the ROS, three antioxidants drawn as simple rounded capsules with their names inside block the ROS with red T-bars.】
-No chemical structures.
-Labels, each used once, no other text: 【Mitochondrion, ROS, Lipid damage, Protein damage, DNA damage, SOD, Catalase, GSH】.
-
-Style: journal graphical-abstract illustration. Soft semi-realistic medical illustration with gentle volume and subtle hand-painted texture, on a clean white background. Muted, harmonious palette with one accent color. Clear left-to-right narrative, generous white space. Sans-serif English labels only, each label appears exactly once, spelled exactly as given. No cartoon style, no glossy CGI, no dark background, no stock-photo look.
-```
-
-<details><summary>Chinese prompt</summary>
-
-```text
-画一张【氧化应激】的图文摘要，从左往右读。严格按下面列出的关系画，不多画：
-1. 【左侧一个线粒体释放红色的 ROS 小颗粒。】
-2. 【三条实线箭头从 ROS 指向右侧三个受损目标：脂质膜、蛋白质、DNA 链。】
-3. 【ROS 上方三种抗氧化物，画成名字写在里面的简单圆角胶囊，用红色 T 形线挡住 ROS。】
-不画化学结构式。
-标签（每个只出现一次，不加其他文字）：【Mitochondrion, ROS, Lipid damage, Protein damage, DNA damage, SOD, Catalase, GSH】。
-
-风格：期刊图形摘要插画。柔和的半写实医学插画，带轻微体积感和细腻的手绘质感，白色干净背景。配色低饱和、协调，只用一个强调色。从左到右叙事清晰，留白充足。图中文字只用英文无衬线字体，每个标签只出现一次，拼写与给定完全一致。不要卡通风格、不要光滑的 CG 渲染、不要深色背景、不要图库照片感。
-```
-
-</details>
-
-Model: Nano Banana 2 Lite (gemini-3.1-flash-lite-image, 1K) · Generated 4 times in total; shown are the outputs that passed review
-
-[↑ Back to top](#top)
-
-<sub><a href="https://yila.ai/?utm_source=github&utm_medium=readme&utm_campaign=sci-figure-prompts&utm_content=oxidative-stress">Try in Yila →</a></sub>
-
----
-
-<a id="no-46"></a>
-
-### No. 46: Cellular senescence and SASP
-
-by [@Yila-AI](https://github.com/Yila-AI)
-
-Technique: **triggers, senescent cell, effects on neighbors** · Style: soft semi-realistic illustration · Aspect ratio: 16:9
-
-| Chinese prompt |
-|---|
-| <img src="gallery/graphical-abstract/senescence-sasp-zh.jpg" width="420"> |
-
-**English prompt**
-
-```text
-Create a graphical abstract of 【cellular senescence】, read from left to right:
-1. Left: 【two triggers as small icons: a broken DNA strand and shortened chromosome ends】.
-2. Middle: 【an enlarged, flattened senescent cell with p16 and p21 marks in its nucleus】.
-3. Right: 【the cell releasing small colored particles (the SASP) toward neighboring cells, which turn inflamed】.
-Write each label only once in the whole figure.
-Labels, each used once, no other text: 【DNA damage, Telomere shortening, Senescent cell, p16, p21, SASP, Inflammation】.
-
-Style: journal graphical-abstract illustration. Soft semi-realistic medical illustration with gentle volume and subtle hand-painted texture, on a clean white background. Muted, harmonious palette with one accent color. Clear left-to-right narrative, generous white space. Sans-serif English labels only, each label appears exactly once, spelled exactly as given. No cartoon style, no glossy CGI, no dark background, no stock-photo look.
-```
-
-<details><summary>Chinese prompt</summary>
-
-```text
-画一张【细胞衰老】的图文摘要，从左往右读：
-1. 左：【两个诱因小图标：断裂的 DNA 链和变短的染色体末端】。
-2. 中：【一个变大变扁的衰老细胞，细胞核里标有 p16 和 p21】。
-3. 右：【细胞向邻近细胞释放彩色小颗粒（SASP），邻近细胞出现炎症】。
-整张图里每个标签只写一次。
-标签（每个只出现一次，不加其他文字）：【DNA damage, Telomere shortening, Senescent cell, p16, p21, SASP, Inflammation】。
-
-风格：期刊图形摘要插画。柔和的半写实医学插画，带轻微体积感和细腻的手绘质感，白色干净背景。配色低饱和、协调，只用一个强调色。从左到右叙事清晰，留白充足。图中文字只用英文无衬线字体，每个标签只出现一次，拼写与给定完全一致。不要卡通风格、不要光滑的 CG 渲染、不要深色背景、不要图库照片感。
-```
-
-</details>
-
-Model: Nano Banana 2 Lite (gemini-3.1-flash-lite-image, 1K) · Generated 4 times in total; shown are the outputs that passed review
-
-[↑ Back to top](#top)
-
-<sub><a href="https://yila.ai/?utm_source=github&utm_medium=readme&utm_campaign=sci-figure-prompts&utm_content=senescence-sasp">Try in Yila →</a></sub>
-
----
-
-<a id="no-47"></a>
-
-### No. 47: Stem cell differentiation and tissue repair
-
-by [@Yila-AI](https://github.com/Yila-AI)
-
-Technique: **two repair routes: differentiation and paracrine signals** · Style: soft semi-realistic illustration · Aspect ratio: 16:9
-
-| English prompt |
-|---|
-| <img src="gallery/graphical-abstract/stem-cell-tissue-repair-en.jpg" width="420"> |
-
-> The Chinese-prompt output did not pass review, so it is not shown.
-
-**English prompt**
-
-```text
-Create a graphical abstract of 【mesenchymal stem cells in tissue repair】, read from left to right:
-1. Left: 【a mesenchymal stem cell with a circular arrow beside it for self-renewal】.
-2. Upper path: 【the stem cell differentiates into three cell types: an osteoblast, a chondrocyte and an adipocyte with a large fat droplet】.
-3. Lower path: 【the stem cell releases paracrine factors as small colored dots and vesicles】.
-4. Right: 【both paths lead to an injured tissue with a gap that closes into repaired tissue】.
-Write each label only once in the whole figure.
-Labels, each used once, no other text: 【Mesenchymal stem cell, Self-renewal, Osteoblast, Chondrocyte, Adipocyte, Paracrine factors, Injured tissue, Tissue repair】.
-
-Style: journal graphical-abstract illustration. Soft semi-realistic medical illustration with gentle volume and subtle hand-painted texture, on a clean white background. Muted, harmonious palette with one accent color. Clear left-to-right narrative, generous white space. Sans-serif English labels only, each label appears exactly once, spelled exactly as given. No cartoon style, no glossy CGI, no dark background, no stock-photo look.
-```
-
-<details><summary>Chinese prompt</summary>
-
-```text
-画一张【间充质干细胞参与组织修复】的图文摘要，从左往右读：
-1. 左：【一个间充质干细胞，旁边一个环形箭头表示自我更新】。
-2. 上方路径：【干细胞分化为三种细胞：成骨细胞、软骨细胞和带大脂滴的脂肪细胞】。
-3. 下方路径：【干细胞释放旁分泌因子，画成彩色小点和小囊泡】。
-4. 右：【两条路径都指向一处有缺口的受损组织，缺口愈合为修复后的组织】。
-整张图里每个标签只写一次。
-标签（每个只出现一次，不加其他文字）：【Mesenchymal stem cell, Self-renewal, Osteoblast, Chondrocyte, Adipocyte, Paracrine factors, Injured tissue, Tissue repair】。
-
-风格：期刊图形摘要插画。柔和的半写实医学插画，带轻微体积感和细腻的手绘质感，白色干净背景。配色低饱和、协调，只用一个强调色。从左到右叙事清晰，留白充足。图中文字只用英文无衬线字体，每个标签只出现一次，拼写与给定完全一致。不要卡通风格、不要光滑的 CG 渲染、不要深色背景、不要图库照片感。
-```
-
-</details>
-
-Model: Nano Banana 2 Lite (gemini-3.1-flash-lite-image, 1K) · Generated 2 times in total; shown are the outputs that passed review
-
-[↑ Back to top](#top)
-
-<sub><a href="https://yila.ai/?utm_source=github&utm_medium=readme&utm_campaign=sci-figure-prompts&utm_content=stem-cell-tissue-repair">Try in Yila →</a></sub>
-
----
-
-<a id="no-48"></a>
-
-### No. 48: T cell activation and the immune synapse
-
-by [@Yila-AI](https://github.com/Yila-AI)
-
-Technique: **contact zone close-up plus the activation outcome** · Style: soft semi-realistic illustration · Aspect ratio: 16:9
-
-| Chinese prompt |
-|---|
-| <img src="gallery/graphical-abstract/t-cell-immune-synapse-zh.jpg" width="420"> |
-
-**English prompt**
-
-```text
-Create a graphical abstract of 【T cell activation】, read from left to right:
-1. Left: 【an antigen-presenting cell (APC) with branching arms touching a round T cell】.
-2. Middle: a magnified view of the contact zone, the immune synapse, shown as a bullseye ring: 【MHC carrying a small peptide binds the TCR in the center; CD80/86 binds CD28 nearby as the second signal】.
-3. Right: 【the T cell releasing IL-2 as small dots and dividing into a small group of identical T cells】.
-Write each label only once in the whole figure.
-Labels, each used once, no other text: 【APC, T cell, Immune synapse, MHC–peptide, TCR, CD80/86, CD28, IL-2】.
-
-Style: journal graphical-abstract illustration. Soft semi-realistic medical illustration with gentle volume and subtle hand-painted texture, on a clean white background. Muted, harmonious palette with one accent color. Clear left-to-right narrative, generous white space. Sans-serif English labels only, each label appears exactly once, spelled exactly as given. No cartoon style, no glossy CGI, no dark background, no stock-photo look.
-```
-
-<details><summary>Chinese prompt</summary>
-
-```text
-画一张【T 细胞活化】的图文摘要，从左往右读：
-1. 左：【一个带分支突起的抗原提呈细胞（APC）贴着一个圆形 T 细胞】。
-2. 中：接触区的放大图，即免疫突触，画成靶心样的环：【中央是携带小肽段的 MHC 结合 TCR；旁边 CD80/86 结合 CD28，作为第二信号】。
-3. 右：【T 细胞释放 IL-2 小点，并分裂成一小群相同的 T 细胞】。
-整张图里每个标签只写一次。
-标签（每个只出现一次，不加其他文字）：【APC, T cell, Immune synapse, MHC–peptide, TCR, CD80/86, CD28, IL-2】。
-
-风格：期刊图形摘要插画。柔和的半写实医学插画，带轻微体积感和细腻的手绘质感，白色干净背景。配色低饱和、协调，只用一个强调色。从左到右叙事清晰，留白充足。图中文字只用英文无衬线字体，每个标签只出现一次，拼写与给定完全一致。不要卡通风格、不要光滑的 CG 渲染、不要深色背景、不要图库照片感。
-```
-
-</details>
-
-Model: Nano Banana 2 Lite (gemini-3.1-flash-lite-image, 1K) · Generated 2 times in total; shown are the outputs that passed review
-
-[↑ Back to top](#top)
-
-<sub><a href="https://yila.ai/?utm_source=github&utm_medium=readme&utm_campaign=sci-figure-prompts&utm_content=t-cell-immune-synapse">Try in Yila →</a></sub>
-
----
-
-<a id="no-49"></a>
-
-### No. 49: Tumor microenvironment
-
-by [@Yila-AI](https://github.com/Yila-AI)
-
-Technique: **tumor in the center, surrounding cells around it** · Style: scientific illustration · Aspect ratio: 4:3
-
-| English prompt | Chinese prompt |
-|---|---|
-| <img src="gallery/graphical-abstract/tumor-microenvironment-en.jpg" width="420"> | <img src="gallery/graphical-abstract/tumor-microenvironment-zh.jpg" width="420"> |
-
-**English prompt**
-
-```text
-Create a scientific illustration of 【the tumor microenvironment】: a cluster of tumor cells in the center, and around it exactly one of each of the following, each drawn once and labeled once: 【a spindle-shaped cancer-associated fibroblast, a tumor-associated macrophage, a regulatory T cell, a CD8+ T cell held back at the edge, a blood vessel, and a mesh of extracellular matrix fibers】. No arrows.
-Labels, each used once, no other text: 【Tumor cells, CAF, TAM, Treg, CD8+ T cell, Blood vessel, ECM】.
-
-Style: journal-style scientific illustration. Clean semi-realistic vector illustration with gentle shading, using cross-sections or cutaways where they explain the structure, on a white background. Muted, harmonious palette with one accent color for the key process. Thin directional arrows for flows. Generous white space and a clear reading direction. Sans-serif English labels only, each label appears exactly once, spelled exactly as given. No cartoon style, no glossy CGI, no dark background, no stock-photo look, no decorative background.
-```
-
-<details><summary>Chinese prompt</summary>
-
-```text
-画一张【肿瘤微环境】的科学插画：中央是一团肿瘤细胞，周围下面每种只画一个、只标一次：【一个梭形的癌相关成纤维细胞、一个肿瘤相关巨噬细胞、一个调节性 T 细胞、一个被挡在边缘的 CD8+ T 细胞、一条血管、一片细胞外基质纤维网】。不画箭头。
-标签（每个只出现一次，不加其他文字）：【Tumor cells, CAF, TAM, Treg, CD8+ T cell, Blood vessel, ECM】。
-
-风格：期刊式科学插画。干净的半写实矢量插画，带柔和的明暗；需要说明结构时使用剖面或剖切视图，白色背景。配色低饱和、协调，只用一个强调色突出关键过程。用细的方向箭头表示流动。留白充足，阅读方向清晰。图中文字只用英文无衬线字体，每个标签只出现一次，拼写与给定完全一致。不要卡通风格、不要光滑的 CG 渲染、不要深色背景、不要图库照片感、不要装饰性背景。
-```
-
-</details>
-
-Model: Nano Banana 2 Lite (gemini-3.1-flash-lite-image, 1K) · Generated 4 times in total; shown are the outputs that passed review
-
-[↑ Back to top](#top)
-
-<sub><a href="https://yila.ai/?utm_source=github&utm_medium=readme&utm_campaign=sci-figure-prompts&utm_content=tumor-microenvironment">Try in Yila →</a></sub>
-
----
-
-<a id="no-50"></a>
-
-### No. 50: Viral entry and replication cycle
-
-by [@Yila-AI](https://github.com/Yila-AI)
-
-Technique: **seven stages around one cell** · Style: soft semi-realistic illustration · Aspect ratio: 1:1
-
-| English prompt | Chinese prompt |
-|---|---|
-| <img src="gallery/graphical-abstract/viral-replication-cycle-en.jpg" width="420"> | <img src="gallery/graphical-abstract/viral-replication-cycle-zh.jpg" width="420"> |
-
-**English prompt**
-
-```text
-Create a graphical abstract of 【the replication cycle of a coronavirus】 as a clockwise cycle around one large host cell, each stage a small scene:
-1. 【Attachment: the virus spike binds ACE2 on the cell membrane.】
-2. 【Entry: the virus is taken into the cell.】
-3. 【Uncoating: the viral RNA is released into the cytoplasm.】
-4. 【Translation: ribosomes make viral proteins from the RNA.】
-5. 【Replication: the viral RNA is copied in small membrane vesicles.】
-6. 【Assembly: new virus particles form from RNA and proteins.】
-7. 【Release: new particles leave the cell by exocytosis.】
-Label each component only where it first appears; repeated copies keep the same shape and color without text.
-Write each label only once in the whole figure.
-If a component appears in more than one place or panel, write its label only at its first appearance; every other copy has no text. No label may appear twice anywhere in the figure. Spell every label exactly as given and add no titles.
-Labels, each used once, no other text: 【ACE2, Attachment, Entry, Uncoating, Translation, Replication, Assembly, Release】.
-
-Style: journal graphical-abstract illustration. Soft semi-realistic medical illustration with gentle volume and subtle hand-painted texture, on a clean white background. Muted, harmonious palette with one accent color. Clear left-to-right narrative, generous white space. Sans-serif English labels only, each label appears exactly once, spelled exactly as given. No cartoon style, no glossy CGI, no dark background, no stock-photo look.
-```
-
-<details><summary>Chinese prompt</summary>
-
-```text
-画一张【冠状病毒复制周期】的图文摘要，围绕一个大宿主细胞画成顺时针循环，每个阶段一个小场景：
-1. 【吸附：病毒刺突结合细胞膜上的 ACE2。】
-2. 【进入：病毒被带入细胞。】
-3. 【脱壳：病毒 RNA 释放到胞质。】
-4. 【翻译：核糖体以 RNA 为模板合成病毒蛋白。】
-5. 【复制：病毒 RNA 在小膜泡里被复制。】
-6. 【组装：RNA 和蛋白组装成新的病毒颗粒。】
-7. 【释放：新颗粒经胞吐离开细胞。】
-每个组件只在第一次出现的地方标注；重复出现的副本保持同样的形状和颜色，不加文字。
-整张图里每个标签只写一次。
-如果同一组件在多处或多个面板出现，只在第一次出现时写标签，其余副本不写字。整张图里任何标签都不能出现两次。每个标签拼写与给定完全一致，不加标题。
-标签（每个只出现一次，不加其他文字）：【ACE2, Attachment, Entry, Uncoating, Translation, Replication, Assembly, Release】。
-
-风格：期刊图形摘要插画。柔和的半写实医学插画，带轻微体积感和细腻的手绘质感，白色干净背景。配色低饱和、协调，只用一个强调色。从左到右叙事清晰，留白充足。图中文字只用英文无衬线字体，每个标签只出现一次，拼写与给定完全一致。不要卡通风格、不要光滑的 CG 渲染、不要深色背景、不要图库照片感。
-```
-
-</details>
-
-Model: Nano Banana 2 Lite (gemini-3.1-flash-lite-image, 1K) · Generated 6 times in total; shown are the outputs that passed review
-
-[↑ Back to top](#top)
-
-<sub><a href="https://yila.ai/?utm_source=github&utm_medium=readme&utm_campaign=sci-figure-prompts&utm_content=viral-replication-cycle">Try in Yila →</a></sub>
+**[👉 Try it now in YILA →](https://yila.ai/scientific-figure-prompts/gut-brain-axis?utm_source=github&utm_medium=readme&utm_campaign=sci-figure-prompts&utm_content=gut-brain-axis)** · [↑ Back to top](#top)
 
 ---
 
 <a id="signaling-pathway"></a>
 
-## Signaling Pathway
+### 🧬 Signaling Pathway
 
 <a id="no-51"></a>
 
-### No. 51: AMPK energy sensing
+#### No. 51: AMPK energy sensing
 
-by [@Yila-AI](https://github.com/Yila-AI)
+![Model](https://img.shields.io/badge/Model-GPT%20Image%202.6-10a37f) ![Category](https://img.shields.io/badge/Signaling%20Pathway-blue)
 
-Technique: **activated and inhibited targets in two columns** · Style: flat vector schematic · Aspect ratio: 16:9
+##### 📖 Description
 
-| Chinese prompt |
-|---|
-| <img src="gallery/signaling-pathway/ampk-energy-sensing-zh.jpg" width="420"> |
+Technique: **activated and inhibited targets in two columns** · Style: flat vector schematic · Aspect Ratio: `16:9`
 
-**English prompt**
+##### 📝 Prompt
 
 ```text
 Create a signaling schematic of 【AMPK energy sensing】 in one cell, read from left to right.
@@ -2581,27 +1311,34 @@ Style: journal-style scientific schematic. Clean flat vector illustration on a w
 
 </details>
 
-Model: Nano Banana 2 Lite (gemini-3.1-flash-lite-image, 1K) · Generated 8 times in total; shown are the outputs that passed review
+##### 🖼️ Generated Image
 
-[↑ Back to top](#top)
+<div align="center">
+<a href="https://yila.ai/scientific-figure-prompts/ampk-energy-sensing?utm_source=github&utm_medium=readme&utm_campaign=sci-figure-prompts&utm_content=ampk-energy-sensing"><img src="gallery/signaling-pathway/ampk-energy-sensing-zh.jpg" width="600" alt="AMPK energy sensing"></a>
+</div>
 
-<sub><a href="https://yila.ai/?utm_source=github&utm_medium=readme&utm_campaign=sci-figure-prompts&utm_content=ampk-energy-sensing">Try in Yila →</a></sub>
+##### 📌 Details
+
+- **Author:** [@Yila-AI](https://github.com/Yila-AI)
+- **Model:** GPT Image 2.6
+- **Aspect Ratio:** 16:9
+- **Languages:** en, zh
+
+**[👉 Try it now in YILA →](https://yila.ai/scientific-figure-prompts/ampk-energy-sensing?utm_source=github&utm_medium=readme&utm_campaign=sci-figure-prompts&utm_content=ampk-energy-sensing)** · [↑ Back to top](#top)
 
 ---
 
 <a id="no-52"></a>
 
-### No. 52: Autophagy
+#### No. 52: Autophagy
 
-by [@Yila-AI](https://github.com/Yila-AI)
+![Model](https://img.shields.io/badge/Model-GPT%20Image%202.6-10a37f) ![Category](https://img.shields.io/badge/Signaling%20Pathway-blue)
 
-Technique: **regulation on top, vesicle stages below** · Style: flat vector schematic · Aspect ratio: 16:9
+##### 📖 Description
 
-| English prompt | Chinese prompt |
-|---|---|
-| <img src="gallery/signaling-pathway/autophagy-en.jpg" width="420"> | <img src="gallery/signaling-pathway/autophagy-zh.jpg" width="420"> |
+Technique: **regulation on top, vesicle stages below** · Style: flat vector schematic · Aspect Ratio: `16:9`
 
-**English prompt**
+##### 📝 Prompt
 
 ```text
 Create a schematic of 【autophagy】 in one cell. Top row: regulation. Bottom row: the vesicle stages from left to right. Draw each relationship exactly as listed and nothing more:
@@ -2631,27 +1368,34 @@ Style: journal-style scientific schematic. Clean flat vector illustration on a w
 
 </details>
 
-Model: Nano Banana 2 Lite (gemini-3.1-flash-lite-image, 1K) · Generated 2 times in total; shown are the outputs that passed review
+##### 🖼️ Generated Image
 
-[↑ Back to top](#top)
+<div align="center">
+<a href="https://yila.ai/scientific-figure-prompts/autophagy?utm_source=github&utm_medium=readme&utm_campaign=sci-figure-prompts&utm_content=autophagy"><img src="gallery/signaling-pathway/autophagy-en.jpg" width="600" alt="Autophagy"></a>
+</div>
 
-<sub><a href="https://yila.ai/?utm_source=github&utm_medium=readme&utm_campaign=sci-figure-prompts&utm_content=autophagy">Try in Yila →</a></sub>
+##### 📌 Details
+
+- **Author:** [@Yila-AI](https://github.com/Yila-AI)
+- **Model:** GPT Image 2.6
+- **Aspect Ratio:** 16:9
+- **Languages:** en, zh
+
+**[👉 Try it now in YILA →](https://yila.ai/scientific-figure-prompts/autophagy?utm_source=github&utm_medium=readme&utm_campaign=sci-figure-prompts&utm_content=autophagy)** · [↑ Back to top](#top)
 
 ---
 
 <a id="no-53"></a>
 
-### No. 53: cGAS–STING innate immune pathway
+#### No. 53: cGAS–STING innate immune pathway
 
-by [@Yila-AI](https://github.com/Yila-AI)
+![Model](https://img.shields.io/badge/Model-GPT%20Image%202.6-10a37f) ![Category](https://img.shields.io/badge/Signaling%20Pathway-blue) ![Featured](https://img.shields.io/badge/%E2%AD%90-Featured-gold)
 
-Technique: **numbered relationships + membrane–cytosol–nucleus layout** · Style: flat vector schematic · Aspect ratio: 4:3
+##### 📖 Description
 
-| English prompt | Chinese prompt |
-|---|---|
-| <img src="gallery/signaling-pathway/cgas-sting-en.jpg" width="420"> | <img src="gallery/signaling-pathway/cgas-sting-zh.jpg" width="420"> |
+Technique: **numbered relationships + membrane–cytosol–nucleus layout** · Style: flat vector schematic · Aspect Ratio: `4:3`
 
-**English prompt**
+##### 📝 Prompt
 
 ```text
 Create a signaling pathway schematic of 【cGAS–STING DNA sensing】 inside one cell, read from top to bottom. Draw each relationship exactly as listed and nothing more:
@@ -2685,27 +1429,34 @@ Style: journal-style scientific schematic. Clean flat vector illustration on a w
 
 </details>
 
-Model: Nano Banana 2 Lite (gemini-3.1-flash-lite-image, 1K) · Generated 2 times in total; shown are the outputs that passed review
+##### 🖼️ Generated Image
 
-[↑ Back to top](#top)
+<div align="center">
+<a href="https://yila.ai/scientific-figure-prompts/cgas-sting?utm_source=github&utm_medium=readme&utm_campaign=sci-figure-prompts&utm_content=cgas-sting"><img src="gallery/signaling-pathway/cgas-sting-en.jpg" width="600" alt="cGAS–STING innate immune pathway"></a>
+</div>
 
-<sub><a href="https://yila.ai/?utm_source=github&utm_medium=readme&utm_campaign=sci-figure-prompts&utm_content=cgas-sting">Try in Yila →</a></sub>
+##### 📌 Details
+
+- **Author:** [@Yila-AI](https://github.com/Yila-AI)
+- **Model:** GPT Image 2.6
+- **Aspect Ratio:** 4:3
+- **Languages:** en, zh
+
+**[👉 Try it now in YILA →](https://yila.ai/scientific-figure-prompts/cgas-sting?utm_source=github&utm_medium=readme&utm_campaign=sci-figure-prompts&utm_content=cgas-sting)** · [↑ Back to top](#top)
 
 ---
 
 <a id="no-54"></a>
 
-### No. 54: Extrinsic (death receptor) apoptosis
+#### No. 54: Extrinsic (death receptor) apoptosis
 
-by [@Yila-AI](https://github.com/Yila-AI)
+![Model](https://img.shields.io/badge/Model-GPT%20Image%202.6-10a37f) ![Category](https://img.shields.io/badge/Signaling%20Pathway-blue)
 
-Technique: **death receptor to executioner caspase** · Style: flat vector schematic · Aspect ratio: 4:3
+##### 📖 Description
 
-| English prompt | Chinese prompt |
-|---|---|
-| <img src="gallery/signaling-pathway/extrinsic-apoptosis-en.jpg" width="420"> | <img src="gallery/signaling-pathway/extrinsic-apoptosis-zh.jpg" width="420"> |
+Technique: **death receptor to executioner caspase** · Style: flat vector schematic · Aspect Ratio: `4:3`
 
-**English prompt**
+##### 📝 Prompt
 
 ```text
 Create a signaling pathway schematic of 【extrinsic apoptosis】 inside one cell, death receptor in the membrane at the top, read from top to bottom. Draw each relationship exactly as listed and nothing more:
@@ -2739,27 +1490,34 @@ Style: journal-style scientific schematic. Clean flat vector illustration on a w
 
 </details>
 
-Model: Nano Banana 2 Lite (gemini-3.1-flash-lite-image, 1K) · Generated 4 times in total; shown are the outputs that passed review
+##### 🖼️ Generated Image
 
-[↑ Back to top](#top)
+<div align="center">
+<a href="https://yila.ai/scientific-figure-prompts/extrinsic-apoptosis?utm_source=github&utm_medium=readme&utm_campaign=sci-figure-prompts&utm_content=extrinsic-apoptosis"><img src="gallery/signaling-pathway/extrinsic-apoptosis-en.jpg" width="600" alt="Extrinsic (death receptor) apoptosis"></a>
+</div>
 
-<sub><a href="https://yila.ai/?utm_source=github&utm_medium=readme&utm_campaign=sci-figure-prompts&utm_content=extrinsic-apoptosis">Try in Yila →</a></sub>
+##### 📌 Details
+
+- **Author:** [@Yila-AI](https://github.com/Yila-AI)
+- **Model:** GPT Image 2.6
+- **Aspect Ratio:** 4:3
+- **Languages:** en, zh
+
+**[👉 Try it now in YILA →](https://yila.ai/scientific-figure-prompts/extrinsic-apoptosis?utm_source=github&utm_medium=readme&utm_campaign=sci-figure-prompts&utm_content=extrinsic-apoptosis)** · [↑ Back to top](#top)
 
 ---
 
 <a id="no-55"></a>
 
-### No. 55: Ferroptosis
+#### No. 55: Ferroptosis
 
-by [@Yila-AI](https://github.com/Yila-AI)
+![Model](https://img.shields.io/badge/Model-GPT%20Image%202.6-10a37f) ![Category](https://img.shields.io/badge/Signaling%20Pathway-blue)
 
-Technique: **membrane and cytosol, GPX4 axis versus iron axis** · Style: flat vector schematic · Aspect ratio: 4:3
+##### 📖 Description
 
-| English prompt | Chinese prompt |
-|---|---|
-| <img src="gallery/signaling-pathway/ferroptosis-en.jpg" width="420"> | <img src="gallery/signaling-pathway/ferroptosis-zh.jpg" width="420"> |
+Technique: **membrane and cytosol, GPX4 axis versus iron axis** · Style: flat vector schematic · Aspect Ratio: `4:3`
 
-**English prompt**
+##### 📝 Prompt
 
 ```text
 Create a signaling pathway schematic of 【ferroptosis】 in one cell, plasma membrane across the top, read from top to bottom. Draw each relationship exactly as listed and nothing more:
@@ -2793,27 +1551,34 @@ Style: journal-style scientific schematic. Clean flat vector illustration on a w
 
 </details>
 
-Model: Nano Banana 2 Lite (gemini-3.1-flash-lite-image, 1K) · Generated 3 times in total; shown are the outputs that passed review
+##### 🖼️ Generated Image
 
-[↑ Back to top](#top)
+<div align="center">
+<a href="https://yila.ai/scientific-figure-prompts/ferroptosis?utm_source=github&utm_medium=readme&utm_campaign=sci-figure-prompts&utm_content=ferroptosis"><img src="gallery/signaling-pathway/ferroptosis-en.jpg" width="600" alt="Ferroptosis"></a>
+</div>
 
-<sub><a href="https://yila.ai/?utm_source=github&utm_medium=readme&utm_campaign=sci-figure-prompts&utm_content=ferroptosis">Try in Yila →</a></sub>
+##### 📌 Details
+
+- **Author:** [@Yila-AI](https://github.com/Yila-AI)
+- **Model:** GPT Image 2.6
+- **Aspect Ratio:** 4:3
+- **Languages:** en, zh
+
+**[👉 Try it now in YILA →](https://yila.ai/scientific-figure-prompts/ferroptosis?utm_source=github&utm_medium=readme&utm_campaign=sci-figure-prompts&utm_content=ferroptosis)** · [↑ Back to top](#top)
 
 ---
 
 <a id="no-56"></a>
 
-### No. 56: HIF-1α response: normoxia versus hypoxia
+#### No. 56: HIF-1α response: normoxia versus hypoxia
 
-by [@Yila-AI](https://github.com/Yila-AI)
+![Model](https://img.shields.io/badge/Model-GPT%20Image%202.6-10a37f) ![Category](https://img.shields.io/badge/Signaling%20Pathway-blue)
 
-Technique: **two cells side by side** · Style: flat vector schematic · Aspect ratio: 16:9
+##### 📖 Description
 
-| English prompt | Chinese prompt |
-|---|---|
-| <img src="gallery/signaling-pathway/hif1a-hypoxia-en.jpg" width="420"> | <img src="gallery/signaling-pathway/hif1a-hypoxia-zh.jpg" width="420"> |
+Technique: **two cells side by side** · Style: flat vector schematic · Aspect Ratio: `16:9`
 
-**English prompt**
+##### 📝 Prompt
 
 ```text
 Create a side-by-side schematic of 【HIF-1α regulation】: two cells, left panel normoxia and right panel hypoxia. Draw each relationship exactly as listed and nothing more:
@@ -2843,27 +1608,34 @@ Style: journal-style scientific schematic. Clean flat vector illustration on a w
 
 </details>
 
-Model: Nano Banana 2 Lite (gemini-3.1-flash-lite-image, 1K) · Generated 6 times in total; shown are the outputs that passed review
+##### 🖼️ Generated Image
 
-[↑ Back to top](#top)
+<div align="center">
+<a href="https://yila.ai/scientific-figure-prompts/hif1a-hypoxia?utm_source=github&utm_medium=readme&utm_campaign=sci-figure-prompts&utm_content=hif1a-hypoxia"><img src="gallery/signaling-pathway/hif1a-hypoxia-en.jpg" width="600" alt="HIF-1α response: normoxia versus hypoxia"></a>
+</div>
 
-<sub><a href="https://yila.ai/?utm_source=github&utm_medium=readme&utm_campaign=sci-figure-prompts&utm_content=hif1a-hypoxia">Try in Yila →</a></sub>
+##### 📌 Details
+
+- **Author:** [@Yila-AI](https://github.com/Yila-AI)
+- **Model:** GPT Image 2.6
+- **Aspect Ratio:** 16:9
+- **Languages:** en, zh
+
+**[👉 Try it now in YILA →](https://yila.ai/scientific-figure-prompts/hif1a-hypoxia?utm_source=github&utm_medium=readme&utm_campaign=sci-figure-prompts&utm_content=hif1a-hypoxia)** · [↑ Back to top](#top)
 
 ---
 
 <a id="no-57"></a>
 
-### No. 57: Hippo/YAP signaling pathway
+#### No. 57: Hippo/YAP signaling pathway
 
-by [@Yila-AI](https://github.com/Yila-AI)
+![Model](https://img.shields.io/badge/Model-GPT%20Image%202.6-10a37f) ![Category](https://img.shields.io/badge/Signaling%20Pathway-blue)
 
-Technique: **kinase cascade keeping YAP in the cytoplasm** · Style: flat vector schematic · Aspect ratio: 4:3
+##### 📖 Description
 
-| Chinese prompt |
-|---|
-| <img src="gallery/signaling-pathway/hippo-yap-zh.jpg" width="420"> |
+Technique: **kinase cascade keeping YAP in the cytoplasm** · Style: flat vector schematic · Aspect Ratio: `4:3`
 
-**English prompt**
+##### 📝 Prompt
 
 ```text
 Create a signaling pathway schematic of 【Hippo/YAP signaling】 in one epithelial cell touching its neighbors on both sides, read from top to bottom. Draw each relationship exactly as listed and nothing more:
@@ -2899,29 +1671,34 @@ YAP/TAZ 只画一次，画在胞质里；虚线箭头表示通路关闭时它的
 
 </details>
 
-Model: Nano Banana 2 Lite (gemini-3.1-flash-lite-image, 1K) · Generated 2 times in total; shown are the outputs that passed review
+##### 🖼️ Generated Image
 
-[↑ Back to top](#top)
+<div align="center">
+<a href="https://yila.ai/scientific-figure-prompts/hippo-yap?utm_source=github&utm_medium=readme&utm_campaign=sci-figure-prompts&utm_content=hippo-yap"><img src="gallery/signaling-pathway/hippo-yap-zh.jpg" width="600" alt="Hippo/YAP signaling pathway"></a>
+</div>
 
-<sub><a href="https://yila.ai/?utm_source=github&utm_medium=readme&utm_campaign=sci-figure-prompts&utm_content=hippo-yap">Try in Yila →</a></sub>
+##### 📌 Details
+
+- **Author:** [@Yila-AI](https://github.com/Yila-AI)
+- **Model:** GPT Image 2.6
+- **Aspect Ratio:** 4:3
+- **Languages:** en, zh
+
+**[👉 Try it now in YILA →](https://yila.ai/scientific-figure-prompts/hippo-yap?utm_source=github&utm_medium=readme&utm_campaign=sci-figure-prompts&utm_content=hippo-yap)** · [↑ Back to top](#top)
 
 ---
 
 <a id="no-58"></a>
 
-### No. 58: Insulin signaling and GLUT4 translocation
+#### No. 58: Insulin signaling and GLUT4 translocation
 
-by [@Yila-AI](https://github.com/Yila-AI)
+![Model](https://img.shields.io/badge/Model-GPT%20Image%202.6-10a37f) ![Category](https://img.shields.io/badge/Signaling%20Pathway-blue)
 
-Technique: **receptor cascade plus vesicle translocation** · Style: flat vector schematic · Aspect ratio: 4:3
+##### 📖 Description
 
-| English prompt |
-|---|
-| <img src="gallery/signaling-pathway/insulin-signaling-en.jpg" width="420"> |
+Technique: **receptor cascade plus vesicle translocation** · Style: flat vector schematic · Aspect Ratio: `4:3`
 
-> The Chinese-prompt output did not pass review, so it is not shown.
-
-**English prompt**
+##### 📝 Prompt
 
 ```text
 Create a signaling pathway schematic of 【insulin signaling in a muscle cell】, read from top to bottom. Draw each relationship exactly as listed and nothing more:
@@ -2955,789 +1732,38 @@ Style: journal-style scientific schematic. Clean flat vector illustration on a w
 
 </details>
 
-Model: Nano Banana 2 Lite (gemini-3.1-flash-lite-image, 1K) · Generated 6 times in total; shown are the outputs that passed review
+##### 🖼️ Generated Image
 
-[↑ Back to top](#top)
+<div align="center">
+<a href="https://yila.ai/scientific-figure-prompts/insulin-signaling?utm_source=github&utm_medium=readme&utm_campaign=sci-figure-prompts&utm_content=insulin-signaling"><img src="gallery/signaling-pathway/insulin-signaling-en.jpg" width="600" alt="Insulin signaling and GLUT4 translocation"></a>
+</div>
 
-<sub><a href="https://yila.ai/?utm_source=github&utm_medium=readme&utm_campaign=sci-figure-prompts&utm_content=insulin-signaling">Try in Yila →</a></sub>
+##### 📌 Details
 
----
+- **Author:** [@Yila-AI](https://github.com/Yila-AI)
+- **Model:** GPT Image 2.6
+- **Aspect Ratio:** 4:3
+- **Languages:** en, zh
 
-<a id="no-59"></a>
-
-### No. 59: Intrinsic (mitochondrial) apoptosis
-
-by [@Yila-AI](https://github.com/Yila-AI)
-
-Technique: **mitochondrion in the center, numbered relationships** · Style: flat vector schematic · Aspect ratio: 4:3
-
-| English prompt |
-|---|
-| <img src="gallery/signaling-pathway/intrinsic-apoptosis-en.jpg" width="420"> |
-
-> The Chinese-prompt output did not pass review, so it is not shown.
-
-**English prompt**
-
-```text
-Create a signaling pathway schematic of 【intrinsic apoptosis】 inside one cell, with one large mitochondrion in the center, read from top to bottom. Draw each relationship exactly as listed and nothing more:
-1. 【Cellular stress activates BAX/BAK on the outer mitochondrial membrane.】
-2. 【BCL-2 inhibits BAX/BAK (red T-bar).】
-3. 【BAX/BAK releases cytochrome c from the mitochondrion.】
-4. 【Cytochrome c binds APAF1 to form the apoptosome.】
-5. 【The apoptosome activates caspase-9.】
-6. 【Caspase-9 activates caspase-3, which leads to apoptosis (a shrinking cell with fragmented nucleus).】
-BAX/BAK sits on the outer membrane of the mitochondrion itself, never on the cell membrane.
-Labels, each used once, no other text: 【Cellular stress, BCL-2, BAX/BAK, Cytochrome c, APAF1, Caspase-9, Caspase-3, Apoptosis】.
-
-Style: journal-style scientific schematic. Clean flat vector illustration on a white background, light pastel rounded panels to separate regions. Only 3-4 muted colors, each with one fixed meaning; red only for inhibition or emphasis. Thin, uniform line weight. Proteins as rounded colored capsules with their names inside; membranes as lipid bilayers; activation as solid arrows, inhibition as T-bar lines, indirect effects as dashed arrows. Sans-serif English labels only, each label appears exactly once, spelled exactly as given. No 3D rendering, no shadows, no glow, no decorative background, no photorealism.
-```
-
-<details><summary>Chinese prompt</summary>
-
-```text
-画一张【内源性凋亡】的信号通路示意图，在一个细胞内，中央画一个大线粒体，从上往下读。严格按下面列出的关系画，不多画：
-1. 【细胞应激激活线粒体外膜上的 BAX/BAK。】
-2. 【BCL-2 抑制 BAX/BAK（红色 T 形线）。】
-3. 【BAX/BAK 使线粒体释放细胞色素 c。】
-4. 【细胞色素 c 与 APAF1 结合，形成凋亡体。】
-5. 【凋亡体激活 caspase-9。】
-6. 【caspase-9 激活 caspase-3，导致凋亡（细胞皱缩、细胞核碎裂）。】
-BAX/BAK 画在线粒体自身的外膜上，不要画在细胞膜上。
-标签（每个只出现一次，不加其他文字）：【Cellular stress, BCL-2, BAX/BAK, Cytochrome c, APAF1, Caspase-9, Caspase-3, Apoptosis】。
-
-风格：期刊式科研示意图。白色背景上的干净扁平矢量插画，用浅色圆角面板区分区域。只用 3–4 种低饱和度颜色，每种颜色含义固定，红色只用于抑制或强调。线条细且粗细一致。蛋白画成彩色圆角胶囊，名称写在胶囊里；细胞膜画成磷脂双分子层；激活用实线箭头，抑制用 T 形线，间接作用用虚线箭头。图中文字只用英文无衬线字体，每个标签只出现一次，拼写与给定完全一致。不要 3D 渲染、阴影、发光、装饰性背景或照片质感。
-```
-
-</details>
-
-Model: Nano Banana 2 Lite (gemini-3.1-flash-lite-image, 1K) · Generated 5 times in total; shown are the outputs that passed review
-
-[↑ Back to top](#top)
-
-<sub><a href="https://yila.ai/?utm_source=github&utm_medium=readme&utm_campaign=sci-figure-prompts&utm_content=intrinsic-apoptosis">Try in Yila →</a></sub>
-
----
-
-<a id="no-60"></a>
-
-### No. 60: JAK/STAT pathway
-
-by [@Yila-AI](https://github.com/Yila-AI)
-
-Technique: **receptor, dimerization and nuclear entry, with negative feedback** · Style: flat vector schematic · Aspect ratio: 4:3
-
-| English prompt |
-|---|
-| <img src="gallery/signaling-pathway/jak-stat-en.jpg" width="420"> |
-
-> The Chinese-prompt output did not pass review, so it is not shown.
-
-**English prompt**
-
-```text
-Create a signaling pathway schematic of 【IL-6 JAK/STAT3 signaling】 inside one cell, read from top to bottom. Draw each relationship exactly as listed and nothing more:
-1. 【IL-6 binds its receptor in the membrane at the top.】
-2. 【The receptor activates JAK, attached to its inner tail.】
-3. 【JAK phosphorylates STAT3 (small 'P' circle).】
-4. 【Two phosphorylated STAT3 join as a dimer.】
-5. 【The dimer enters the nucleus and turns on target genes.】
-6. 【SOCS3 inhibits JAK (red T-bar).】
-Use red T-bars only where listed; every other arrow is a solid activation arrow. Do not write the numbered sentences in the figure.
-Labels, each used once, no other text: 【IL-6, Receptor, JAK, STAT3, STAT3 dimer, SOCS3, Target genes】.
-
-Style: journal-style scientific schematic. Clean flat vector illustration on a white background, light pastel rounded panels to separate regions. Only 3-4 muted colors, each with one fixed meaning; red only for inhibition or emphasis. Thin, uniform line weight. Proteins as rounded colored capsules with their names inside; membranes as lipid bilayers; activation as solid arrows, inhibition as T-bar lines, indirect effects as dashed arrows. Sans-serif English labels only, each label appears exactly once, spelled exactly as given. No 3D rendering, no shadows, no glow, no decorative background, no photorealism.
-```
-
-<details><summary>Chinese prompt</summary>
-
-```text
-画一张【IL-6 JAK/STAT3 信号】的通路示意图，在一个细胞内，从上往下读。严格按下面列出的关系画，不多画：
-1. 【IL-6 结合顶部细胞膜上的受体。】
-2. 【受体激活结合在其胞内尾部的 JAK。】
-3. 【JAK 磷酸化 STAT3（带 P 的小圆点）。】
-4. 【两个磷酸化的 STAT3 结合成二聚体。】
-5. 【二聚体进入细胞核，开启靶基因。】
-6. 【SOCS3 抑制 JAK（红色 T 形线）。】
-只在列出的地方用红色 T 形线，其他箭头都是实线激活箭头。不要把编号句子写进图里。
-标签（每个只出现一次，不加其他文字）：【IL-6, Receptor, JAK, STAT3, STAT3 dimer, SOCS3, Target genes】。
-
-风格：期刊式科研示意图。白色背景上的干净扁平矢量插画，用浅色圆角面板区分区域。只用 3–4 种低饱和度颜色，每种颜色含义固定，红色只用于抑制或强调。线条细且粗细一致。蛋白画成彩色圆角胶囊，名称写在胶囊里；细胞膜画成磷脂双分子层；激活用实线箭头，抑制用 T 形线，间接作用用虚线箭头。图中文字只用英文无衬线字体，每个标签只出现一次，拼写与给定完全一致。不要 3D 渲染、阴影、发光、装饰性背景或照片质感。
-```
-
-</details>
-
-Model: Nano Banana 2 Lite (gemini-3.1-flash-lite-image, 1K) · Generated 4 times in total; shown are the outputs that passed review
-
-[↑ Back to top](#top)
-
-<sub><a href="https://yila.ai/?utm_source=github&utm_medium=readme&utm_campaign=sci-figure-prompts&utm_content=jak-stat">Try in Yila →</a></sub>
-
----
-
-<a id="no-61"></a>
-
-### No. 61: Keap1/Nrf2 antioxidant pathway
-
-by [@Yila-AI](https://github.com/Yila-AI)
-
-Technique: **release in the cytosol, activation in the nucleus** · Style: flat vector schematic · Aspect ratio: 4:3
-
-| English prompt | Chinese prompt |
-|---|---|
-| <img src="gallery/signaling-pathway/keap1-nrf2-en.jpg" width="420"> | <img src="gallery/signaling-pathway/keap1-nrf2-zh.jpg" width="420"> |
-
-**English prompt**
-
-```text
-Create a signaling pathway schematic of 【the Keap1/Nrf2 antioxidant response】 in one cell, read from top to bottom. Draw each relationship exactly as listed and nothing more:
-1. 【Without stress, Keap1 holds Nrf2 and sends it to the proteasome for degradation.】
-2. 【ROS modify Keap1, which releases Nrf2.】
-3. 【Nrf2 enters the nucleus and binds the ARE.】
-4. 【Nrf2 turns on antioxidant genes HO-1 and NQO1.】
-There are no T-bars in this figure; all arrows are solid. An arrow carries the Keap1–Nrf2 pair into the proteasome, and Nrf2 alone, without Keap1, enters the nucleus. Do not write the numbered sentences in the figure.
-Labels, each used once, no other text: 【ROS, Keap1, Nrf2, Proteasome, ARE, HO-1, NQO1】.
-
-Style: journal-style scientific schematic. Clean flat vector illustration on a white background, light pastel rounded panels to separate regions. Only 3-4 muted colors, each with one fixed meaning; red only for inhibition or emphasis. Thin, uniform line weight. Proteins as rounded colored capsules with their names inside; membranes as lipid bilayers; activation as solid arrows, inhibition as T-bar lines, indirect effects as dashed arrows. Sans-serif English labels only, each label appears exactly once, spelled exactly as given. No 3D rendering, no shadows, no glow, no decorative background, no photorealism.
-```
-
-<details><summary>Chinese prompt</summary>
-
-```text
-画一张【Keap1/Nrf2 抗氧化应答】的信号通路示意图，在一个细胞内，从上往下读。严格按下面列出的关系画，不多画：
-1. 【无应激时，Keap1 抓住 Nrf2，把它送到蛋白酶体降解。】
-2. 【ROS 修饰 Keap1，使其释放 Nrf2。】
-3. 【Nrf2 进入细胞核，结合 ARE。】
-4. 【Nrf2 开启抗氧化基因 HO-1 和 NQO1。】
-图中没有 T 形线，所有箭头都是实线。一条箭头把 Keap1–Nrf2 送进蛋白酶体；只有 Nrf2（不带 Keap1）进入细胞核。不要把编号句子写进图里。
-标签（每个只出现一次，不加其他文字）：【ROS, Keap1, Nrf2, Proteasome, ARE, HO-1, NQO1】。
-
-风格：期刊式科研示意图。白色背景上的干净扁平矢量插画，用浅色圆角面板区分区域。只用 3–4 种低饱和度颜色，每种颜色含义固定，红色只用于抑制或强调。线条细且粗细一致。蛋白画成彩色圆角胶囊，名称写在胶囊里；细胞膜画成磷脂双分子层；激活用实线箭头，抑制用 T 形线，间接作用用虚线箭头。图中文字只用英文无衬线字体，每个标签只出现一次，拼写与给定完全一致。不要 3D 渲染、阴影、发光、装饰性背景或照片质感。
-```
-
-</details>
-
-Model: Nano Banana 2 Lite (gemini-3.1-flash-lite-image, 1K) · Generated 6 times in total; shown are the outputs that passed review
-
-[↑ Back to top](#top)
-
-<sub><a href="https://yila.ai/?utm_source=github&utm_medium=readme&utm_campaign=sci-figure-prompts&utm_content=keap1-nrf2">Try in Yila →</a></sub>
-
----
-
-<a id="no-62"></a>
-
-### No. 62: MAPK/ERK pathway
-
-by [@Yila-AI](https://github.com/Yila-AI)
-
-Technique: **linear cascade from receptor to nucleus** · Style: flat vector schematic · Aspect ratio: 4:3
-
-| English prompt |
-|---|
-| <img src="gallery/signaling-pathway/mapk-erk-en.jpg" width="420"> |
-
-> The Chinese-prompt output did not pass review, so it is not shown.
-
-**English prompt**
-
-```text
-Create a signaling pathway schematic of 【MAPK/ERK signaling】 inside one cell, receptor in the membrane at the top, read from top to bottom. Draw each relationship exactly as listed and nothing more:
-1. 【EGF binds EGFR in the membrane.】
-2. 【EGFR activates Ras.】
-3. 【Ras activates Raf.】
-4. 【Raf phosphorylates MEK (small 'P' circle).】
-5. 【MEK phosphorylates ERK (small 'P' circle).】
-6. 【ERK moves into the nucleus at the bottom and turns on proliferation genes.】
-Use red T-bars only where listed; every other arrow is a solid activation arrow. Do not write the numbered sentences in the figure.
-Labels, each used once, no other text: 【EGF, EGFR, Ras, Raf, MEK, ERK, Proliferation genes】.
-
-Style: journal-style scientific schematic. Clean flat vector illustration on a white background, light pastel rounded panels to separate regions. Only 3-4 muted colors, each with one fixed meaning; red only for inhibition or emphasis. Thin, uniform line weight. Proteins as rounded colored capsules with their names inside; membranes as lipid bilayers; activation as solid arrows, inhibition as T-bar lines, indirect effects as dashed arrows. Sans-serif English labels only, each label appears exactly once, spelled exactly as given. No 3D rendering, no shadows, no glow, no decorative background, no photorealism.
-```
-
-<details><summary>Chinese prompt</summary>
-
-```text
-画一张【MAPK/ERK 信号】的通路示意图，在一个细胞内，受体在顶部细胞膜上，从上往下读。严格按下面列出的关系画，不多画：
-1. 【EGF 结合膜上的 EGFR。】
-2. 【EGFR 激活 Ras。】
-3. 【Ras 激活 Raf。】
-4. 【Raf 磷酸化 MEK（带 P 的小圆点）。】
-5. 【MEK 磷酸化 ERK（带 P 的小圆点）。】
-6. 【ERK 进入底部的细胞核，开启增殖基因。】
-只在列出的地方用红色 T 形线，其他箭头都是实线激活箭头。不要把编号句子写进图里。
-标签（每个只出现一次，不加其他文字）：【EGF, EGFR, Ras, Raf, MEK, ERK, Proliferation genes】。
-
-风格：期刊式科研示意图。白色背景上的干净扁平矢量插画，用浅色圆角面板区分区域。只用 3–4 种低饱和度颜色，每种颜色含义固定，红色只用于抑制或强调。线条细且粗细一致。蛋白画成彩色圆角胶囊，名称写在胶囊里；细胞膜画成磷脂双分子层；激活用实线箭头，抑制用 T 形线，间接作用用虚线箭头。图中文字只用英文无衬线字体，每个标签只出现一次，拼写与给定完全一致。不要 3D 渲染、阴影、发光、装饰性背景或照片质感。
-```
-
-</details>
-
-Model: Nano Banana 2 Lite (gemini-3.1-flash-lite-image, 1K) · Generated 4 times in total; shown are the outputs that passed review
-
-[↑ Back to top](#top)
-
-<sub><a href="https://yila.ai/?utm_source=github&utm_medium=readme&utm_campaign=sci-figure-prompts&utm_content=mapk-erk">Try in Yila →</a></sub>
-
----
-
-<a id="no-63"></a>
-
-### No. 63: Canonical NF-κB pathway
-
-by [@Yila-AI](https://github.com/Yila-AI)
-
-Technique: **membrane, cytosol and nucleus layers** · Style: flat vector schematic · Aspect ratio: 4:3
-
-| English prompt | Chinese prompt |
-|---|---|
-| <img src="gallery/signaling-pathway/nf-kb-en.jpg" width="420"> | <img src="gallery/signaling-pathway/nf-kb-zh.jpg" width="420"> |
-
-**English prompt**
-
-```text
-Create a signaling pathway schematic of 【canonical NF-κB signaling】 inside one cell, read from top to bottom. Draw each relationship exactly as listed and nothing more:
-1. 【TNF-α binds TNFR1 in the membrane at the top.】
-2. 【TNFR1 activates the IKK complex (solid arrow).】
-3. 【IKK phosphorylates IκBα, which is bound to p65/p50 (small 'P' circle on IκBα).】
-4. 【IκBα enters the proteasome on the side and is shown as small broken fragments there.】
-5. 【The freed p65/p50 moves down into the nucleus (solid arrow) and turns on inflammatory genes.】
-No arrow points from p65/p50 to the proteasome. All arrows are solid activation arrows; there are no T-bars in this figure.
-Labels, each used once, no other text: 【TNF-α, TNFR1, IKK, IκBα, Proteasome, p65/p50, Inflammatory genes】.
-
-Style: journal-style scientific schematic. Clean flat vector illustration on a white background, light pastel rounded panels to separate regions. Only 3-4 muted colors, each with one fixed meaning; red only for inhibition or emphasis. Thin, uniform line weight. Proteins as rounded colored capsules with their names inside; membranes as lipid bilayers; activation as solid arrows, inhibition as T-bar lines, indirect effects as dashed arrows. Sans-serif English labels only, each label appears exactly once, spelled exactly as given. No 3D rendering, no shadows, no glow, no decorative background, no photorealism.
-```
-
-<details><summary>Chinese prompt</summary>
-
-```text
-画一张【经典 NF-κB 信号】的通路示意图，在一个细胞内，从上往下读。严格按下面列出的关系画，不多画：
-1. 【TNF-α 结合顶部细胞膜上的 TNFR1。】
-2. 【TNFR1 激活 IKK 复合物（实线箭头）。】
-3. 【IKK 磷酸化与 p65/p50 结合在一起的 IκBα（IκBα 上一个带 P 的小圆点）。】
-4. 【IκBα 进入侧边的蛋白酶体，在那里画成几块碎片。】
-5. 【被释放的 p65/p50 向下进入细胞核（实线箭头），开启炎症基因。】
-p65/p50 不指向蛋白酶体。所有箭头都是实线激活箭头，图中没有 T 形线。
-标签（每个只出现一次，不加其他文字）：【TNF-α, TNFR1, IKK, IκBα, Proteasome, p65/p50, Inflammatory genes】。
-
-风格：期刊式科研示意图。白色背景上的干净扁平矢量插画，用浅色圆角面板区分区域。只用 3–4 种低饱和度颜色，每种颜色含义固定，红色只用于抑制或强调。线条细且粗细一致。蛋白画成彩色圆角胶囊，名称写在胶囊里；细胞膜画成磷脂双分子层；激活用实线箭头，抑制用 T 形线，间接作用用虚线箭头。图中文字只用英文无衬线字体，每个标签只出现一次，拼写与给定完全一致。不要 3D 渲染、阴影、发光、装饰性背景或照片质感。
-```
-
-</details>
-
-Model: Nano Banana 2 Lite (gemini-3.1-flash-lite-image, 1K) · Generated 6 times in total; shown are the outputs that passed review
-
-[↑ Back to top](#top)
-
-<sub><a href="https://yila.ai/?utm_source=github&utm_medium=readme&utm_campaign=sci-figure-prompts&utm_content=nf-kb">Try in Yila →</a></sub>
-
----
-
-<a id="no-64"></a>
-
-### No. 64: NLRP3 inflammasome: two-signal activation
-
-by [@Yila-AI](https://github.com/Yila-AI)
-
-Technique: **signal 1 and signal 2 as two routes** · Style: flat vector schematic · Aspect ratio: 16:9
-
-| English prompt | Chinese prompt |
-|---|---|
-| <img src="gallery/signaling-pathway/nlrp3-inflammasome-en.jpg" width="420"> | <img src="gallery/signaling-pathway/nlrp3-inflammasome-zh.jpg" width="420"> |
-
-**English prompt**
-
-```text
-Create a signaling pathway schematic of 【NLRP3 inflammasome activation in a macrophage】: one cell, plasma membrane across the top, read from left to right. Draw each relationship exactly as listed and nothing more:
-1. 【Signal 1, on the left: LPS binds TLR4 in the membrane; TLR4 activates NF-κB, which raises NLRP3 and pro-IL-1β.】
-2. 【Signal 2, in the middle: K+ leaves the cell through the membrane, and this activates NLRP3.】
-3. 【NLRP3, ASC and caspase-1 assemble into one ring-shaped inflammasome.】
-4. 【On the right, caspase-1 cuts pro-IL-1β into IL-1β, which is released through the membrane.】
-The arrow between pro-IL-1β and IL-1β points toward IL-1β. All arrows are solid activation arrows; there are no T-bars in this figure.
-Labels, each used once, no other text: 【LPS, TLR4, NF-κB, K+ efflux, NLRP3, ASC, Caspase-1, IL-1β】.
-
-Style: journal-style scientific schematic. Clean flat vector illustration on a white background, light pastel rounded panels to separate regions. Only 3-4 muted colors, each with one fixed meaning; red only for inhibition or emphasis. Thin, uniform line weight. Proteins as rounded colored capsules with their names inside; membranes as lipid bilayers; activation as solid arrows, inhibition as T-bar lines, indirect effects as dashed arrows. Sans-serif English labels only, each label appears exactly once, spelled exactly as given. No 3D rendering, no shadows, no glow, no decorative background, no photorealism.
-```
-
-<details><summary>Chinese prompt</summary>
-
-```text
-画一张【巨噬细胞中 NLRP3 炎症小体激活】的信号通路示意图：一个细胞，细胞膜横在顶部，从左往右读。严格按下面列出的关系画，不多画：
-1. 【左侧信号 1：LPS 结合膜上的 TLR4；TLR4 激活 NF-κB，上调 NLRP3 和 pro-IL-1β。】
-2. 【中间信号 2：K+ 经细胞膜流出，激活 NLRP3。】
-3. 【NLRP3、ASC 和 caspase-1 组装成一个环形的炎症小体。】
-4. 【右侧：caspase-1 把 pro-IL-1β 切成 IL-1β，经细胞膜释放。】
-pro-IL-1β 与 IL-1β 之间的箭头指向 IL-1β。所有箭头都是实线激活箭头，图中没有 T 形线。
-标签（每个只出现一次，不加其他文字）：【LPS, TLR4, NF-κB, K+ efflux, NLRP3, ASC, Caspase-1, IL-1β】。
-
-风格：期刊式科研示意图。白色背景上的干净扁平矢量插画，用浅色圆角面板区分区域。只用 3–4 种低饱和度颜色，每种颜色含义固定，红色只用于抑制或强调。线条细且粗细一致。蛋白画成彩色圆角胶囊，名称写在胶囊里；细胞膜画成磷脂双分子层；激活用实线箭头，抑制用 T 形线，间接作用用虚线箭头。图中文字只用英文无衬线字体，每个标签只出现一次，拼写与给定完全一致。不要 3D 渲染、阴影、发光、装饰性背景或照片质感。
-```
-
-</details>
-
-Model: Nano Banana 2 Lite (gemini-3.1-flash-lite-image, 1K) · Generated 6 times in total; shown are the outputs that passed review
-
-[↑ Back to top](#top)
-
-<sub><a href="https://yila.ai/?utm_source=github&utm_medium=readme&utm_campaign=sci-figure-prompts&utm_content=nlrp3-inflammasome">Try in Yila →</a></sub>
-
----
-
-<a id="no-65"></a>
-
-### No. 65: p53 and the DNA damage response
-
-by [@Yila-AI](https://github.com/Yila-AI)
-
-Technique: **central node with three outcomes** · Style: flat vector schematic · Aspect ratio: 4:3
-
-| English prompt | Chinese prompt |
-|---|---|
-| <img src="gallery/signaling-pathway/p53-dna-damage-en.jpg" width="420"> | <img src="gallery/signaling-pathway/p53-dna-damage-zh.jpg" width="420"> |
-
-**English prompt**
-
-```text
-Create a signaling pathway schematic of 【the p53 DNA damage response】 in one cell, read from top to bottom. Draw each relationship exactly as listed and nothing more:
-1. 【DNA damage (a broken DNA strand) activates ATM.】
-2. 【ATM phosphorylates p53 (small 'P' circle).】
-3. 【MDM2 inhibits p53 (red T-bar).】
-4. 【p53 turns on p21, leading to cell-cycle arrest.】
-5. 【p53 turns on BAX, leading to apoptosis.】
-Use red T-bars only where listed; every other arrow is a solid activation arrow. Do not write the numbered sentences in the figure.
-Labels, each used once, no other text: 【DNA damage, ATM, p53, MDM2, p21, BAX, Cell-cycle arrest, Apoptosis】.
-
-Style: journal-style scientific schematic. Clean flat vector illustration on a white background, light pastel rounded panels to separate regions. Only 3-4 muted colors, each with one fixed meaning; red only for inhibition or emphasis. Thin, uniform line weight. Proteins as rounded colored capsules with their names inside; membranes as lipid bilayers; activation as solid arrows, inhibition as T-bar lines, indirect effects as dashed arrows. Sans-serif English labels only, each label appears exactly once, spelled exactly as given. No 3D rendering, no shadows, no glow, no decorative background, no photorealism.
-```
-
-<details><summary>Chinese prompt</summary>
-
-```text
-画一张【p53 DNA 损伤应答】的信号通路示意图，在一个细胞内，从上往下读。严格按下面列出的关系画，不多画：
-1. 【DNA 损伤（断裂的 DNA 链）激活 ATM。】
-2. 【ATM 磷酸化 p53（带 P 的小圆点）。】
-3. 【MDM2 抑制 p53（红色 T 形线）。】
-4. 【p53 开启 p21，导致细胞周期停滞。】
-5. 【p53 开启 BAX，导致凋亡。】
-只在列出的地方用红色 T 形线，其他箭头都是实线激活箭头。不要把编号句子写进图里。
-标签（每个只出现一次，不加其他文字）：【DNA damage, ATM, p53, MDM2, p21, BAX, Cell-cycle arrest, Apoptosis】。
-
-风格：期刊式科研示意图。白色背景上的干净扁平矢量插画，用浅色圆角面板区分区域。只用 3–4 种低饱和度颜色，每种颜色含义固定，红色只用于抑制或强调。线条细且粗细一致。蛋白画成彩色圆角胶囊，名称写在胶囊里；细胞膜画成磷脂双分子层；激活用实线箭头，抑制用 T 形线，间接作用用虚线箭头。图中文字只用英文无衬线字体，每个标签只出现一次，拼写与给定完全一致。不要 3D 渲染、阴影、发光、装饰性背景或照片质感。
-```
-
-</details>
-
-Model: Nano Banana 2 Lite (gemini-3.1-flash-lite-image, 1K) · Generated 4 times in total; shown are the outputs that passed review
-
-[↑ Back to top](#top)
-
-<sub><a href="https://yila.ai/?utm_source=github&utm_medium=readme&utm_campaign=sci-figure-prompts&utm_content=p53-dna-damage">Try in Yila →</a></sub>
-
----
-
-<a id="no-66"></a>
-
-### No. 66: PD-1/PD-L1 immune checkpoint and its blockade
-
-by [@Yila-AI](https://github.com/Yila-AI)
-
-Technique: **numbered relationships + side-by-side panels** · Style: flat vector schematic · Aspect ratio: 16:9
-
-| English prompt |
-|---|
-| <img src="gallery/signaling-pathway/pd1-pdl1-checkpoint-en.jpg" width="420"> |
-
-> The Chinese-prompt output did not pass review, so it is not shown.
-
-**English prompt**
-
-```text
-Create a two-panel schematic of 【the PD-1/PD-L1 immune checkpoint before and after antibody blockade】, separated by a thin dashed vertical line. In both panels 【a T cell is on the left and a tumor cell is on the right】, and only their contact zone is drawn. Draw each relationship exactly as listed and nothing more:
-Left panel:
-1. 【TCR on the T cell touches MHC-I on the tumor cell.】
-2. 【PD-1 on the T cell is directly joined to PD-L1 on the tumor cell.】
-3. 【A red T-bar goes from PD-1 into the T cell: the T cell is switched off.】
-Right panel:
-1. 【TCR on the T cell touches MHC-I on the tumor cell.】
-2. 【A Y-shaped antibody is attached to PD-1 only; a clear gap separates PD-1 from PD-L1.】
-3. 【A solid arrow goes from the T cell to the tumor cell, which is breaking apart.】
-Labels, each used once, no other text: 【T cell, Tumor cell, PD-1, PD-L1, Anti-PD-1, Tumor killing】.
-
-Style: journal-style scientific schematic. Clean flat vector illustration on a white background, light pastel rounded panels to separate regions. Only 3-4 muted colors, each with one fixed meaning; red only for inhibition or emphasis. Thin, uniform line weight. Proteins as rounded colored capsules with their names inside; membranes as lipid bilayers; activation as solid arrows, inhibition as T-bar lines, indirect effects as dashed arrows. Sans-serif English labels only, each label appears exactly once, spelled exactly as given. No 3D rendering, no shadows, no glow, no decorative background, no photorealism.
-```
-
-<details><summary>Chinese prompt</summary>
-
-```text
-画一张左右两栏示意图，展示【抗体阻断前后的 PD-1/PD-L1 免疫检查点】，两栏之间用一条细虚线分开。两栏里都是【左边一个 T 细胞，右边一个肿瘤细胞】，只画两者接触的区域。严格按下面列出的关系画，不多画：
-左栏：
-1. 【T 细胞上的 TCR 接触肿瘤细胞上的 MHC-I。】
-2. 【T 细胞上的 PD-1 与肿瘤细胞上的 PD-L1 直接相连。】
-3. 【一条红色 T 形线从 PD-1 伸进 T 细胞：T 细胞被关闭。】
-右栏：
-1. 【T 细胞上的 TCR 接触肿瘤细胞上的 MHC-I。】
-2. 【一个 Y 形抗体只结合在 PD-1 上；PD-1 与 PD-L1 之间留出明显的空隙。】
-3. 【一条实线箭头从 T 细胞指向正在破裂的肿瘤细胞。】
-标签（每个只出现一次，不加其他文字）：【T cell, Tumor cell, PD-1, PD-L1, Anti-PD-1, Tumor killing】。
-
-风格：期刊式科研示意图。白色背景上的干净扁平矢量插画，用浅色圆角面板区分区域。只用 3–4 种低饱和度颜色，每种颜色含义固定，红色只用于抑制或强调。线条细且粗细一致。蛋白画成彩色圆角胶囊，名称写在胶囊里；细胞膜画成磷脂双分子层；激活用实线箭头，抑制用 T 形线，间接作用用虚线箭头。图中文字只用英文无衬线字体，每个标签只出现一次，拼写与给定完全一致。不要 3D 渲染、阴影、发光、装饰性背景或照片质感。
-```
-
-</details>
-
-Model: Nano Banana 2 Lite (gemini-3.1-flash-lite-image, 1K) · Generated 8 times in total; shown are the outputs that passed review
-
-[↑ Back to top](#top)
-
-<sub><a href="https://yila.ai/?utm_source=github&utm_medium=readme&utm_campaign=sci-figure-prompts&utm_content=pd1-pdl1-checkpoint">Try in Yila →</a></sub>
-
----
-
-<a id="no-67"></a>
-
-### No. 67: PI3K/AKT/mTOR pathway
-
-by [@Yila-AI](https://github.com/Yila-AI)
-
-Technique: **numbered relationships, red T-bars for inhibition** · Style: flat vector schematic · Aspect ratio: 4:3
-
-| English prompt | Chinese prompt |
-|---|---|
-| <img src="gallery/signaling-pathway/pi3k-akt-mtor-en.jpg" width="420"> | <img src="gallery/signaling-pathway/pi3k-akt-mtor-zh.jpg" width="420"> |
-
-**English prompt**
-
-```text
-Create a signaling pathway schematic of 【PI3K/AKT/mTOR signaling】 inside one cell, receptor in the membrane at the top, read from top to bottom. Draw each relationship exactly as listed and nothing more:
-1. 【A growth factor binds the RTK in the membrane.】
-2. 【The RTK activates PI3K.】
-3. 【PI3K produces PIP3 at the membrane.】
-4. 【PTEN inhibits PIP3 (red T-bar).】
-5. 【PIP3 activates AKT.】
-6. 【AKT inhibits TSC1/2 (red T-bar).】
-7. 【TSC1/2 inhibits mTORC1 (red T-bar).】
-8. 【mTORC1 drives cell growth.】
-Labels, each used once, no other text: 【Growth factor, RTK, PI3K, PIP3, PTEN, AKT, TSC1/2, mTORC1, Cell growth】.
-
-Style: journal-style scientific schematic. Clean flat vector illustration on a white background, light pastel rounded panels to separate regions. Only 3-4 muted colors, each with one fixed meaning; red only for inhibition or emphasis. Thin, uniform line weight. Proteins as rounded colored capsules with their names inside; membranes as lipid bilayers; activation as solid arrows, inhibition as T-bar lines, indirect effects as dashed arrows. Sans-serif English labels only, each label appears exactly once, spelled exactly as given. No 3D rendering, no shadows, no glow, no decorative background, no photorealism.
-```
-
-<details><summary>Chinese prompt</summary>
-
-```text
-画一张【PI3K/AKT/mTOR 信号】的通路示意图，在一个细胞内，受体在顶部细胞膜上，从上往下读。严格按下面列出的关系画，不多画：
-1. 【生长因子结合膜上的 RTK。】
-2. 【RTK 激活 PI3K。】
-3. 【PI3K 在膜上生成 PIP3。】
-4. 【PTEN 抑制 PIP3（红色 T 形线）。】
-5. 【PIP3 激活 AKT。】
-6. 【AKT 抑制 TSC1/2（红色 T 形线）。】
-7. 【TSC1/2 抑制 mTORC1（红色 T 形线）。】
-8. 【mTORC1 促进细胞生长。】
-标签（每个只出现一次，不加其他文字）：【Growth factor, RTK, PI3K, PIP3, PTEN, AKT, TSC1/2, mTORC1, Cell growth】。
-
-风格：期刊式科研示意图。白色背景上的干净扁平矢量插画，用浅色圆角面板区分区域。只用 3–4 种低饱和度颜色，每种颜色含义固定，红色只用于抑制或强调。线条细且粗细一致。蛋白画成彩色圆角胶囊，名称写在胶囊里；细胞膜画成磷脂双分子层；激活用实线箭头，抑制用 T 形线，间接作用用虚线箭头。图中文字只用英文无衬线字体，每个标签只出现一次，拼写与给定完全一致。不要 3D 渲染、阴影、发光、装饰性背景或照片质感。
-```
-
-</details>
-
-Model: Nano Banana 2 Lite (gemini-3.1-flash-lite-image, 1K) · Generated 3 times in total; shown are the outputs that passed review
-
-[↑ Back to top](#top)
-
-<sub><a href="https://yila.ai/?utm_source=github&utm_medium=readme&utm_campaign=sci-figure-prompts&utm_content=pi3k-akt-mtor">Try in Yila →</a></sub>
-
----
-
-<a id="no-68"></a>
-
-### No. 68: Pyroptosis via gasdermin D pores
-
-by [@Yila-AI](https://github.com/Yila-AI)
-
-Technique: **pore formation and cytokine release in one view** · Style: flat vector schematic · Aspect ratio: 4:3
-
-| English prompt | Chinese prompt |
-|---|---|
-| <img src="gallery/signaling-pathway/pyroptosis-en.jpg" width="420"> | <img src="gallery/signaling-pathway/pyroptosis-zh.jpg" width="420"> |
-
-**English prompt**
-
-```text
-Create a signaling pathway schematic of 【canonical pyroptosis】 in one cell, plasma membrane along the right side, read from left to right. Draw each relationship exactly as listed and nothing more:
-1. 【The inflammasome activates caspase-1.】
-2. 【Caspase-1 cleaves GSDMD.】
-3. 【The GSDMD-N fragment inserts into the membrane and forms pores.】
-4. 【Caspase-1 matures IL-1β and IL-18.】
-5. 【IL-1β and IL-18 are released through the pores.】
-6. 【The cell swells and bursts (pyroptosis).】
-All arrows are solid activation arrows; there are no T-bars. Do not write the numbered sentences in the figure.
-Labels, each used once, no other text: 【Inflammasome, Caspase-1, GSDMD, GSDMD-N pore, IL-1β, IL-18, Pyroptosis】.
-
-Style: journal-style scientific schematic. Clean flat vector illustration on a white background, light pastel rounded panels to separate regions. Only 3-4 muted colors, each with one fixed meaning; red only for inhibition or emphasis. Thin, uniform line weight. Proteins as rounded colored capsules with their names inside; membranes as lipid bilayers; activation as solid arrows, inhibition as T-bar lines, indirect effects as dashed arrows. Sans-serif English labels only, each label appears exactly once, spelled exactly as given. No 3D rendering, no shadows, no glow, no decorative background, no photorealism.
-```
-
-<details><summary>Chinese prompt</summary>
-
-```text
-画一张【经典细胞焦亡】的信号通路示意图，在一个细胞内，细胞膜在右侧，从左往右读。严格按下面列出的关系画，不多画：
-1. 【炎症小体激活 caspase-1。】
-2. 【caspase-1 剪切 GSDMD。】
-3. 【GSDMD-N 片段插入细胞膜形成孔道。】
-4. 【caspase-1 使 IL-1β 和 IL-18 成熟。】
-5. 【IL-1β 和 IL-18 经孔道释放到细胞外。】
-6. 【细胞肿胀破裂（焦亡）。】
-所有箭头都是实线激活箭头，图中没有 T 形线。不要把编号句子写进图里。
-标签（每个只出现一次，不加其他文字）：【Inflammasome, Caspase-1, GSDMD, GSDMD-N pore, IL-1β, IL-18, Pyroptosis】。
-
-风格：期刊式科研示意图。白色背景上的干净扁平矢量插画，用浅色圆角面板区分区域。只用 3–4 种低饱和度颜色，每种颜色含义固定，红色只用于抑制或强调。线条细且粗细一致。蛋白画成彩色圆角胶囊，名称写在胶囊里；细胞膜画成磷脂双分子层；激活用实线箭头，抑制用 T 形线，间接作用用虚线箭头。图中文字只用英文无衬线字体，每个标签只出现一次，拼写与给定完全一致。不要 3D 渲染、阴影、发光、装饰性背景或照片质感。
-```
-
-</details>
-
-Model: Nano Banana 2 Lite (gemini-3.1-flash-lite-image, 1K) · Generated 5 times in total; shown are the outputs that passed review
-
-[↑ Back to top](#top)
-
-<sub><a href="https://yila.ai/?utm_source=github&utm_medium=readme&utm_campaign=sci-figure-prompts&utm_content=pyroptosis">Try in Yila →</a></sub>
-
----
-
-<a id="no-69"></a>
-
-### No. 69: TGF-β/SMAD pro-fibrotic pathway
-
-by [@Yila-AI](https://github.com/Yila-AI)
-
-Technique: **numbered relationships + activation/inhibition line styles** · Style: flat vector schematic · Aspect ratio: 4:3
-
-| English prompt | Chinese prompt |
-|---|---|
-| <img src="gallery/signaling-pathway/tgfb-smad-en.jpg" width="420"> | <img src="gallery/signaling-pathway/tgfb-smad-zh.jpg" width="420"> |
-
-**English prompt**
-
-```text
-Create a signaling pathway schematic of 【TGF-β/SMAD signaling in fibrosis】 inside one cell, read from top to bottom. Draw each relationship exactly as listed and nothing more:
-1. 【TGF-β binds a receptor pair in the cell membrane at the top: TβRII and TβRI.】
-2. 【TβRI phosphorylates SMAD2/3 (small 'P' circle).】
-3. 【SMAD2/3 joins SMAD4 to form a complex.】
-4. 【The complex moves into the nucleus at the bottom and turns on collagen genes.】
-5. 【SMAD7 inhibits TβRI (red T-bar).】
-Labels, each used once, no other text: 【TGF-β, TβRII, TβRI, SMAD2/3, SMAD4, SMAD7, Collagen genes】.
-
-Style: journal-style scientific schematic. Clean flat vector illustration on a white background, light pastel rounded panels to separate regions. Only 3-4 muted colors, each with one fixed meaning; red only for inhibition or emphasis. Thin, uniform line weight. Proteins as rounded colored capsules with their names inside; membranes as lipid bilayers; activation as solid arrows, inhibition as T-bar lines, indirect effects as dashed arrows. Sans-serif English labels only, each label appears exactly once, spelled exactly as given. No 3D rendering, no shadows, no glow, no decorative background, no photorealism.
-```
-
-<details><summary>Chinese prompt</summary>
-
-```text
-画一张【纤维化中的 TGF-β/SMAD 信号】通路示意图，在一个细胞内从上往下读。严格按下面列出的关系画，不多画：
-1. 【TGF-β 结合顶部细胞膜上的一对受体：TβRII 和 TβRI。】
-2. 【TβRI 磷酸化 SMAD2/3（带 P 的小圆点）。】
-3. 【SMAD2/3 与 SMAD4 结合成复合物。】
-4. 【复合物进入底部的细胞核，开启胶原基因。】
-5. 【SMAD7 抑制 TβRI（红色 T 形线）。】
-标签（每个只出现一次，不加其他文字）：【TGF-β, TβRII, TβRI, SMAD2/3, SMAD4, SMAD7, Collagen genes】。
-
-风格：期刊式科研示意图。白色背景上的干净扁平矢量插画，用浅色圆角面板区分区域。只用 3–4 种低饱和度颜色，每种颜色含义固定，红色只用于抑制或强调。线条细且粗细一致。蛋白画成彩色圆角胶囊，名称写在胶囊里；细胞膜画成磷脂双分子层；激活用实线箭头，抑制用 T 形线，间接作用用虚线箭头。图中文字只用英文无衬线字体，每个标签只出现一次，拼写与给定完全一致。不要 3D 渲染、阴影、发光、装饰性背景或照片质感。
-```
-
-</details>
-
-Model: Nano Banana 2 Lite (gemini-3.1-flash-lite-image, 1K) · Generated 2 times in total; shown are the outputs that passed review
-
-[↑ Back to top](#top)
-
-<sub><a href="https://yila.ai/?utm_source=github&utm_medium=readme&utm_campaign=sci-figure-prompts&utm_content=tgfb-smad">Try in Yila →</a></sub>
-
----
-
-<a id="no-70"></a>
-
-### No. 70: TLR4 signaling (MyD88 branch to NF-κB)
-
-by [@Yila-AI](https://github.com/Yila-AI)
-
-Technique: **membrane receptor to nuclear transcription** · Style: flat vector schematic · Aspect ratio: 4:3
-
-| English prompt |
-|---|
-| <img src="gallery/signaling-pathway/tlr4-myd88-nfkb-en.jpg" width="420"> |
-
-> The Chinese-prompt output did not pass review, so it is not shown.
-
-**English prompt**
-
-```text
-Create a signaling pathway schematic of 【TLR4 signaling through MyD88】 in one macrophage, TLR4 in the cell membrane at the top, read from top to bottom. Draw each relationship exactly as listed and nothing more:
-1. 【LPS binds TLR4 in the cell membrane.】
-2. 【TLR4 recruits MyD88 to its inner tail.】
-3. 【MyD88 activates TRAF6.】
-4. 【TRAF6 activates IKK.】
-5. 【IκBα inhibits NF-κB by holding it in the cytoplasm (red T-bar).】
-6. 【IKK phosphorylates IκBα (small 'P' circle), which is then degraded, freeing NF-κB.】
-7. 【NF-κB enters the nucleus and turns on cytokine genes.】
-Draw NF-κB only once, next to IκBα, with an arrow into the nucleus.
-Use red T-bars only where listed; each T-bar starts at the inhibitor and its flat end touches the inhibited target. Every other arrow is a solid activation arrow. Do not write the numbered sentences in the figure. Write each label only once in the whole figure.
-If a component appears in more than one place or panel, write its label only at its first appearance; every other copy has no text. No label may appear twice anywhere in the figure. Spell every label exactly as given and add no titles.
-Labels, each used once, no other text: 【LPS, TLR4, MyD88, TRAF6, IKK, IκBα, NF-κB, Cytokine genes】.
-
-Style: journal-style scientific schematic. Clean flat vector illustration on a white background, light pastel rounded panels to separate regions. Only 3-4 muted colors, each with one fixed meaning; red only for inhibition or emphasis. Thin, uniform line weight. Proteins as rounded colored capsules with their names inside; membranes as lipid bilayers; activation as solid arrows, inhibition as T-bar lines, indirect effects as dashed arrows. Sans-serif English labels only, each label appears exactly once, spelled exactly as given. No 3D rendering, no shadows, no glow, no decorative background, no photorealism.
-```
-
-<details><summary>Chinese prompt</summary>
-
-```text
-画一张【经 MyD88 的 TLR4 信号】通路示意图，在一个巨噬细胞内，TLR4 在顶部细胞膜上，从上往下读。严格按下面列出的关系画，不多画：
-1. 【LPS 结合细胞膜上的 TLR4。】
-2. 【TLR4 把 MyD88 招募到其胞内尾部。】
-3. 【MyD88 激活 TRAF6。】
-4. 【TRAF6 激活 IKK。】
-5. 【IκBα 把 NF-κB 扣在胞质里，从而抑制它（红色 T 形线）。】
-6. 【IKK 磷酸化 IκBα（带 P 的小圆点），IκBα 随后被降解，释放 NF-κB。】
-7. 【NF-κB 进入细胞核，开启细胞因子基因。】
-NF-κB 只画一次，放在 IκBα 旁边，用一条箭头指向细胞核。
-只在列出的地方用红色 T 形线：从抑制者出发，平头端碰到被抑制的对象。其他箭头都是实线激活箭头。不要把编号句子写进图里。整张图里每个标签只写一次。
-如果同一组件在多处或多个面板出现，只在第一次出现时写标签，其余副本不写字。整张图里任何标签都不能出现两次。每个标签拼写与给定完全一致，不加标题。
-标签（每个只出现一次，不加其他文字）：【LPS, TLR4, MyD88, TRAF6, IKK, IκBα, NF-κB, Cytokine genes】。
-
-风格：期刊式科研示意图。白色背景上的干净扁平矢量插画，用浅色圆角面板区分区域。只用 3–4 种低饱和度颜色，每种颜色含义固定，红色只用于抑制或强调。线条细且粗细一致。蛋白画成彩色圆角胶囊，名称写在胶囊里；细胞膜画成磷脂双分子层；激活用实线箭头，抑制用 T 形线，间接作用用虚线箭头。图中文字只用英文无衬线字体，每个标签只出现一次，拼写与给定完全一致。不要 3D 渲染、阴影、发光、装饰性背景或照片质感。
-```
-
-</details>
-
-Model: Nano Banana 2 Lite (gemini-3.1-flash-lite-image, 1K) · Generated 6 times in total; shown are the outputs that passed review
-
-[↑ Back to top](#top)
-
-<sub><a href="https://yila.ai/?utm_source=github&utm_medium=readme&utm_campaign=sci-figure-prompts&utm_content=tlr4-myd88-nfkb">Try in Yila →</a></sub>
-
----
-
-<a id="no-71"></a>
-
-### No. 71: VEGF/VEGFR2 signaling in an endothelial cell
-
-by [@Yila-AI](https://github.com/Yila-AI)
-
-Technique: **one receptor, two branches** · Style: flat vector schematic · Aspect ratio: 4:3
-
-| Chinese prompt |
-|---|
-| <img src="gallery/signaling-pathway/vegf-vegfr2-zh.jpg" width="420"> |
-
-**English prompt**
-
-```text
-Create a signaling pathway schematic of 【VEGF signaling】 in one endothelial cell lining a blood vessel, VEGFR2 in the cell membrane at the top, read from top to bottom in two branches. Draw each relationship exactly as listed and nothing more:
-1. 【VEGF-A binds VEGFR2 in the cell membrane.】
-2. 【VEGFR2 forms a pair, and its inner tails gain small 'P' circles.】
-3. 【Left branch: VEGFR2 activates PLCγ, and PLCγ activates ERK.】
-4. 【ERK enters the nucleus and drives proliferation.】
-5. 【Right branch: VEGFR2 activates PI3K, and PI3K activates AKT.】
-6. 【AKT promotes cell survival.】
-There are no T-bars in this figure. Do not write the numbered sentences in the figure. Write each label only once in the whole figure.
-Labels, each used once, no other text: 【VEGF-A, VEGFR2, PLCγ, ERK, PI3K, AKT, Proliferation, Survival】.
-
-Style: journal-style scientific schematic. Clean flat vector illustration on a white background, light pastel rounded panels to separate regions. Only 3-4 muted colors, each with one fixed meaning; red only for inhibition or emphasis. Thin, uniform line weight. Proteins as rounded colored capsules with their names inside; membranes as lipid bilayers; activation as solid arrows, inhibition as T-bar lines, indirect effects as dashed arrows. Sans-serif English labels only, each label appears exactly once, spelled exactly as given. No 3D rendering, no shadows, no glow, no decorative background, no photorealism.
-```
-
-<details><summary>Chinese prompt</summary>
-
-```text
-画一张【VEGF 信号】的通路示意图，在一个衬于血管内壁的内皮细胞内，VEGFR2 在顶部细胞膜上，从上往下分两条分支。严格按下面列出的关系画，不多画：
-1. 【VEGF-A 结合细胞膜上的 VEGFR2。】
-2. 【VEGFR2 成对聚合，胞内尾部出现带 P 的小圆点。】
-3. 【左分支：VEGFR2 激活 PLCγ，PLCγ 激活 ERK。】
-4. 【ERK 进入细胞核，推动增殖。】
-5. 【右分支：VEGFR2 激活 PI3K，PI3K 激活 AKT。】
-6. 【AKT 促进细胞存活。】
-图中没有 T 形线。不要把编号句子写进图里。整张图里每个标签只写一次。
-标签（每个只出现一次，不加其他文字）：【VEGF-A, VEGFR2, PLCγ, ERK, PI3K, AKT, Proliferation, Survival】。
-
-风格：期刊式科研示意图。白色背景上的干净扁平矢量插画，用浅色圆角面板区分区域。只用 3–4 种低饱和度颜色，每种颜色含义固定，红色只用于抑制或强调。线条细且粗细一致。蛋白画成彩色圆角胶囊，名称写在胶囊里；细胞膜画成磷脂双分子层；激活用实线箭头，抑制用 T 形线，间接作用用虚线箭头。图中文字只用英文无衬线字体，每个标签只出现一次，拼写与给定完全一致。不要 3D 渲染、阴影、发光、装饰性背景或照片质感。
-```
-
-</details>
-
-Model: Nano Banana 2 Lite (gemini-3.1-flash-lite-image, 1K) · Generated 2 times in total; shown are the outputs that passed review
-
-[↑ Back to top](#top)
-
-<sub><a href="https://yila.ai/?utm_source=github&utm_medium=readme&utm_campaign=sci-figure-prompts&utm_content=vegf-vegfr2">Try in Yila →</a></sub>
-
----
-
-<a id="no-72"></a>
-
-### No. 72: Wnt/β-catenin pathway: OFF versus ON
-
-by [@Yila-AI](https://github.com/Yila-AI)
-
-Technique: **two cells side by side** · Style: flat vector schematic · Aspect ratio: 16:9
-
-| English prompt | Chinese prompt |
-|---|---|
-| <img src="gallery/signaling-pathway/wnt-beta-catenin-en.jpg" width="420"> | <img src="gallery/signaling-pathway/wnt-beta-catenin-zh.jpg" width="420"> |
-
-**English prompt**
-
-```text
-Create a side-by-side schematic of 【Wnt/β-catenin signaling】: two cells, left panel OFF and right panel ON. Draw each relationship exactly as listed and nothing more:
-1. 【Left cell: the destruction complex marks β-catenin for degradation; no β-catenin reaches the nucleus.】
-2. 【Right cell: Wnt binds Frizzled and LRP5/6 in the membrane.】
-3. 【Right cell: the receptors activate Dishevelled.】
-4. 【Right cell: Dishevelled inhibits the destruction complex (red T-bar).】
-5. 【Right cell: β-catenin builds up, enters the nucleus and binds TCF/LEF to turn on target genes.】
-In the Wnt OFF cell the target genes stay off, with no arrow at the genes. In the Wnt ON cell, no arrow points from the destruction complex to β-catenin.
-Labels, each used once, no other text: 【Wnt OFF, Wnt ON, Wnt, Frizzled, LRP5/6, Dishevelled, Destruction complex, β-catenin, TCF/LEF】.
-
-Style: journal-style scientific schematic. Clean flat vector illustration on a white background, light pastel rounded panels to separate regions. Only 3-4 muted colors, each with one fixed meaning; red only for inhibition or emphasis. Thin, uniform line weight. Proteins as rounded colored capsules with their names inside; membranes as lipid bilayers; activation as solid arrows, inhibition as T-bar lines, indirect effects as dashed arrows. Sans-serif English labels only, each label appears exactly once, spelled exactly as given. No 3D rendering, no shadows, no glow, no decorative background, no photorealism.
-```
-
-<details><summary>Chinese prompt</summary>
-
-```text
-画一张【Wnt/β-catenin 信号】的左右对照示意图：两个细胞，左边是关闭状态，右边是开启状态。严格按下面列出的关系画，不多画：
-1. 【左侧细胞：降解复合物标记 β-catenin 使其降解，没有 β-catenin 进入细胞核。】
-2. 【右侧细胞：Wnt 结合膜上的 Frizzled 和 LRP5/6。】
-3. 【右侧细胞：受体激活 Dishevelled。】
-4. 【右侧细胞：Dishevelled 抑制降解复合物（红色 T 形线）。】
-5. 【右侧细胞：β-catenin 积累，进入细胞核，与 TCF/LEF 结合开启靶基因。】
-关闭态细胞里靶基因保持关闭，基因处不画箭头。开启态细胞里，降解复合物不指向 β-catenin。
-标签（每个只出现一次，不加其他文字）：【Wnt OFF, Wnt ON, Wnt, Frizzled, LRP5/6, Dishevelled, Destruction complex, β-catenin, TCF/LEF】。
-
-风格：期刊式科研示意图。白色背景上的干净扁平矢量插画，用浅色圆角面板区分区域。只用 3–4 种低饱和度颜色，每种颜色含义固定，红色只用于抑制或强调。线条细且粗细一致。蛋白画成彩色圆角胶囊，名称写在胶囊里；细胞膜画成磷脂双分子层；激活用实线箭头，抑制用 T 形线，间接作用用虚线箭头。图中文字只用英文无衬线字体，每个标签只出现一次，拼写与给定完全一致。不要 3D 渲染、阴影、发光、装饰性背景或照片质感。
-```
-
-</details>
-
-Model: Nano Banana 2 Lite (gemini-3.1-flash-lite-image, 1K) · Generated 5 times in total; shown are the outputs that passed review
-
-[↑ Back to top](#top)
-
-<sub><a href="https://yila.ai/?utm_source=github&utm_medium=readme&utm_campaign=sci-figure-prompts&utm_content=wnt-beta-catenin">Try in Yila →</a></sub>
+**[👉 Try it now in YILA →](https://yila.ai/scientific-figure-prompts/insulin-signaling?utm_source=github&utm_medium=readme&utm_campaign=sci-figure-prompts&utm_content=insulin-signaling)** · [↑ Back to top](#top)
 
 ---
 
 <a id="medical-illustration"></a>
 
-## Medical Illustration
+### 🫀 Medical Illustration
 
 <a id="no-73"></a>
 
-### No. 73: Acute kidney injury: tubular damage
+#### No. 73: Acute kidney injury: tubular damage
 
-by [@Yila-AI](https://github.com/Yila-AI)
+![Model](https://img.shields.io/badge/Model-GPT%20Image%202.6-10a37f) ![Category](https://img.shields.io/badge/Medical%20Illustration-blue)
 
-Technique: **one tubule segment, normal on the left, injured on the right** · Style: scientific illustration · Aspect ratio: 16:9
+##### 📖 Description
 
-| Chinese prompt |
-|---|
-| <img src="gallery/medical-illustration/acute-kidney-injury-tubule-zh.jpg" width="420"> |
+Technique: **one tubule segment, normal on the left, injured on the right** · Style: scientific illustration · Aspect Ratio: `16:9`
 
-**English prompt**
+##### 📝 Prompt
 
 ```text
 Create a longitudinal cross-section illustration of 【a proximal tubule in acute kidney injury】, read from left to right:
@@ -3767,29 +1793,34 @@ Style: journal-style scientific illustration. Clean semi-realistic vector illust
 
 </details>
 
-Model: Nano Banana 2 Lite (gemini-3.1-flash-lite-image, 1K) · Generated 2 times in total; shown are the outputs that passed review
+##### 🖼️ Generated Image
 
-[↑ Back to top](#top)
+<div align="center">
+<a href="https://yila.ai/scientific-figure-prompts/acute-kidney-injury-tubule?utm_source=github&utm_medium=readme&utm_campaign=sci-figure-prompts&utm_content=acute-kidney-injury-tubule"><img src="gallery/medical-illustration/acute-kidney-injury-tubule-zh.jpg" width="600" alt="Acute kidney injury: tubular damage"></a>
+</div>
 
-<sub><a href="https://yila.ai/?utm_source=github&utm_medium=readme&utm_campaign=sci-figure-prompts&utm_content=acute-kidney-injury-tubule">Try in Yila →</a></sub>
+##### 📌 Details
+
+- **Author:** [@Yila-AI](https://github.com/Yila-AI)
+- **Model:** GPT Image 2.6
+- **Aspect Ratio:** 16:9
+- **Languages:** en, zh
+
+**[👉 Try it now in YILA →](https://yila.ai/scientific-figure-prompts/acute-kidney-injury-tubule?utm_source=github&utm_medium=readme&utm_campaign=sci-figure-prompts&utm_content=acute-kidney-injury-tubule)** · [↑ Back to top](#top)
 
 ---
 
 <a id="no-74"></a>
 
-### No. 74: Alveolar gas exchange
+#### No. 74: Alveolar gas exchange
 
-by [@Yila-AI](https://github.com/Yila-AI)
+![Model](https://img.shields.io/badge/Model-GPT%20Image%202.6-10a37f) ![Category](https://img.shields.io/badge/Medical%20Illustration-blue)
 
-Technique: **overview plus a circular inset** · Style: scientific illustration · Aspect ratio: 16:9
+##### 📖 Description
 
-| English prompt |
-|---|
-| <img src="gallery/medical-illustration/alveolar-gas-exchange-en.jpg" width="420"> |
+Technique: **overview plus a circular inset** · Style: scientific illustration · Aspect Ratio: `16:9`
 
-> The Chinese-prompt output did not pass review, so it is not shown.
-
-**English prompt**
+##### 📝 Prompt
 
 ```text
 Create a scientific illustration of 【gas exchange in the lung】: on the left, a bronchiole ending in a cluster of alveoli wrapped in capillaries. On the right, a circular magnified inset of one alveolus and one capillary: O2 diffuses from the alveolus into the red blood cells, and CO2 diffuses from the blood into the alveolus. Thin type I cells line the wall; one rounded type II cell sits in a corner.
@@ -3811,27 +1842,34 @@ Style: journal-style scientific illustration. Clean semi-realistic vector illust
 
 </details>
 
-Model: Nano Banana 2 Lite (gemini-3.1-flash-lite-image, 1K) · Generated 4 times in total; shown are the outputs that passed review
+##### 🖼️ Generated Image
 
-[↑ Back to top](#top)
+<div align="center">
+<a href="https://yila.ai/scientific-figure-prompts/alveolar-gas-exchange?utm_source=github&utm_medium=readme&utm_campaign=sci-figure-prompts&utm_content=alveolar-gas-exchange"><img src="gallery/medical-illustration/alveolar-gas-exchange-en.jpg" width="600" alt="Alveolar gas exchange"></a>
+</div>
 
-<sub><a href="https://yila.ai/?utm_source=github&utm_medium=readme&utm_campaign=sci-figure-prompts&utm_content=alveolar-gas-exchange">Try in Yila →</a></sub>
+##### 📌 Details
+
+- **Author:** [@Yila-AI](https://github.com/Yila-AI)
+- **Model:** GPT Image 2.6
+- **Aspect Ratio:** 16:9
+- **Languages:** en, zh
+
+**[👉 Try it now in YILA →](https://yila.ai/scientific-figure-prompts/alveolar-gas-exchange?utm_source=github&utm_medium=readme&utm_campaign=sci-figure-prompts&utm_content=alveolar-gas-exchange)** · [↑ Back to top](#top)
 
 ---
 
 <a id="no-75"></a>
 
-### No. 75: Healthy versus Alzheimer's brain
+#### No. 75: Healthy versus Alzheimer's brain
 
-by [@Yila-AI](https://github.com/Yila-AI)
+![Model](https://img.shields.io/badge/Model-GPT%20Image%202.6-10a37f) ![Category](https://img.shields.io/badge/Medical%20Illustration-blue) ![Featured](https://img.shields.io/badge/%E2%AD%90-Featured-gold)
 
-Technique: **side-by-side panels + magnified inset** · Style: soft semi-realistic illustration · Aspect ratio: 4:3
+##### 📖 Description
 
-| English prompt | Chinese prompt |
-|---|---|
-| <img src="gallery/medical-illustration/alzheimers-brain-en.jpg" width="420"> | <img src="gallery/medical-illustration/alzheimers-brain-zh.jpg" width="420"> |
+Technique: **side-by-side panels + magnified inset** · Style: soft semi-realistic illustration · Aspect Ratio: `4:3`
 
-**English prompt**
+##### 📝 Prompt
 
 ```text
 Create a side-by-side medical illustration comparing 【a healthy brain and an Alzheimer's disease brain】, separated by a thin dashed vertical line.
@@ -3855,29 +1893,34 @@ Style: journal graphical-abstract illustration. Soft semi-realistic medical illu
 
 </details>
 
-Model: Nano Banana 2 Lite (gemini-3.1-flash-lite-image, 1K) · Generated 2 times in total; shown are the outputs that passed review
+##### 🖼️ Generated Image
 
-[↑ Back to top](#top)
+<div align="center">
+<a href="https://yila.ai/scientific-figure-prompts/alzheimers-brain?utm_source=github&utm_medium=readme&utm_campaign=sci-figure-prompts&utm_content=alzheimers-brain"><img src="gallery/medical-illustration/alzheimers-brain-en.jpg" width="600" alt="Healthy versus Alzheimer's brain"></a>
+</div>
 
-<sub><a href="https://yila.ai/?utm_source=github&utm_medium=readme&utm_campaign=sci-figure-prompts&utm_content=alzheimers-brain">Try in Yila →</a></sub>
+##### 📌 Details
+
+- **Author:** [@Yila-AI](https://github.com/Yila-AI)
+- **Model:** GPT Image 2.6
+- **Aspect Ratio:** 4:3
+- **Languages:** en, zh
+
+**[👉 Try it now in YILA →](https://yila.ai/scientific-figure-prompts/alzheimers-brain?utm_source=github&utm_medium=readme&utm_campaign=sci-figure-prompts&utm_content=alzheimers-brain)** · [↑ Back to top](#top)
 
 ---
 
 <a id="no-76"></a>
 
-### No. 76: Atherosclerotic plaque formation
+#### No. 76: Atherosclerotic plaque formation
 
-by [@Yila-AI](https://github.com/Yila-AI)
+![Model](https://img.shields.io/badge/Model-GPT%20Image%202.6-10a37f) ![Category](https://img.shields.io/badge/Medical%20Illustration-blue)
 
-Technique: **cross-section + staged sequence** · Style: soft semi-realistic illustration · Aspect ratio: 16:9
+##### 📖 Description
 
-| English prompt |
-|---|
-| <img src="gallery/medical-illustration/atherosclerosis-plaque-en.jpg" width="420"> |
+Technique: **cross-section + staged sequence** · Style: soft semi-realistic illustration · Aspect Ratio: `16:9`
 
-> The Chinese-prompt output did not pass review, so it is not shown.
-
-**English prompt**
+##### 📝 Prompt
 
 ```text
 Create a medical illustration of 【one artery cut open lengthwise】, showing disease progression from left to right in three stages along the same vessel.
@@ -3905,29 +1948,34 @@ Style: journal graphical-abstract illustration. Soft semi-realistic medical illu
 
 </details>
 
-Model: Nano Banana 2 Lite (gemini-3.1-flash-lite-image, 1K) · Generated 6 times in total; shown are the outputs that passed review
+##### 🖼️ Generated Image
 
-[↑ Back to top](#top)
+<div align="center">
+<a href="https://yila.ai/scientific-figure-prompts/atherosclerosis-plaque?utm_source=github&utm_medium=readme&utm_campaign=sci-figure-prompts&utm_content=atherosclerosis-plaque"><img src="gallery/medical-illustration/atherosclerosis-plaque-en.jpg" width="600" alt="Atherosclerotic plaque formation"></a>
+</div>
 
-<sub><a href="https://yila.ai/?utm_source=github&utm_medium=readme&utm_campaign=sci-figure-prompts&utm_content=atherosclerosis-plaque">Try in Yila →</a></sub>
+##### 📌 Details
+
+- **Author:** [@Yila-AI](https://github.com/Yila-AI)
+- **Model:** GPT Image 2.6
+- **Aspect Ratio:** 16:9
+- **Languages:** en, zh
+
+**[👉 Try it now in YILA →](https://yila.ai/scientific-figure-prompts/atherosclerosis-plaque?utm_source=github&utm_medium=readme&utm_campaign=sci-figure-prompts&utm_content=atherosclerosis-plaque)** · [↑ Back to top](#top)
 
 ---
 
 <a id="no-77"></a>
 
-### No. 77: Bone remodeling: formation and resorption
+#### No. 77: Bone remodeling: formation and resorption
 
-by [@Yila-AI](https://github.com/Yila-AI)
+![Model](https://img.shields.io/badge/Model-GPT%20Image%202.6-10a37f) ![Category](https://img.shields.io/badge/Medical%20Illustration-blue)
 
-Technique: **bone-surface cross-section with signaling molecules** · Style: scientific illustration · Aspect ratio: 16:9
+##### 📖 Description
 
-| English prompt |
-|---|
-| <img src="gallery/medical-illustration/bone-remodeling-en.jpg" width="420"> |
+Technique: **bone-surface cross-section with signaling molecules** · Style: scientific illustration · Aspect Ratio: `16:9`
 
-> The Chinese-prompt output did not pass review, so it is not shown.
-
-**English prompt**
+##### 📝 Prompt
 
 ```text
 Create a cross-section illustration of 【bone remodeling】 along a bone surface, read from left to right: 【a large multinucleated osteoclast digging a resorption pit; osteoblasts laying down new bone matrix; one osteocyte embedded in the bone below】. Above them, RANKL on an osteoblast binds RANK on an osteoclast precursor, and OPG blocks RANKL with a red T-bar whose flat end touches RANKL. The cell receiving RANKL is an osteoclast precursor.
@@ -3949,29 +1997,34 @@ Style: journal-style scientific illustration. Clean semi-realistic vector illust
 
 </details>
 
-Model: Nano Banana 2 Lite (gemini-3.1-flash-lite-image, 1K) · Generated 6 times in total; shown are the outputs that passed review
+##### 🖼️ Generated Image
 
-[↑ Back to top](#top)
+<div align="center">
+<a href="https://yila.ai/scientific-figure-prompts/bone-remodeling?utm_source=github&utm_medium=readme&utm_campaign=sci-figure-prompts&utm_content=bone-remodeling"><img src="gallery/medical-illustration/bone-remodeling-en.jpg" width="600" alt="Bone remodeling: formation and resorption"></a>
+</div>
 
-<sub><a href="https://yila.ai/?utm_source=github&utm_medium=readme&utm_campaign=sci-figure-prompts&utm_content=bone-remodeling">Try in Yila →</a></sub>
+##### 📌 Details
+
+- **Author:** [@Yila-AI](https://github.com/Yila-AI)
+- **Model:** GPT Image 2.6
+- **Aspect Ratio:** 16:9
+- **Languages:** en, zh
+
+**[👉 Try it now in YILA →](https://yila.ai/scientific-figure-prompts/bone-remodeling?utm_source=github&utm_medium=readme&utm_campaign=sci-figure-prompts&utm_content=bone-remodeling)** · [↑ Back to top](#top)
 
 ---
 
 <a id="no-78"></a>
 
-### No. 78: Coronary artery stenosis
+#### No. 78: Coronary artery stenosis
 
-by [@Yila-AI](https://github.com/Yila-AI)
+![Model](https://img.shields.io/badge/Model-GPT%20Image%202.6-10a37f) ![Category](https://img.shields.io/badge/Medical%20Illustration-blue)
 
-Technique: **whole heart plus a vessel cross-section inset** · Style: scientific illustration · Aspect ratio: 16:9
+##### 📖 Description
 
-| English prompt |
-|---|
-| <img src="gallery/medical-illustration/coronary-stenosis-en.jpg" width="420"> |
+Technique: **whole heart plus a vessel cross-section inset** · Style: scientific illustration · Aspect Ratio: `16:9`
 
-> The Chinese-prompt output did not pass review, so it is not shown.
-
-**English prompt**
+##### 📝 Prompt
 
 ```text
 Create a scientific illustration of 【coronary artery stenosis】: on the left, the front of the heart with the aorta at the top and the coronary arteries running over its surface. A plaque narrows the left anterior descending artery partway down, and the heart muscle below the narrowing is shaded pale purple as ischemic myocardium. On the right, a circular magnified inset shows a cross-section of the narrowed artery: a yellow plaque filling most of the wall, leaving a small narrowed lumen with a few red blood cells.
@@ -3993,27 +2046,34 @@ Style: journal-style scientific illustration. Clean semi-realistic vector illust
 
 </details>
 
-Model: Nano Banana 2 Lite (gemini-3.1-flash-lite-image, 1K) · Generated 2 times in total; shown are the outputs that passed review
+##### 🖼️ Generated Image
 
-[↑ Back to top](#top)
+<div align="center">
+<a href="https://yila.ai/scientific-figure-prompts/coronary-stenosis?utm_source=github&utm_medium=readme&utm_campaign=sci-figure-prompts&utm_content=coronary-stenosis"><img src="gallery/medical-illustration/coronary-stenosis-en.jpg" width="600" alt="Coronary artery stenosis"></a>
+</div>
 
-<sub><a href="https://yila.ai/?utm_source=github&utm_medium=readme&utm_campaign=sci-figure-prompts&utm_content=coronary-stenosis">Try in Yila →</a></sub>
+##### 📌 Details
+
+- **Author:** [@Yila-AI](https://github.com/Yila-AI)
+- **Model:** GPT Image 2.6
+- **Aspect Ratio:** 16:9
+- **Languages:** en, zh
+
+**[👉 Try it now in YILA →](https://yila.ai/scientific-figure-prompts/coronary-stenosis?utm_source=github&utm_medium=readme&utm_campaign=sci-figure-prompts&utm_content=coronary-stenosis)** · [↑ Back to top](#top)
 
 ---
 
 <a id="no-79"></a>
 
-### No. 79: Four stages of fracture healing
+#### No. 79: Four stages of fracture healing
 
-by [@Yila-AI](https://github.com/Yila-AI)
+![Model](https://img.shields.io/badge/Model-GPT%20Image%202.6-10a37f) ![Category](https://img.shields.io/badge/Medical%20Illustration-blue)
 
-Technique: **staged sequence** · Style: soft semi-realistic illustration · Aspect ratio: 16:9
+##### 📖 Description
 
-| English prompt | Chinese prompt |
-|---|---|
-| <img src="gallery/medical-illustration/fracture-healing-en.jpg" width="420"> | <img src="gallery/medical-illustration/fracture-healing-zh.jpg" width="420"> |
+Technique: **staged sequence** · Style: soft semi-realistic illustration · Aspect Ratio: `16:9`
 
-**English prompt**
+##### 📝 Prompt
 
 ```text
 Create a medical illustration of 【bone fracture healing】 in four stages from left to right, each showing the same long bone cut lengthwise at the break.
@@ -4041,27 +2101,34 @@ Style: journal graphical-abstract illustration. Soft semi-realistic medical illu
 
 </details>
 
-Model: Nano Banana 2 Lite (gemini-3.1-flash-lite-image, 1K) · Generated 2 times in total; shown are the outputs that passed review
+##### 🖼️ Generated Image
 
-[↑ Back to top](#top)
+<div align="center">
+<a href="https://yila.ai/scientific-figure-prompts/fracture-healing?utm_source=github&utm_medium=readme&utm_campaign=sci-figure-prompts&utm_content=fracture-healing"><img src="gallery/medical-illustration/fracture-healing-en.jpg" width="600" alt="Four stages of fracture healing"></a>
+</div>
 
-<sub><a href="https://yila.ai/?utm_source=github&utm_medium=readme&utm_campaign=sci-figure-prompts&utm_content=fracture-healing">Try in Yila →</a></sub>
+##### 📌 Details
+
+- **Author:** [@Yila-AI](https://github.com/Yila-AI)
+- **Model:** GPT Image 2.6
+- **Aspect Ratio:** 16:9
+- **Languages:** en, zh
+
+**[👉 Try it now in YILA →](https://yila.ai/scientific-figure-prompts/fracture-healing?utm_source=github&utm_medium=readme&utm_campaign=sci-figure-prompts&utm_content=fracture-healing)** · [↑ Back to top](#top)
 
 ---
 
 <a id="no-80"></a>
 
-### No. 80: Three layers of the glomerular filtration barrier
+#### No. 80: Three layers of the glomerular filtration barrier
 
-by [@Yila-AI](https://github.com/Yila-AI)
+![Model](https://img.shields.io/badge/Model-GPT%20Image%202.6-10a37f) ![Category](https://img.shields.io/badge/Medical%20Illustration-blue)
 
-Technique: **layered cross-section** · Style: soft semi-realistic illustration · Aspect ratio: 4:3
+##### 📖 Description
 
-| English prompt | Chinese prompt |
-|---|---|
-| <img src="gallery/medical-illustration/glomerular-barrier-en.jpg" width="420"> | <img src="gallery/medical-illustration/glomerular-barrier-zh.jpg" width="420"> |
+Technique: **layered cross-section** · Style: soft semi-realistic illustration · Aspect Ratio: `4:3`
 
-**English prompt**
+##### 📝 Prompt
 
 ```text
 Create a cross-section medical illustration of 【the glomerular filtration barrier】, with three layers stacked from the blood side at the top to the urine side at the bottom:
@@ -4085,579 +2152,38 @@ Style: journal graphical-abstract illustration. Soft semi-realistic medical illu
 
 </details>
 
-Model: Nano Banana 2 Lite (gemini-3.1-flash-lite-image, 1K) · Generated 5 times in total; shown are the outputs that passed review
+##### 🖼️ Generated Image
 
-[↑ Back to top](#top)
+<div align="center">
+<a href="https://yila.ai/scientific-figure-prompts/glomerular-barrier?utm_source=github&utm_medium=readme&utm_campaign=sci-figure-prompts&utm_content=glomerular-barrier"><img src="gallery/medical-illustration/glomerular-barrier-en.jpg" width="600" alt="Three layers of the glomerular filtration barrier"></a>
+</div>
 
-<sub><a href="https://yila.ai/?utm_source=github&utm_medium=readme&utm_campaign=sci-figure-prompts&utm_content=glomerular-barrier">Try in Yila →</a></sub>
+##### 📌 Details
 
----
+- **Author:** [@Yila-AI](https://github.com/Yila-AI)
+- **Model:** GPT Image 2.6
+- **Aspect Ratio:** 4:3
+- **Languages:** en, zh
 
-<a id="no-81"></a>
-
-### No. 81: Heart anatomy and blood flow
-
-by [@Yila-AI](https://github.com/Yila-AI)
-
-Technique: **four-chamber cross-section with two-color flow** · Style: scientific illustration · Aspect ratio: 4:3
-
-| English prompt | Chinese prompt |
-|---|---|
-| <img src="gallery/medical-illustration/heart-blood-flow-en.jpg" width="420"> | <img src="gallery/medical-illustration/heart-blood-flow-zh.jpg" width="420"> |
-
-**English prompt**
-
-```text
-Create a cross-section illustration of 【the human heart】 showing four chambers. Blue arrows show deoxygenated blood flowing from the vena cava into the right atrium, then the right ventricle, then out through the pulmonary artery. Red arrows show oxygenated blood flowing from the pulmonary veins into the left atrium, then the left ventricle, then out through the aorta.
-Write each label only once in the whole figure.
-Labels, each used once, no other text: 【Right atrium, Right ventricle, Left atrium, Left ventricle, Aorta, Pulmonary artery, Vena cava, Pulmonary veins】.
-
-Style: journal-style scientific illustration. Clean semi-realistic vector illustration with gentle shading, using cross-sections or cutaways where they explain the structure, on a white background. Muted, harmonious palette with one accent color for the key process. Thin directional arrows for flows. Generous white space and a clear reading direction. Sans-serif English labels only, each label appears exactly once, spelled exactly as given. No cartoon style, no glossy CGI, no dark background, no stock-photo look, no decorative background.
-```
-
-<details><summary>Chinese prompt</summary>
-
-```text
-画一张【人体心脏】的截面插画，显示四个腔室。蓝色箭头表示缺氧血从腔静脉进入右心房，再进入右心室，经肺动脉流出。红色箭头表示富氧血从肺静脉进入左心房，再进入左心室，经主动脉流出。
-整张图里每个标签只写一次。
-标签（每个只出现一次，不加其他文字）：【Right atrium, Right ventricle, Left atrium, Left ventricle, Aorta, Pulmonary artery, Vena cava, Pulmonary veins】。
-
-风格：期刊式科学插画。干净的半写实矢量插画，带柔和的明暗；需要说明结构时使用剖面或剖切视图，白色背景。配色低饱和、协调，只用一个强调色突出关键过程。用细的方向箭头表示流动。留白充足，阅读方向清晰。图中文字只用英文无衬线字体，每个标签只出现一次，拼写与给定完全一致。不要卡通风格、不要光滑的 CG 渲染、不要深色背景、不要图库照片感、不要装饰性背景。
-```
-
-</details>
-
-Model: Nano Banana 2 Lite (gemini-3.1-flash-lite-image, 1K) · Generated 4 times in total; shown are the outputs that passed review
-
-[↑ Back to top](#top)
-
-<sub><a href="https://yila.ai/?utm_source=github&utm_medium=readme&utm_campaign=sci-figure-prompts&utm_content=heart-blood-flow">Try in Yila →</a></sub>
-
----
-
-<a id="no-82"></a>
-
-### No. 82: Inflammatory bowel disease: healthy versus inflamed colon
-
-by [@Yila-AI](https://github.com/Yila-AI)
-
-Technique: **two mucosa sections side by side** · Style: scientific illustration · Aspect ratio: 16:9
-
-| English prompt | Chinese prompt |
-|---|---|
-| <img src="gallery/medical-illustration/ibd-colon-en.jpg" width="420"> | <img src="gallery/medical-illustration/ibd-colon-zh.jpg" width="420"> |
-
-**English prompt**
-
-```text
-Create a side-by-side cross-section illustration of 【the colon mucosa in ulcerative colitis】:
-1. Left, healthy colon: 【regular, evenly spaced crypts full of goblet cells, a thick mucus layer on the surface keeping gut bacteria away from the epithelium】.
-2. Right, inflamed colon: 【a thin, broken mucus layer with bacteria touching the epithelium, fewer goblet cells, distorted crypts, one crypt filled with neutrophils (crypt abscess), an ulcer where the surface is lost, and many immune cells crowding the tissue below】.
-Each structure is labeled in only one of the two panels.
-Write each label only once in the whole figure.
-Labels, each used once, no other text: 【Healthy colon, Inflamed colon, Mucus layer, Goblet cell, Crypt, Crypt abscess, Ulcer, Immune cells】.
-
-Style: journal-style scientific illustration. Clean semi-realistic vector illustration with gentle shading, using cross-sections or cutaways where they explain the structure, on a white background. Muted, harmonious palette with one accent color for the key process. Thin directional arrows for flows. Generous white space and a clear reading direction. Sans-serif English labels only, each label appears exactly once, spelled exactly as given. No cartoon style, no glossy CGI, no dark background, no stock-photo look, no decorative background.
-```
-
-<details><summary>Chinese prompt</summary>
-
-```text
-画一张【溃疡性结肠炎结肠黏膜】的左右对照截面插画：
-1. 左，健康结肠：【隐窝规则、间距均匀，充满杯状细胞；表面一层厚黏液，把肠道细菌隔离在上皮之外】。
-2. 右，发炎结肠：【黏液层变薄破损，细菌接触上皮；杯状细胞减少，隐窝变形；一个隐窝里塞满中性粒细胞（隐窝脓肿）；一处表面缺失形成溃疡；下方组织里挤满免疫细胞】。
-每个结构只在其中一个面板里标注。
-整张图里每个标签只写一次。
-标签（每个只出现一次，不加其他文字）：【Healthy colon, Inflamed colon, Mucus layer, Goblet cell, Crypt, Crypt abscess, Ulcer, Immune cells】。
-
-风格：期刊式科学插画。干净的半写实矢量插画，带柔和的明暗；需要说明结构时使用剖面或剖切视图，白色背景。配色低饱和、协调，只用一个强调色突出关键过程。用细的方向箭头表示流动。留白充足，阅读方向清晰。图中文字只用英文无衬线字体，每个标签只出现一次，拼写与给定完全一致。不要卡通风格、不要光滑的 CG 渲染、不要深色背景、不要图库照片感、不要装饰性背景。
-```
-
-</details>
-
-Model: Nano Banana 2 Lite (gemini-3.1-flash-lite-image, 1K) · Generated 2 times in total; shown are the outputs that passed review
-
-[↑ Back to top](#top)
-
-<sub><a href="https://yila.ai/?utm_source=github&utm_medium=readme&utm_campaign=sci-figure-prompts&utm_content=ibd-colon">Try in Yila →</a></sub>
-
----
-
-<a id="no-83"></a>
-
-### No. 83: Intestinal barrier: healthy versus leaky
-
-by [@Yila-AI](https://github.com/Yila-AI)
-
-Technique: **side-by-side cross-sections** · Style: scientific illustration · Aspect ratio: 16:9
-
-| English prompt | Chinese prompt |
-|---|---|
-| <img src="gallery/medical-illustration/intestinal-barrier-en.jpg" width="420"> | <img src="gallery/medical-illustration/intestinal-barrier-zh.jpg" width="420"> |
-
-**English prompt**
-
-```text
-Create a side-by-side cross-section of 【the intestinal lining】:
-1. Left half, healthy: 【a thick mucus layer, a single row of epithelial cells sealed by tight junctions, and gut bacteria staying in the lumen】.
-2. Right half, leaky: 【a thin mucus layer, gaps between epithelial cells, bacteria and LPS crossing into the tissue below, where immune cells gather】.
-Labels, each used once, no other text: 【Healthy, Leaky gut, Mucus layer, Tight junction, Epithelium, Microbiota, LPS, Immune cells】.
-
-Style: journal-style scientific illustration. Clean semi-realistic vector illustration with gentle shading, using cross-sections or cutaways where they explain the structure, on a white background. Muted, harmonious palette with one accent color for the key process. Thin directional arrows for flows. Generous white space and a clear reading direction. Sans-serif English labels only, each label appears exactly once, spelled exactly as given. No cartoon style, no glossy CGI, no dark background, no stock-photo look, no decorative background.
-```
-
-<details><summary>Chinese prompt</summary>
-
-```text
-画一张【肠道黏膜】的左右对照截面图：
-1. 左半边，健康：【厚的黏液层，一排上皮细胞由紧密连接封住，肠道细菌留在肠腔里】。
-2. 右半边，受损：【黏液层变薄，上皮细胞之间出现缝隙，细菌和 LPS 穿过进入下方组织，免疫细胞在那里聚集】。
-标签（每个只出现一次，不加其他文字）：【Healthy, Leaky gut, Mucus layer, Tight junction, Epithelium, Microbiota, LPS, Immune cells】。
-
-风格：期刊式科学插画。干净的半写实矢量插画，带柔和的明暗；需要说明结构时使用剖面或剖切视图，白色背景。配色低饱和、协调，只用一个强调色突出关键过程。用细的方向箭头表示流动。留白充足，阅读方向清晰。图中文字只用英文无衬线字体，每个标签只出现一次，拼写与给定完全一致。不要卡通风格、不要光滑的 CG 渲染、不要深色背景、不要图库照片感、不要装饰性背景。
-```
-
-</details>
-
-Model: Nano Banana 2 Lite (gemini-3.1-flash-lite-image, 1K) · Generated 2 times in total; shown are the outputs that passed review
-
-[↑ Back to top](#top)
-
-<sub><a href="https://yila.ai/?utm_source=github&utm_medium=readme&utm_campaign=sci-figure-prompts&utm_content=intestinal-barrier">Try in Yila →</a></sub>
-
----
-
-<a id="no-84"></a>
-
-### No. 84: Healthy versus fibrotic liver
-
-by [@Yila-AI](https://github.com/Yila-AI)
-
-Technique: **side-by-side panels + multi-scale magnified insets** · Style: soft semi-realistic illustration · Aspect ratio: 16:9
-
-| English prompt | Chinese prompt |
-|---|---|
-| <img src="gallery/medical-illustration/liver-fibrosis-en.jpg" width="420"> | <img src="gallery/medical-illustration/liver-fibrosis-zh.jpg" width="420"> |
-
-**English prompt**
-
-```text
-Create a side-by-side medical illustration comparing 【a healthy liver and a fibrotic liver】, separated by a thin dashed vertical line.
-Left: 【a smooth, reddish-brown healthy liver; a circular magnified inset shows orderly hepatocytes and a quiet, star-shaped stellate cell storing small lipid droplets】.
-Right: 【a shrunken liver with a bumpy, scarred surface; a circular magnified inset shows the stellate cell turned into an elongated activated cell, surrounded by thick collagen fibers between damaged hepatocytes】.
-Labels, each used once, no other text: 【Healthy liver, Fibrotic liver, Hepatocyte, Stellate cell, Collagen】.
-
-Style: journal graphical-abstract illustration. Soft semi-realistic medical illustration with gentle volume and subtle hand-painted texture, on a clean white background. Muted, harmonious palette with one accent color. Clear left-to-right narrative, generous white space. Sans-serif English labels only, each label appears exactly once, spelled exactly as given. No cartoon style, no glossy CGI, no dark background, no stock-photo look.
-```
-
-<details><summary>Chinese prompt</summary>
-
-```text
-画一张左右并排的医学插图，比较【健康肝脏和纤维化肝脏】，中间用一条细虚线分开。
-左：【表面光滑、红褐色的健康肝脏；一个圆形放大框展示排列整齐的肝细胞，以及一个处于静止状态、储存小脂滴的星形肝星状细胞】。
-右：【体积缩小、表面凹凸不平带瘢痕的肝脏；一个圆形放大框展示星状细胞变成拉长的激活细胞，受损肝细胞之间被粗大的胶原纤维包围】。
-标签（每个只出现一次，不加其他文字）：【Healthy liver, Fibrotic liver, Hepatocyte, Stellate cell, Collagen】。
-
-风格：期刊图形摘要插画。柔和的半写实医学插画，带轻微体积感和细腻的手绘质感，白色干净背景。配色低饱和、协调，只用一个强调色。从左到右叙事清晰，留白充足。图中文字只用英文无衬线字体，每个标签只出现一次，拼写与给定完全一致。不要卡通风格、不要光滑的 CG 渲染、不要深色背景、不要图库照片感。
-```
-
-</details>
-
-Model: Nano Banana 2 Lite (gemini-3.1-flash-lite-image, 1K) · Generated 4 times in total; shown are the outputs that passed review
-
-[↑ Back to top](#top)
-
-<sub><a href="https://yila.ai/?utm_source=github&utm_medium=readme&utm_campaign=sci-figure-prompts&utm_content=liver-fibrosis">Try in Yila →</a></sub>
-
----
-
-<a id="no-85"></a>
-
-### No. 85: Nephron structure and filtrate flow
-
-by [@Yila-AI](https://github.com/Yila-AI)
-
-Technique: **structure + flow arrows** · Style: soft semi-realistic illustration · Aspect ratio: 3:4
-
-| English prompt | Chinese prompt |
-|---|---|
-| <img src="gallery/medical-illustration/nephron-en.jpg" width="420"> | <img src="gallery/medical-illustration/nephron-zh.jpg" width="420"> |
-
-**English prompt**
-
-```text
-Create a vertical medical illustration of 【one nephron of the kidney】 with the flow shown by arrows.
-Top: 【the glomerulus, a ball of capillaries inside Bowman's capsule】.
-Then 【the proximal tubule, the U-shaped loop of Henle going down and back up, and the distal tubule】, ending in 【the collecting duct】 at the bottom.
-Arrows follow 【the filtrate from the glomerulus to the collecting duct】. A small outline in the corner shows 【where the nephron sits in the kidney】.
-Labels, each used once, no other text: 【Glomerulus, Proximal tubule, Loop of Henle, Distal tubule, Collecting duct】.
-
-Style: journal graphical-abstract illustration. Soft semi-realistic medical illustration with gentle volume and subtle hand-painted texture, on a clean white background. Muted, harmonious palette with one accent color. Clear left-to-right narrative, generous white space. Sans-serif English labels only, each label appears exactly once, spelled exactly as given. No cartoon style, no glossy CGI, no dark background, no stock-photo look.
-```
-
-<details><summary>Chinese prompt</summary>
-
-```text
-画一张竖版医学插图，主体是【肾脏的一个肾单位】，用箭头表示流向。
-顶部：【肾小球，包在鲍曼囊里的一团毛细血管】。
-往下是【近曲小管、先下行再上行的 U 形髓袢、远曲小管】，最底部接【集合管】。
-箭头沿着【滤液从肾小球流到集合管】。角落里一个小轮廓图显示【肾单位在肾脏中的位置】。
-标签（每个只出现一次，不加其他文字）：【Glomerulus, Proximal tubule, Loop of Henle, Distal tubule, Collecting duct】。
-
-风格：期刊图形摘要插画。柔和的半写实医学插画，带轻微体积感和细腻的手绘质感，白色干净背景。配色低饱和、协调，只用一个强调色。从左到右叙事清晰，留白充足。图中文字只用英文无衬线字体，每个标签只出现一次，拼写与给定完全一致。不要卡通风格、不要光滑的 CG 渲染、不要深色背景、不要图库照片感。
-```
-
-</details>
-
-Model: Nano Banana 2 Lite (gemini-3.1-flash-lite-image, 1K) · Generated 2 times in total; shown are the outputs that passed review
-
-[↑ Back to top](#top)
-
-<sub><a href="https://yila.ai/?utm_source=github&utm_medium=readme&utm_campaign=sci-figure-prompts&utm_content=nephron">Try in Yila →</a></sub>
-
----
-
-<a id="no-86"></a>
-
-### No. 86: Neuron and synaptic transmission
-
-by [@Yila-AI](https://github.com/Yila-AI)
-
-Technique: **whole neuron plus a synapse close-up** · Style: scientific illustration · Aspect ratio: 16:9
-
-| Chinese prompt |
-|---|
-| <img src="gallery/medical-illustration/neuron-synapse-zh.jpg" width="420"> |
-
-**English prompt**
-
-```text
-Create a scientific illustration of 【a neuron and synaptic transmission】:
-1. Left: 【a whole neuron with branching dendrites, a cell body with a nucleus, and a long axon wrapped in segments of myelin sheath, ending in an axon terminal】.
-2. Right, a circular magnified inset of the synapse: 【an electrical signal arrives at the axon terminal; Ca2+ flows in as small dots; synaptic vesicles fuse with the membrane and release neurotransmitter into the synaptic cleft; the neurotransmitter binds receptors on the membrane of the next neuron】.
-Write each label only once in the whole figure.
-Labels, each used once, no other text: 【Dendrite, Cell body, Axon, Myelin sheath, Synaptic vesicle, Neurotransmitter, Synaptic cleft, Receptor】.
-
-Style: journal-style scientific illustration. Clean semi-realistic vector illustration with gentle shading, using cross-sections or cutaways where they explain the structure, on a white background. Muted, harmonious palette with one accent color for the key process. Thin directional arrows for flows. Generous white space and a clear reading direction. Sans-serif English labels only, each label appears exactly once, spelled exactly as given. No cartoon style, no glossy CGI, no dark background, no stock-photo look, no decorative background.
-```
-
-<details><summary>Chinese prompt</summary>
-
-```text
-画一张【神经元与突触传递】的科学插画：
-1. 左：【一个完整的神经元，有分支状树突、带细胞核的胞体，以及一根被分段髓鞘包裹的长轴突，末端是轴突终末】。
-2. 右，一个圆形突触放大插图：【电信号到达轴突终末；Ca2+ 以小点形式流入；突触囊泡与膜融合，把神经递质释放到突触间隙；神经递质结合下一个神经元膜上的受体】。
-整张图里每个标签只写一次。
-标签（每个只出现一次，不加其他文字）：【Dendrite, Cell body, Axon, Myelin sheath, Synaptic vesicle, Neurotransmitter, Synaptic cleft, Receptor】。
-
-风格：期刊式科学插画。干净的半写实矢量插画，带柔和的明暗；需要说明结构时使用剖面或剖切视图，白色背景。配色低饱和、协调，只用一个强调色突出关键过程。用细的方向箭头表示流动。留白充足，阅读方向清晰。图中文字只用英文无衬线字体，每个标签只出现一次，拼写与给定完全一致。不要卡通风格、不要光滑的 CG 渲染、不要深色背景、不要图库照片感、不要装饰性背景。
-```
-
-</details>
-
-Model: Nano Banana 2 Lite (gemini-3.1-flash-lite-image, 1K) · Generated 2 times in total; shown are the outputs that passed review
-
-[↑ Back to top](#top)
-
-<sub><a href="https://yila.ai/?utm_source=github&utm_medium=readme&utm_campaign=sci-figure-prompts&utm_content=neuron-synapse">Try in Yila →</a></sub>
-
----
-
-<a id="no-87"></a>
-
-### No. 87: Osteoarthritis: healthy versus diseased joint
-
-by [@Yila-AI](https://github.com/Yila-AI)
-
-Technique: **two knee joints side by side** · Style: scientific illustration · Aspect ratio: 16:9
-
-| English prompt | Chinese prompt |
-|---|---|
-| <img src="gallery/medical-illustration/osteoarthritis-joint-en.jpg" width="420"> | <img src="gallery/medical-illustration/osteoarthritis-joint-zh.jpg" width="420"> |
-
-**English prompt**
-
-```text
-Create a side-by-side cross-section illustration of 【the knee joint in osteoarthritis】:
-1. Left, a healthy joint: 【smooth, thick articular cartilage covering both bone ends, a wide joint space, and a thin, calm synovium lining the joint capsule】.
-2. Right, an osteoarthritic joint: 【thin, worn cartilage with exposed bone (cartilage loss), a narrowed joint space, bony spurs at the joint edges (osteophytes), denser bone under the cartilage, and a thickened, red, inflamed synovium (synovitis)】.
-Each structure is labeled in only one of the two panels.
-Write each label only once in the whole figure.
-Labels, each used once, no other text: 【Healthy joint, Osteoarthritis, Articular cartilage, Synovium, Cartilage loss, Narrowed joint space, Osteophyte, Synovitis】.
-
-Style: journal-style scientific illustration. Clean semi-realistic vector illustration with gentle shading, using cross-sections or cutaways where they explain the structure, on a white background. Muted, harmonious palette with one accent color for the key process. Thin directional arrows for flows. Generous white space and a clear reading direction. Sans-serif English labels only, each label appears exactly once, spelled exactly as given. No cartoon style, no glossy CGI, no dark background, no stock-photo look, no decorative background.
-```
-
-<details><summary>Chinese prompt</summary>
-
-```text
-画一张【骨关节炎膝关节】的左右对照截面插画：
-1. 左，健康关节：【两端骨面覆盖光滑厚实的关节软骨，关节间隙宽，关节囊内衬一层薄而平静的滑膜】。
-2. 右，骨关节炎关节：【软骨变薄磨损、骨面外露（软骨缺失），关节间隙变窄，关节边缘长出骨刺（骨赘），软骨下骨变致密，滑膜增厚、发红发炎（滑膜炎）】。
-每个结构只在其中一个面板里标注。
-整张图里每个标签只写一次。
-标签（每个只出现一次，不加其他文字）：【Healthy joint, Osteoarthritis, Articular cartilage, Synovium, Cartilage loss, Narrowed joint space, Osteophyte, Synovitis】。
-
-风格：期刊式科学插画。干净的半写实矢量插画，带柔和的明暗；需要说明结构时使用剖面或剖切视图，白色背景。配色低饱和、协调，只用一个强调色突出关键过程。用细的方向箭头表示流动。留白充足，阅读方向清晰。图中文字只用英文无衬线字体，每个标签只出现一次，拼写与给定完全一致。不要卡通风格、不要光滑的 CG 渲染、不要深色背景、不要图库照片感、不要装饰性背景。
-```
-
-</details>
-
-Model: Nano Banana 2 Lite (gemini-3.1-flash-lite-image, 1K) · Generated 2 times in total; shown are the outputs that passed review
-
-[↑ Back to top](#top)
-
-<sub><a href="https://yila.ai/?utm_source=github&utm_medium=readme&utm_campaign=sci-figure-prompts&utm_content=osteoarthritis-joint">Try in Yila →</a></sub>
-
----
-
-<a id="no-88"></a>
-
-### No. 88: Placenta structure
-
-by [@Yila-AI](https://github.com/Yila-AI)
-
-Technique: **placenta cross-section plus a villus close-up** · Style: scientific illustration · Aspect ratio: 16:9
-
-| English prompt | Chinese prompt |
-|---|---|
-| <img src="gallery/medical-illustration/placenta-structure-en.jpg" width="420"> | <img src="gallery/medical-illustration/placenta-structure-zh.jpg" width="420"> |
-
-**English prompt**
-
-```text
-Create a scientific illustration of 【the human placenta】:
-1. Left, a cross-section: 【the umbilical cord rises from the chorionic plate at the top; tree-like chorionic villi hang down into the intervillous space, which fills with maternal blood from spiral arteries in the decidua basalis at the bottom】. Draw the umbilical arteries blue (carrying deoxygenated blood from the fetus) and the umbilical vein red.
-2. Right, a circular magnified inset of one villus: 【an outer syncytiotrophoblast layer bathed in maternal blood, with fetal capillaries inside】.
-Write each label only once in the whole figure.
-If a component appears in more than one place or panel, write its label only at its first appearance; every other copy has no text. No label may appear twice anywhere in the figure. Spell every label exactly as given and add no titles.
-Labels, each used once, no other text: 【Umbilical cord, Chorionic plate, Chorionic villi, Intervillous space, Spiral artery, Decidua basalis, Syncytiotrophoblast, Fetal capillary】.
-
-Style: journal-style scientific illustration. Clean semi-realistic vector illustration with gentle shading, using cross-sections or cutaways where they explain the structure, on a white background. Muted, harmonious palette with one accent color for the key process. Thin directional arrows for flows. Generous white space and a clear reading direction. Sans-serif English labels only, each label appears exactly once, spelled exactly as given. No cartoon style, no glossy CGI, no dark background, no stock-photo look, no decorative background.
-```
-
-<details><summary>Chinese prompt</summary>
-
-```text
-画一张【人类胎盘】的科学插画：
-1. 左，截面图：【脐带从顶部的绒毛膜板伸出；树枝状的绒毛向下垂入绒毛间隙，间隙里充满来自底部底蜕膜中螺旋动脉的母体血液】。脐动脉画成蓝色（把缺氧血从胎儿运出），脐静脉画成红色。
-2. 右，一个绒毛的圆形放大插图：【外层是浸在母体血液中的合体滋养层，内部是胎儿毛细血管】。
-整张图里每个标签只写一次。
-如果同一组件在多处或多个面板出现，只在第一次出现时写标签，其余副本不写字。整张图里任何标签都不能出现两次。每个标签拼写与给定完全一致，不加标题。
-标签（每个只出现一次，不加其他文字）：【Umbilical cord, Chorionic plate, Chorionic villi, Intervillous space, Spiral artery, Decidua basalis, Syncytiotrophoblast, Fetal capillary】。
-
-风格：期刊式科学插画。干净的半写实矢量插画，带柔和的明暗；需要说明结构时使用剖面或剖切视图，白色背景。配色低饱和、协调，只用一个强调色突出关键过程。用细的方向箭头表示流动。留白充足，阅读方向清晰。图中文字只用英文无衬线字体，每个标签只出现一次，拼写与给定完全一致。不要卡通风格、不要光滑的 CG 渲染、不要深色背景、不要图库照片感、不要装饰性背景。
-```
-
-</details>
-
-Model: Nano Banana 2 Lite (gemini-3.1-flash-lite-image, 1K) · Generated 6 times in total; shown are the outputs that passed review
-
-[↑ Back to top](#top)
-
-<sub><a href="https://yila.ai/?utm_source=github&utm_medium=readme&utm_campaign=sci-figure-prompts&utm_content=placenta-structure">Try in Yila →</a></sub>
-
----
-
-<a id="no-89"></a>
-
-### No. 89: Layers of the retina
-
-by [@Yila-AI](https://github.com/Yila-AI)
-
-Technique: **vertical section, light and signal in opposite directions** · Style: scientific illustration · Aspect ratio: 3:4
-
-| English prompt |
-|---|
-| <img src="gallery/medical-illustration/retina-layers-en.jpg" width="420"> |
-
-> The Chinese-prompt output did not pass review, so it is not shown.
-
-**English prompt**
-
-```text
-Create a vertical cross-section illustration of 【the retina】, with the inner side (facing the vitreous) at the top and the back of the eye at the bottom. From top to bottom: optic nerve fibers, ganglion cells, bipolar cells, then rods and cones, then the retinal pigment epithelium and the choroid with blood vessels. A yellow arrow on the left points down to show light passing through the layers; a purple arrow on the right points up to show the signal traveling from rods and cones to bipolar cells to ganglion cells.
-Write each label only once in the whole figure.
-Labels, each used once, no other text: 【Light, Optic nerve fibers, Ganglion cell, Bipolar cell, Rod, Cone, Retinal pigment epithelium, Choroid】.
-
-Style: journal-style scientific illustration. Clean semi-realistic vector illustration with gentle shading, using cross-sections or cutaways where they explain the structure, on a white background. Muted, harmonious palette with one accent color for the key process. Thin directional arrows for flows. Generous white space and a clear reading direction. Sans-serif English labels only, each label appears exactly once, spelled exactly as given. No cartoon style, no glossy CGI, no dark background, no stock-photo look, no decorative background.
-```
-
-<details><summary>Chinese prompt</summary>
-
-```text
-画一张【视网膜】的竖向截面插画，上方是朝向玻璃体的内侧，下方是眼球后壁。从上到下依次是：视神经纤维、神经节细胞、双极细胞，然后是视杆细胞和视锥细胞，再往下是视网膜色素上皮和带血管的脉络膜。左侧一条黄色箭头向下，表示光穿过各层；右侧一条紫色箭头向上，表示信号从视杆、视锥细胞传到双极细胞，再传到神经节细胞。
-整张图里每个标签只写一次。
-标签（每个只出现一次，不加其他文字）：【Light, Optic nerve fibers, Ganglion cell, Bipolar cell, Rod, Cone, Retinal pigment epithelium, Choroid】。
-
-风格：期刊式科学插画。干净的半写实矢量插画，带柔和的明暗；需要说明结构时使用剖面或剖切视图，白色背景。配色低饱和、协调，只用一个强调色突出关键过程。用细的方向箭头表示流动。留白充足，阅读方向清晰。图中文字只用英文无衬线字体，每个标签只出现一次，拼写与给定完全一致。不要卡通风格、不要光滑的 CG 渲染、不要深色背景、不要图库照片感、不要装饰性背景。
-```
-
-</details>
-
-Model: Nano Banana 2 Lite (gemini-3.1-flash-lite-image, 1K) · Generated 2 times in total; shown are the outputs that passed review
-
-[↑ Back to top](#top)
-
-<sub><a href="https://yila.ai/?utm_source=github&utm_medium=readme&utm_campaign=sci-figure-prompts&utm_content=retina-layers">Try in Yila →</a></sub>
-
----
-
-<a id="no-90"></a>
-
-### No. 90: Layers of the skin
-
-by [@Yila-AI](https://github.com/Yila-AI)
-
-Technique: **a 3D block cross-section** · Style: scientific illustration · Aspect ratio: 4:3
-
-| English prompt |
-|---|
-| <img src="gallery/medical-illustration/skin-layers-en.jpg" width="420"> |
-
-> The Chinese-prompt output did not pass review, so it is not shown.
-
-**English prompt**
-
-```text
-Create a cross-section illustration of 【human skin】 as a 3D block, with three layers from top to bottom: a thin epidermis, a thicker dermis, and a hypodermis of rounded fat cells. One hair grows from a hair follicle in the dermis, with a sebaceous gland beside it. A coiled sweat gland sits deep in the dermis with its duct opening at the surface. Red and blue blood vessels and one yellow nerve run through the dermis.
-Write each label only once in the whole figure.
-Labels, each used once, no other text: 【Epidermis, Dermis, Hypodermis, Hair follicle, Sebaceous gland, Sweat gland, Blood vessel, Nerve】.
-
-Style: journal-style scientific illustration. Clean semi-realistic vector illustration with gentle shading, using cross-sections or cutaways where they explain the structure, on a white background. Muted, harmonious palette with one accent color for the key process. Thin directional arrows for flows. Generous white space and a clear reading direction. Sans-serif English labels only, each label appears exactly once, spelled exactly as given. No cartoon style, no glossy CGI, no dark background, no stock-photo look, no decorative background.
-```
-
-<details><summary>Chinese prompt</summary>
-
-```text
-画一张【人体皮肤】的立体块状截面插画，从上到下三层：薄的表皮、较厚的真皮、由圆形脂肪细胞组成的皮下组织。一根毛发从真皮中的毛囊长出，旁边有一个皮脂腺。真皮深处有一个盘绕的汗腺，导管开口于皮肤表面。红色和蓝色血管以及一根黄色神经穿过真皮。
-整张图里每个标签只写一次。
-标签（每个只出现一次，不加其他文字）：【Epidermis, Dermis, Hypodermis, Hair follicle, Sebaceous gland, Sweat gland, Blood vessel, Nerve】。
-
-风格：期刊式科学插画。干净的半写实矢量插画，带柔和的明暗；需要说明结构时使用剖面或剖切视图，白色背景。配色低饱和、协调，只用一个强调色突出关键过程。用细的方向箭头表示流动。留白充足，阅读方向清晰。图中文字只用英文无衬线字体，每个标签只出现一次，拼写与给定完全一致。不要卡通风格、不要光滑的 CG 渲染、不要深色背景、不要图库照片感、不要装饰性背景。
-```
-
-</details>
-
-Model: Nano Banana 2 Lite (gemini-3.1-flash-lite-image, 1K) · Generated 2 times in total; shown are the outputs that passed review
-
-[↑ Back to top](#top)
-
-<sub><a href="https://yila.ai/?utm_source=github&utm_medium=readme&utm_campaign=sci-figure-prompts&utm_content=skin-layers">Try in Yila →</a></sub>
-
----
-
-<a id="no-91"></a>
-
-### No. 91: Tumor angiogenesis
-
-by [@Yila-AI](https://github.com/Yila-AI)
-
-Technique: **normal-versus-abnormal comparison + magnified inset** · Style: soft semi-realistic illustration · Aspect ratio: 4:3
-
-| English prompt | Chinese prompt |
-|---|---|
-| <img src="gallery/medical-illustration/tumor-angiogenesis-en.jpg" width="420"> | <img src="gallery/medical-illustration/tumor-angiogenesis-zh.jpg" width="420"> |
-
-**English prompt**
-
-```text
-Create a medical illustration of 【tumor angiogenesis】.
-Left: 【a small tumor mass releasing VEGF signals (small dots) toward a nearby straight, normal blood vessel】.
-Right: 【new vessels sprout from that vessel and grow into the tumor; compared with the normal vessel they are twisted, uneven and leaky】.
-A circular magnified inset shows 【an endothelial tip cell leading one new sprout】.
-Labels, each used once, no other text: 【Tumor, VEGF, Normal vessel, Abnormal vessels】.
-
-Style: journal graphical-abstract illustration. Soft semi-realistic medical illustration with gentle volume and subtle hand-painted texture, on a clean white background. Muted, harmonious palette with one accent color. Clear left-to-right narrative, generous white space. Sans-serif English labels only, each label appears exactly once, spelled exactly as given. No cartoon style, no glossy CGI, no dark background, no stock-photo look.
-```
-
-<details><summary>Chinese prompt</summary>
-
-```text
-画一张【肿瘤血管生成】的医学插图。
-左：【一个小肿瘤团块向旁边一条笔直的正常血管释放 VEGF 信号（小圆点）】。
-右：【新血管从这条血管长出并伸进肿瘤；与正常血管相比，新血管扭曲、粗细不均、有渗漏】。
-用一个圆形放大框展示【一个内皮尖端细胞引领新芽生长】。
-标签（每个只出现一次，不加其他文字）：【Tumor, VEGF, Normal vessel, Abnormal vessels】。
-
-风格：期刊图形摘要插画。柔和的半写实医学插画，带轻微体积感和细腻的手绘质感，白色干净背景。配色低饱和、协调，只用一个强调色。从左到右叙事清晰，留白充足。图中文字只用英文无衬线字体，每个标签只出现一次，拼写与给定完全一致。不要卡通风格、不要光滑的 CG 渲染、不要深色背景、不要图库照片感。
-```
-
-</details>
-
-Model: Nano Banana 2 Lite (gemini-3.1-flash-lite-image, 1K) · Generated 4 times in total; shown are the outputs that passed review
-
-[↑ Back to top](#top)
-
-<sub><a href="https://yila.ai/?utm_source=github&utm_medium=readme&utm_campaign=sci-figure-prompts&utm_content=tumor-angiogenesis">Try in Yila →</a></sub>
-
----
-
-<a id="no-92"></a>
-
-### No. 92: Four stages of skin wound healing
-
-by [@Yila-AI](https://github.com/Yila-AI)
-
-Technique: **staged sequence** · Style: soft semi-realistic illustration · Aspect ratio: 16:9
-
-| English prompt | Chinese prompt |
-|---|---|
-| <img src="gallery/medical-illustration/wound-healing-stages-en.jpg" width="420"> | <img src="gallery/medical-illustration/wound-healing-stages-zh.jpg" width="420"> |
-
-**English prompt**
-
-```text
-Create a medical illustration of 【skin wound healing】 in four stages from left to right, each shown as the same cross-section of skin.
-1: 【a blood clot plugs the wound】.
-2: 【immune cells clear debris and bacteria】.
-3: 【new tissue, small blood vessels and collagen fill the wound】.
-4: 【the surface is closed, with a faint scar】.
-Labels, each used once, no other text: 【Hemostasis, Inflammation, Proliferation, Remodeling】.
-
-Style: journal graphical-abstract illustration. Soft semi-realistic medical illustration with gentle volume and subtle hand-painted texture, on a clean white background. Muted, harmonious palette with one accent color. Clear left-to-right narrative, generous white space. Sans-serif English labels only, each label appears exactly once, spelled exactly as given. No cartoon style, no glossy CGI, no dark background, no stock-photo look.
-```
-
-<details><summary>Chinese prompt</summary>
-
-```text
-画一张【皮肤创面愈合】的医学插图，从左到右分四个阶段，每个阶段都是同一个皮肤剖面。
-1：【血凝块堵住创口】。
-2：【免疫细胞清除碎屑和细菌】。
-3：【新组织、小血管和胶原填满创面】。
-4：【表面闭合，留下浅浅的瘢痕】。
-标签（每个只出现一次，不加其他文字）：【Hemostasis, Inflammation, Proliferation, Remodeling】。
-
-风格：期刊图形摘要插画。柔和的半写实医学插画，带轻微体积感和细腻的手绘质感，白色干净背景。配色低饱和、协调，只用一个强调色。从左到右叙事清晰，留白充足。图中文字只用英文无衬线字体，每个标签只出现一次，拼写与给定完全一致。不要卡通风格、不要光滑的 CG 渲染、不要深色背景、不要图库照片感。
-```
-
-</details>
-
-Model: Nano Banana 2 Lite (gemini-3.1-flash-lite-image, 1K) · Generated 2 times in total; shown are the outputs that passed review
-
-[↑ Back to top](#top)
-
-<sub><a href="https://yila.ai/?utm_source=github&utm_medium=readme&utm_campaign=sci-figure-prompts&utm_content=wound-healing-stages">Try in Yila →</a></sub>
+**[👉 Try it now in YILA →](https://yila.ai/scientific-figure-prompts/glomerular-barrier?utm_source=github&utm_medium=readme&utm_campaign=sci-figure-prompts&utm_content=glomerular-barrier)** · [↑ Back to top](#top)
 
 ---
 
 <a id="experimental-workflow"></a>
 
-## Experimental Workflow
+### 🧪 Experimental Workflow
 
 <a id="no-93"></a>
 
-### No. 93: 16S rRNA microbiome sequencing workflow
+#### No. 93: 16S rRNA microbiome sequencing workflow
 
-by [@Yila-AI](https://github.com/Yila-AI)
+![Model](https://img.shields.io/badge/Model-GPT%20Image%202.6-10a37f) ![Category](https://img.shields.io/badge/Experimental%20Workflow-blue)
 
-Technique: **one panel per step, step names only** · Style: flat workflow · Aspect ratio: 16:9
+##### 📖 Description
 
-| English prompt | Chinese prompt |
-|---|---|
-| <img src="gallery/experimental-workflow/16s-microbiome-en.jpg" width="420"> | <img src="gallery/experimental-workflow/16s-microbiome-zh.jpg" width="420"> |
+Technique: **one panel per step, step names only** · Style: flat workflow · Aspect Ratio: `16:9`
 
-**English prompt**
+##### 📝 Prompt
 
 ```text
 Create a workflow figure for 【16S rRNA microbiome sequencing】, 6 steps from left to right:
@@ -4689,27 +2215,34 @@ Style: journal-style experimental workflow figure. Clean flat vector icons on a 
 
 </details>
 
-Model: Nano Banana 2 Lite (gemini-3.1-flash-lite-image, 1K) · Generated 2 times in total; shown are the outputs that passed review
+##### 🖼️ Generated Image
 
-[↑ Back to top](#top)
+<div align="center">
+<a href="https://yila.ai/scientific-figure-prompts/16s-microbiome?utm_source=github&utm_medium=readme&utm_campaign=sci-figure-prompts&utm_content=16s-microbiome"><img src="gallery/experimental-workflow/16s-microbiome-en.jpg" width="600" alt="16S rRNA microbiome sequencing workflow"></a>
+</div>
 
-<sub><a href="https://yila.ai/?utm_source=github&utm_medium=readme&utm_campaign=sci-figure-prompts&utm_content=16s-microbiome">Try in Yila →</a></sub>
+##### 📌 Details
+
+- **Author:** [@Yila-AI](https://github.com/Yila-AI)
+- **Model:** GPT Image 2.6
+- **Aspect Ratio:** 16:9
+- **Languages:** en, zh
+
+**[👉 Try it now in YILA →](https://yila.ai/scientific-figure-prompts/16s-microbiome?utm_source=github&utm_medium=readme&utm_campaign=sci-figure-prompts&utm_content=16s-microbiome)** · [↑ Back to top](#top)
 
 ---
 
 <a id="no-94"></a>
 
-### No. 94: ATAC-seq workflow
+#### No. 94: ATAC-seq workflow
 
-by [@Yila-AI](https://github.com/Yila-AI)
+![Model](https://img.shields.io/badge/Model-GPT%20Image%202.6-10a37f) ![Category](https://img.shields.io/badge/Experimental%20Workflow-blue)
 
-Technique: **one panel per step, step names only** · Style: flat workflow · Aspect ratio: 16:9
+##### 📖 Description
 
-| English prompt | Chinese prompt |
-|---|---|
-| <img src="gallery/experimental-workflow/atac-seq-en.jpg" width="420"> | <img src="gallery/experimental-workflow/atac-seq-zh.jpg" width="420"> |
+Technique: **one panel per step, step names only** · Style: flat workflow · Aspect Ratio: `16:9`
 
-**English prompt**
+##### 📝 Prompt
 
 ```text
 Create a workflow figure for 【an ATAC-seq experiment】, 6 steps from left to right:
@@ -4743,29 +2276,34 @@ Style: journal-style experimental workflow figure. Clean flat vector icons on a 
 
 </details>
 
-Model: Nano Banana 2 Lite (gemini-3.1-flash-lite-image, 1K) · Generated 2 times in total; shown are the outputs that passed review
+##### 🖼️ Generated Image
 
-[↑ Back to top](#top)
+<div align="center">
+<a href="https://yila.ai/scientific-figure-prompts/atac-seq?utm_source=github&utm_medium=readme&utm_campaign=sci-figure-prompts&utm_content=atac-seq"><img src="gallery/experimental-workflow/atac-seq-en.jpg" width="600" alt="ATAC-seq workflow"></a>
+</div>
 
-<sub><a href="https://yila.ai/?utm_source=github&utm_medium=readme&utm_campaign=sci-figure-prompts&utm_content=atac-seq">Try in Yila →</a></sub>
+##### 📌 Details
+
+- **Author:** [@Yila-AI](https://github.com/Yila-AI)
+- **Model:** GPT Image 2.6
+- **Aspect Ratio:** 16:9
+- **Languages:** en, zh
+
+**[👉 Try it now in YILA →](https://yila.ai/scientific-figure-prompts/atac-seq?utm_source=github&utm_medium=readme&utm_campaign=sci-figure-prompts&utm_content=atac-seq)** · [↑ Back to top](#top)
 
 ---
 
 <a id="no-95"></a>
 
-### No. 95: Clinical biobank and multi-omics profiling workflow
+#### No. 95: Clinical biobank and multi-omics profiling workflow
 
-by [@Yila-AI](https://github.com/Yila-AI)
+![Model](https://img.shields.io/badge/Model-GPT%20Image%202.6-10a37f) ![Category](https://img.shields.io/badge/Experimental%20Workflow-blue)
 
-Technique: **one panel per step, step names only** · Style: flat workflow · Aspect ratio: 16:9
+##### 📖 Description
 
-| English prompt |
-|---|
-| <img src="gallery/experimental-workflow/biobank-multiomics-en.jpg" width="420"> |
+Technique: **one panel per step, step names only** · Style: flat workflow · Aspect Ratio: `16:9`
 
-> The Chinese-prompt output did not pass review, so it is not shown.
-
-**English prompt**
+##### 📝 Prompt
 
 ```text
 Create a workflow figure for 【a clinical biobank with multi-omics profiling】, 7 steps from left to right:
@@ -4803,27 +2341,34 @@ Style: journal-style experimental workflow figure. Clean flat vector icons on a 
 
 </details>
 
-Model: Nano Banana 2 Lite (gemini-3.1-flash-lite-image, 1K) · Generated 6 times in total; shown are the outputs that passed review
+##### 🖼️ Generated Image
 
-[↑ Back to top](#top)
+<div align="center">
+<a href="https://yila.ai/scientific-figure-prompts/biobank-multiomics?utm_source=github&utm_medium=readme&utm_campaign=sci-figure-prompts&utm_content=biobank-multiomics"><img src="gallery/experimental-workflow/biobank-multiomics-en.jpg" width="600" alt="Clinical biobank and multi-omics profiling workflow"></a>
+</div>
 
-<sub><a href="https://yila.ai/?utm_source=github&utm_medium=readme&utm_campaign=sci-figure-prompts&utm_content=biobank-multiomics">Try in Yila →</a></sub>
+##### 📌 Details
+
+- **Author:** [@Yila-AI](https://github.com/Yila-AI)
+- **Model:** GPT Image 2.6
+- **Aspect Ratio:** 16:9
+- **Languages:** en, zh
+
+**[👉 Try it now in YILA →](https://yila.ai/scientific-figure-prompts/biobank-multiomics?utm_source=github&utm_medium=readme&utm_campaign=sci-figure-prompts&utm_content=biobank-multiomics)** · [↑ Back to top](#top)
 
 ---
 
 <a id="no-96"></a>
 
-### No. 96: Biomarker discovery and validation workflow
+#### No. 96: Biomarker discovery and validation workflow
 
-by [@Yila-AI](https://github.com/Yila-AI)
+![Model](https://img.shields.io/badge/Model-GPT%20Image%202.6-10a37f) ![Category](https://img.shields.io/badge/Experimental%20Workflow-blue)
 
-Technique: **one panel per step, step names only** · Style: flat workflow · Aspect ratio: 16:9
+##### 📖 Description
 
-| English prompt | Chinese prompt |
-|---|---|
-| <img src="gallery/experimental-workflow/biomarker-validation-en.jpg" width="420"> | <img src="gallery/experimental-workflow/biomarker-validation-zh.jpg" width="420"> |
+Technique: **one panel per step, step names only** · Style: flat workflow · Aspect Ratio: `16:9`
 
-**English prompt**
+##### 📝 Prompt
 
 ```text
 Create a workflow figure for 【biomarker discovery and validation】, 6 steps from left to right:
@@ -4857,27 +2402,34 @@ Style: journal-style experimental workflow figure. Clean flat vector icons on a 
 
 </details>
 
-Model: Nano Banana 2 Lite (gemini-3.1-flash-lite-image, 1K) · Generated 2 times in total; shown are the outputs that passed review
+##### 🖼️ Generated Image
 
-[↑ Back to top](#top)
+<div align="center">
+<a href="https://yila.ai/scientific-figure-prompts/biomarker-validation?utm_source=github&utm_medium=readme&utm_campaign=sci-figure-prompts&utm_content=biomarker-validation"><img src="gallery/experimental-workflow/biomarker-validation-en.jpg" width="600" alt="Biomarker discovery and validation workflow"></a>
+</div>
 
-<sub><a href="https://yila.ai/?utm_source=github&utm_medium=readme&utm_campaign=sci-figure-prompts&utm_content=biomarker-validation">Try in Yila →</a></sub>
+##### 📌 Details
+
+- **Author:** [@Yila-AI](https://github.com/Yila-AI)
+- **Model:** GPT Image 2.6
+- **Aspect Ratio:** 16:9
+- **Languages:** en, zh
+
+**[👉 Try it now in YILA →](https://yila.ai/scientific-figure-prompts/biomarker-validation?utm_source=github&utm_medium=readme&utm_campaign=sci-figure-prompts&utm_content=biomarker-validation)** · [↑ Back to top](#top)
 
 ---
 
 <a id="no-97"></a>
 
-### No. 97: Bulk RNA-seq workflow
+#### No. 97: Bulk RNA-seq workflow
 
-by [@Yila-AI](https://github.com/Yila-AI)
+![Model](https://img.shields.io/badge/Model-GPT%20Image%202.6-10a37f) ![Category](https://img.shields.io/badge/Experimental%20Workflow-blue)
 
-Technique: **one panel per step, step names only** · Style: flat workflow · Aspect ratio: 16:9
+##### 📖 Description
 
-| English prompt | Chinese prompt |
-|---|---|
-| <img src="gallery/experimental-workflow/bulk-rna-seq-en.jpg" width="420"> | <img src="gallery/experimental-workflow/bulk-rna-seq-zh.jpg" width="420"> |
+Technique: **one panel per step, step names only** · Style: flat workflow · Aspect Ratio: `16:9`
 
-**English prompt**
+##### 📝 Prompt
 
 ```text
 Create a workflow figure for 【bulk RNA sequencing】, 6 steps from left to right:
@@ -4909,27 +2461,34 @@ Style: journal-style experimental workflow figure. Clean flat vector icons on a 
 
 </details>
 
-Model: Nano Banana 2 Lite (gemini-3.1-flash-lite-image, 1K) · Generated 2 times in total; shown are the outputs that passed review
+##### 🖼️ Generated Image
 
-[↑ Back to top](#top)
+<div align="center">
+<a href="https://yila.ai/scientific-figure-prompts/bulk-rna-seq?utm_source=github&utm_medium=readme&utm_campaign=sci-figure-prompts&utm_content=bulk-rna-seq"><img src="gallery/experimental-workflow/bulk-rna-seq-en.jpg" width="600" alt="Bulk RNA-seq workflow"></a>
+</div>
 
-<sub><a href="https://yila.ai/?utm_source=github&utm_medium=readme&utm_campaign=sci-figure-prompts&utm_content=bulk-rna-seq">Try in Yila →</a></sub>
+##### 📌 Details
+
+- **Author:** [@Yila-AI](https://github.com/Yila-AI)
+- **Model:** GPT Image 2.6
+- **Aspect Ratio:** 16:9
+- **Languages:** en, zh
+
+**[👉 Try it now in YILA →](https://yila.ai/scientific-figure-prompts/bulk-rna-seq?utm_source=github&utm_medium=readme&utm_campaign=sci-figure-prompts&utm_content=bulk-rna-seq)** · [↑ Back to top](#top)
 
 ---
 
 <a id="no-98"></a>
 
-### No. 98: CCK-8 cell viability assay workflow
+#### No. 98: CCK-8 cell viability assay workflow
 
-by [@Yila-AI](https://github.com/Yila-AI)
+![Model](https://img.shields.io/badge/Model-GPT%20Image%202.6-10a37f) ![Category](https://img.shields.io/badge/Experimental%20Workflow-blue)
 
-Technique: **one panel per step, step names only** · Style: flat workflow · Aspect ratio: 16:9
+##### 📖 Description
 
-| Chinese prompt |
-|---|
-| <img src="gallery/experimental-workflow/cck8-viability-assay-zh.jpg" width="420"> |
+Technique: **one panel per step, step names only** · Style: flat workflow · Aspect Ratio: `16:9`
 
-**English prompt**
+##### 📝 Prompt
 
 ```text
 Create a workflow figure for 【a CCK-8 cell viability assay】, 6 steps from left to right:
@@ -4963,27 +2522,34 @@ Style: journal-style experimental workflow figure. Clean flat vector icons on a 
 
 </details>
 
-Model: Nano Banana 2 Lite (gemini-3.1-flash-lite-image, 1K) · Generated 4 times in total; shown are the outputs that passed review
+##### 🖼️ Generated Image
 
-[↑ Back to top](#top)
+<div align="center">
+<a href="https://yila.ai/scientific-figure-prompts/cck8-viability-assay?utm_source=github&utm_medium=readme&utm_campaign=sci-figure-prompts&utm_content=cck8-viability-assay"><img src="gallery/experimental-workflow/cck8-viability-assay-zh.jpg" width="600" alt="CCK-8 cell viability assay workflow"></a>
+</div>
 
-<sub><a href="https://yila.ai/?utm_source=github&utm_medium=readme&utm_campaign=sci-figure-prompts&utm_content=cck8-viability-assay">Try in Yila →</a></sub>
+##### 📌 Details
+
+- **Author:** [@Yila-AI](https://github.com/Yila-AI)
+- **Model:** GPT Image 2.6
+- **Aspect Ratio:** 16:9
+- **Languages:** en, zh
+
+**[👉 Try it now in YILA →](https://yila.ai/scientific-figure-prompts/cck8-viability-assay?utm_source=github&utm_medium=readme&utm_campaign=sci-figure-prompts&utm_content=cck8-viability-assay)** · [↑ Back to top](#top)
 
 ---
 
 <a id="no-99"></a>
 
-### No. 99: Cell culture and transfection workflow
+#### No. 99: Cell culture and transfection workflow
 
-by [@Yila-AI](https://github.com/Yila-AI)
+![Model](https://img.shields.io/badge/Model-GPT%20Image%202.6-10a37f) ![Category](https://img.shields.io/badge/Experimental%20Workflow-blue)
 
-Technique: **one panel per step, step names only** · Style: flat workflow · Aspect ratio: 16:9
+##### 📖 Description
 
-| English prompt | Chinese prompt |
-|---|---|
-| <img src="gallery/experimental-workflow/cell-transfection-en.jpg" width="420"> | <img src="gallery/experimental-workflow/cell-transfection-zh.jpg" width="420"> |
+Technique: **one panel per step, step names only** · Style: flat workflow · Aspect Ratio: `16:9`
 
-**English prompt**
+##### 📝 Prompt
 
 ```text
 Create a workflow figure for 【cell culture and transfection】, 6 steps from left to right:
@@ -5017,987 +2583,34 @@ Style: journal-style experimental workflow figure. Clean flat vector icons on a 
 
 </details>
 
-Model: Nano Banana 2 Lite (gemini-3.1-flash-lite-image, 1K) · Generated 4 times in total; shown are the outputs that passed review
+##### 🖼️ Generated Image
 
-[↑ Back to top](#top)
+<div align="center">
+<a href="https://yila.ai/scientific-figure-prompts/cell-transfection?utm_source=github&utm_medium=readme&utm_campaign=sci-figure-prompts&utm_content=cell-transfection"><img src="gallery/experimental-workflow/cell-transfection-en.jpg" width="600" alt="Cell culture and transfection workflow"></a>
+</div>
 
-<sub><a href="https://yila.ai/?utm_source=github&utm_medium=readme&utm_campaign=sci-figure-prompts&utm_content=cell-transfection">Try in Yila →</a></sub>
+##### 📌 Details
 
----
+- **Author:** [@Yila-AI](https://github.com/Yila-AI)
+- **Model:** GPT Image 2.6
+- **Aspect Ratio:** 16:9
+- **Languages:** en, zh
 
-<a id="no-100"></a>
-
-### No. 100: ChIP-seq workflow
-
-by [@Yila-AI](https://github.com/Yila-AI)
-
-Technique: **one panel per step, step names only** · Style: flat workflow · Aspect ratio: 16:9
-
-| Chinese prompt |
-|---|
-| <img src="gallery/experimental-workflow/chip-seq-zh.jpg" width="420"> |
-
-**English prompt**
-
-```text
-Create a workflow figure for 【a ChIP-seq experiment】, 7 steps from left to right:
-1. 【Crosslinking: proteins fixed onto DNA in cells】
-2. 【Chromatin shearing: DNA cut into short pieces by sonication】
-3. 【Immunoprecipitation: an antibody pulling down one protein with its DNA on beads】
-4. 【DNA purification: the crosslinks reversed and free DNA collected in a tube】
-5. 【Library preparation: short DNA pieces with adapters at both ends】
-6. 【Sequencing: a sequencer】
-7. 【Peak calling: short reads stacking up at one spot on a DNA line】
-Do not write the numbered sentences in the figure.
-Step names, each used once, no other text: 【Crosslinking, Chromatin shearing, Immunoprecipitation, DNA purification, Library preparation, Sequencing, Peak calling】.
-
-Style: journal-style experimental workflow figure. Clean flat vector icons on a white background, one light pastel rounded panel per step, thin gray arrows between panels. Only 3-4 muted colors. Each panel shows one simple scene with no text inside it; the only text in the whole figure is the step names given. Sans-serif English, each step name appears exactly once, spelled exactly as given. No legends, no captions, no extra labels, no 3D rendering, no shadows, no decorative background.
-```
-
-<details><summary>Chinese prompt</summary>
-
-```text
-画一张【ChIP-seq 实验】的流程图，从左往右七步：
-1. 【交联：把细胞中的蛋白质固定在 DNA 上】
-2. 【染色质打断：超声把 DNA 切成短片段】
-3. 【免疫沉淀：抗体借助磁珠拉下一种蛋白及其结合的 DNA】
-4. 【DNA 纯化：解交联，把游离 DNA 收集到试管里】
-5. 【建库：两端带接头的短 DNA 片段】
-6. 【测序：一台测序仪】
-7. 【峰识别：短读段在 DNA 线上的一处堆叠起来】
-不要把编号句子写进图里。
-步骤名（每个只出现一次，不加其他文字）：【Crosslinking, Chromatin shearing, Immunoprecipitation, DNA purification, Library preparation, Sequencing, Peak calling】。
-
-风格：期刊式实验流程图。白色背景上干净的扁平矢量图标，每一步一个浅色圆角面板，面板之间用细灰色箭头连接。只用 3–4 种低饱和度颜色。每个面板里只画一个简洁的小场景，面板内不写任何文字；整张图唯一的文字就是给定的步骤名。用英文无衬线字体，每个步骤名只出现一次，拼写与给定完全一致。不要图例、不要说明文字、不要额外标签、不要 3D 渲染、阴影或装饰性背景。
-```
-
-</details>
-
-Model: Nano Banana 2 Lite (gemini-3.1-flash-lite-image, 1K) · Generated 2 times in total; shown are the outputs that passed review
-
-[↑ Back to top](#top)
-
-<sub><a href="https://yila.ai/?utm_source=github&utm_medium=readme&utm_campaign=sci-figure-prompts&utm_content=chip-seq">Try in Yila →</a></sub>
-
----
-
-<a id="no-101"></a>
-
-### No. 101: Clinical trial enrollment and follow-up
-
-by [@Yila-AI](https://github.com/Yila-AI)
-
-Technique: **vertical flowchart** · Style: flat vector schematic · Aspect ratio: 3:4
-
-| English prompt | Chinese prompt |
-|---|---|
-| <img src="gallery/experimental-workflow/clinical-cohort-en.jpg" width="420"> | <img src="gallery/experimental-workflow/clinical-cohort-zh.jpg" width="420"> |
-
-**English prompt**
-
-```text
-Create a clean vertical flowchart of 【a randomized clinical trial】, read from top to bottom. Each box is a light pastel rounded rectangle with a small group-of-people icon; thin arrows connect the boxes.
-【Screened at the top → an Excluded box branching to the right side → Randomized → splits into two parallel arms, Intervention and Control → each arm goes to Follow-up → both arms meet at Analysis at the bottom】.
-Labels, each used once, no other text: 【Screened, Excluded, Randomized, Intervention, Control, Follow-up, Analysis】.
-
-Style: journal-style scientific schematic. Clean flat vector illustration on a white background, light pastel rounded panels to separate regions. Only 3-4 muted colors, each with one fixed meaning; red only for inhibition or emphasis. Thin, uniform line weight. Proteins as rounded colored capsules with their names inside; membranes as lipid bilayers; activation as solid arrows, inhibition as T-bar lines, indirect effects as dashed arrows. Sans-serif English labels only, each label appears exactly once, spelled exactly as given. No 3D rendering, no shadows, no glow, no decorative background, no photorealism.
-```
-
-<details><summary>Chinese prompt</summary>
-
-```text
-画一张干净的竖向流程图，展示【一项随机对照临床试验】，从上往下读。每个框是一个浅色圆角矩形，里面有一个小人群图标，框之间用细箭头连接。
-【顶部是 Screened → 向右分出一个 Excluded 框 → Randomized → 分成并列的两组 Intervention 和 Control → 每组各自进入 Follow-up → 两组在底部汇合到 Analysis】。
-标签（每个只出现一次，不加其他文字）：【Screened, Excluded, Randomized, Intervention, Control, Follow-up, Analysis】。
-
-风格：期刊式科研示意图。白色背景上的干净扁平矢量插画，用浅色圆角面板区分区域。只用 3–4 种低饱和度颜色，每种颜色含义固定，红色只用于抑制或强调。线条细且粗细一致。蛋白画成彩色圆角胶囊，名称写在胶囊里；细胞膜画成磷脂双分子层；激活用实线箭头，抑制用 T 形线，间接作用用虚线箭头。图中文字只用英文无衬线字体，每个标签只出现一次，拼写与给定完全一致。不要 3D 渲染、阴影、发光、装饰性背景或照片质感。
-```
-
-</details>
-
-Model: Nano Banana 2 Lite (gemini-3.1-flash-lite-image, 1K) · Generated 2 times in total; shown are the outputs that passed review
-
-[↑ Back to top](#top)
-
-<sub><a href="https://yila.ai/?utm_source=github&utm_medium=readme&utm_campaign=sci-figure-prompts&utm_content=clinical-cohort">Try in Yila →</a></sub>
-
----
-
-<a id="no-102"></a>
-
-### No. 102: Co-immunoprecipitation (Co-IP) and pull-down workflow
-
-by [@Yila-AI](https://github.com/Yila-AI)
-
-Technique: **one panel per step, step names only** · Style: flat workflow · Aspect ratio: 16:9
-
-| English prompt |
-|---|
-| <img src="gallery/experimental-workflow/co-ip-pulldown-en.jpg" width="420"> |
-
-> The Chinese-prompt output did not pass review, so it is not shown.
-
-**English prompt**
-
-```text
-Create a workflow figure for 【a Co-IP or pull-down experiment】, 6 steps from left to right:
-1. 【Cell lysis: cells broken open in a tube, proteins released】
-2. 【Bait capture: an antibody (or a tag on the bait protein) binding the bait with its partner attached】
-3. 【Bead binding: beads grabbing the antibody–protein complex】
-4. 【Washing: unbound proteins rinsed away】
-5. 【Elution: the bait and its partner released from the beads】
-6. 【Detection: a western blot membrane and a mass spectrometer】
-Do not write the numbered sentences in the figure.
-Step names, each used once, no other text: 【Cell lysis, Bait capture, Bead binding, Washing, Elution, Detection】.
-
-Style: journal-style experimental workflow figure. Clean flat vector icons on a white background, one light pastel rounded panel per step, thin gray arrows between panels. Only 3-4 muted colors. Each panel shows one simple scene with no text inside it; the only text in the whole figure is the step names given. Sans-serif English, each step name appears exactly once, spelled exactly as given. No legends, no captions, no extra labels, no 3D rendering, no shadows, no decorative background.
-```
-
-<details><summary>Chinese prompt</summary>
-
-```text
-画一张【Co-IP 或 pull-down 实验】的流程图，从左往右六步：
-1. 【细胞裂解：试管中细胞破碎，释放蛋白】
-2. 【诱饵捕获：抗体（或诱饵蛋白上的标签）结合诱饵蛋白及与之相连的伙伴蛋白】
-3. 【磁珠结合：磁珠抓住抗体—蛋白复合物】
-4. 【洗涤：洗掉未结合的蛋白】
-5. 【洗脱：把诱饵蛋白和伙伴蛋白从磁珠上释放下来】
-6. 【检测：Western blot 膜和质谱仪】
-不要把编号句子写进图里。
-步骤名（每个只出现一次，不加其他文字）：【Cell lysis, Bait capture, Bead binding, Washing, Elution, Detection】。
-
-风格：期刊式实验流程图。白色背景上干净的扁平矢量图标，每一步一个浅色圆角面板，面板之间用细灰色箭头连接。只用 3–4 种低饱和度颜色。每个面板里只画一个简洁的小场景，面板内不写任何文字；整张图唯一的文字就是给定的步骤名。用英文无衬线字体，每个步骤名只出现一次，拼写与给定完全一致。不要图例、不要说明文字、不要额外标签、不要 3D 渲染、阴影或装饰性背景。
-```
-
-</details>
-
-Model: Nano Banana 2 Lite (gemini-3.1-flash-lite-image, 1K) · Generated 2 times in total; shown are the outputs that passed review
-
-[↑ Back to top](#top)
-
-<sub><a href="https://yila.ai/?utm_source=github&utm_medium=readme&utm_campaign=sci-figure-prompts&utm_content=co-ip-pulldown">Try in Yila →</a></sub>
-
----
-
-<a id="no-103"></a>
-
-### No. 103: Colony formation assay workflow
-
-by [@Yila-AI](https://github.com/Yila-AI)
-
-Technique: **one panel per step, step names only** · Style: flat workflow · Aspect ratio: 16:9
-
-| English prompt |
-|---|
-| <img src="gallery/experimental-workflow/colony-formation-assay-en.jpg" width="420"> |
-
-> The Chinese-prompt output did not pass review, so it is not shown.
-
-**English prompt**
-
-```text
-Create a workflow figure for 【a colony formation assay】, 6 steps from left to right:
-1. 【Low-density seeding: a few single cells in a 6-well plate】
-2. 【Treatment: a dropper adding drug】
-3. 【Long-term culture: the plate in an incubator with a calendar icon】
-4. 【Fixation: a bottle of fixative】
-5. 【Crystal violet staining: purple dots appearing in the wells】
-6. 【Colony counting: a magnifier over purple colonies】
-Do not write the numbered sentences in the figure.
-Step names, each used once, no other text: 【Low-density seeding, Treatment, Long-term culture, Fixation, Crystal violet staining, Colony counting】.
-
-Style: journal-style experimental workflow figure. Clean flat vector icons on a white background, one light pastel rounded panel per step, thin gray arrows between panels. Only 3-4 muted colors. Each panel shows one simple scene with no text inside it; the only text in the whole figure is the step names given. Sans-serif English, each step name appears exactly once, spelled exactly as given. No legends, no captions, no extra labels, no 3D rendering, no shadows, no decorative background.
-```
-
-<details><summary>Chinese prompt</summary>
-
-```text
-画一张【克隆形成实验】的流程图，从左往右六步：
-1. 【低密度铺板：6 孔板里稀疏的单个细胞】
-2. 【处理：滴管加药】
-3. 【长期培养：培养箱配日历图标】
-4. 【固定：一瓶固定液】
-5. 【结晶紫染色：孔里出现紫色圆点】
-6. 【克隆计数：放大镜对着紫色克隆】
-不要把编号句子写进图里。
-步骤名（每个只出现一次，不加其他文字）：【Low-density seeding, Treatment, Long-term culture, Fixation, Crystal violet staining, Colony counting】。
-
-风格：期刊式实验流程图。白色背景上干净的扁平矢量图标，每一步一个浅色圆角面板，面板之间用细灰色箭头连接。只用 3–4 种低饱和度颜色。每个面板里只画一个简洁的小场景，面板内不写任何文字；整张图唯一的文字就是给定的步骤名。用英文无衬线字体，每个步骤名只出现一次，拼写与给定完全一致。不要图例、不要说明文字、不要额外标签、不要 3D 渲染、阴影或装饰性背景。
-```
-
-</details>
-
-Model: Nano Banana 2 Lite (gemini-3.1-flash-lite-image, 1K) · Generated 4 times in total; shown are the outputs that passed review
-
-[↑ Back to top](#top)
-
-<sub><a href="https://yila.ai/?utm_source=github&utm_medium=readme&utm_campaign=sci-figure-prompts&utm_content=colony-formation-assay">Try in Yila →</a></sub>
-
----
-
-<a id="no-104"></a>
-
-### No. 104: CRISPR knockout cell line workflow
-
-by [@Yila-AI](https://github.com/Yila-AI)
-
-Technique: **one panel per step, step names only** · Style: flat workflow · Aspect ratio: 16:9
-
-| English prompt | Chinese prompt |
-|---|---|
-| <img src="gallery/experimental-workflow/crispr-knockout-cell-line-en.jpg" width="420"> | <img src="gallery/experimental-workflow/crispr-knockout-cell-line-zh.jpg" width="420"> |
-
-**English prompt**
-
-```text
-Create a workflow figure for 【building a CRISPR knockout cell line】, 6 steps from left to right:
-1. 【sgRNA design: a DNA strand with a highlighted target site】
-2. 【Vector delivery: a plasmid entering a cell】
-3. 【Selection: a dish where only some cells survive】
-4. 【Single-cell cloning: a 96-well plate with one cell per well】
-5. 【Genotype check: a short DNA strand with a gap】
-6. 【Protein validation: a gel with a missing band】
-Do not write the numbered sentences in the figure.
-Step names, each used once, no other text: 【sgRNA design, Vector delivery, Selection, Single-cell cloning, Genotype check, Protein validation】.
-
-Style: journal-style experimental workflow figure. Clean flat vector icons on a white background, one light pastel rounded panel per step, thin gray arrows between panels. Only 3-4 muted colors. Each panel shows one simple scene with no text inside it; the only text in the whole figure is the step names given. Sans-serif English, each step name appears exactly once, spelled exactly as given. No legends, no captions, no extra labels, no 3D rendering, no shadows, no decorative background.
-```
-
-<details><summary>Chinese prompt</summary>
-
-```text
-画一张【构建 CRISPR 敲除细胞系】的流程图，从左往右六步：
-1. 【sgRNA 设计：DNA 链上高亮一个靶位点】
-2. 【载体递送：质粒进入细胞】
-3. 【筛选：培养皿里只有部分细胞存活】
-4. 【单克隆挑选：96 孔板每孔一个细胞】
-5. 【基因型验证：带缺口的短 DNA 链】
-6. 【蛋白验证：缺一条带的凝胶】
-不要把编号句子写进图里。
-步骤名（每个只出现一次，不加其他文字）：【sgRNA design, Vector delivery, Selection, Single-cell cloning, Genotype check, Protein validation】。
-
-风格：期刊式实验流程图。白色背景上干净的扁平矢量图标，每一步一个浅色圆角面板，面板之间用细灰色箭头连接。只用 3–4 种低饱和度颜色。每个面板里只画一个简洁的小场景，面板内不写任何文字；整张图唯一的文字就是给定的步骤名。用英文无衬线字体，每个步骤名只出现一次，拼写与给定完全一致。不要图例、不要说明文字、不要额外标签、不要 3D 渲染、阴影或装饰性背景。
-```
-
-</details>
-
-Model: Nano Banana 2 Lite (gemini-3.1-flash-lite-image, 1K) · Generated 4 times in total; shown are the outputs that passed review
-
-[↑ Back to top](#top)
-
-<sub><a href="https://yila.ai/?utm_source=github&utm_medium=readme&utm_campaign=sci-figure-prompts&utm_content=crispr-knockout-cell-line">Try in Yila →</a></sub>
-
----
-
-<a id="no-105"></a>
-
-### No. 105: Pooled CRISPR screen workflow
-
-by [@Yila-AI](https://github.com/Yila-AI)
-
-Technique: **one pastel rounded panel per step** · Style: flat workflow · Aspect ratio: 16:9
-
-| English prompt | Chinese prompt |
-|---|---|
-| <img src="gallery/experimental-workflow/crispr-pooled-screen-en.jpg" width="420"> | <img src="gallery/experimental-workflow/crispr-pooled-screen-zh.jpg" width="420"> |
-
-**English prompt**
-
-```text
-Create an experimental workflow figure for 【a pooled CRISPR knockout screen】, in five steps from left to right. Each step is one light pastel rounded panel with its number and name at the top and one simple icon-style scene inside; thin arrows connect the panels.
-Step 1: 【a tube of virus particles carrying many different guide RNAs】.
-Step 2: 【a dish of cells, each cell receiving one guide RNA】.
-Step 3: 【the cells treated with a drug; some die and some survive】.
-Step 4: 【a sequencing instrument reading the guide RNAs of surviving cells】.
-Step 5: 【a short ranked list of genes with the top ones highlighted】.
-Labels, each used once, no other text: 【1 Library, 2 Transduction, 3 Selection, 4 Sequencing, 5 Hit genes】.
-
-Style: journal-style experimental workflow figure. Clean flat vector icons on a white background, one light pastel rounded panel per step, thin gray arrows between panels. Only 3-4 muted colors. Each panel shows one simple scene with no text inside it; the only text in the whole figure is the step names given. Sans-serif English, each step name appears exactly once, spelled exactly as given. No legends, no captions, no extra labels, no 3D rendering, no shadows, no decorative background.
-```
-
-<details><summary>Chinese prompt</summary>
-
-```text
-画一张【混合 CRISPR 敲除筛选】的实验流程图，从左到右分五步。每一步是一个浅色圆角面板，顶部写编号和步骤名，面板里是一个简洁的图标化小场景，面板之间用细箭头连接。
-第 1 步：【一管携带多种不同向导 RNA 的病毒颗粒】。
-第 2 步：【一皿细胞，每个细胞接收一种向导 RNA】。
-第 3 步：【细胞经药物处理，一部分死亡，一部分存活】。
-第 4 步：【测序仪读取存活细胞中的向导 RNA】。
-第 5 步：【一个简短的基因排名列表，排在最前的几个被标亮】。
-标签（每个只出现一次，不加其他文字）：【1 Library, 2 Transduction, 3 Selection, 4 Sequencing, 5 Hit genes】。
-
-风格：期刊式实验流程图。白色背景上干净的扁平矢量图标，每一步一个浅色圆角面板，面板之间用细灰色箭头连接。只用 3–4 种低饱和度颜色。每个面板里只画一个简洁的小场景，面板内不写任何文字；整张图唯一的文字就是给定的步骤名。用英文无衬线字体，每个步骤名只出现一次，拼写与给定完全一致。不要图例、不要说明文字、不要额外标签、不要 3D 渲染、阴影或装饰性背景。
-```
-
-</details>
-
-Model: Nano Banana 2 Lite (gemini-3.1-flash-lite-image, 1K) · Generated 6 times in total; shown are the outputs that passed review
-
-[↑ Back to top](#top)
-
-<sub><a href="https://yila.ai/?utm_source=github&utm_medium=readme&utm_campaign=sci-figure-prompts&utm_content=crispr-pooled-screen">Try in Yila →</a></sub>
-
----
-
-<a id="no-106"></a>
-
-### No. 106: Molecular docking and dynamics workflow
-
-by [@Yila-AI](https://github.com/Yila-AI)
-
-Technique: **one panel per step, step names only** · Style: flat workflow · Aspect ratio: 16:9
-
-| English prompt | Chinese prompt |
-|---|---|
-| <img src="gallery/experimental-workflow/docking-md-en.jpg" width="420"> | <img src="gallery/experimental-workflow/docking-md-zh.jpg" width="420"> |
-
-**English prompt**
-
-```text
-Create a workflow figure for 【a molecular docking and molecular dynamics study】, 6 steps from left to right:
-1. 【Protein preparation: a ribbon protein structure】
-2. 【Ligand preparation: a small molecule】
-3. 【Docking: the molecule fitting into a pocket】
-4. 【Binding pose: a close-up of the molecule in the pocket】
-5. 【Molecular dynamics: the complex surrounded by water molecules】
-6. 【Binding stability: a check mark over the complex】
-Step names, each used once, no other text: 【Protein preparation, Ligand preparation, Docking, Binding pose, Molecular dynamics, Binding stability】.
-
-Style: journal-style experimental workflow figure. Clean flat vector icons on a white background, one light pastel rounded panel per step, thin gray arrows between panels. Only 3-4 muted colors. Each panel shows one simple scene with no text inside it; the only text in the whole figure is the step names given. Sans-serif English, each step name appears exactly once, spelled exactly as given. No legends, no captions, no extra labels, no 3D rendering, no shadows, no decorative background.
-```
-
-<details><summary>Chinese prompt</summary>
-
-```text
-画一张【分子对接与分子动力学研究】的流程图，从左往右六步：
-1. 【蛋白准备：带状蛋白结构】
-2. 【配体准备：一个小分子】
-3. 【分子对接：小分子嵌入口袋】
-4. 【结合构象：小分子在口袋里的特写】
-5. 【分子动力学：复合物周围包着水分子】
-6. 【结合稳定性：复合物上方一个对勾】
-步骤名（每个只出现一次，不加其他文字）：【Protein preparation, Ligand preparation, Docking, Binding pose, Molecular dynamics, Binding stability】。
-
-风格：期刊式实验流程图。白色背景上干净的扁平矢量图标，每一步一个浅色圆角面板，面板之间用细灰色箭头连接。只用 3–4 种低饱和度颜色。每个面板里只画一个简洁的小场景，面板内不写任何文字；整张图唯一的文字就是给定的步骤名。用英文无衬线字体，每个步骤名只出现一次，拼写与给定完全一致。不要图例、不要说明文字、不要额外标签、不要 3D 渲染、阴影或装饰性背景。
-```
-
-</details>
-
-Model: Nano Banana 2 Lite (gemini-3.1-flash-lite-image, 1K) · Generated 2 times in total; shown are the outputs that passed review
-
-[↑ Back to top](#top)
-
-<sub><a href="https://yila.ai/?utm_source=github&utm_medium=readme&utm_campaign=sci-figure-prompts&utm_content=docking-md">Try in Yila →</a></sub>
-
----
-
-<a id="no-107"></a>
-
-### No. 107: Dual-luciferase reporter assay workflow
-
-by [@Yila-AI](https://github.com/Yila-AI)
-
-Technique: **one panel per step, step names only** · Style: flat workflow · Aspect ratio: 16:9
-
-| English prompt |
-|---|
-| <img src="gallery/experimental-workflow/dual-luciferase-reporter-en.jpg" width="420"> |
-
-> The Chinese-prompt output did not pass review, so it is not shown.
-
-**English prompt**
-
-```text
-Create a workflow figure for 【a dual-luciferase reporter assay】, 6 steps from left to right:
-1. 【Plasmid construction: a circular plasmid with a promoter segment】
-2. 【Co-transfection: two plasmids entering cells in a well】
-3. 【Incubation: the plate in an incubator】
-4. 【Cell lysis: a tube of lysed cells】
-5. 【Luminescence reading: a luminometer with a glowing tube】
-6. 【Normalization: two glowing bars side by side】
-Do not write the numbered sentences in the figure.
-Step names, each used once, no other text: 【Plasmid construction, Co-transfection, Incubation, Cell lysis, Luminescence reading, Normalization】.
-
-Style: journal-style experimental workflow figure. Clean flat vector icons on a white background, one light pastel rounded panel per step, thin gray arrows between panels. Only 3-4 muted colors. Each panel shows one simple scene with no text inside it; the only text in the whole figure is the step names given. Sans-serif English, each step name appears exactly once, spelled exactly as given. No legends, no captions, no extra labels, no 3D rendering, no shadows, no decorative background.
-```
-
-<details><summary>Chinese prompt</summary>
-
-```text
-画一张【双荧光素酶报告基因实验】的流程图，从左往右六步：
-1. 【质粒构建：带启动子片段的环形质粒】
-2. 【共转染：两种质粒进入孔里的细胞】
-3. 【孵育：孔板放进培养箱】
-4. 【细胞裂解：一管裂解后的细胞】
-5. 【化学发光检测：发光管配发光检测仪】
-6. 【标准化：并排的两根发光条】
-不要把编号句子写进图里。
-步骤名（每个只出现一次，不加其他文字）：【Plasmid construction, Co-transfection, Incubation, Cell lysis, Luminescence reading, Normalization】。
-
-风格：期刊式实验流程图。白色背景上干净的扁平矢量图标，每一步一个浅色圆角面板，面板之间用细灰色箭头连接。只用 3–4 种低饱和度颜色。每个面板里只画一个简洁的小场景，面板内不写任何文字；整张图唯一的文字就是给定的步骤名。用英文无衬线字体，每个步骤名只出现一次，拼写与给定完全一致。不要图例、不要说明文字、不要额外标签、不要 3D 渲染、阴影或装饰性背景。
-```
-
-</details>
-
-Model: Nano Banana 2 Lite (gemini-3.1-flash-lite-image, 1K) · Generated 4 times in total; shown are the outputs that passed review
-
-[↑ Back to top](#top)
-
-<sub><a href="https://yila.ai/?utm_source=github&utm_medium=readme&utm_campaign=sci-figure-prompts&utm_content=dual-luciferase-reporter">Try in Yila →</a></sub>
-
----
-
-<a id="no-108"></a>
-
-### No. 108: EdU cell proliferation assay workflow
-
-by [@Yila-AI](https://github.com/Yila-AI)
-
-Technique: **one panel per step, step names only** · Style: flat workflow · Aspect ratio: 16:9
-
-| English prompt | Chinese prompt |
-|---|---|
-| <img src="gallery/experimental-workflow/edu-proliferation-assay-en.jpg" width="420"> | <img src="gallery/experimental-workflow/edu-proliferation-assay-zh.jpg" width="420"> |
-
-**English prompt**
-
-```text
-Create a workflow figure for 【an EdU cell proliferation assay】, 6 steps from left to right:
-1. 【EdU labeling: a dropper adding EdU to cultured cells】
-2. 【Fixation: a plain unlabeled bottle】
-3. 【Click reaction: a small red star snapping onto a DNA strand】
-4. 【Nuclear staining: blue dye on all nuclei】
-5. 【Imaging: a fluorescence microscope】
-6. 【Quantification: a magnifier over red and blue nuclei】
-Do not write the numbered sentences in the figure.
-Every icon is a pure picture with no words, letters or chemical structures inside it.
-Step names, each used once, no other text: 【EdU labeling, Fixation, Click reaction, Nuclear staining, Imaging, Quantification】.
-
-Style: journal-style experimental workflow figure. Clean flat vector icons on a white background, one light pastel rounded panel per step, thin gray arrows between panels. Only 3-4 muted colors. Each panel shows one simple scene with no text inside it; the only text in the whole figure is the step names given. Sans-serif English, each step name appears exactly once, spelled exactly as given. No legends, no captions, no extra labels, no 3D rendering, no shadows, no decorative background.
-```
-
-<details><summary>Chinese prompt</summary>
-
-```text
-画一张【EdU 细胞增殖检测】的流程图，从左往右六步：
-1. 【EdU 标记：滴管往培养的细胞里加 EdU】
-2. 【固定：一个没有标签的瓶子】
-3. 【点击反应：一颗红色小星星连接到一条 DNA 链上】
-4. 【核染色：蓝色染料染所有细胞核】
-5. 【成像：一台荧光显微镜】
-6. 【定量：放大镜对着红色和蓝色细胞核】
-不要把编号句子写进图里。
-所有图标都是纯图形，里面不写任何单词、字母，也不画化学结构式。
-步骤名（每个只出现一次，不加其他文字）：【EdU labeling, Fixation, Click reaction, Nuclear staining, Imaging, Quantification】。
-
-风格：期刊式实验流程图。白色背景上干净的扁平矢量图标，每一步一个浅色圆角面板，面板之间用细灰色箭头连接。只用 3–4 种低饱和度颜色。每个面板里只画一个简洁的小场景，面板内不写任何文字；整张图唯一的文字就是给定的步骤名。用英文无衬线字体，每个步骤名只出现一次，拼写与给定完全一致。不要图例、不要说明文字、不要额外标签、不要 3D 渲染、阴影或装饰性背景。
-```
-
-</details>
-
-Model: Nano Banana 2 Lite (gemini-3.1-flash-lite-image, 1K) · Generated 8 times in total; shown are the outputs that passed review
-
-[↑ Back to top](#top)
-
-<sub><a href="https://yila.ai/?utm_source=github&utm_medium=readme&utm_campaign=sci-figure-prompts&utm_content=edu-proliferation-assay">Try in Yila →</a></sub>
-
----
-
-<a id="no-109"></a>
-
-### No. 109: Sandwich ELISA workflow
-
-by [@Yila-AI](https://github.com/Yila-AI)
-
-Technique: **one panel per step, step names only** · Style: flat workflow · Aspect ratio: 16:9
-
-| English prompt | Chinese prompt |
-|---|---|
-| <img src="gallery/experimental-workflow/elisa-en.jpg" width="420"> | <img src="gallery/experimental-workflow/elisa-zh.jpg" width="420"> |
-
-**English prompt**
-
-```text
-Create a workflow figure for 【a sandwich ELISA】, 6 steps from left to right:
-1. 【Capture antibody: Y-shaped antibodies on the bottom of a well】
-2. 【Blocking: the well filled with buffer】
-3. 【Sample: target proteins binding the antibodies】
-4. 【Detection antibody: a second antibody with an enzyme tag on top】
-5. 【Substrate: the well turning blue】
-6. 【Plate reading: a plate reader】
-Do not write the numbered sentences in the figure.
-Step names, each used once, no other text: 【Capture antibody, Blocking, Sample, Detection antibody, Substrate, Plate reading】.
-
-Style: journal-style experimental workflow figure. Clean flat vector icons on a white background, one light pastel rounded panel per step, thin gray arrows between panels. Only 3-4 muted colors. Each panel shows one simple scene with no text inside it; the only text in the whole figure is the step names given. Sans-serif English, each step name appears exactly once, spelled exactly as given. No legends, no captions, no extra labels, no 3D rendering, no shadows, no decorative background.
-```
-
-<details><summary>Chinese prompt</summary>
-
-```text
-画一张【夹心 ELISA 实验】的流程图，从左往右六步：
-1. 【捕获抗体：孔底的 Y 形抗体】
-2. 【封闭：孔里装满缓冲液】
-3. 【加样：靶蛋白结合到抗体上】
-4. 【检测抗体：上方再结合一个带酶标的抗体】
-5. 【底物显色：孔变成蓝色】
-6. 【读板：一台酶标仪】
-不要把编号句子写进图里。
-步骤名（每个只出现一次，不加其他文字）：【Capture antibody, Blocking, Sample, Detection antibody, Substrate, Plate reading】。
-
-风格：期刊式实验流程图。白色背景上干净的扁平矢量图标，每一步一个浅色圆角面板，面板之间用细灰色箭头连接。只用 3–4 种低饱和度颜色。每个面板里只画一个简洁的小场景，面板内不写任何文字；整张图唯一的文字就是给定的步骤名。用英文无衬线字体，每个步骤名只出现一次，拼写与给定完全一致。不要图例、不要说明文字、不要额外标签、不要 3D 渲染、阴影或装饰性背景。
-```
-
-</details>
-
-Model: Nano Banana 2 Lite (gemini-3.1-flash-lite-image, 1K) · Generated 2 times in total; shown are the outputs that passed review
-
-[↑ Back to top](#top)
-
-<sub><a href="https://yila.ai/?utm_source=github&utm_medium=readme&utm_campaign=sci-figure-prompts&utm_content=elisa">Try in Yila →</a></sub>
-
----
-
-<a id="no-110"></a>
-
-### No. 110: Flow cytometry workflow
-
-by [@Yila-AI](https://github.com/Yila-AI)
-
-Technique: **one panel per step, step names only** · Style: flat workflow · Aspect ratio: 16:9
-
-| English prompt | Chinese prompt |
-|---|---|
-| <img src="gallery/experimental-workflow/flow-cytometry-en.jpg" width="420"> | <img src="gallery/experimental-workflow/flow-cytometry-zh.jpg" width="420"> |
-
-**English prompt**
-
-```text
-Create a workflow figure for 【flow cytometry】, 5 steps from left to right:
-1. 【Single-cell suspension: a tube of separated cells】
-2. 【Antibody staining: cells with colored antibodies attached】
-3. 【Acquisition: cells passing a laser one by one】
-4. 【Gating: a funnel selecting one group of cells】
-5. 【Population analysis: cells sorted into colored groups】
-Step names, each used once, no other text: 【Single-cell suspension, Antibody staining, Acquisition, Gating, Population analysis】.
-
-Style: journal-style experimental workflow figure. Clean flat vector icons on a white background, one light pastel rounded panel per step, thin gray arrows between panels. Only 3-4 muted colors. Each panel shows one simple scene with no text inside it; the only text in the whole figure is the step names given. Sans-serif English, each step name appears exactly once, spelled exactly as given. No legends, no captions, no extra labels, no 3D rendering, no shadows, no decorative background.
-```
-
-<details><summary>Chinese prompt</summary>
-
-```text
-画一张【流式细胞术实验】的流程图，从左往右五步：
-1. 【单细胞悬液：一管分散的细胞】
-2. 【抗体染色：细胞上结合了彩色抗体】
-3. 【上机检测：细胞逐个通过激光】
-4. 【设门：一个漏斗选出一群细胞】
-5. 【亚群分析：细胞按颜色分成几群】
-步骤名（每个只出现一次，不加其他文字）：【Single-cell suspension, Antibody staining, Acquisition, Gating, Population analysis】。
-
-风格：期刊式实验流程图。白色背景上干净的扁平矢量图标，每一步一个浅色圆角面板，面板之间用细灰色箭头连接。只用 3–4 种低饱和度颜色。每个面板里只画一个简洁的小场景，面板内不写任何文字；整张图唯一的文字就是给定的步骤名。用英文无衬线字体，每个步骤名只出现一次，拼写与给定完全一致。不要图例、不要说明文字、不要额外标签、不要 3D 渲染、阴影或装饰性背景。
-```
-
-</details>
-
-Model: Nano Banana 2 Lite (gemini-3.1-flash-lite-image, 1K) · Generated 2 times in total; shown are the outputs that passed review
-
-[↑ Back to top](#top)
-
-<sub><a href="https://yila.ai/?utm_source=github&utm_medium=readme&utm_campaign=sci-figure-prompts&utm_content=flow-cytometry">Try in Yila →</a></sub>
-
----
-
-<a id="no-111"></a>
-
-### No. 111: Genome-wide association study (GWAS) workflow
-
-by [@Yila-AI](https://github.com/Yila-AI)
-
-Technique: **one panel per step, step names only** · Style: flat workflow · Aspect ratio: 16:9
-
-| English prompt |
-|---|
-| <img src="gallery/experimental-workflow/gwas-workflow-en.jpg" width="420"> |
-
-> The Chinese-prompt output did not pass review, so it is not shown.
-
-**English prompt**
-
-```text
-Create a workflow figure for 【a genome-wide association study】, 7 steps from left to right:
-1. 【Cohort: a group of cases and a group of controls】
-2. 【DNA collection: a blood tube and a saliva tube】
-3. 【Genotyping: a SNP chip with a grid of colored dots】
-4. 【Quality control: a filter removing a few faulty samples】
-5. 【Association testing: a balance comparing variants between cases and controls】
-6. 【Risk locus: one highlighted spot on a chromosome】
-7. 【Replication: a second, independent cohort】
-Do not write the numbered sentences in the figure.
-Step names, each used once, no other text: 【Cohort, DNA collection, Genotyping, Quality control, Association testing, Risk locus, Replication】.
-
-Style: journal-style experimental workflow figure. Clean flat vector icons on a white background, one light pastel rounded panel per step, thin gray arrows between panels. Only 3-4 muted colors. Each panel shows one simple scene with no text inside it; the only text in the whole figure is the step names given. Sans-serif English, each step name appears exactly once, spelled exactly as given. No legends, no captions, no extra labels, no 3D rendering, no shadows, no decorative background.
-```
-
-<details><summary>Chinese prompt</summary>
-
-```text
-画一张【全基因组关联研究】的流程图，从左往右七步：
-1. 【队列：一组病例和一组对照】
-2. 【DNA 采集：血液管和唾液管】
-3. 【基因分型：带彩色点阵的 SNP 芯片】
-4. 【质量控制：过滤器去掉几个有问题的样本】
-5. 【关联分析：天平比较病例和对照中的变异】
-6. 【风险位点：染色体上一个高亮的位置】
-7. 【重复验证：另一个独立队列】
-不要把编号句子写进图里。
-步骤名（每个只出现一次，不加其他文字）：【Cohort, DNA collection, Genotyping, Quality control, Association testing, Risk locus, Replication】。
-
-风格：期刊式实验流程图。白色背景上干净的扁平矢量图标，每一步一个浅色圆角面板，面板之间用细灰色箭头连接。只用 3–4 种低饱和度颜色。每个面板里只画一个简洁的小场景，面板内不写任何文字；整张图唯一的文字就是给定的步骤名。用英文无衬线字体，每个步骤名只出现一次，拼写与给定完全一致。不要图例、不要说明文字、不要额外标签、不要 3D 渲染、阴影或装饰性背景。
-```
-
-</details>
-
-Model: Nano Banana 2 Lite (gemini-3.1-flash-lite-image, 1K) · Generated 2 times in total; shown are the outputs that passed review
-
-[↑ Back to top](#top)
-
-<sub><a href="https://yila.ai/?utm_source=github&utm_medium=readme&utm_campaign=sci-figure-prompts&utm_content=gwas-workflow">Try in Yila →</a></sub>
-
----
-
-<a id="no-112"></a>
-
-### No. 112: H&E staining histology workflow
-
-by [@Yila-AI](https://github.com/Yila-AI)
-
-Technique: **one panel per step, step names only** · Style: flat workflow · Aspect ratio: 16:9
-
-| English prompt |
-|---|
-| <img src="gallery/experimental-workflow/he-staining-en.jpg" width="420"> |
-
-> The Chinese-prompt output did not pass review, so it is not shown.
-
-**English prompt**
-
-```text
-Create a workflow figure for 【routine H&E histology】, 7 steps from left to right:
-1. 【Tissue collection: a small tissue piece in a cassette】
-2. 【Fixation: the cassette in a jar of formalin】
-3. 【Paraffin embedding: the tissue set in a wax block】
-4. 【Sectioning: a microtome cutting a thin ribbon of slices】
-5. 【Mounting: a slice floated onto a glass slide】
-6. 【Staining: nuclei turning purple and cytoplasm pink】
-7. 【Microscopy: a microscope over the slide】
-Do not write the numbered sentences in the figure.
-Step names, each used once, no other text: 【Tissue collection, Fixation, Paraffin embedding, Sectioning, Mounting, Staining, Microscopy】.
-
-Style: journal-style experimental workflow figure. Clean flat vector icons on a white background, one light pastel rounded panel per step, thin gray arrows between panels. Only 3-4 muted colors. Each panel shows one simple scene with no text inside it; the only text in the whole figure is the step names given. Sans-serif English, each step name appears exactly once, spelled exactly as given. No legends, no captions, no extra labels, no 3D rendering, no shadows, no decorative background.
-```
-
-<details><summary>Chinese prompt</summary>
-
-```text
-画一张【常规 H&E 组织学检查】的流程图，从左往右七步：
-1. 【取材：包埋盒里的一小块组织】
-2. 【固定：包埋盒放进福尔马林瓶】
-3. 【石蜡包埋：组织封进蜡块】
-4. 【切片：切片机切出一条薄片带】
-5. 【贴片：切片漂到载玻片上】
-6. 【染色：细胞核染成紫色，胞质染成粉色】
-7. 【镜检：显微镜对着载玻片】
-不要把编号句子写进图里。
-步骤名（每个只出现一次，不加其他文字）：【Tissue collection, Fixation, Paraffin embedding, Sectioning, Mounting, Staining, Microscopy】。
-
-风格：期刊式实验流程图。白色背景上干净的扁平矢量图标，每一步一个浅色圆角面板，面板之间用细灰色箭头连接。只用 3–4 种低饱和度颜色。每个面板里只画一个简洁的小场景，面板内不写任何文字；整张图唯一的文字就是给定的步骤名。用英文无衬线字体，每个步骤名只出现一次，拼写与给定完全一致。不要图例、不要说明文字、不要额外标签、不要 3D 渲染、阴影或装饰性背景。
-```
-
-</details>
-
-Model: Nano Banana 2 Lite (gemini-3.1-flash-lite-image, 1K) · Generated 2 times in total; shown are the outputs that passed review
-
-[↑ Back to top](#top)
-
-<sub><a href="https://yila.ai/?utm_source=github&utm_medium=readme&utm_campaign=sci-figure-prompts&utm_content=he-staining">Try in Yila →</a></sub>
-
----
-
-<a id="no-113"></a>
-
-### No. 113: Immunohistochemistry (IHC) workflow
-
-by [@Yila-AI](https://github.com/Yila-AI)
-
-Technique: **one panel per step, step names only** · Style: flat workflow · Aspect ratio: 16:9
-
-| English prompt | Chinese prompt |
-|---|---|
-| <img src="gallery/experimental-workflow/ihc-staining-en.jpg" width="420"> | <img src="gallery/experimental-workflow/ihc-staining-zh.jpg" width="420"> |
-
-**English prompt**
-
-```text
-Create a workflow figure for 【immunohistochemistry】, 6 steps from left to right:
-1. 【Fixation: a tissue piece in a formalin jar】
-2. 【Sectioning: a microtome cutting thin slices】
-3. 【Antigen retrieval: a slide in a hot buffer bath】
-4. 【Antibody staining: Y-shaped antibodies on the tissue】
-5. 【DAB development: brown staining appearing on the slide】
-6. 【Microscopy: a microscope over the slide】
-Step names, each used once, no other text: 【Fixation, Sectioning, Antigen retrieval, Antibody staining, DAB development, Microscopy】.
-
-Style: journal-style experimental workflow figure. Clean flat vector icons on a white background, one light pastel rounded panel per step, thin gray arrows between panels. Only 3-4 muted colors. Each panel shows one simple scene with no text inside it; the only text in the whole figure is the step names given. Sans-serif English, each step name appears exactly once, spelled exactly as given. No legends, no captions, no extra labels, no 3D rendering, no shadows, no decorative background.
-```
-
-<details><summary>Chinese prompt</summary>
-
-```text
-画一张【免疫组化实验】的流程图，从左往右六步：
-1. 【固定：福尔马林瓶里的组织块】
-2. 【切片：切片机切出薄片】
-3. 【抗原修复：玻片泡在热的缓冲液里】
-4. 【抗体染色：Y 形抗体结合在组织上】
-5. 【DAB 显色：玻片上出现棕色染色】
-6. 【镜检：显微镜对着玻片】
-步骤名（每个只出现一次，不加其他文字）：【Fixation, Sectioning, Antigen retrieval, Antibody staining, DAB development, Microscopy】。
-
-风格：期刊式实验流程图。白色背景上干净的扁平矢量图标，每一步一个浅色圆角面板，面板之间用细灰色箭头连接。只用 3–4 种低饱和度颜色。每个面板里只画一个简洁的小场景，面板内不写任何文字；整张图唯一的文字就是给定的步骤名。用英文无衬线字体，每个步骤名只出现一次，拼写与给定完全一致。不要图例、不要说明文字、不要额外标签、不要 3D 渲染、阴影或装饰性背景。
-```
-
-</details>
-
-Model: Nano Banana 2 Lite (gemini-3.1-flash-lite-image, 1K) · Generated 2 times in total; shown are the outputs that passed review
-
-[↑ Back to top](#top)
-
-<sub><a href="https://yila.ai/?utm_source=github&utm_medium=readme&utm_campaign=sci-figure-prompts&utm_content=ihc-staining">Try in Yila →</a></sub>
-
----
-
-<a id="no-114"></a>
-
-### No. 114: Immunofluorescence staining workflow
-
-by [@Yila-AI](https://github.com/Yila-AI)
-
-Technique: **one panel per step, step names only** · Style: flat workflow · Aspect ratio: 16:9
-
-| English prompt | Chinese prompt |
-|---|---|
-| <img src="gallery/experimental-workflow/immunofluorescence-en.jpg" width="420"> | <img src="gallery/experimental-workflow/immunofluorescence-zh.jpg" width="420"> |
-
-**English prompt**
-
-```text
-Create a workflow figure for 【immunofluorescence staining】, 6 steps from left to right:
-1. 【Fixation: cells on a coverslip with a fixative drop】
-2. 【Permeabilization: small holes in the cell membrane】
-3. 【Blocking: the coverslip in a buffer dish】
-4. 【Primary antibody: Y-shaped antibodies binding a target】
-5. 【Secondary antibody: glowing antibodies binding the first ones】
-6. 【Imaging: a confocal microscope】
-Step names, each used once, no other text: 【Fixation, Permeabilization, Blocking, Primary antibody, Secondary antibody, Imaging】.
-
-Style: journal-style experimental workflow figure. Clean flat vector icons on a white background, one light pastel rounded panel per step, thin gray arrows between panels. Only 3-4 muted colors. Each panel shows one simple scene with no text inside it; the only text in the whole figure is the step names given. Sans-serif English, each step name appears exactly once, spelled exactly as given. No legends, no captions, no extra labels, no 3D rendering, no shadows, no decorative background.
-```
-
-<details><summary>Chinese prompt</summary>
-
-```text
-画一张【免疫荧光染色】的流程图，从左往右六步：
-1. 【固定：盖玻片上的细胞滴上固定液】
-2. 【通透：细胞膜上出现小孔】
-3. 【封闭：盖玻片泡在缓冲液皿里】
-4. 【一抗：Y 形抗体结合靶蛋白】
-5. 【荧光二抗：发光的抗体结合一抗】
-6. 【成像：一台共聚焦显微镜】
-步骤名（每个只出现一次，不加其他文字）：【Fixation, Permeabilization, Blocking, Primary antibody, Secondary antibody, Imaging】。
-
-风格：期刊式实验流程图。白色背景上干净的扁平矢量图标，每一步一个浅色圆角面板，面板之间用细灰色箭头连接。只用 3–4 种低饱和度颜色。每个面板里只画一个简洁的小场景，面板内不写任何文字；整张图唯一的文字就是给定的步骤名。用英文无衬线字体，每个步骤名只出现一次，拼写与给定完全一致。不要图例、不要说明文字、不要额外标签、不要 3D 渲染、阴影或装饰性背景。
-```
-
-</details>
-
-Model: Nano Banana 2 Lite (gemini-3.1-flash-lite-image, 1K) · Generated 2 times in total; shown are the outputs that passed review
-
-[↑ Back to top](#top)
-
-<sub><a href="https://yila.ai/?utm_source=github&utm_medium=readme&utm_campaign=sci-figure-prompts&utm_content=immunofluorescence">Try in Yila →</a></sub>
-
----
-
-<a id="no-115"></a>
-
-### No. 115: Mendelian randomization design
-
-by [@Yila-AI](https://github.com/Yila-AI)
-
-Technique: **three-node causal diagram with the three assumptions** · Style: schematic diagram · Aspect ratio: 16:9
-
-| English prompt | Chinese prompt |
-|---|---|
-| <img src="gallery/experimental-workflow/mendelian-randomization-en.jpg" width="420"> | <img src="gallery/experimental-workflow/mendelian-randomization-zh.jpg" width="420"> |
-
-**English prompt**
-
-```text
-Create a causal diagram for 【a Mendelian randomization study】, read from left to right. Draw each relationship exactly as listed and nothing more:
-1. 【Genetic variants (a DNA icon) → Exposure (solid arrow), marked Relevance.】
-2. 【Exposure → Outcome (solid arrow).】
-3. 【Confounders, in a gray box above, point with dashed arrows to Exposure and to Outcome; a crossed-out dashed line from Confounders to Genetic variants is marked Independence.】
-4. 【A crossed-out arrow from Genetic variants directly to Outcome is marked Exclusion restriction.】
-Write each label only once; no icons or extra words inside the boxes.
-Labels, each used once, no other text: 【Genetic variants, Exposure, Outcome, Confounders, Relevance, Independence, Exclusion restriction】.
-
-Style: journal-style schematic diagram. Clean flat vector graphics on a white background. Modules are rounded rectangles or simple icons with their short names inside; light pastel panels group related layers. Only 3-4 muted colors, each with one fixed meaning. Thin, uniform arrows show the flow of data, energy, material or influence; dashed arrows for indirect or feedback links. Sans-serif English labels only, each label appears exactly once, spelled exactly as given. No 3D rendering, no shadows, no glow, no cyberpunk or tech-background decoration, no photorealism.
-```
-
-<details><summary>Chinese prompt</summary>
-
-```text
-画一张【孟德尔随机化研究】的因果示意图，从左往右读。严格按下面列出的关系画，不多画：
-1. 【遗传变异（DNA 图标）→ 暴露（实线箭头），标注 Relevance。】
-2. 【暴露 → 结局（实线箭头）。】
-3. 【混杂因素放在上方灰色框里，用虚线箭头分别指向暴露和结局；混杂因素到遗传变异之间画一条被划掉的虚线，标注 Independence。】
-4. 【遗传变异直接指向结局的箭头被划掉，标注 Exclusion restriction。】
-每个标签只写一次，框里不加图标或其他文字。
-标签（每个只出现一次，不加其他文字）：【Genetic variants, Exposure, Outcome, Confounders, Relevance, Independence, Exclusion restriction】。
-
-风格：期刊式示意框图。白色背景上干净的扁平矢量图形。模块画成圆角矩形或简洁图标，名称写在里面；用浅色面板把相关的层归在一起。只用 3–4 种低饱和度颜色，每种颜色含义固定。细而粗细一致的箭头表示数据、能量、物质或影响的流向，间接或反馈关系用虚线箭头。图中文字只用英文无衬线字体，每个标签只出现一次，拼写与给定完全一致。不要 3D 渲染、阴影、发光、赛博朋克或科技感背景装饰，不要照片质感。
-```
-
-</details>
-
-Model: Nano Banana 2 Lite (gemini-3.1-flash-lite-image, 1K) · Generated 5 times in total; shown are the outputs that passed review
-
-[↑ Back to top](#top)
-
-<sub><a href="https://yila.ai/?utm_source=github&utm_medium=readme&utm_campaign=sci-figure-prompts&utm_content=mendelian-randomization">Try in Yila →</a></sub>
-
----
-
-<a id="no-116"></a>
-
-### No. 116: Metabolomics workflow
-
-by [@Yila-AI](https://github.com/Yila-AI)
-
-Technique: **one panel per step, step names only** · Style: flat workflow · Aspect ratio: 16:9
-
-| English prompt | Chinese prompt |
-|---|---|
-| <img src="gallery/experimental-workflow/metabolomics-en.jpg" width="420"> | <img src="gallery/experimental-workflow/metabolomics-zh.jpg" width="420"> |
-
-**English prompt**
-
-```text
-Create a workflow figure for 【an untargeted metabolomics study】, 6 steps from left to right:
-1. 【Sample collection: a blood tube and a tissue piece】
-2. 【Metabolite extraction: a tube with solvent】
-3. 【LC-MS analysis: a mass spectrometer】
-4. 【Peak detection: a magnifier over a peak icon】
-5. 【Metabolite identification: a molecule with a tag】
-6. 【Pathway analysis: a small metabolic network】
-Do not write the numbered sentences in the figure.
-Step names, each used once, no other text: 【Sample collection, Extraction, LC-MS analysis, Peak detection, Identification, Pathway analysis】.
-
-Style: journal-style experimental workflow figure. Clean flat vector icons on a white background, one light pastel rounded panel per step, thin gray arrows between panels. Only 3-4 muted colors. Each panel shows one simple scene with no text inside it; the only text in the whole figure is the step names given. Sans-serif English, each step name appears exactly once, spelled exactly as given. No legends, no captions, no extra labels, no 3D rendering, no shadows, no decorative background.
-```
-
-<details><summary>Chinese prompt</summary>
-
-```text
-画一张【非靶向代谢组学研究】的流程图，从左往右六步：
-1. 【样本采集：血液管和组织块】
-2. 【代谢物提取：装溶剂的试管】
-3. 【LC-MS 分析：一台质谱仪】
-4. 【峰检测：放大镜对着峰图标】
-5. 【代谢物鉴定：带标签的分子】
-6. 【通路分析：一个小代谢网络】
-不要把编号句子写进图里。
-步骤名（每个只出现一次，不加其他文字）：【Sample collection, Extraction, LC-MS analysis, Peak detection, Identification, Pathway analysis】。
-
-风格：期刊式实验流程图。白色背景上干净的扁平矢量图标，每一步一个浅色圆角面板，面板之间用细灰色箭头连接。只用 3–4 种低饱和度颜色。每个面板里只画一个简洁的小场景，面板内不写任何文字；整张图唯一的文字就是给定的步骤名。用英文无衬线字体，每个步骤名只出现一次，拼写与给定完全一致。不要图例、不要说明文字、不要额外标签、不要 3D 渲染、阴影或装饰性背景。
-```
-
-</details>
-
-Model: Nano Banana 2 Lite (gemini-3.1-flash-lite-image, 1K) · Generated 2 times in total; shown are the outputs that passed review
-
-[↑ Back to top](#top)
-
-<sub><a href="https://yila.ai/?utm_source=github&utm_medium=readme&utm_campaign=sci-figure-prompts&utm_content=metabolomics">Try in Yila →</a></sub>
-
----
-
-<a id="no-117"></a>
-
-### No. 117: Molecular cloning workflow
-
-by [@Yila-AI](https://github.com/Yila-AI)
-
-Technique: **one panel per step, step names only** · Style: flat workflow · Aspect ratio: 16:9
-
-| English prompt | Chinese prompt |
-|---|---|
-| <img src="gallery/experimental-workflow/molecular-cloning-en.jpg" width="420"> | <img src="gallery/experimental-workflow/molecular-cloning-zh.jpg" width="420"> |
-
-**English prompt**
-
-```text
-Create a workflow figure for 【molecular cloning of a gene into a plasmid】, 6 steps from left to right:
-1. 【PCR amplification: a short DNA segment being copied】
-2. 【Restriction digestion: scissors cutting a circular plasmid open】
-3. 【Ligation: the insert joined into the open plasmid】
-4. 【Transformation: plasmids entering bacteria】
-5. 【Colony selection: bacterial colonies on an agar plate】
-6. 【Sequencing verification: a check mark over a DNA strand】
-Do not write the numbered sentences in the figure.
-Step names, each used once, no other text: 【PCR amplification, Restriction digestion, Ligation, Transformation, Colony selection, Sequencing verification】.
-
-Style: journal-style experimental workflow figure. Clean flat vector icons on a white background, one light pastel rounded panel per step, thin gray arrows between panels. Only 3-4 muted colors. Each panel shows one simple scene with no text inside it; the only text in the whole figure is the step names given. Sans-serif English, each step name appears exactly once, spelled exactly as given. No legends, no captions, no extra labels, no 3D rendering, no shadows, no decorative background.
-```
-
-<details><summary>Chinese prompt</summary>
-
-```text
-画一张【把目的基因克隆进质粒】的流程图，从左往右六步：
-1. 【PCR 扩增：一段短 DNA 被复制】
-2. 【酶切：剪刀把环形质粒剪开】
-3. 【连接：插入片段接入打开的质粒】
-4. 【转化：质粒进入细菌】
-5. 【挑菌：琼脂平板上的细菌菌落】
-6. 【测序验证：DNA 链上方一个对勾】
-不要把编号句子写进图里。
-步骤名（每个只出现一次，不加其他文字）：【PCR amplification, Restriction digestion, Ligation, Transformation, Colony selection, Sequencing verification】。
-
-风格：期刊式实验流程图。白色背景上干净的扁平矢量图标，每一步一个浅色圆角面板，面板之间用细灰色箭头连接。只用 3–4 种低饱和度颜色。每个面板里只画一个简洁的小场景，面板内不写任何文字；整张图唯一的文字就是给定的步骤名。用英文无衬线字体，每个步骤名只出现一次，拼写与给定完全一致。不要图例、不要说明文字、不要额外标签、不要 3D 渲染、阴影或装饰性背景。
-```
-
-</details>
-
-Model: Nano Banana 2 Lite (gemini-3.1-flash-lite-image, 1K) · Generated 4 times in total; shown are the outputs that passed review
-
-[↑ Back to top](#top)
-
-<sub><a href="https://yila.ai/?utm_source=github&utm_medium=readme&utm_campaign=sci-figure-prompts&utm_content=molecular-cloning">Try in Yila →</a></sub>
+**[👉 Try it now in YILA →](https://yila.ai/scientific-figure-prompts/cell-transfection?utm_source=github&utm_medium=readme&utm_campaign=sci-figure-prompts&utm_content=cell-transfection)** · [↑ Back to top](#top)
 
 ---
 
 <a id="no-118"></a>
 
-### No. 118: Mouse disease model: grouping, dosing and sampling
+#### No. 118: Mouse disease model: grouping, dosing and sampling
 
-by [@Yila-AI](https://github.com/Yila-AI)
+![Model](https://img.shields.io/badge/Model-GPT%20Image%202.6-10a37f) ![Category](https://img.shields.io/badge/Experimental%20Workflow-blue) ![Featured](https://img.shields.io/badge/%E2%AD%90-Featured-gold)
 
-Technique: **one pastel rounded panel per step + icon-style scene** · Style: flat workflow · Aspect ratio: 16:9
+##### 📖 Description
 
-| English prompt | Chinese prompt |
-|---|---|
-| <img src="gallery/experimental-workflow/mouse-model-dosing-en.jpg" width="420"> | <img src="gallery/experimental-workflow/mouse-model-dosing-zh.jpg" width="420"> |
+Technique: **one pastel rounded panel per step + icon-style scene** · Style: flat workflow · Aspect Ratio: `16:9`
 
-**English prompt**
+##### 📝 Prompt
 
 ```text
 Create an experimental workflow figure for 【a mouse tumor treatment study】, in five steps from left to right. Each step is one light pastel rounded panel with its number and name at the top and one simple icon-style scene inside; thin arrows connect the panels.
@@ -6027,819 +2640,38 @@ Style: journal-style experimental workflow figure. Clean flat vector icons on a 
 
 </details>
 
-Model: Nano Banana 2 Lite (gemini-3.1-flash-lite-image, 1K) · Generated 2 times in total; shown are the outputs that passed review
+##### 🖼️ Generated Image
 
-[↑ Back to top](#top)
+<div align="center">
+<a href="https://yila.ai/scientific-figure-prompts/mouse-model-dosing?utm_source=github&utm_medium=readme&utm_campaign=sci-figure-prompts&utm_content=mouse-model-dosing"><img src="gallery/experimental-workflow/mouse-model-dosing-en.jpg" width="600" alt="Mouse disease model: grouping, dosing and sampling"></a>
+</div>
 
-<sub><a href="https://yila.ai/?utm_source=github&utm_medium=readme&utm_campaign=sci-figure-prompts&utm_content=mouse-model-dosing">Try in Yila →</a></sub>
+##### 📌 Details
 
----
+- **Author:** [@Yila-AI](https://github.com/Yila-AI)
+- **Model:** GPT Image 2.6
+- **Aspect Ratio:** 16:9
+- **Languages:** en, zh
 
-<a id="no-119"></a>
-
-### No. 119: Network pharmacology workflow
-
-by [@Yila-AI](https://github.com/Yila-AI)
-
-Technique: **one panel per step, step names only** · Style: flat workflow · Aspect ratio: 16:9
-
-| English prompt | Chinese prompt |
-|---|---|
-| <img src="gallery/experimental-workflow/network-pharmacology-en.jpg" width="420"> | <img src="gallery/experimental-workflow/network-pharmacology-zh.jpg" width="420"> |
-
-**English prompt**
-
-```text
-Create a workflow figure for 【a network pharmacology study】, 7 steps from left to right:
-1. 【Compound targets: a herb icon next to a database icon】
-2. 【Disease targets: a disease icon next to a database icon】
-3. 【Common targets: two overlapping circles】
-4. 【PPI network: a small network of connected dots】
-5. 【Enrichment: a few short horizontal bars】
-6. 【Molecular docking: a small molecule fitting into a protein】
-7. 【Validation: a flask and a mouse】
-Step names, each used once, no other text: 【Compound targets, Disease targets, Common targets, PPI network, Enrichment, Docking, Validation】.
-
-Style: journal-style experimental workflow figure. Clean flat vector icons on a white background, one light pastel rounded panel per step, thin gray arrows between panels. Only 3-4 muted colors. Each panel shows one simple scene with no text inside it; the only text in the whole figure is the step names given. Sans-serif English, each step name appears exactly once, spelled exactly as given. No legends, no captions, no extra labels, no 3D rendering, no shadows, no decorative background.
-```
-
-<details><summary>Chinese prompt</summary>
-
-```text
-画一张【网络药理学研究】的流程图，从左往右七步：
-1. 【药物靶点：草药图标加数据库图标】
-2. 【疾病靶点：疾病图标加数据库图标】
-3. 【共同靶点：两个相交的圆】
-4. 【PPI 网络：一个由连线圆点组成的小网络】
-5. 【富集分析：几根短的横条】
-6. 【分子对接：小分子嵌入蛋白质】
-7. 【实验验证：烧瓶和小鼠】
-步骤名（每个只出现一次，不加其他文字）：【Compound targets, Disease targets, Common targets, PPI network, Enrichment, Docking, Validation】。
-
-风格：期刊式实验流程图。白色背景上干净的扁平矢量图标，每一步一个浅色圆角面板，面板之间用细灰色箭头连接。只用 3–4 种低饱和度颜色。每个面板里只画一个简洁的小场景，面板内不写任何文字；整张图唯一的文字就是给定的步骤名。用英文无衬线字体，每个步骤名只出现一次，拼写与给定完全一致。不要图例、不要说明文字、不要额外标签、不要 3D 渲染、阴影或装饰性背景。
-```
-
-</details>
-
-Model: Nano Banana 2 Lite (gemini-3.1-flash-lite-image, 1K) · Generated 2 times in total; shown are the outputs that passed review
-
-[↑ Back to top](#top)
-
-<sub><a href="https://yila.ai/?utm_source=github&utm_medium=readme&utm_campaign=sci-figure-prompts&utm_content=network-pharmacology">Try in Yila →</a></sub>
-
----
-
-<a id="no-120"></a>
-
-### No. 120: Organ-on-a-chip workflow
-
-by [@Yila-AI](https://github.com/Yila-AI)
-
-Technique: **one panel per step, step names only** · Style: flat workflow · Aspect ratio: 16:9
-
-| English prompt | Chinese prompt |
-|---|---|
-| <img src="gallery/experimental-workflow/organ-on-a-chip-en.jpg" width="420"> | <img src="gallery/experimental-workflow/organ-on-a-chip-zh.jpg" width="420"> |
-
-**English prompt**
-
-```text
-Create a workflow figure for 【an organ-on-a-chip study】, 6 steps from left to right:
-1. 【Chip fabrication: a clear chip with two parallel channels】
-2. 【Cell seeding: epithelial cells in the top channel and endothelial cells in the bottom, separated by a porous membrane】
-3. 【Perfusion: a pump pushing medium through both channels】
-4. 【Mechanical cues: the side chambers stretching the membrane in a breathing motion】
-5. 【Drug exposure: a dropper adding a drug to the flow】
-6. 【Readouts: a microscope over the chip and a tube collecting outflow】
-Do not write the numbered sentences in the figure.
-Step names, each used once, no other text: 【Chip fabrication, Cell seeding, Perfusion, Mechanical cues, Drug exposure, Readouts】.
-
-Style: journal-style experimental workflow figure. Clean flat vector icons on a white background, one light pastel rounded panel per step, thin gray arrows between panels. Only 3-4 muted colors. Each panel shows one simple scene with no text inside it; the only text in the whole figure is the step names given. Sans-serif English, each step name appears exactly once, spelled exactly as given. No legends, no captions, no extra labels, no 3D rendering, no shadows, no decorative background.
-```
-
-<details><summary>Chinese prompt</summary>
-
-```text
-画一张【器官芯片研究】的流程图，从左往右六步：
-1. 【芯片制作：一块带两条平行通道的透明芯片】
-2. 【细胞接种：上通道种上皮细胞，下通道种内皮细胞，中间隔一层多孔膜】
-3. 【灌流：泵推动培养基流过两条通道】
-4. 【力学刺激：两侧腔室像呼吸一样拉伸膜】
-5. 【药物暴露：滴管往液流里加药】
-6. 【检测：显微镜观察芯片，试管收集流出液】
-不要把编号句子写进图里。
-步骤名（每个只出现一次，不加其他文字）：【Chip fabrication, Cell seeding, Perfusion, Mechanical cues, Drug exposure, Readouts】。
-
-风格：期刊式实验流程图。白色背景上干净的扁平矢量图标，每一步一个浅色圆角面板，面板之间用细灰色箭头连接。只用 3–4 种低饱和度颜色。每个面板里只画一个简洁的小场景，面板内不写任何文字；整张图唯一的文字就是给定的步骤名。用英文无衬线字体，每个步骤名只出现一次，拼写与给定完全一致。不要图例、不要说明文字、不要额外标签、不要 3D 渲染、阴影或装饰性背景。
-```
-
-</details>
-
-Model: Nano Banana 2 Lite (gemini-3.1-flash-lite-image, 1K) · Generated 2 times in total; shown are the outputs that passed review
-
-[↑ Back to top](#top)
-
-<sub><a href="https://yila.ai/?utm_source=github&utm_medium=readme&utm_campaign=sci-figure-prompts&utm_content=organ-on-a-chip">Try in Yila →</a></sub>
-
----
-
-<a id="no-121"></a>
-
-### No. 121: Organoid culture and drug screening
-
-by [@Yila-AI](https://github.com/Yila-AI)
-
-Technique: **one pastel rounded panel per step** · Style: flat workflow · Aspect ratio: 16:9
-
-| English prompt | Chinese prompt |
-|---|---|
-| <img src="gallery/experimental-workflow/organoid-drug-screen-en.jpg" width="420"> | <img src="gallery/experimental-workflow/organoid-drug-screen-zh.jpg" width="420"> |
-
-**English prompt**
-
-```text
-Create an experimental workflow figure for 【patient-derived organoid drug screening】, in five steps from left to right. Each step is one light pastel rounded panel with its number and name at the top and one simple icon-style scene inside; thin arrows connect the panels.
-Step 1: 【a small tumor biopsy taken from a patient】.
-Step 2: 【round organoids growing in a gel dome in a dish】.
-Step 3: 【organoids placed into a multi-well plate, each well receiving a different drug】.
-Step 4: 【a plate reader measuring cell viability】.
-Step 5: 【a few highlighted wells marking the most effective drugs】.
-Labels, each used once, no other text: 【1 Biopsy, 2 Culture, 3 Drug screen, 4 Readout, 5 Hits】.
-
-Style: journal-style experimental workflow figure. Clean flat vector icons on a white background, one light pastel rounded panel per step, thin gray arrows between panels. Only 3-4 muted colors. Each panel shows one simple scene with no text inside it; the only text in the whole figure is the step names given. Sans-serif English, each step name appears exactly once, spelled exactly as given. No legends, no captions, no extra labels, no 3D rendering, no shadows, no decorative background.
-```
-
-<details><summary>Chinese prompt</summary>
-
-```text
-画一张【患者来源类器官药物筛选】的实验流程图，从左到右分五步。每一步是一个浅色圆角面板，顶部写编号和步骤名，面板里是一个简洁的图标化小场景，面板之间用细箭头连接。
-第 1 步：【从患者身上取一小块肿瘤活检】。
-第 2 步：【圆形类器官在培养皿里的基质胶滴中生长】。
-第 3 步：【类器官被分进多孔板，每个孔加入不同的药物】。
-第 4 步：【酶标仪测量细胞活力】。
-第 5 步：【几个被标亮的孔，代表效果最好的药物】。
-标签（每个只出现一次，不加其他文字）：【1 Biopsy, 2 Culture, 3 Drug screen, 4 Readout, 5 Hits】。
-
-风格：期刊式实验流程图。白色背景上干净的扁平矢量图标，每一步一个浅色圆角面板，面板之间用细灰色箭头连接。只用 3–4 种低饱和度颜色。每个面板里只画一个简洁的小场景，面板内不写任何文字；整张图唯一的文字就是给定的步骤名。用英文无衬线字体，每个步骤名只出现一次，拼写与给定完全一致。不要图例、不要说明文字、不要额外标签、不要 3D 渲染、阴影或装饰性背景。
-```
-
-</details>
-
-Model: Nano Banana 2 Lite (gemini-3.1-flash-lite-image, 1K) · Generated 3 times in total; shown are the outputs that passed review
-
-[↑ Back to top](#top)
-
-<sub><a href="https://yila.ai/?utm_source=github&utm_medium=readme&utm_campaign=sci-figure-prompts&utm_content=organoid-drug-screen">Try in Yila →</a></sub>
-
----
-
-<a id="no-122"></a>
-
-### No. 122: Recombinant protein expression and purification workflow
-
-by [@Yila-AI](https://github.com/Yila-AI)
-
-Technique: **one panel per step, step names only** · Style: flat workflow · Aspect ratio: 16:9
-
-| English prompt | Chinese prompt |
-|---|---|
-| <img src="gallery/experimental-workflow/protein-expression-purification-en.jpg" width="420"> | <img src="gallery/experimental-workflow/protein-expression-purification-zh.jpg" width="420"> |
-
-**English prompt**
-
-```text
-Create a workflow figure for 【recombinant protein expression and purification】, 6 steps from left to right:
-1. 【Expression vector: a circular plasmid】
-2. 【Bacterial culture: a flask of cloudy bacteria】
-3. 【Induction: a dropper adding inducer to the flask】
-4. 【Cell lysis: a tube of broken bacteria】
-5. 【Affinity column: a column with beads catching the protein】
-6. 【Purity check: a gel with one clean band】
-Do not write the numbered sentences in the figure.
-Step names, each used once, no other text: 【Expression vector, Bacterial culture, Induction, Cell lysis, Affinity column, Purity check】.
-
-Style: journal-style experimental workflow figure. Clean flat vector icons on a white background, one light pastel rounded panel per step, thin gray arrows between panels. Only 3-4 muted colors. Each panel shows one simple scene with no text inside it; the only text in the whole figure is the step names given. Sans-serif English, each step name appears exactly once, spelled exactly as given. No legends, no captions, no extra labels, no 3D rendering, no shadows, no decorative background.
-```
-
-<details><summary>Chinese prompt</summary>
-
-```text
-画一张【重组蛋白表达与纯化】的流程图，从左往右六步：
-1. 【表达载体：环形质粒】
-2. 【细菌培养：一瓶浑浊的菌液】
-3. 【诱导表达：滴管往瓶里加诱导剂】
-4. 【细胞裂解：一管破碎的细菌】
-5. 【亲和层析：柱子里的小珠子捕获蛋白】
-6. 【纯度检测：只有一条干净条带的凝胶】
-不要把编号句子写进图里。
-步骤名（每个只出现一次，不加其他文字）：【Expression vector, Bacterial culture, Induction, Cell lysis, Affinity column, Purity check】。
-
-风格：期刊式实验流程图。白色背景上干净的扁平矢量图标，每一步一个浅色圆角面板，面板之间用细灰色箭头连接。只用 3–4 种低饱和度颜色。每个面板里只画一个简洁的小场景，面板内不写任何文字；整张图唯一的文字就是给定的步骤名。用英文无衬线字体，每个步骤名只出现一次，拼写与给定完全一致。不要图例、不要说明文字、不要额外标签、不要 3D 渲染、阴影或装饰性背景。
-```
-
-</details>
-
-Model: Nano Banana 2 Lite (gemini-3.1-flash-lite-image, 1K) · Generated 4 times in total; shown are the outputs that passed review
-
-[↑ Back to top](#top)
-
-<sub><a href="https://yila.ai/?utm_source=github&utm_medium=readme&utm_campaign=sci-figure-prompts&utm_content=protein-expression-purification">Try in Yila →</a></sub>
-
----
-
-<a id="no-123"></a>
-
-### No. 123: LC-MS/MS proteomics workflow
-
-by [@Yila-AI](https://github.com/Yila-AI)
-
-Technique: **one pastel rounded panel per step** · Style: flat workflow · Aspect ratio: 16:9
-
-| English prompt | Chinese prompt |
-|---|---|
-| <img src="gallery/experimental-workflow/proteomics-lcms-en.jpg" width="420"> | <img src="gallery/experimental-workflow/proteomics-lcms-zh.jpg" width="420"> |
-
-**English prompt**
-
-```text
-Create an experimental workflow figure for 【LC-MS/MS proteomics】, in five steps from left to right. Each step is one light pastel rounded panel with its number and name at the top and one simple icon-style scene inside; thin arrows connect the panels.
-Step 1: 【cells broken open in a tube, releasing proteins】.
-Step 2: 【scissors cutting a protein chain into short peptides】.
-Step 3: 【a thin liquid chromatography column separating peptides】.
-Step 4: 【a mass spectrometer with a simple spectrum of peaks】.
-Step 5: 【a short table of identified proteins with bars showing their amounts】.
-Labels, each used once, no other text: 【1 Lysis, 2 Digestion, 3 LC, 4 MS/MS, 5 Quantification】.
-
-Style: journal-style experimental workflow figure. Clean flat vector icons on a white background, one light pastel rounded panel per step, thin gray arrows between panels. Only 3-4 muted colors. Each panel shows one simple scene with no text inside it; the only text in the whole figure is the step names given. Sans-serif English, each step name appears exactly once, spelled exactly as given. No legends, no captions, no extra labels, no 3D rendering, no shadows, no decorative background.
-```
-
-<details><summary>Chinese prompt</summary>
-
-```text
-画一张【LC-MS/MS 蛋白质组学】的实验流程图，从左到右分五步。每一步是一个浅色圆角面板，顶部写编号和步骤名，面板里是一个简洁的图标化小场景，面板之间用细箭头连接。
-第 1 步：【试管里的细胞被裂解，释放出蛋白】。
-第 2 步：【剪刀把一条蛋白链剪成短肽段】。
-第 3 步：【一根细长的液相色谱柱分离肽段】。
-第 4 步：【一台质谱仪，旁边是一张简单的峰图】。
-第 5 步：【一张简短的已鉴定蛋白表，用横条表示含量】。
-标签（每个只出现一次，不加其他文字）：【1 Lysis, 2 Digestion, 3 LC, 4 MS/MS, 5 Quantification】。
-
-风格：期刊式实验流程图。白色背景上干净的扁平矢量图标，每一步一个浅色圆角面板，面板之间用细灰色箭头连接。只用 3–4 种低饱和度颜色。每个面板里只画一个简洁的小场景，面板内不写任何文字；整张图唯一的文字就是给定的步骤名。用英文无衬线字体，每个步骤名只出现一次，拼写与给定完全一致。不要图例、不要说明文字、不要额外标签、不要 3D 渲染、阴影或装饰性背景。
-```
-
-</details>
-
-Model: Nano Banana 2 Lite (gemini-3.1-flash-lite-image, 1K) · Generated 4 times in total; shown are the outputs that passed review
-
-[↑ Back to top](#top)
-
-<sub><a href="https://yila.ai/?utm_source=github&utm_medium=readme&utm_campaign=sci-figure-prompts&utm_content=proteomics-lcms">Try in Yila →</a></sub>
-
----
-
-<a id="no-124"></a>
-
-### No. 124: Public database mining workflow (TCGA/GEO)
-
-by [@Yila-AI](https://github.com/Yila-AI)
-
-Technique: **one panel per step, step names only** · Style: flat workflow · Aspect ratio: 16:9
-
-| English prompt | Chinese prompt |
-|---|---|
-| <img src="gallery/experimental-workflow/public-database-mining-en.jpg" width="420"> | <img src="gallery/experimental-workflow/public-database-mining-zh.jpg" width="420"> |
-
-**English prompt**
-
-```text
-Create a workflow figure for 【a bioinformatics study using public databases】, 6 steps from left to right:
-1. 【Data download: a cloud with a database】
-2. 【Differential expression: one gene up, one gene down】
-3. 【Hub genes: a network with one highlighted node】
-4. 【Enrichment: a few short horizontal bars】
-5. 【Immune infiltration: a few immune cells around a tissue】
-6. 【Validation: a flask and a tissue slide】
-Do not write the numbered sentences in the figure.
-Step names, each used once, no other text: 【Data download, Differential expression, Hub genes, Enrichment, Immune infiltration, Validation】.
-
-Style: journal-style experimental workflow figure. Clean flat vector icons on a white background, one light pastel rounded panel per step, thin gray arrows between panels. Only 3-4 muted colors. Each panel shows one simple scene with no text inside it; the only text in the whole figure is the step names given. Sans-serif English, each step name appears exactly once, spelled exactly as given. No legends, no captions, no extra labels, no 3D rendering, no shadows, no decorative background.
-```
-
-<details><summary>Chinese prompt</summary>
-
-```text
-画一张【公共数据库生物信息学研究】的流程图，从左往右六步：
-1. 【数据下载：云和数据库】
-2. 【差异表达：一个基因上调、一个下调】
-3. 【核心基因：一个网络里高亮一个节点】
-4. 【富集分析：几根短横条】
-5. 【免疫浸润：组织周围几个免疫细胞】
-6. 【实验验证：烧瓶和组织切片】
-不要把编号句子写进图里。
-步骤名（每个只出现一次，不加其他文字）：【Data download, Differential expression, Hub genes, Enrichment, Immune infiltration, Validation】。
-
-风格：期刊式实验流程图。白色背景上干净的扁平矢量图标，每一步一个浅色圆角面板，面板之间用细灰色箭头连接。只用 3–4 种低饱和度颜色。每个面板里只画一个简洁的小场景，面板内不写任何文字；整张图唯一的文字就是给定的步骤名。用英文无衬线字体，每个步骤名只出现一次，拼写与给定完全一致。不要图例、不要说明文字、不要额外标签、不要 3D 渲染、阴影或装饰性背景。
-```
-
-</details>
-
-Model: Nano Banana 2 Lite (gemini-3.1-flash-lite-image, 1K) · Generated 2 times in total; shown are the outputs that passed review
-
-[↑ Back to top](#top)
-
-<sub><a href="https://yila.ai/?utm_source=github&utm_medium=readme&utm_campaign=sci-figure-prompts&utm_content=public-database-mining">Try in Yila →</a></sub>
-
----
-
-<a id="no-125"></a>
-
-### No. 125: qPCR workflow
-
-by [@Yila-AI](https://github.com/Yila-AI)
-
-Technique: **one panel per step, step names only** · Style: flat workflow · Aspect ratio: 16:9
-
-| English prompt | Chinese prompt |
-|---|---|
-| <img src="gallery/experimental-workflow/qpcr-en.jpg" width="420"> | <img src="gallery/experimental-workflow/qpcr-zh.jpg" width="420"> |
-
-**English prompt**
-
-```text
-Create a workflow figure for 【RT-qPCR】, 5 steps from left to right:
-1. 【RNA extraction: a tube with a pink RNA pellet】
-2. 【cDNA synthesis: an RNA strand turning into a DNA strand】
-3. 【Reaction setup: a pipette over a 96-well plate】
-4. 【Thermal cycling: a qPCR machine】
-5. 【Relative quantification: a gene icon with up and down arrows】
-Step names, each used once, no other text: 【RNA extraction, cDNA synthesis, Reaction setup, Thermal cycling, Relative quantification】.
-
-Style: journal-style experimental workflow figure. Clean flat vector icons on a white background, one light pastel rounded panel per step, thin gray arrows between panels. Only 3-4 muted colors. Each panel shows one simple scene with no text inside it; the only text in the whole figure is the step names given. Sans-serif English, each step name appears exactly once, spelled exactly as given. No legends, no captions, no extra labels, no 3D rendering, no shadows, no decorative background.
-```
-
-<details><summary>Chinese prompt</summary>
-
-```text
-画一张【RT-qPCR 实验】的流程图，从左往右五步：
-1. 【RNA 提取：试管底部粉色的 RNA 沉淀】
-2. 【cDNA 合成：一条 RNA 链变成 DNA 链】
-3. 【反应体系配制：移液枪对着 96 孔板】
-4. 【热循环：一台 qPCR 仪】
-5. 【相对定量：基因图标配上下箭头】
-步骤名（每个只出现一次，不加其他文字）：【RNA extraction, cDNA synthesis, Reaction setup, Thermal cycling, Relative quantification】。
-
-风格：期刊式实验流程图。白色背景上干净的扁平矢量图标，每一步一个浅色圆角面板，面板之间用细灰色箭头连接。只用 3–4 种低饱和度颜色。每个面板里只画一个简洁的小场景，面板内不写任何文字；整张图唯一的文字就是给定的步骤名。用英文无衬线字体，每个步骤名只出现一次，拼写与给定完全一致。不要图例、不要说明文字、不要额外标签、不要 3D 渲染、阴影或装饰性背景。
-```
-
-</details>
-
-Model: Nano Banana 2 Lite (gemini-3.1-flash-lite-image, 1K) · Generated 2 times in total; shown are the outputs that passed review
-
-[↑ Back to top](#top)
-
-<sub><a href="https://yila.ai/?utm_source=github&utm_medium=readme&utm_campaign=sci-figure-prompts&utm_content=qpcr">Try in Yila →</a></sub>
-
----
-
-<a id="no-126"></a>
-
-### No. 126: Knockdown, overexpression and rescue logic
-
-by [@Yila-AI](https://github.com/Yila-AI)
-
-Technique: **four rows compared on one phenotype readout** · Style: schematic diagram · Aspect ratio: 16:9
-
-| English prompt |
-|---|
-| <img src="gallery/experimental-workflow/rescue-experiment-en.jpg" width="420"> |
-
-> The Chinese-prompt output did not pass review, so it is not shown.
-
-**English prompt**
-
-```text
-Create a schematic of 【the loss-of-function, gain-of-function and rescue logic for Gene X】: four rows, each with a row name on the far left, one cell icon in the middle and one horizontal arrow on the right whose length shows migration. One column title above the arrows.
-1. 【Control: a normal cell, a medium arrow.】
-2. 【Knockdown: a cell with Gene X crossed out, a short arrow.】
-3. 【Overexpression: a cell with extra Gene X, a long arrow.】
-4. 【Rescue: a knocked-down cell with Gene X added back, a medium arrow.】
-Write each row name only once. No text inside the cells or next to the arrows.
-Labels, each used once, no other text: 【Control, Knockdown, Overexpression, Rescue, Migration】.
-
-Style: journal-style schematic diagram. Clean flat vector graphics on a white background. Modules are rounded rectangles or simple icons with their short names inside; light pastel panels group related layers. Only 3-4 muted colors, each with one fixed meaning. Thin, uniform arrows show the flow of data, energy, material or influence; dashed arrows for indirect or feedback links. Sans-serif English labels only, each label appears exactly once, spelled exactly as given. No 3D rendering, no shadows, no glow, no cyberpunk or tech-background decoration, no photorealism.
-```
-
-<details><summary>Chinese prompt</summary>
-
-```text
-画一张【Gene X 功能缺失、功能获得与救援实验】的逻辑示意图：四行，每行最左侧写行名，中间一个细胞图标，右侧一条横向箭头，箭头长度表示迁移能力。箭头上方写一个列标题。
-1. 【对照：正常细胞，中等长度箭头。】
-2. 【敲低：Gene X 被划掉的细胞，短箭头。】
-3. 【过表达：Gene X 增多的细胞，长箭头。】
-4. 【救援：敲低后回补 Gene X 的细胞，中等长度箭头。】
-每个行名只写一次。细胞里和箭头旁不写字。
-标签（每个只出现一次，不加其他文字）：【Control, Knockdown, Overexpression, Rescue, Migration】。
-
-风格：期刊式示意框图。白色背景上干净的扁平矢量图形。模块画成圆角矩形或简洁图标，名称写在里面；用浅色面板把相关的层归在一起。只用 3–4 种低饱和度颜色，每种颜色含义固定。细而粗细一致的箭头表示数据、能量、物质或影响的流向，间接或反馈关系用虚线箭头。图中文字只用英文无衬线字体，每个标签只出现一次，拼写与给定完全一致。不要 3D 渲染、阴影、发光、赛博朋克或科技感背景装饰，不要照片质感。
-```
-
-</details>
-
-Model: Nano Banana 2 Lite (gemini-3.1-flash-lite-image, 1K) · Generated 6 times in total; shown are the outputs that passed review
-
-[↑ Back to top](#top)
-
-<sub><a href="https://yila.ai/?utm_source=github&utm_medium=readme&utm_campaign=sci-figure-prompts&utm_content=rescue-experiment">Try in Yila →</a></sub>
-
----
-
-<a id="no-127"></a>
-
-### No. 127: Scratch wound healing assay workflow
-
-by [@Yila-AI](https://github.com/Yila-AI)
-
-Technique: **one panel per step, step names only** · Style: flat workflow · Aspect ratio: 16:9
-
-| English prompt | Chinese prompt |
-|---|---|
-| <img src="gallery/experimental-workflow/scratch-wound-assay-en.jpg" width="420"> | <img src="gallery/experimental-workflow/scratch-wound-assay-zh.jpg" width="420"> |
-
-**English prompt**
-
-```text
-Create a workflow figure for 【a scratch wound healing assay】, 6 steps from left to right:
-1. 【Confluent monolayer: a dish fully covered with cells】
-2. 【Scratch: a pipette tip drawing a straight line through the cells】
-3. 【Washing: medium being replaced】
-4. 【Imaging at start: a microscope view showing a wide gap】
-5. 【Migration: cells moving into the gap】
-6. 【Imaging later: a microscope view showing a narrow gap】
-Do not write the numbered sentences in the figure.
-Step names, each used once, no other text: 【Confluent monolayer, Scratch, Washing, Imaging at start, Migration, Imaging later】.
-
-Style: journal-style experimental workflow figure. Clean flat vector icons on a white background, one light pastel rounded panel per step, thin gray arrows between panels. Only 3-4 muted colors. Each panel shows one simple scene with no text inside it; the only text in the whole figure is the step names given. Sans-serif English, each step name appears exactly once, spelled exactly as given. No legends, no captions, no extra labels, no 3D rendering, no shadows, no decorative background.
-```
-
-<details><summary>Chinese prompt</summary>
-
-```text
-画一张【细胞划痕实验】的流程图，从左往右六步：
-1. 【长满单层：长满细胞的培养皿】
-2. 【划痕：枪头在细胞层上划一条直线】
-3. 【清洗：更换培养基】
-4. 【初始拍照：显微镜下一道宽缝】
-5. 【迁移：细胞向缝中移动】
-6. 【后续拍照：显微镜下的缝变窄】
-不要把编号句子写进图里。
-步骤名（每个只出现一次，不加其他文字）：【Confluent monolayer, Scratch, Washing, Imaging at start, Migration, Imaging later】。
-
-风格：期刊式实验流程图。白色背景上干净的扁平矢量图标，每一步一个浅色圆角面板，面板之间用细灰色箭头连接。只用 3–4 种低饱和度颜色。每个面板里只画一个简洁的小场景，面板内不写任何文字；整张图唯一的文字就是给定的步骤名。用英文无衬线字体，每个步骤名只出现一次，拼写与给定完全一致。不要图例、不要说明文字、不要额外标签、不要 3D 渲染、阴影或装饰性背景。
-```
-
-</details>
-
-Model: Nano Banana 2 Lite (gemini-3.1-flash-lite-image, 1K) · Generated 4 times in total; shown are the outputs that passed review
-
-[↑ Back to top](#top)
-
-<sub><a href="https://yila.ai/?utm_source=github&utm_medium=readme&utm_campaign=sci-figure-prompts&utm_content=scratch-wound-assay">Try in Yila →</a></sub>
-
----
-
-<a id="no-128"></a>
-
-### No. 128: Single-cell RNA sequencing workflow
-
-by [@Yila-AI](https://github.com/Yila-AI)
-
-Technique: **one pastel rounded panel per step** · Style: flat workflow · Aspect ratio: 16:9
-
-| English prompt | Chinese prompt | Chinese prompt |
-|---|---|---|
-| <img src="gallery/experimental-workflow/scrna-seq-workflow-en.jpg" width="420"> | <img src="gallery/experimental-workflow/scrna-seq-workflow-zh.jpg" width="420"> | <img src="gallery/experimental-workflow/scrna-seq-workflow-zh-5.jpg" width="420"> |
-
-**English prompt**
-
-```text
-Create an experimental workflow figure for 【single-cell RNA sequencing】, in five steps from left to right. Each step is one light pastel rounded panel with its number and name at the top and one simple icon-style scene inside; thin arrows connect the panels.
-Step 1: 【a tissue piece breaking into single cells】.
-Step 2: 【a microfluidic chip putting each cell into a droplet with a bead】.
-Step 3: 【mRNA molecules tagged with colored barcodes】.
-Step 4: 【a sequencing instrument】.
-Step 5: 【a scatter of colored cell clusters】.
-Labels, each used once, no other text: 【1 Dissociation, 2 Capture, 3 Barcoding, 4 Sequencing, 5 Clustering】.
-
-Style: journal-style experimental workflow figure. Clean flat vector icons on a white background, one light pastel rounded panel per step, thin gray arrows between panels. Only 3-4 muted colors. Each panel shows one simple scene with no text inside it; the only text in the whole figure is the step names given. Sans-serif English, each step name appears exactly once, spelled exactly as given. No legends, no captions, no extra labels, no 3D rendering, no shadows, no decorative background.
-```
-
-<details><summary>Chinese prompt</summary>
-
-```text
-画一张【单细胞 RNA 测序】的实验流程图，从左到右分五步。每一步是一个浅色圆角面板，顶部写编号和步骤名，面板里是一个简洁的图标化小场景，面板之间用细箭头连接。
-第 1 步：【一块组织被分散成单个细胞】。
-第 2 步：【微流控芯片把每个细胞和一颗微珠包进一个液滴】。
-第 3 步：【mRNA 分子带上彩色条形码】。
-第 4 步：【一台测序仪】。
-第 5 步：【几团不同颜色的细胞簇散点】。
-标签（每个只出现一次，不加其他文字）：【1 Dissociation, 2 Capture, 3 Barcoding, 4 Sequencing, 5 Clustering】。
-
-风格：期刊式实验流程图。白色背景上干净的扁平矢量图标，每一步一个浅色圆角面板，面板之间用细灰色箭头连接。只用 3–4 种低饱和度颜色。每个面板里只画一个简洁的小场景，面板内不写任何文字；整张图唯一的文字就是给定的步骤名。用英文无衬线字体，每个步骤名只出现一次，拼写与给定完全一致。不要图例、不要说明文字、不要额外标签、不要 3D 渲染、阴影或装饰性背景。
-```
-
-</details>
-
-Model: Nano Banana 2 Lite (gemini-3.1-flash-lite-image, 1K) · Generated 7 times in total; shown are the outputs that passed review
-
-[↑ Back to top](#top)
-
-<sub><a href="https://yila.ai/?utm_source=github&utm_medium=readme&utm_campaign=sci-figure-prompts&utm_content=scrna-seq-workflow">Try in Yila →</a></sub>
-
----
-
-<a id="no-129"></a>
-
-### No. 129: Spatial transcriptomics workflow
-
-by [@Yila-AI](https://github.com/Yila-AI)
-
-Technique: **one pastel rounded panel per step** · Style: flat workflow · Aspect ratio: 16:9
-
-| English prompt | Chinese prompt |
-|---|---|
-| <img src="gallery/experimental-workflow/spatial-transcriptomics-en.jpg" width="420"> | <img src="gallery/experimental-workflow/spatial-transcriptomics-zh.jpg" width="420"> |
-
-**English prompt**
-
-```text
-Create an experimental workflow figure for 【spatial transcriptomics】, in five steps from left to right. Each step is one light pastel rounded panel with its number and name at the top and one simple icon-style scene inside; thin arrows connect the panels.
-Step 1: 【a thin tissue section placed on a glass slide printed with a grid of barcoded spots】.
-Step 2: 【mRNA from the tissue moving down and sticking to the spots below】.
-Step 3: 【a sequencing instrument】.
-Step 4: 【the tissue image overlaid with colored spots showing gene activity】.
-Step 5: 【the same tissue divided into a few colored regions】.
-Labels, each used once, no other text: 【1 Sectioning, 2 Capture, 3 Sequencing, 4 Mapping, 5 Clustering】.
-
-Style: journal-style experimental workflow figure. Clean flat vector icons on a white background, one light pastel rounded panel per step, thin gray arrows between panels. Only 3-4 muted colors. Each panel shows one simple scene with no text inside it; the only text in the whole figure is the step names given. Sans-serif English, each step name appears exactly once, spelled exactly as given. No legends, no captions, no extra labels, no 3D rendering, no shadows, no decorative background.
-```
-
-<details><summary>Chinese prompt</summary>
-
-```text
-画一张【空间转录组】的实验流程图，从左到右分五步。每一步是一个浅色圆角面板，顶部写编号和步骤名，面板里是一个简洁的图标化小场景，面板之间用细箭头连接。
-第 1 步：【一片薄组织切片放在印有条形码点阵的玻片上】。
-第 2 步：【组织中的 mRNA 向下移动，被下方的点捕获】。
-第 3 步：【一台测序仪】。
-第 4 步：【组织图像上叠加彩色点，显示基因活跃程度】。
-第 5 步：【同一块组织被划分成几个不同颜色的区域】。
-标签（每个只出现一次，不加其他文字）：【1 Sectioning, 2 Capture, 3 Sequencing, 4 Mapping, 5 Clustering】。
-
-风格：期刊式实验流程图。白色背景上干净的扁平矢量图标，每一步一个浅色圆角面板，面板之间用细灰色箭头连接。只用 3–4 种低饱和度颜色。每个面板里只画一个简洁的小场景，面板内不写任何文字；整张图唯一的文字就是给定的步骤名。用英文无衬线字体，每个步骤名只出现一次，拼写与给定完全一致。不要图例、不要说明文字、不要额外标签、不要 3D 渲染、阴影或装饰性背景。
-```
-
-</details>
-
-Model: Nano Banana 2 Lite (gemini-3.1-flash-lite-image, 1K) · Generated 4 times in total; shown are the outputs that passed review
-
-[↑ Back to top](#top)
-
-<sub><a href="https://yila.ai/?utm_source=github&utm_medium=readme&utm_campaign=sci-figure-prompts&utm_content=spatial-transcriptomics">Try in Yila →</a></sub>
-
----
-
-<a id="no-130"></a>
-
-### No. 130: Transwell migration and invasion assay
-
-by [@Yila-AI](https://github.com/Yila-AI)
-
-Technique: **one panel per step, step names only** · Style: flat workflow · Aspect ratio: 16:9
-
-| English prompt | Chinese prompt |
-|---|---|
-| <img src="gallery/experimental-workflow/transwell-assay-en.jpg" width="420"> | <img src="gallery/experimental-workflow/transwell-assay-zh.jpg" width="420"> |
-
-**English prompt**
-
-```text
-Create a workflow figure for 【a Transwell migration and invasion assay】, 6 steps from left to right:
-1. 【Chamber setup: an insert with a porous membrane sitting in a well】
-2. 【Cell seeding: cells in the upper chamber】
-3. 【Chemoattractant: serum-rich medium in the lower well】
-4. 【Incubation: the plate in an incubator】
-5. 【Staining: purple-stained cells on the underside of the membrane】
-6. 【Counting: a microscope view of the membrane】
-Do not write the numbered sentences in the figure.
-Step names, each used once, no other text: 【Chamber setup, Cell seeding, Chemoattractant, Incubation, Staining, Counting】.
-
-Style: journal-style experimental workflow figure. Clean flat vector icons on a white background, one light pastel rounded panel per step, thin gray arrows between panels. Only 3-4 muted colors. Each panel shows one simple scene with no text inside it; the only text in the whole figure is the step names given. Sans-serif English, each step name appears exactly once, spelled exactly as given. No legends, no captions, no extra labels, no 3D rendering, no shadows, no decorative background.
-```
-
-<details><summary>Chinese prompt</summary>
-
-```text
-画一张【Transwell 迁移侵袭实验】的流程图，从左往右六步：
-1. 【小室准备：带多孔膜的小室放在孔里】
-2. 【铺细胞：细胞加在上室】
-3. 【趋化因子：下室加含血清的培养基】
-4. 【孵育：孔板放进培养箱】
-5. 【染色：膜下表面被染成紫色的细胞】
-6. 【计数：显微镜下看膜】
-不要把编号句子写进图里。
-步骤名（每个只出现一次，不加其他文字）：【Chamber setup, Cell seeding, Chemoattractant, Incubation, Staining, Counting】。
-
-风格：期刊式实验流程图。白色背景上干净的扁平矢量图标，每一步一个浅色圆角面板，面板之间用细灰色箭头连接。只用 3–4 种低饱和度颜色。每个面板里只画一个简洁的小场景，面板内不写任何文字；整张图唯一的文字就是给定的步骤名。用英文无衬线字体，每个步骤名只出现一次，拼写与给定完全一致。不要图例、不要说明文字、不要额外标签、不要 3D 渲染、阴影或装饰性背景。
-```
-
-</details>
-
-Model: Nano Banana 2 Lite (gemini-3.1-flash-lite-image, 1K) · Generated 2 times in total; shown are the outputs that passed review
-
-[↑ Back to top](#top)
-
-<sub><a href="https://yila.ai/?utm_source=github&utm_medium=readme&utm_campaign=sci-figure-prompts&utm_content=transwell-assay">Try in Yila →</a></sub>
-
----
-
-<a id="no-131"></a>
-
-### No. 131: TUNEL apoptosis assay workflow
-
-by [@Yila-AI](https://github.com/Yila-AI)
-
-Technique: **one panel per step, step names only** · Style: flat workflow · Aspect ratio: 16:9
-
-| English prompt | Chinese prompt |
-|---|---|
-| <img src="gallery/experimental-workflow/tunel-apoptosis-assay-en.jpg" width="420"> | <img src="gallery/experimental-workflow/tunel-apoptosis-assay-zh.jpg" width="420"> |
-
-**English prompt**
-
-```text
-Create a workflow figure for 【a TUNEL apoptosis assay on tissue sections】, 6 steps from left to right:
-1. 【Tissue section: a thin slice on a glass slide】
-2. 【Permeabilization: a drop of enzyme on the slide】
-3. 【TUNEL labeling: green dye attaching to broken DNA ends】
-4. 【Nuclear counterstain: blue dye on the nuclei】
-5. 【Fluorescence imaging: a microscope with green and blue nuclei on screen】
-6. 【Positive cell counting: a magnifier over green nuclei】
-Do not write the numbered sentences in the figure.
-Step names, each used once, no other text: 【Tissue section, Permeabilization, TUNEL labeling, Nuclear counterstain, Fluorescence imaging, Positive cell counting】.
-
-Style: journal-style experimental workflow figure. Clean flat vector icons on a white background, one light pastel rounded panel per step, thin gray arrows between panels. Only 3-4 muted colors. Each panel shows one simple scene with no text inside it; the only text in the whole figure is the step names given. Sans-serif English, each step name appears exactly once, spelled exactly as given. No legends, no captions, no extra labels, no 3D rendering, no shadows, no decorative background.
-```
-
-<details><summary>Chinese prompt</summary>
-
-```text
-画一张【组织切片 TUNEL 凋亡检测】的流程图，从左往右六步：
-1. 【组织切片：载玻片上的一片薄切片】
-2. 【通透：玻片上滴一滴酶液】
-3. 【TUNEL 标记：绿色染料结合到断裂的 DNA 末端】
-4. 【核复染：蓝色染料染细胞核】
-5. 【荧光成像：显微镜屏幕上绿色和蓝色细胞核】
-6. 【阳性细胞计数：放大镜对着绿色细胞核】
-不要把编号句子写进图里。
-步骤名（每个只出现一次，不加其他文字）：【Tissue section, Permeabilization, TUNEL labeling, Nuclear counterstain, Fluorescence imaging, Positive cell counting】。
-
-风格：期刊式实验流程图。白色背景上干净的扁平矢量图标，每一步一个浅色圆角面板，面板之间用细灰色箭头连接。只用 3–4 种低饱和度颜色。每个面板里只画一个简洁的小场景，面板内不写任何文字；整张图唯一的文字就是给定的步骤名。用英文无衬线字体，每个步骤名只出现一次，拼写与给定完全一致。不要图例、不要说明文字、不要额外标签、不要 3D 渲染、阴影或装饰性背景。
-```
-
-</details>
-
-Model: Nano Banana 2 Lite (gemini-3.1-flash-lite-image, 1K) · Generated 4 times in total; shown are the outputs that passed review
-
-[↑ Back to top](#top)
-
-<sub><a href="https://yila.ai/?utm_source=github&utm_medium=readme&utm_campaign=sci-figure-prompts&utm_content=tunel-apoptosis-assay">Try in Yila →</a></sub>
-
----
-
-<a id="no-132"></a>
-
-### No. 132: Western blot workflow
-
-by [@Yila-AI](https://github.com/Yila-AI)
-
-Technique: **one panel per step, step names only** · Style: flat workflow · Aspect ratio: 16:9
-
-| English prompt | Chinese prompt |
-|---|---|
-| <img src="gallery/experimental-workflow/western-blot-en.jpg" width="420"> | <img src="gallery/experimental-workflow/western-blot-zh.jpg" width="420"> |
-
-**English prompt**
-
-```text
-Create a workflow figure for 【Western blot】, 6 steps from left to right:
-1. 【Protein extraction: cells in a tube with lysis buffer】
-2. 【SDS-PAGE: a gel with lanes】
-3. 【Transfer: a gel and membrane sandwich】
-4. 【Blocking: a membrane in a tray on a shaker】
-5. 【Antibody incubation: Y-shaped antibodies on the membrane】
-6. 【Detection: glowing bands on the membrane】
-Step names, each used once, no other text: 【Protein extraction, SDS-PAGE, Transfer, Blocking, Antibody incubation, Detection】.
-
-Style: journal-style experimental workflow figure. Clean flat vector icons on a white background, one light pastel rounded panel per step, thin gray arrows between panels. Only 3-4 muted colors. Each panel shows one simple scene with no text inside it; the only text in the whole figure is the step names given. Sans-serif English, each step name appears exactly once, spelled exactly as given. No legends, no captions, no extra labels, no 3D rendering, no shadows, no decorative background.
-```
-
-<details><summary>Chinese prompt</summary>
-
-```text
-画一张【Western blot 实验】的流程图，从左往右六步：
-1. 【蛋白提取：试管里的细胞加裂解液】
-2. 【SDS-PAGE：一块带泳道的胶】
-3. 【转膜：胶和膜叠成的三明治】
-4. 【封闭：摇床上托盘里的膜】
-5. 【抗体孵育：Y 形抗体结合在膜上】
-6. 【显影：膜上发光的条带】
-步骤名（每个只出现一次，不加其他文字）：【Protein extraction, SDS-PAGE, Transfer, Blocking, Antibody incubation, Detection】。
-
-风格：期刊式实验流程图。白色背景上干净的扁平矢量图标，每一步一个浅色圆角面板，面板之间用细灰色箭头连接。只用 3–4 种低饱和度颜色。每个面板里只画一个简洁的小场景，面板内不写任何文字；整张图唯一的文字就是给定的步骤名。用英文无衬线字体，每个步骤名只出现一次，拼写与给定完全一致。不要图例、不要说明文字、不要额外标签、不要 3D 渲染、阴影或装饰性背景。
-```
-
-</details>
-
-Model: Nano Banana 2 Lite (gemini-3.1-flash-lite-image, 1K) · Generated 2 times in total; shown are the outputs that passed review
-
-[↑ Back to top](#top)
-
-<sub><a href="https://yila.ai/?utm_source=github&utm_medium=readme&utm_campaign=sci-figure-prompts&utm_content=western-blot">Try in Yila →</a></sub>
-
----
-
-<a id="no-133"></a>
-
-### No. 133: Subcutaneous xenograft tumor model workflow
-
-by [@Yila-AI](https://github.com/Yila-AI)
-
-Technique: **one panel per step, step names only** · Style: flat workflow · Aspect ratio: 16:9
-
-| English prompt | Chinese prompt |
-|---|---|
-| <img src="gallery/experimental-workflow/xenograft-tumor-model-en.jpg" width="420"> | <img src="gallery/experimental-workflow/xenograft-tumor-model-zh.jpg" width="420"> |
-
-**English prompt**
-
-```text
-Create a workflow figure for 【a subcutaneous xenograft tumor model in nude mice】, 6 steps from left to right:
-1. 【Cell preparation: a tube of tumor cells】
-2. 【Subcutaneous injection: a syringe at the flank of a mouse】
-3. 【Tumor growth: a mouse with a small bump on its flank】
-4. 【Grouping and treatment: mice in two cages, one receiving a syringe】
-5. 【Tumor measurement: calipers on the bump】
-6. 【Tumor harvest: a small tumor on a dish】
-Do not write the numbered sentences in the figure.
-Step names, each used once, no other text: 【Cell preparation, Subcutaneous injection, Tumor growth, Grouping and treatment, Tumor measurement, Tumor harvest】.
-
-Style: journal-style experimental workflow figure. Clean flat vector icons on a white background, one light pastel rounded panel per step, thin gray arrows between panels. Only 3-4 muted colors. Each panel shows one simple scene with no text inside it; the only text in the whole figure is the step names given. Sans-serif English, each step name appears exactly once, spelled exactly as given. No legends, no captions, no extra labels, no 3D rendering, no shadows, no decorative background.
-```
-
-<details><summary>Chinese prompt</summary>
-
-```text
-画一张【裸鼠皮下移植瘤模型】的流程图，从左往右六步：
-1. 【细胞准备：一管肿瘤细胞】
-2. 【皮下注射：注射器扎在小鼠侧腹】
-3. 【肿瘤生长：侧腹有小鼓包的小鼠】
-4. 【分组给药：两笼小鼠，其中一笼接受注射】
-5. 【测量瘤体：游标卡尺量鼓包】
-6. 【取瘤：培养皿上一个小肿瘤】
-不要把编号句子写进图里。
-步骤名（每个只出现一次，不加其他文字）：【Cell preparation, Subcutaneous injection, Tumor growth, Grouping and treatment, Tumor measurement, Tumor harvest】。
-
-风格：期刊式实验流程图。白色背景上干净的扁平矢量图标，每一步一个浅色圆角面板，面板之间用细灰色箭头连接。只用 3–4 种低饱和度颜色。每个面板里只画一个简洁的小场景，面板内不写任何文字；整张图唯一的文字就是给定的步骤名。用英文无衬线字体，每个步骤名只出现一次，拼写与给定完全一致。不要图例、不要说明文字、不要额外标签、不要 3D 渲染、阴影或装饰性背景。
-```
-
-</details>
-
-Model: Nano Banana 2 Lite (gemini-3.1-flash-lite-image, 1K) · Generated 4 times in total; shown are the outputs that passed review
-
-[↑ Back to top](#top)
-
-<sub><a href="https://yila.ai/?utm_source=github&utm_medium=readme&utm_campaign=sci-figure-prompts&utm_content=xenograft-tumor-model">Try in Yila →</a></sub>
+**[👉 Try it now in YILA →](https://yila.ai/scientific-figure-prompts/mouse-model-dosing?utm_source=github&utm_medium=readme&utm_campaign=sci-figure-prompts&utm_content=mouse-model-dosing)** · [↑ Back to top](#top)
 
 ---
 
 <a id="materials-energy"></a>
 
-## Materials & Energy
+### 🔋 Materials & Energy
 
 <a id="no-134"></a>
 
-### No. 134: 3D-printed tissue engineering scaffold
+#### No. 134: 3D-printed tissue engineering scaffold
 
-by [@Yila-AI](https://github.com/Yila-AI)
+![Model](https://img.shields.io/badge/Model-GPT%20Image%202.6-10a37f) ![Category](https://img.shields.io/badge/Materials%20%26%20Energy-blue)
 
-Technique: **printing, cell attachment, implantation** · Style: scientific illustration · Aspect ratio: 16:9
+##### 📖 Description
 
-| English prompt |
-|---|
-| <img src="gallery/materials-energy/3d-printed-scaffold-en.jpg" width="420"> |
+Technique: **printing, cell attachment, implantation** · Style: scientific illustration · Aspect Ratio: `16:9`
 
-> The Chinese-prompt output did not pass review, so it is not shown.
-
-**English prompt**
+##### 📝 Prompt
 
 ```text
 Create a scientific illustration of 【a 3D-printed scaffold for bone repair】, read from left to right in three panels:
@@ -6869,27 +2701,34 @@ Style: journal-style scientific illustration. Clean semi-realistic vector illust
 
 </details>
 
-Model: Nano Banana 2 Lite (gemini-3.1-flash-lite-image, 1K) · Generated 6 times in total; shown are the outputs that passed review
+##### 🖼️ Generated Image
 
-[↑ Back to top](#top)
+<div align="center">
+<a href="https://yila.ai/scientific-figure-prompts/3d-printed-scaffold?utm_source=github&utm_medium=readme&utm_campaign=sci-figure-prompts&utm_content=3d-printed-scaffold"><img src="gallery/materials-energy/3d-printed-scaffold-en.jpg" width="600" alt="3D-printed tissue engineering scaffold"></a>
+</div>
 
-<sub><a href="https://yila.ai/?utm_source=github&utm_medium=readme&utm_campaign=sci-figure-prompts&utm_content=3d-printed-scaffold">Try in Yila →</a></sub>
+##### 📌 Details
+
+- **Author:** [@Yila-AI](https://github.com/Yila-AI)
+- **Model:** GPT Image 2.6
+- **Aspect Ratio:** 16:9
+- **Languages:** en, zh
+
+**[👉 Try it now in YILA →](https://yila.ai/scientific-figure-prompts/3d-printed-scaffold?utm_source=github&utm_medium=readme&utm_campaign=sci-figure-prompts&utm_content=3d-printed-scaffold)** · [↑ Back to top](#top)
 
 ---
 
 <a id="no-135"></a>
 
-### No. 135: Coin cell assembly workflow
+#### No. 135: Coin cell assembly workflow
 
-by [@Yila-AI](https://github.com/Yila-AI)
+![Model](https://img.shields.io/badge/Model-GPT%20Image%202.6-10a37f) ![Category](https://img.shields.io/badge/Materials%20%26%20Energy-blue)
 
-Technique: **one panel per step, step names only** · Style: flat workflow · Aspect ratio: 16:9
+##### 📖 Description
 
-| English prompt | Chinese prompt |
-|---|---|
-| <img src="gallery/materials-energy/coin-cell-assembly-en.jpg" width="420"> | <img src="gallery/materials-energy/coin-cell-assembly-zh.jpg" width="420"> |
+Technique: **one panel per step, step names only** · Style: flat workflow · Aspect Ratio: `16:9`
 
-**English prompt**
+##### 📝 Prompt
 
 ```text
 Create a workflow figure for 【assembling a coin cell】, 6 steps from left to right:
@@ -6923,27 +2762,34 @@ Style: journal-style experimental workflow figure. Clean flat vector icons on a 
 
 </details>
 
-Model: Nano Banana 2 Lite (gemini-3.1-flash-lite-image, 1K) · Generated 4 times in total; shown are the outputs that passed review
+##### 🖼️ Generated Image
 
-[↑ Back to top](#top)
+<div align="center">
+<a href="https://yila.ai/scientific-figure-prompts/coin-cell-assembly?utm_source=github&utm_medium=readme&utm_campaign=sci-figure-prompts&utm_content=coin-cell-assembly"><img src="gallery/materials-energy/coin-cell-assembly-en.jpg" width="600" alt="Coin cell assembly workflow"></a>
+</div>
 
-<sub><a href="https://yila.ai/?utm_source=github&utm_medium=readme&utm_campaign=sci-figure-prompts&utm_content=coin-cell-assembly">Try in Yila →</a></sub>
+##### 📌 Details
+
+- **Author:** [@Yila-AI](https://github.com/Yila-AI)
+- **Model:** GPT Image 2.6
+- **Aspect Ratio:** 16:9
+- **Languages:** en, zh
+
+**[👉 Try it now in YILA →](https://yila.ai/scientific-figure-prompts/coin-cell-assembly?utm_source=github&utm_medium=readme&utm_campaign=sci-figure-prompts&utm_content=coin-cell-assembly)** · [↑ Back to top](#top)
 
 ---
 
 <a id="no-136"></a>
 
-### No. 136: Electrospinning nanofiber workflow
+#### No. 136: Electrospinning nanofiber workflow
 
-by [@Yila-AI](https://github.com/Yila-AI)
+![Model](https://img.shields.io/badge/Model-GPT%20Image%202.6-10a37f) ![Category](https://img.shields.io/badge/Materials%20%26%20Energy-blue)
 
-Technique: **one panel per step, step names only** · Style: flat workflow · Aspect ratio: 16:9
+##### 📖 Description
 
-| English prompt | Chinese prompt |
-|---|---|
-| <img src="gallery/materials-energy/electrospinning-workflow-en.jpg" width="420"> | <img src="gallery/materials-energy/electrospinning-workflow-zh.jpg" width="420"> |
+Technique: **one panel per step, step names only** · Style: flat workflow · Aspect Ratio: `16:9`
 
-**English prompt**
+##### 📝 Prompt
 
 ```text
 Create a workflow figure for 【making nanofibers by electrospinning】, 6 steps from left to right:
@@ -6977,27 +2823,34 @@ Style: journal-style experimental workflow figure. Clean flat vector icons on a 
 
 </details>
 
-Model: Nano Banana 2 Lite (gemini-3.1-flash-lite-image, 1K) · Generated 4 times in total; shown are the outputs that passed review
+##### 🖼️ Generated Image
 
-[↑ Back to top](#top)
+<div align="center">
+<a href="https://yila.ai/scientific-figure-prompts/electrospinning-workflow?utm_source=github&utm_medium=readme&utm_campaign=sci-figure-prompts&utm_content=electrospinning-workflow"><img src="gallery/materials-energy/electrospinning-workflow-en.jpg" width="600" alt="Electrospinning nanofiber workflow"></a>
+</div>
 
-<sub><a href="https://yila.ai/?utm_source=github&utm_medium=readme&utm_campaign=sci-figure-prompts&utm_content=electrospinning-workflow">Try in Yila →</a></sub>
+##### 📌 Details
+
+- **Author:** [@Yila-AI](https://github.com/Yila-AI)
+- **Model:** GPT Image 2.6
+- **Aspect Ratio:** 16:9
+- **Languages:** en, zh
+
+**[👉 Try it now in YILA →](https://yila.ai/scientific-figure-prompts/electrospinning-workflow?utm_source=github&utm_medium=readme&utm_campaign=sci-figure-prompts&utm_content=electrospinning-workflow)** · [↑ Back to top](#top)
 
 ---
 
 <a id="no-137"></a>
 
-### No. 137: Flexible wearable sensor
+#### No. 137: Flexible wearable sensor
 
-by [@Yila-AI](https://github.com/Yila-AI)
+![Model](https://img.shields.io/badge/Model-GPT%20Image%202.6-10a37f) ![Category](https://img.shields.io/badge/Materials%20%26%20Energy-blue)
 
-Technique: **worn on the body plus an exploded layer view** · Style: scientific illustration · Aspect ratio: 16:9
+##### 📖 Description
 
-| Chinese prompt |
-|---|
-| <img src="gallery/materials-energy/flexible-wearable-sensor-zh.jpg" width="420"> |
+Technique: **worn on the body plus an exploded layer view** · Style: scientific illustration · Aspect Ratio: `16:9`
 
-**English prompt**
+##### 📝 Prompt
 
 ```text
 Create a scientific illustration of 【a flexible wearable pulse sensor】:
@@ -7025,27 +2878,34 @@ Style: journal-style scientific illustration. Clean semi-realistic vector illust
 
 </details>
 
-Model: Nano Banana 2 Lite (gemini-3.1-flash-lite-image, 1K) · Generated 2 times in total; shown are the outputs that passed review
+##### 🖼️ Generated Image
 
-[↑ Back to top](#top)
+<div align="center">
+<a href="https://yila.ai/scientific-figure-prompts/flexible-wearable-sensor?utm_source=github&utm_medium=readme&utm_campaign=sci-figure-prompts&utm_content=flexible-wearable-sensor"><img src="gallery/materials-energy/flexible-wearable-sensor-zh.jpg" width="600" alt="Flexible wearable sensor"></a>
+</div>
 
-<sub><a href="https://yila.ai/?utm_source=github&utm_medium=readme&utm_campaign=sci-figure-prompts&utm_content=flexible-wearable-sensor">Try in Yila →</a></sub>
+##### 📌 Details
+
+- **Author:** [@Yila-AI](https://github.com/Yila-AI)
+- **Model:** GPT Image 2.6
+- **Aspect Ratio:** 16:9
+- **Languages:** en, zh
+
+**[👉 Try it now in YILA →](https://yila.ai/scientific-figure-prompts/flexible-wearable-sensor?utm_source=github&utm_medium=readme&utm_campaign=sci-figure-prompts&utm_content=flexible-wearable-sensor)** · [↑ Back to top](#top)
 
 ---
 
 <a id="no-138"></a>
 
-### No. 138: Green hydrogen system: from renewable power to end use
+#### No. 138: Green hydrogen system: from renewable power to end use
 
-by [@Yila-AI](https://github.com/Yila-AI)
+![Model](https://img.shields.io/badge/Model-GPT%20Image%202.6-10a37f) ![Category](https://img.shields.io/badge/Materials%20%26%20Energy-blue)
 
-Technique: **a left-to-right system chain** · Style: schematic diagram · Aspect ratio: 16:9
+##### 📖 Description
 
-| English prompt | Chinese prompt |
-|---|---|
-| <img src="gallery/materials-energy/green-hydrogen-system-en.jpg" width="420"> | <img src="gallery/materials-energy/green-hydrogen-system-zh.jpg" width="420"> |
+Technique: **a left-to-right system chain** · Style: schematic diagram · Aspect Ratio: `16:9`
 
-**English prompt**
+##### 📝 Prompt
 
 ```text
 Create a system diagram of 【a green hydrogen system】, read from left to right, each unit a rounded box with one icon. Draw each relationship exactly as listed and nothing more:
@@ -7077,27 +2937,34 @@ Style: journal-style schematic diagram. Clean flat vector graphics on a white ba
 
 </details>
 
-Model: Nano Banana 2 Lite (gemini-3.1-flash-lite-image, 1K) · Generated 6 times in total; shown are the outputs that passed review
+##### 🖼️ Generated Image
 
-[↑ Back to top](#top)
+<div align="center">
+<a href="https://yila.ai/scientific-figure-prompts/green-hydrogen-system?utm_source=github&utm_medium=readme&utm_campaign=sci-figure-prompts&utm_content=green-hydrogen-system"><img src="gallery/materials-energy/green-hydrogen-system-en.jpg" width="600" alt="Green hydrogen system: from renewable power to end use"></a>
+</div>
 
-<sub><a href="https://yila.ai/?utm_source=github&utm_medium=readme&utm_campaign=sci-figure-prompts&utm_content=green-hydrogen-system">Try in Yila →</a></sub>
+##### 📌 Details
+
+- **Author:** [@Yila-AI](https://github.com/Yila-AI)
+- **Model:** GPT Image 2.6
+- **Aspect Ratio:** 16:9
+- **Languages:** en, zh
+
+**[👉 Try it now in YILA →](https://yila.ai/scientific-figure-prompts/green-hydrogen-system?utm_source=github&utm_medium=readme&utm_campaign=sci-figure-prompts&utm_content=green-hydrogen-system)** · [↑ Back to top](#top)
 
 ---
 
 <a id="no-139"></a>
 
-### No. 139: Heterogeneous catalysis mechanism
+#### No. 139: Heterogeneous catalysis mechanism
 
-by [@Yila-AI](https://github.com/Yila-AI)
+![Model](https://img.shields.io/badge/Model-GPT%20Image%202.6-10a37f) ![Category](https://img.shields.io/badge/Materials%20%26%20Energy-blue)
 
-Technique: **three surface steps: adsorption, reaction, desorption** · Style: scientific illustration · Aspect ratio: 16:9
+##### 📖 Description
 
-| English prompt | Chinese prompt |
-|---|---|
-| <img src="gallery/materials-energy/heterogeneous-catalysis-en.jpg" width="420"> | <img src="gallery/materials-energy/heterogeneous-catalysis-zh.jpg" width="420"> |
+Technique: **three surface steps: adsorption, reaction, desorption** · Style: scientific illustration · Aspect Ratio: `16:9`
 
-**English prompt**
+##### 📝 Prompt
 
 ```text
 Create a scientific illustration of 【heterogeneous catalysis on a supported metal catalyst】: a cross-section of a support with metal nanoparticles on top, and above one nanoparticle three stages from left to right:
@@ -7125,27 +2992,34 @@ Style: journal-style scientific illustration. Clean semi-realistic vector illust
 
 </details>
 
-Model: Nano Banana 2 Lite (gemini-3.1-flash-lite-image, 1K) · Generated 6 times in total; shown are the outputs that passed review
+##### 🖼️ Generated Image
 
-[↑ Back to top](#top)
+<div align="center">
+<a href="https://yila.ai/scientific-figure-prompts/heterogeneous-catalysis?utm_source=github&utm_medium=readme&utm_campaign=sci-figure-prompts&utm_content=heterogeneous-catalysis"><img src="gallery/materials-energy/heterogeneous-catalysis-en.jpg" width="600" alt="Heterogeneous catalysis mechanism"></a>
+</div>
 
-<sub><a href="https://yila.ai/?utm_source=github&utm_medium=readme&utm_campaign=sci-figure-prompts&utm_content=heterogeneous-catalysis">Try in Yila →</a></sub>
+##### 📌 Details
+
+- **Author:** [@Yila-AI](https://github.com/Yila-AI)
+- **Model:** GPT Image 2.6
+- **Aspect Ratio:** 16:9
+- **Languages:** en, zh
+
+**[👉 Try it now in YILA →](https://yila.ai/scientific-figure-prompts/heterogeneous-catalysis?utm_source=github&utm_medium=readme&utm_campaign=sci-figure-prompts&utm_content=heterogeneous-catalysis)** · [↑ Back to top](#top)
 
 ---
 
 <a id="no-140"></a>
 
-### No. 140: Hydrothermal synthesis route
+#### No. 140: Hydrothermal synthesis route
 
-by [@Yila-AI](https://github.com/Yila-AI)
+![Model](https://img.shields.io/badge/Model-GPT%20Image%202.6-10a37f) ![Category](https://img.shields.io/badge/Materials%20%26%20Energy-blue)
 
-Technique: **one panel per step, step names only** · Style: flat workflow · Aspect ratio: 16:9
+##### 📖 Description
 
-| English prompt | Chinese prompt |
-|---|---|
-| <img src="gallery/materials-energy/hydrothermal-synthesis-en.jpg" width="420"> | <img src="gallery/materials-energy/hydrothermal-synthesis-zh.jpg" width="420"> |
+Technique: **one panel per step, step names only** · Style: flat workflow · Aspect Ratio: `16:9`
 
-**English prompt**
+##### 📝 Prompt
 
 ```text
 Create a workflow figure for 【the hydrothermal synthesis of a nanomaterial】, six steps from left to right:
@@ -7177,27 +3051,34 @@ Style: journal-style experimental workflow figure. Clean flat vector icons on a 
 
 </details>
 
-Model: Nano Banana 2 Lite (gemini-3.1-flash-lite-image, 1K) · Generated 2 times in total; shown are the outputs that passed review
+##### 🖼️ Generated Image
 
-[↑ Back to top](#top)
+<div align="center">
+<a href="https://yila.ai/scientific-figure-prompts/hydrothermal-synthesis?utm_source=github&utm_medium=readme&utm_campaign=sci-figure-prompts&utm_content=hydrothermal-synthesis"><img src="gallery/materials-energy/hydrothermal-synthesis-en.jpg" width="600" alt="Hydrothermal synthesis route"></a>
+</div>
 
-<sub><a href="https://yila.ai/?utm_source=github&utm_medium=readme&utm_campaign=sci-figure-prompts&utm_content=hydrothermal-synthesis">Try in Yila →</a></sub>
+##### 📌 Details
+
+- **Author:** [@Yila-AI](https://github.com/Yila-AI)
+- **Model:** GPT Image 2.6
+- **Aspect Ratio:** 16:9
+- **Languages:** en, zh
+
+**[👉 Try it now in YILA →](https://yila.ai/scientific-figure-prompts/hydrothermal-synthesis?utm_source=github&utm_medium=readme&utm_campaign=sci-figure-prompts&utm_content=hydrothermal-synthesis)** · [↑ Back to top](#top)
 
 ---
 
 <a id="no-141"></a>
 
-### No. 141: Lithium-ion battery charge and discharge
+#### No. 141: Lithium-ion battery charge and discharge
 
-by [@Yila-AI](https://github.com/Yila-AI)
+![Model](https://img.shields.io/badge/Model-GPT%20Image%202.6-10a37f) ![Category](https://img.shields.io/badge/Materials%20%26%20Energy-blue)
 
-Technique: **cross-section + flow arrows** · Style: scientific illustration · Aspect ratio: 16:9
+##### 📖 Description
 
-| English prompt | Chinese prompt |
-|---|---|
-| <img src="gallery/materials-energy/li-ion-battery-en.jpg" width="420"> | <img src="gallery/materials-energy/li-ion-battery-zh.jpg" width="420"> |
+Technique: **cross-section + flow arrows** · Style: scientific illustration · Aspect Ratio: `16:9`
 
-**English prompt**
+##### 📝 Prompt
 
 ```text
 Create a horizontal cross-section illustration of 【a lithium-ion battery during discharge】: 【the graphite anode on the left, a porous separator in the middle, and a layered oxide cathode on the right, all soaked in electrolyte】. Arrows show 【lithium ions moving from the anode through the separator to the cathode, while electrons flow through an external wire to a small light bulb】. A circular magnified inset shows 【lithium ions sliding out from between the graphite layers】.
@@ -7217,417 +3098,38 @@ Style: journal-style scientific illustration. Clean semi-realistic vector illust
 
 </details>
 
-Model: Nano Banana 2 Lite (gemini-3.1-flash-lite-image, 1K) · Generated 2 times in total; shown are the outputs that passed review
+##### 🖼️ Generated Image
 
-[↑ Back to top](#top)
+<div align="center">
+<a href="https://yila.ai/scientific-figure-prompts/li-ion-battery?utm_source=github&utm_medium=readme&utm_campaign=sci-figure-prompts&utm_content=li-ion-battery"><img src="gallery/materials-energy/li-ion-battery-en.jpg" width="600" alt="Lithium-ion battery charge and discharge"></a>
+</div>
 
-<sub><a href="https://yila.ai/?utm_source=github&utm_medium=readme&utm_campaign=sci-figure-prompts&utm_content=li-ion-battery">Try in Yila →</a></sub>
+##### 📌 Details
 
----
+- **Author:** [@Yila-AI](https://github.com/Yila-AI)
+- **Model:** GPT Image 2.6
+- **Aspect Ratio:** 16:9
+- **Languages:** en, zh
 
-<a id="no-142"></a>
-
-### No. 142: Materials characterization workflow
-
-by [@Yila-AI](https://github.com/Yila-AI)
-
-Technique: **one panel per step, step names only** · Style: flat workflow · Aspect ratio: 16:9
-
-| Chinese prompt |
-|---|
-| <img src="gallery/materials-energy/materials-characterization-workflow-zh.jpg" width="420"> |
-
-**English prompt**
-
-```text
-Create a workflow figure for 【characterizing a new material】, 6 steps from left to right:
-1. 【Sample preparation: a powder in a dish and a pressed pellet】
-2. 【XRD: an X-ray tube and a detector on an arc around a flat sample】
-3. 【SEM: an electron beam scanning across a rough sample surface】
-4. 【TEM: an electron beam passing through a very thin slice】
-5. 【XPS: X-rays hitting a surface and small electrons flying off】
-6. 【Combined analysis: puzzle pieces fitting together】
-Do not write the numbered sentences in the figure.
-Step names, each used once, no other text: 【Sample preparation, XRD, SEM, TEM, XPS, Combined analysis】.
-
-Style: journal-style experimental workflow figure. Clean flat vector icons on a white background, one light pastel rounded panel per step, thin gray arrows between panels. Only 3-4 muted colors. Each panel shows one simple scene with no text inside it; the only text in the whole figure is the step names given. Sans-serif English, each step name appears exactly once, spelled exactly as given. No legends, no captions, no extra labels, no 3D rendering, no shadows, no decorative background.
-```
-
-<details><summary>Chinese prompt</summary>
-
-```text
-画一张【新材料表征】的流程图，从左往右六步：
-1. 【样品制备：皿中的粉末和压好的圆片】
-2. 【XRD：X 射线管和探测器沿圆弧围着平板样品】
-3. 【SEM：电子束扫过粗糙的样品表面】
-4. 【TEM：电子束穿过一片很薄的切片】
-5. 【XPS：X 射线照到表面，小电子飞出】
-6. 【综合分析：几块拼图拼在一起】
-不要把编号句子写进图里。
-步骤名（每个只出现一次，不加其他文字）：【Sample preparation, XRD, SEM, TEM, XPS, Combined analysis】。
-
-风格：期刊式实验流程图。白色背景上干净的扁平矢量图标，每一步一个浅色圆角面板，面板之间用细灰色箭头连接。只用 3–4 种低饱和度颜色。每个面板里只画一个简洁的小场景，面板内不写任何文字；整张图唯一的文字就是给定的步骤名。用英文无衬线字体，每个步骤名只出现一次，拼写与给定完全一致。不要图例、不要说明文字、不要额外标签、不要 3D 渲染、阴影或装饰性背景。
-```
-
-</details>
-
-Model: Nano Banana 2 Lite (gemini-3.1-flash-lite-image, 1K) · Generated 2 times in total; shown are the outputs that passed review
-
-[↑ Back to top](#top)
-
-<sub><a href="https://yila.ai/?utm_source=github&utm_medium=readme&utm_campaign=sci-figure-prompts&utm_content=materials-characterization-workflow">Try in Yila →</a></sub>
-
----
-
-<a id="no-143"></a>
-
-### No. 143: Materials research overview: preparation, characterization, performance, mechanism
-
-by [@Yila-AI](https://github.com/Yila-AI)
-
-Technique: **four stages in a closed loop** · Style: schematic diagram · Aspect ratio: 16:9
-
-| English prompt | Chinese prompt |
-|---|---|
-| <img src="gallery/materials-energy/materials-research-overview-en.jpg" width="420"> | <img src="gallery/materials-energy/materials-research-overview-zh.jpg" width="420"> |
-
-**English prompt**
-
-```text
-Create an overview diagram of 【a materials research project】: four rounded panels arranged in a loop around one central material icon (a small faceted crystal), each panel with one icon. Draw each relationship exactly as listed and nothing more:
-1. 【Preparation (a furnace and a beaker) at the top left → characterization (a microscope and a diffractometer) at the top right.】
-2. 【Characterization → performance (a test rig with a gauge icon) at the bottom right.】
-3. 【Performance → mechanism (a magnifier over a few atoms) at the bottom left.】
-4. 【A dashed arrow from mechanism back to preparation, labeled rational design, shows that understanding guides the next round.】
-There are no T-bars in this figure. Do not write the numbered sentences in the figure. Write each label only once in the whole figure.
-Labels, each used once, no other text: 【Material, Preparation, Characterization, Performance, Mechanism, Rational design】.
-
-Style: journal-style schematic diagram. Clean flat vector graphics on a white background. Modules are rounded rectangles or simple icons with their short names inside; light pastel panels group related layers. Only 3-4 muted colors, each with one fixed meaning. Thin, uniform arrows show the flow of data, energy, material or influence; dashed arrows for indirect or feedback links. Sans-serif English labels only, each label appears exactly once, spelled exactly as given. No 3D rendering, no shadows, no glow, no cyberpunk or tech-background decoration, no photorealism.
-```
-
-<details><summary>Chinese prompt</summary>
-
-```text
-画一张【材料研究课题】的总体思路图：四个圆角面板围成一个环，环中央是一个材料图标（一块小的多面晶体），每个面板一个图标。严格按下面列出的关系画，不多画：
-1. 【左上的制备（加热炉和烧杯）→ 右上的表征（显微镜和衍射仪）。】
-2. 【表征 → 右下的性能（带仪表图标的测试台）。】
-3. 【性能 → 左下的机理（放大镜对着几个原子）。】
-4. 【一条从机理回到制备的虚线箭头，标注 rational design，表示认识指导下一轮设计。】
-图中没有 T 形线。不要把编号句子写进图里。整张图里每个标签只写一次。
-标签（每个只出现一次，不加其他文字）：【Material, Preparation, Characterization, Performance, Mechanism, Rational design】。
-
-风格：期刊式示意框图。白色背景上干净的扁平矢量图形。模块画成圆角矩形或简洁图标，名称写在里面；用浅色面板把相关的层归在一起。只用 3–4 种低饱和度颜色，每种颜色含义固定。细而粗细一致的箭头表示数据、能量、物质或影响的流向，间接或反馈关系用虚线箭头。图中文字只用英文无衬线字体，每个标签只出现一次，拼写与给定完全一致。不要 3D 渲染、阴影、发光、赛博朋克或科技感背景装饰，不要照片质感。
-```
-
-</details>
-
-Model: Nano Banana 2 Lite (gemini-3.1-flash-lite-image, 1K) · Generated 2 times in total; shown are the outputs that passed review
-
-[↑ Back to top](#top)
-
-<sub><a href="https://yila.ai/?utm_source=github&utm_medium=readme&utm_campaign=sci-figure-prompts&utm_content=materials-research-overview">Try in Yila →</a></sub>
-
----
-
-<a id="no-144"></a>
-
-### No. 144: Metal–organic framework (MOF) structure and uses
-
-by [@Yila-AI](https://github.com/Yila-AI)
-
-Technique: **structure close-up plus application icons** · Style: scientific illustration · Aspect ratio: 16:9
-
-| English prompt | Chinese prompt |
-|---|---|
-| <img src="gallery/materials-energy/mof-structure-en.jpg" width="420"> | <img src="gallery/materials-energy/mof-structure-zh.jpg" width="420"> |
-
-**English prompt**
-
-```text
-Create a scientific illustration of 【a metal–organic framework】: on the left, a 3D lattice of metal nodes (small colored clusters) joined by organic linkers (gray rods), with open pores; a few CO2 molecules sit inside the pores. On the right, two application icons: a gas cylinder for storage and a flask for catalysis. Draw molecules as simple shapes, with no chemical structures.
-Write each label only once in the whole figure.
-Labels, each used once, no other text: 【Metal node, Organic linker, Pore, CO2, Gas storage, Catalysis】.
-
-Style: journal-style scientific illustration. Clean semi-realistic vector illustration with gentle shading, using cross-sections or cutaways where they explain the structure, on a white background. Muted, harmonious palette with one accent color for the key process. Thin directional arrows for flows. Generous white space and a clear reading direction. Sans-serif English labels only, each label appears exactly once, spelled exactly as given. No cartoon style, no glossy CGI, no dark background, no stock-photo look, no decorative background.
-```
-
-<details><summary>Chinese prompt</summary>
-
-```text
-画一张【金属有机框架】的科学插画：左侧是由金属节点（彩色小簇）和有机配体（灰色棒）连成的三维晶格，留有开放孔道，几个 CO2 分子停在孔里。右侧两个应用图标：代表储存的气瓶和代表催化的烧瓶。分子用简单形状表示，不画化学结构式。
-整张图里每个标签只写一次。
-标签（每个只出现一次，不加其他文字）：【Metal node, Organic linker, Pore, CO2, Gas storage, Catalysis】。
-
-风格：期刊式科学插画。干净的半写实矢量插画，带柔和的明暗；需要说明结构时使用剖面或剖切视图，白色背景。配色低饱和、协调，只用一个强调色突出关键过程。用细的方向箭头表示流动。留白充足，阅读方向清晰。图中文字只用英文无衬线字体，每个标签只出现一次，拼写与给定完全一致。不要卡通风格、不要光滑的 CG 渲染、不要深色背景、不要图库照片感、不要装饰性背景。
-```
-
-</details>
-
-Model: Nano Banana 2 Lite (gemini-3.1-flash-lite-image, 1K) · Generated 4 times in total; shown are the outputs that passed review
-
-[↑ Back to top](#top)
-
-<sub><a href="https://yila.ai/?utm_source=github&utm_medium=readme&utm_campaign=sci-figure-prompts&utm_content=mof-structure">Try in Yila →</a></sub>
-
----
-
-<a id="no-145"></a>
-
-### No. 145: Perovskite–silicon tandem solar cell
-
-by [@Yila-AI](https://github.com/Yila-AI)
-
-Technique: **layered cross-section + magnified inset** · Style: scientific illustration · Aspect ratio: 16:9
-
-| English prompt | Chinese prompt |
-|---|---|
-| <img src="gallery/materials-energy/perovskite-tandem-cell-en.jpg" width="420"> | <img src="gallery/materials-energy/perovskite-tandem-cell-zh.jpg" width="420"> |
-
-**English prompt**
-
-```text
-Create a cross-section illustration of 【a perovskite–silicon tandem solar cell】, layers stacked from top to bottom: 【a transparent top electrode, a perovskite absorber layer, a thin recombination layer, a textured silicon bottom cell, and a metal back electrode】. Sunlight enters from the top; 【short-wavelength light is absorbed in the perovskite layer and long-wavelength light passes through to the silicon cell】. A circular magnified inset shows 【the perovskite crystal lattice】.
-Labels, each used once, no other text: 【Sunlight, Transparent electrode, Perovskite, Silicon cell, Back electrode】.
-
-Style: journal-style scientific illustration. Clean semi-realistic vector illustration with gentle shading, using cross-sections or cutaways where they explain the structure, on a white background. Muted, harmonious palette with one accent color for the key process. Thin directional arrows for flows. Generous white space and a clear reading direction. Sans-serif English labels only, each label appears exactly once, spelled exactly as given. No cartoon style, no glossy CGI, no dark background, no stock-photo look, no decorative background.
-```
-
-<details><summary>Chinese prompt</summary>
-
-```text
-画一张【钙钛矿-硅叠层太阳能电池】的剖面插画，各层从上到下叠放：【透明顶电极、钙钛矿吸收层、很薄的复合层、表面有绒面的硅底电池、金属背电极】。阳光从顶部射入；【短波长的光在钙钛矿层被吸收，长波长的光穿过去到达硅电池】。用一个圆形放大框展示【钙钛矿的晶格结构】。
-标签（每个只出现一次，不加其他文字）：【Sunlight, Transparent electrode, Perovskite, Silicon cell, Back electrode】。
-
-风格：期刊式科学插画。干净的半写实矢量插画，带柔和的明暗；需要说明结构时使用剖面或剖切视图，白色背景。配色低饱和、协调，只用一个强调色突出关键过程。用细的方向箭头表示流动。留白充足，阅读方向清晰。图中文字只用英文无衬线字体，每个标签只出现一次，拼写与给定完全一致。不要卡通风格、不要光滑的 CG 渲染、不要深色背景、不要图库照片感、不要装饰性背景。
-```
-
-</details>
-
-Model: Nano Banana 2 Lite (gemini-3.1-flash-lite-image, 1K) · Generated 2 times in total; shown are the outputs that passed review
-
-[↑ Back to top](#top)
-
-<sub><a href="https://yila.ai/?utm_source=github&utm_medium=readme&utm_campaign=sci-figure-prompts&utm_content=perovskite-tandem-cell">Try in Yila →</a></sub>
-
----
-
-<a id="no-146"></a>
-
-### No. 146: Self-healing polymer
-
-by [@Yila-AI](https://github.com/Yila-AI)
-
-Technique: **three panels: intact, cracked, healed** · Style: soft semi-realistic illustration · Aspect ratio: 16:9
-
-| Chinese prompt |
-|---|
-| <img src="gallery/materials-energy/self-healing-polymer-zh.jpg" width="420"> |
-
-**English prompt**
-
-```text
-Create an illustration of 【a self-healing polymer】, read from left to right in three panels:
-1. 【An intact network: wavy polymer chains cross-linked by many reversible bonds, each drawn as a pair of small matching dots.】
-2. 【A crack splits the network; the reversible bonds at the crack faces are broken, leaving unpaired dots on both sides.】
-3. 【After heat or light (a small icon on the arrow between panels 2 and 3), chains move across the crack and the dots pair up again; only a faint line remains where the crack was.】
-Label the polymer chain and the reversible bond only in the first panel.
-Write each label only once in the whole figure.
-Labels, each used once, no other text: 【Intact network, Crack, Healed network, Polymer chain, Reversible bond, Heat or light】.
-
-Style: journal graphical-abstract illustration. Soft semi-realistic medical illustration with gentle volume and subtle hand-painted texture, on a clean white background. Muted, harmonious palette with one accent color. Clear left-to-right narrative, generous white space. Sans-serif English labels only, each label appears exactly once, spelled exactly as given. No cartoon style, no glossy CGI, no dark background, no stock-photo look.
-```
-
-<details><summary>Chinese prompt</summary>
-
-```text
-画一张【自修复高分子】插图，从左往右三个面板：
-1. 【完好的网络：波浪状的高分子链由许多可逆键交联，每个可逆键画成一对相配的小圆点。】
-2. 【一道裂纹把网络分开；裂纹两侧的可逆键断开，两边留下不成对的小圆点。】
-3. 【经过加热或光照（第二和第三面板之间箭头上的一个小图标）后，分子链跨过裂纹移动，小圆点重新配对；原来裂纹处只剩一条淡淡的线。】
-高分子链和可逆键只在第一个面板标注。
-整张图里每个标签只写一次。
-标签（每个只出现一次，不加其他文字）：【Intact network, Crack, Healed network, Polymer chain, Reversible bond, Heat or light】。
-
-风格：期刊图形摘要插画。柔和的半写实医学插画，带轻微体积感和细腻的手绘质感，白色干净背景。配色低饱和、协调，只用一个强调色。从左到右叙事清晰，留白充足。图中文字只用英文无衬线字体，每个标签只出现一次，拼写与给定完全一致。不要卡通风格、不要光滑的 CG 渲染、不要深色背景、不要图库照片感。
-```
-
-</details>
-
-Model: Nano Banana 2 Lite (gemini-3.1-flash-lite-image, 1K) · Generated 2 times in total; shown are the outputs that passed review
-
-[↑ Back to top](#top)
-
-<sub><a href="https://yila.ai/?utm_source=github&utm_medium=readme&utm_campaign=sci-figure-prompts&utm_content=self-healing-polymer">Try in Yila →</a></sub>
-
----
-
-<a id="no-147"></a>
-
-### No. 147: Spin-coated thin film workflow
-
-by [@Yila-AI](https://github.com/Yila-AI)
-
-Technique: **one panel per step, step names only** · Style: flat workflow · Aspect ratio: 16:9
-
-| English prompt | Chinese prompt |
-|---|---|
-| <img src="gallery/materials-energy/spin-coating-thin-film-en.jpg" width="420"> | <img src="gallery/materials-energy/spin-coating-thin-film-zh.jpg" width="420"> |
-
-**English prompt**
-
-```text
-Create a workflow figure for 【preparing a thin film by spin coating】, 6 steps from left to right:
-1. 【Substrate cleaning: a glass slide in an ultrasonic bath】
-2. 【Precursor solution: a vial of solution】
-3. 【Dispensing: a pipette dropping solution onto the slide】
-4. 【Spin coating: the slide spinning on a stage with curved arrows】
-5. 【Annealing: the slide on a hot plate】
-6. 【Thin film: a slide with a smooth colored layer】
-Do not write the numbered sentences in the figure.
-Step names, each used once, no other text: 【Substrate cleaning, Precursor solution, Dispensing, Spin coating, Annealing, Thin film】.
-
-Style: journal-style experimental workflow figure. Clean flat vector icons on a white background, one light pastel rounded panel per step, thin gray arrows between panels. Only 3-4 muted colors. Each panel shows one simple scene with no text inside it; the only text in the whole figure is the step names given. Sans-serif English, each step name appears exactly once, spelled exactly as given. No legends, no captions, no extra labels, no 3D rendering, no shadows, no decorative background.
-```
-
-<details><summary>Chinese prompt</summary>
-
-```text
-画一张【旋涂法制备薄膜】的流程图，从左往右六步：
-1. 【基底清洗：超声清洗槽里的玻璃片】
-2. 【前驱体溶液：一小瓶溶液】
-3. 【滴加：移液器把溶液滴到玻璃片上】
-4. 【旋涂：玻璃片在转台上旋转，配弧形箭头】
-5. 【退火：玻璃片放在加热台上】
-6. 【薄膜：表面有一层均匀彩色膜的玻璃片】
-不要把编号句子写进图里。
-步骤名（每个只出现一次，不加其他文字）：【Substrate cleaning, Precursor solution, Dispensing, Spin coating, Annealing, Thin film】。
-
-风格：期刊式实验流程图。白色背景上干净的扁平矢量图标，每一步一个浅色圆角面板，面板之间用细灰色箭头连接。只用 3–4 种低饱和度颜色。每个面板里只画一个简洁的小场景，面板内不写任何文字；整张图唯一的文字就是给定的步骤名。用英文无衬线字体，每个步骤名只出现一次，拼写与给定完全一致。不要图例、不要说明文字、不要额外标签、不要 3D 渲染、阴影或装饰性背景。
-```
-
-</details>
-
-Model: Nano Banana 2 Lite (gemini-3.1-flash-lite-image, 1K) · Generated 4 times in total; shown are the outputs that passed review
-
-[↑ Back to top](#top)
-
-<sub><a href="https://yila.ai/?utm_source=github&utm_medium=readme&utm_campaign=sci-figure-prompts&utm_content=spin-coating-thin-film">Try in Yila →</a></sub>
-
----
-
-<a id="no-148"></a>
-
-### No. 148: 2D material van der Waals heterostructure
-
-by [@Yila-AI](https://github.com/Yila-AI)
-
-Technique: **exploded layers on the left, assembled stack on the right** · Style: scientific illustration · Aspect ratio: 16:9
-
-| English prompt | Chinese prompt |
-|---|---|
-| <img src="gallery/materials-energy/van-der-waals-heterostructure-en.jpg" width="420"> | <img src="gallery/materials-energy/van-der-waals-heterostructure-zh.jpg" width="420"> |
-
-**English prompt**
-
-```text
-Create a scientific illustration of 【a van der Waals heterostructure built from 2D materials】:
-1. Left: 【an exploded view of four layers floating apart, joined by dashed vertical guide lines; from top to bottom: graphene (a gray honeycomb of small balls), hBN (a honeycomb of alternating blue and pink balls), MoS2 (a three-sublayer sheet of yellow and purple balls), and a flat substrate】.
-2. Right: 【the same layers pressed into one assembled stack, shown at an angle, with a small side-view inset that shows the thin gap between two layers】.
-Label the layers only in the exploded view; the assembled stack gets one label for the whole.
-Write each label only once in the whole figure.
-Labels, each used once, no other text: 【Graphene, hBN, MoS2, Substrate, van der Waals gap, Heterostructure】.
-
-Style: journal-style scientific illustration. Clean semi-realistic vector illustration with gentle shading, using cross-sections or cutaways where they explain the structure, on a white background. Muted, harmonious palette with one accent color for the key process. Thin directional arrows for flows. Generous white space and a clear reading direction. Sans-serif English labels only, each label appears exactly once, spelled exactly as given. No cartoon style, no glossy CGI, no dark background, no stock-photo look, no decorative background.
-```
-
-<details><summary>Chinese prompt</summary>
-
-```text
-画一张【由二维材料构建的范德华异质结】科学插画：
-1. 左：【四层材料分开悬浮的爆炸图，用竖直虚线辅助线连起来；从上到下依次是：石墨烯（灰色小球组成的蜂窝）、hBN（蓝粉相间的小球组成的蜂窝）、MoS2（黄紫小球组成的三亚层薄片）和一块平整的衬底】。
-2. 右：【同样几层压合成一个组装好的堆叠，斜着展示，并配一个小侧视放大框，显示两层之间的细小间隙】。
-各层只在爆炸图中标注；组装好的堆叠整体只写一个标签。
-整张图里每个标签只写一次。
-标签（每个只出现一次，不加其他文字）：【Graphene, hBN, MoS2, Substrate, van der Waals gap, Heterostructure】。
-
-风格：期刊式科学插画。干净的半写实矢量插画，带柔和的明暗；需要说明结构时使用剖面或剖切视图，白色背景。配色低饱和、协调，只用一个强调色突出关键过程。用细的方向箭头表示流动。留白充足，阅读方向清晰。图中文字只用英文无衬线字体，每个标签只出现一次，拼写与给定完全一致。不要卡通风格、不要光滑的 CG 渲染、不要深色背景、不要图库照片感、不要装饰性背景。
-```
-
-</details>
-
-Model: Nano Banana 2 Lite (gemini-3.1-flash-lite-image, 1K) · Generated 2 times in total; shown are the outputs that passed review
-
-[↑ Back to top](#top)
-
-<sub><a href="https://yila.ai/?utm_source=github&utm_medium=readme&utm_campaign=sci-figure-prompts&utm_content=van-der-waals-heterostructure">Try in Yila →</a></sub>
-
----
-
-<a id="no-149"></a>
-
-### No. 149: Water electrolysis: HER and OER
-
-by [@Yila-AI](https://github.com/Yila-AI)
-
-Technique: **cell cross-section with a catalyst inset** · Style: scientific illustration · Aspect ratio: 16:9
-
-| Chinese prompt |
-|---|
-| <img src="gallery/materials-energy/water-electrolysis-her-oer-zh.jpg" width="420"> |
-
-**English prompt**
-
-```text
-Create a cross-section illustration of 【a water electrolyzer】: a cathode on the left and an anode on the right, separated by a membrane in the middle, both connected to a power supply above. Draw:
-1. 【At the cathode, hydrogen bubbles form (HER).】
-2. 【At the anode, oxygen bubbles form (OER).】
-3. 【A circular magnified inset on the cathode shows water molecules splitting on the catalyst surface.】
-Write each label only once in the whole figure.
-Labels, each used once, no other text: 【Cathode, Anode, Membrane, HER, OER, H2, O2, Catalyst】.
-
-Style: journal-style scientific illustration. Clean semi-realistic vector illustration with gentle shading, using cross-sections or cutaways where they explain the structure, on a white background. Muted, harmonious palette with one accent color for the key process. Thin directional arrows for flows. Generous white space and a clear reading direction. Sans-serif English labels only, each label appears exactly once, spelled exactly as given. No cartoon style, no glossy CGI, no dark background, no stock-photo look, no decorative background.
-```
-
-<details><summary>Chinese prompt</summary>
-
-```text
-画一张【电解水装置】的截面插画：左边是阴极，右边是阳极，中间用隔膜隔开，两极都连到上方的电源。画出：
-1. 【阴极上冒出氢气泡（HER）。】
-2. 【阳极上冒出氧气泡（OER）。】
-3. 【阴极上一个圆形放大插图，显示水分子在催化剂表面分解。】
-整张图里每个标签只写一次。
-标签（每个只出现一次，不加其他文字）：【Cathode, Anode, Membrane, HER, OER, H2, O2, Catalyst】。
-
-风格：期刊式科学插画。干净的半写实矢量插画，带柔和的明暗；需要说明结构时使用剖面或剖切视图，白色背景。配色低饱和、协调，只用一个强调色突出关键过程。用细的方向箭头表示流动。留白充足，阅读方向清晰。图中文字只用英文无衬线字体，每个标签只出现一次，拼写与给定完全一致。不要卡通风格、不要光滑的 CG 渲染、不要深色背景、不要图库照片感、不要装饰性背景。
-```
-
-</details>
-
-Model: Nano Banana 2 Lite (gemini-3.1-flash-lite-image, 1K) · Generated 5 times in total; shown are the outputs that passed review
-
-[↑ Back to top](#top)
-
-<sub><a href="https://yila.ai/?utm_source=github&utm_medium=readme&utm_campaign=sci-figure-prompts&utm_content=water-electrolysis-her-oer">Try in Yila →</a></sub>
+**[👉 Try it now in YILA →](https://yila.ai/scientific-figure-prompts/li-ion-battery?utm_source=github&utm_medium=readme&utm_campaign=sci-figure-prompts&utm_content=li-ion-battery)** · [↑ Back to top](#top)
 
 ---
 
 <a id="earth-environment"></a>
 
-## Earth & Environment
+### 🌍 Earth & Environment
 
 <a id="no-150"></a>
 
-### No. 150: Air quality monitoring workflow
+#### No. 150: Air quality monitoring workflow
 
-by [@Yila-AI](https://github.com/Yila-AI)
+![Model](https://img.shields.io/badge/Model-GPT%20Image%202.6-10a37f) ![Category](https://img.shields.io/badge/Earth%20%26%20Environment-blue)
 
-Technique: **one panel per step, step names only** · Style: flat workflow · Aspect ratio: 16:9
+##### 📖 Description
 
-| Chinese prompt |
-|---|
-| <img src="gallery/earth-environment/air-quality-monitoring-zh.jpg" width="420"> |
+Technique: **one panel per step, step names only** · Style: flat workflow · Aspect Ratio: `16:9`
 
-**English prompt**
+##### 📝 Prompt
 
 ```text
 Create a workflow figure for 【urban air quality monitoring】, 6 steps from left to right:
@@ -7661,27 +3163,34 @@ Style: journal-style experimental workflow figure. Clean flat vector icons on a 
 
 </details>
 
-Model: Nano Banana 2 Lite (gemini-3.1-flash-lite-image, 1K) · Generated 4 times in total; shown are the outputs that passed review
+##### 🖼️ Generated Image
 
-[↑ Back to top](#top)
+<div align="center">
+<a href="https://yila.ai/scientific-figure-prompts/air-quality-monitoring?utm_source=github&utm_medium=readme&utm_campaign=sci-figure-prompts&utm_content=air-quality-monitoring"><img src="gallery/earth-environment/air-quality-monitoring-zh.jpg" width="600" alt="Air quality monitoring workflow"></a>
+</div>
 
-<sub><a href="https://yila.ai/?utm_source=github&utm_medium=readme&utm_campaign=sci-figure-prompts&utm_content=air-quality-monitoring">Try in Yila →</a></sub>
+##### 📌 Details
+
+- **Author:** [@Yila-AI](https://github.com/Yila-AI)
+- **Model:** GPT Image 2.6
+- **Aspect Ratio:** 16:9
+- **Languages:** en, zh
+
+**[👉 Try it now in YILA →](https://yila.ai/scientific-figure-prompts/air-quality-monitoring?utm_source=github&utm_medium=readme&utm_campaign=sci-figure-prompts&utm_content=air-quality-monitoring)** · [↑ Back to top](#top)
 
 ---
 
 <a id="no-151"></a>
 
-### No. 151: Carbon capture and storage (CCS)
+#### No. 151: Carbon capture and storage (CCS)
 
-by [@Yila-AI](https://github.com/Yila-AI)
+![Model](https://img.shields.io/badge/Model-GPT%20Image%202.6-10a37f) ![Category](https://img.shields.io/badge/Earth%20%26%20Environment-blue)
 
-Technique: **surface facilities over an underground rock cutaway** · Style: scientific illustration · Aspect ratio: 16:9
+##### 📖 Description
 
-| English prompt | Chinese prompt |
-|---|---|
-| <img src="gallery/earth-environment/carbon-capture-storage-en.jpg" width="420"> | <img src="gallery/earth-environment/carbon-capture-storage-zh.jpg" width="420"> |
+Technique: **surface facilities over an underground rock cutaway** · Style: scientific illustration · Aspect Ratio: `16:9`
 
-**English prompt**
+##### 📝 Prompt
 
 ```text
 Create a scientific illustration of 【carbon capture and storage】: a landscape with a cutaway of the rock layers underground, read from left to right. Draw each relationship exactly as listed and nothing more:
@@ -7715,27 +3224,34 @@ Style: journal-style scientific illustration. Clean semi-realistic vector illust
 
 </details>
 
-Model: Nano Banana 2 Lite (gemini-3.1-flash-lite-image, 1K) · Generated 4 times in total; shown are the outputs that passed review
+##### 🖼️ Generated Image
 
-[↑ Back to top](#top)
+<div align="center">
+<a href="https://yila.ai/scientific-figure-prompts/carbon-capture-storage?utm_source=github&utm_medium=readme&utm_campaign=sci-figure-prompts&utm_content=carbon-capture-storage"><img src="gallery/earth-environment/carbon-capture-storage-en.jpg" width="600" alt="Carbon capture and storage (CCS)"></a>
+</div>
 
-<sub><a href="https://yila.ai/?utm_source=github&utm_medium=readme&utm_campaign=sci-figure-prompts&utm_content=carbon-capture-storage">Try in Yila →</a></sub>
+##### 📌 Details
+
+- **Author:** [@Yila-AI](https://github.com/Yila-AI)
+- **Model:** GPT Image 2.6
+- **Aspect Ratio:** 16:9
+- **Languages:** en, zh
+
+**[👉 Try it now in YILA →](https://yila.ai/scientific-figure-prompts/carbon-capture-storage?utm_source=github&utm_medium=readme&utm_campaign=sci-figure-prompts&utm_content=carbon-capture-storage)** · [↑ Back to top](#top)
 
 ---
 
 <a id="no-152"></a>
 
-### No. 152: Global carbon cycle
+#### No. 152: Global carbon cycle
 
-by [@Yila-AI](https://github.com/Yila-AI)
+![Model](https://img.shields.io/badge/Model-GPT%20Image%202.6-10a37f) ![Category](https://img.shields.io/badge/Earth%20%26%20Environment-blue)
 
-Technique: **system cycle + flow arrows** · Style: scientific illustration · Aspect ratio: 4:3
+##### 📖 Description
 
-| English prompt | Chinese prompt |
-|---|---|
-| <img src="gallery/earth-environment/carbon-cycle-en.jpg" width="420"> | <img src="gallery/earth-environment/carbon-cycle-zh.jpg" width="420"> |
+Technique: **system cycle + flow arrows** · Style: scientific illustration · Aspect Ratio: `4:3`
 
-**English prompt**
+##### 📝 Prompt
 
 ```text
 Create a landscape cross-section illustration of 【the global carbon cycle】: 【the atmosphere at the top; a forest and soil on the left; the ocean on the right; a power plant and buried fossil fuels at the bottom center】. Arrows show 【carbon dioxide taken up by trees (photosynthesis), released by plants and soil (respiration), absorbed by the ocean surface, and emitted by the power plant burning fossil fuels】. Use thicker arrows for larger flows.
@@ -7755,29 +3271,34 @@ Style: journal-style scientific illustration. Clean semi-realistic vector illust
 
 </details>
 
-Model: Nano Banana 2 Lite (gemini-3.1-flash-lite-image, 1K) · Generated 2 times in total; shown are the outputs that passed review
+##### 🖼️ Generated Image
 
-[↑ Back to top](#top)
+<div align="center">
+<a href="https://yila.ai/scientific-figure-prompts/carbon-cycle?utm_source=github&utm_medium=readme&utm_campaign=sci-figure-prompts&utm_content=carbon-cycle"><img src="gallery/earth-environment/carbon-cycle-en.jpg" width="600" alt="Global carbon cycle"></a>
+</div>
 
-<sub><a href="https://yila.ai/?utm_source=github&utm_medium=readme&utm_campaign=sci-figure-prompts&utm_content=carbon-cycle">Try in Yila →</a></sub>
+##### 📌 Details
+
+- **Author:** [@Yila-AI](https://github.com/Yila-AI)
+- **Model:** GPT Image 2.6
+- **Aspect Ratio:** 4:3
+- **Languages:** en, zh
+
+**[👉 Try it now in YILA →](https://yila.ai/scientific-figure-prompts/carbon-cycle?utm_source=github&utm_medium=readme&utm_campaign=sci-figure-prompts&utm_content=carbon-cycle)** · [↑ Back to top](#top)
 
 ---
 
 <a id="no-153"></a>
 
-### No. 153: Contaminated soil and remediation options
+#### No. 153: Contaminated soil and remediation options
 
-by [@Yila-AI](https://github.com/Yila-AI)
+![Model](https://img.shields.io/badge/Model-GPT%20Image%202.6-10a37f) ![Category](https://img.shields.io/badge/Earth%20%26%20Environment-blue)
 
-Technique: **polluted soil cross-section with four remediation panels** · Style: scientific illustration · Aspect ratio: 16:9
+##### 📖 Description
 
-| English prompt |
-|---|
-| <img src="gallery/earth-environment/contaminated-soil-remediation-en.jpg" width="420"> |
+Technique: **polluted soil cross-section with four remediation panels** · Style: scientific illustration · Aspect Ratio: `16:9`
 
-> The Chinese-prompt output did not pass review, so it is not shown.
-
-**English prompt**
+##### 📝 Prompt
 
 ```text
 Create a scientific illustration of 【contaminated soil and its remediation options】. Left: 【a soil cross-section beneath an old factory site, with dark specks of heavy metals and oily brown patches of organic pollutants spreading through the soil】. Right: four small panels in two rows and two columns, each joined to the soil by one thin arrow pointing from the soil to the panel:
@@ -7809,29 +3330,34 @@ Style: journal-style scientific illustration. Clean semi-realistic vector illust
 
 </details>
 
-Model: Nano Banana 2 Lite (gemini-3.1-flash-lite-image, 1K) · Generated 4 times in total; shown are the outputs that passed review
+##### 🖼️ Generated Image
 
-[↑ Back to top](#top)
+<div align="center">
+<a href="https://yila.ai/scientific-figure-prompts/contaminated-soil-remediation?utm_source=github&utm_medium=readme&utm_campaign=sci-figure-prompts&utm_content=contaminated-soil-remediation"><img src="gallery/earth-environment/contaminated-soil-remediation-en.jpg" width="600" alt="Contaminated soil and remediation options"></a>
+</div>
 
-<sub><a href="https://yila.ai/?utm_source=github&utm_medium=readme&utm_campaign=sci-figure-prompts&utm_content=contaminated-soil-remediation">Try in Yila →</a></sub>
+##### 📌 Details
+
+- **Author:** [@Yila-AI](https://github.com/Yila-AI)
+- **Model:** GPT Image 2.6
+- **Aspect Ratio:** 16:9
+- **Languages:** en, zh
+
+**[👉 Try it now in YILA →](https://yila.ai/scientific-figure-prompts/contaminated-soil-remediation?utm_source=github&utm_medium=readme&utm_campaign=sci-figure-prompts&utm_content=contaminated-soil-remediation)** · [↑ Back to top](#top)
 
 ---
 
 <a id="no-154"></a>
 
-### No. 154: Ecosystem services framework
+#### No. 154: Ecosystem services framework
 
-by [@Yila-AI](https://github.com/Yila-AI)
+![Model](https://img.shields.io/badge/Model-GPT%20Image%202.6-10a37f) ![Category](https://img.shields.io/badge/Earth%20%26%20Environment-blue)
 
-Technique: **supporting services under three service types, leading to well-being** · Style: schematic diagram · Aspect ratio: 16:9
+##### 📖 Description
 
-| English prompt |
-|---|
-| <img src="gallery/earth-environment/ecosystem-services-framework-en.jpg" width="420"> |
+Technique: **supporting services under three service types, leading to well-being** · Style: schematic diagram · Aspect Ratio: `16:9`
 
-> The Chinese-prompt output did not pass review, so it is not shown.
-
-**English prompt**
+##### 📝 Prompt
 
 ```text
 Create a framework diagram of 【ecosystem services】 following the Millennium Ecosystem Assessment, read from left to right, each box with one icon. Draw each relationship exactly as listed and nothing more:
@@ -7863,27 +3389,34 @@ Style: journal-style schematic diagram. Clean flat vector graphics on a white ba
 
 </details>
 
-Model: Nano Banana 2 Lite (gemini-3.1-flash-lite-image, 1K) · Generated 6 times in total; shown are the outputs that passed review
+##### 🖼️ Generated Image
 
-[↑ Back to top](#top)
+<div align="center">
+<a href="https://yila.ai/scientific-figure-prompts/ecosystem-services-framework?utm_source=github&utm_medium=readme&utm_campaign=sci-figure-prompts&utm_content=ecosystem-services-framework"><img src="gallery/earth-environment/ecosystem-services-framework-en.jpg" width="600" alt="Ecosystem services framework"></a>
+</div>
 
-<sub><a href="https://yila.ai/?utm_source=github&utm_medium=readme&utm_campaign=sci-figure-prompts&utm_content=ecosystem-services-framework">Try in Yila →</a></sub>
+##### 📌 Details
+
+- **Author:** [@Yila-AI](https://github.com/Yila-AI)
+- **Model:** GPT Image 2.6
+- **Aspect Ratio:** 16:9
+- **Languages:** en, zh
+
+**[👉 Try it now in YILA →](https://yila.ai/scientific-figure-prompts/ecosystem-services-framework?utm_source=github&utm_medium=readme&utm_campaign=sci-figure-prompts&utm_content=ecosystem-services-framework)** · [↑ Back to top](#top)
 
 ---
 
 <a id="no-155"></a>
 
-### No. 155: Field sampling design: transects and plots
+#### No. 155: Field sampling design: transects and plots
 
-by [@Yila-AI](https://github.com/Yila-AI)
+![Model](https://img.shields.io/badge/Model-GPT%20Image%202.6-10a37f) ![Category](https://img.shields.io/badge/Earth%20%26%20Environment-blue)
 
-Technique: **aerial study area plus a nested-plot inset** · Style: scientific illustration · Aspect ratio: 16:9
+##### 📖 Description
 
-| English prompt | Chinese prompt |
-|---|---|
-| <img src="gallery/earth-environment/field-sampling-transects-plots-en.jpg" width="420"> | <img src="gallery/earth-environment/field-sampling-transects-plots-zh.jpg" width="420"> |
+Technique: **aerial study area plus a nested-plot inset** · Style: scientific illustration · Aspect Ratio: `16:9`
 
-**English prompt**
+##### 📝 Prompt
 
 ```text
 Create an aerial-view illustration of 【a field sampling design for a vegetation survey】 across a study area that changes from forest on the left to grassland on the right.
@@ -7913,27 +3446,34 @@ Style: journal-style scientific illustration. Clean semi-realistic vector illust
 
 </details>
 
-Model: Nano Banana 2 Lite (gemini-3.1-flash-lite-image, 1K) · Generated 2 times in total; shown are the outputs that passed review
+##### 🖼️ Generated Image
 
-[↑ Back to top](#top)
+<div align="center">
+<a href="https://yila.ai/scientific-figure-prompts/field-sampling-transects-plots?utm_source=github&utm_medium=readme&utm_campaign=sci-figure-prompts&utm_content=field-sampling-transects-plots"><img src="gallery/earth-environment/field-sampling-transects-plots-en.jpg" width="600" alt="Field sampling design: transects and plots"></a>
+</div>
 
-<sub><a href="https://yila.ai/?utm_source=github&utm_medium=readme&utm_campaign=sci-figure-prompts&utm_content=field-sampling-transects-plots">Try in Yila →</a></sub>
+##### 📌 Details
+
+- **Author:** [@Yila-AI](https://github.com/Yila-AI)
+- **Model:** GPT Image 2.6
+- **Aspect Ratio:** 16:9
+- **Languages:** en, zh
+
+**[👉 Try it now in YILA →](https://yila.ai/scientific-figure-prompts/field-sampling-transects-plots?utm_source=github&utm_medium=readme&utm_campaign=sci-figure-prompts&utm_content=field-sampling-transects-plots)** · [↑ Back to top](#top)
 
 ---
 
 <a id="no-156"></a>
 
-### No. 156: Groundwater contamination plume
+#### No. 156: Groundwater contamination plume
 
-by [@Yila-AI](https://github.com/Yila-AI)
+![Model](https://img.shields.io/badge/Model-GPT%20Image%202.6-10a37f) ![Category](https://img.shields.io/badge/Earth%20%26%20Environment-blue)
 
-Technique: **subsurface cross-section spreading downgradient** · Style: scientific illustration · Aspect ratio: 16:9
+##### 📖 Description
 
-| English prompt | Chinese prompt |
-|---|---|
-| <img src="gallery/earth-environment/groundwater-contamination-plume-en.jpg" width="420"> | <img src="gallery/earth-environment/groundwater-contamination-plume-zh.jpg" width="420"> |
+Technique: **subsurface cross-section spreading downgradient** · Style: scientific illustration · Aspect Ratio: `16:9`
 
-**English prompt**
+##### 📝 Prompt
 
 ```text
 Create a cross-section illustration of 【a groundwater contamination plume】: the land surface at the top, an unsaturated soil zone, the water table, a sandy aquifer below it and a clay layer at the bottom, read from left to right. Draw each relationship exactly as listed and nothing more:
@@ -7969,27 +3509,34 @@ Monitoring well 只写在两口监测井中的一口旁边。
 
 </details>
 
-Model: Nano Banana 2 Lite (gemini-3.1-flash-lite-image, 1K) · Generated 2 times in total; shown are the outputs that passed review
+##### 🖼️ Generated Image
 
-[↑ Back to top](#top)
+<div align="center">
+<a href="https://yila.ai/scientific-figure-prompts/groundwater-contamination-plume?utm_source=github&utm_medium=readme&utm_campaign=sci-figure-prompts&utm_content=groundwater-contamination-plume"><img src="gallery/earth-environment/groundwater-contamination-plume-en.jpg" width="600" alt="Groundwater contamination plume"></a>
+</div>
 
-<sub><a href="https://yila.ai/?utm_source=github&utm_medium=readme&utm_campaign=sci-figure-prompts&utm_content=groundwater-contamination-plume">Try in Yila →</a></sub>
+##### 📌 Details
+
+- **Author:** [@Yila-AI](https://github.com/Yila-AI)
+- **Model:** GPT Image 2.6
+- **Aspect Ratio:** 16:9
+- **Languages:** en, zh
+
+**[👉 Try it now in YILA →](https://yila.ai/scientific-figure-prompts/groundwater-contamination-plume?utm_source=github&utm_medium=readme&utm_campaign=sci-figure-prompts&utm_content=groundwater-contamination-plume)** · [↑ Back to top](#top)
 
 ---
 
 <a id="no-157"></a>
 
-### No. 157: Life cycle assessment (LCA) framework
+#### No. 157: Life cycle assessment (LCA) framework
 
-by [@Yila-AI](https://github.com/Yila-AI)
+![Model](https://img.shields.io/badge/Model-GPT%20Image%202.6-10a37f) ![Category](https://img.shields.io/badge/Earth%20%26%20Environment-blue)
 
-Technique: **three phases tied to interpretation** · Style: schematic diagram · Aspect ratio: 16:9
+##### 📖 Description
 
-| English prompt | Chinese prompt |
-|---|---|
-| <img src="gallery/earth-environment/lca-framework-en.jpg" width="420"> | <img src="gallery/earth-environment/lca-framework-zh.jpg" width="420"> |
+Technique: **three phases tied to interpretation** · Style: schematic diagram · Aspect Ratio: `16:9`
 
-**English prompt**
+##### 📝 Prompt
 
 ```text
 Create a framework diagram of 【life cycle assessment】: inside one large frame, three boxes stacked on the left (goal and scope, inventory analysis, impact assessment) joined by downward arrows, and one tall box on the right for interpretation, with two-way arrows linking it to each of the three boxes. Outside the frame on the right, one box for applications with an arrow from the frame.
@@ -8011,507 +3558,38 @@ Style: journal-style schematic diagram. Clean flat vector graphics on a white ba
 
 </details>
 
-Model: Nano Banana 2 Lite (gemini-3.1-flash-lite-image, 1K) · Generated 2 times in total; shown are the outputs that passed review
+##### 🖼️ Generated Image
 
-[↑ Back to top](#top)
+<div align="center">
+<a href="https://yila.ai/scientific-figure-prompts/lca-framework?utm_source=github&utm_medium=readme&utm_campaign=sci-figure-prompts&utm_content=lca-framework"><img src="gallery/earth-environment/lca-framework-en.jpg" width="600" alt="Life cycle assessment (LCA) framework"></a>
+</div>
 
-<sub><a href="https://yila.ai/?utm_source=github&utm_medium=readme&utm_campaign=sci-figure-prompts&utm_content=lca-framework">Try in Yila →</a></sub>
+##### 📌 Details
 
----
+- **Author:** [@Yila-AI](https://github.com/Yila-AI)
+- **Model:** GPT Image 2.6
+- **Aspect Ratio:** 16:9
+- **Languages:** en, zh
 
-<a id="no-158"></a>
-
-### No. 158: Microplastics pathway
-
-by [@Yila-AI](https://github.com/Yila-AI)
-
-Technique: **path from land to the dinner table** · Style: scientific illustration · Aspect ratio: 16:9
-
-| English prompt | Chinese prompt |
-|---|---|
-| <img src="gallery/earth-environment/microplastics-pathway-en.jpg" width="420"> | <img src="gallery/earth-environment/microplastics-pathway-zh.jpg" width="420"> |
-
-**English prompt**
-
-```text
-Create a scientific illustration of 【how microplastics move through the environment】, read from left to right across a landscape from a town to the sea. Draw each relationship exactly as listed and nothing more:
-1. 【Plastic waste from the town breaks into small fragments.】
-2. 【A river carries the fragments to the ocean.】
-3. 【In the ocean, plankton swallow tiny particles.】
-4. 【Fish eat the plankton.】
-5. 【People eat the fish.】
-Do not write the numbered sentences in the figure.
-Labels, each used once, no other text: 【Plastic waste, River, Ocean, Microplastics, Plankton, Fish, Humans】.
-
-Style: journal-style scientific illustration. Clean semi-realistic vector illustration with gentle shading, using cross-sections or cutaways where they explain the structure, on a white background. Muted, harmonious palette with one accent color for the key process. Thin directional arrows for flows. Generous white space and a clear reading direction. Sans-serif English labels only, each label appears exactly once, spelled exactly as given. No cartoon style, no glossy CGI, no dark background, no stock-photo look, no decorative background.
-```
-
-<details><summary>Chinese prompt</summary>
-
-```text
-画一张【微塑料在环境中的迁移】科学插画，从左往右是一幅从城镇到海洋的景观。严格按下面列出的关系画，不多画：
-1. 【城镇的塑料垃圾碎裂成小碎片。】
-2. 【河流把碎片带到海洋。】
-3. 【海洋中浮游生物吞下微小颗粒。】
-4. 【鱼吃浮游生物。】
-5. 【人吃鱼。】
-不要把编号句子写进图里。
-标签（每个只出现一次，不加其他文字）：【Plastic waste, River, Ocean, Microplastics, Plankton, Fish, Humans】。
-
-风格：期刊式科学插画。干净的半写实矢量插画，带柔和的明暗；需要说明结构时使用剖面或剖切视图，白色背景。配色低饱和、协调，只用一个强调色突出关键过程。用细的方向箭头表示流动。留白充足，阅读方向清晰。图中文字只用英文无衬线字体，每个标签只出现一次，拼写与给定完全一致。不要卡通风格、不要光滑的 CG 渲染、不要深色背景、不要图库照片感、不要装饰性背景。
-```
-
-</details>
-
-Model: Nano Banana 2 Lite (gemini-3.1-flash-lite-image, 1K) · Generated 4 times in total; shown are the outputs that passed review
-
-[↑ Back to top](#top)
-
-<sub><a href="https://yila.ai/?utm_source=github&utm_medium=readme&utm_campaign=sci-figure-prompts&utm_content=microplastics-pathway">Try in Yila →</a></sub>
-
----
-
-<a id="no-159"></a>
-
-### No. 159: PM2.5 sources and transport
-
-by [@Yila-AI](https://github.com/Yila-AI)
-
-Technique: **from emission sources to a downwind city** · Style: scientific illustration · Aspect ratio: 16:9
-
-| English prompt | Chinese prompt |
-|---|---|
-| <img src="gallery/earth-environment/pm25-sources-transport-en.jpg" width="420"> | <img src="gallery/earth-environment/pm25-sources-transport-zh.jpg" width="420"> |
-
-**English prompt**
-
-```text
-Create a scientific illustration of 【the sources and transport of PM2.5】 across a landscape, read from left to right: a highway, a factory and farmland on the left, a city on the right, and wind blowing from left to right. Draw each relationship exactly as listed and nothing more:
-1. 【Traffic on the highway and the factory chimney emit primary PM2.5 directly into the air (small gray dots rising).】
-2. 【Traffic, the factory and the farmland also release precursor gases (faint colored wisps rising).】
-3. 【In the air, the precursor gases react and turn into secondary PM2.5 (the wisps becoming tiny dots).】
-4. 【Wind carries the particle haze from left to right toward the city: regional transport.】
-5. 【Some particles fall back to the ground or are washed out by rain: deposition.】
-6. 【People in the city breathe in the particles: inhalation.】
-Do not draw graphs, maps with values, or any numbers other than the 2.5 in PM2.5.
-There are no T-bars in this figure. Do not write the numbered sentences in the figure. Write each label only once in the whole figure.
-Labels, each used once, no other text: 【Traffic, Industry, Primary PM2.5, Precursor gases, Secondary PM2.5, Regional transport, Deposition, Inhalation】.
-
-Style: journal-style scientific illustration. Clean semi-realistic vector illustration with gentle shading, using cross-sections or cutaways where they explain the structure, on a white background. Muted, harmonious palette with one accent color for the key process. Thin directional arrows for flows. Generous white space and a clear reading direction. Sans-serif English labels only, each label appears exactly once, spelled exactly as given. No cartoon style, no glossy CGI, no dark background, no stock-photo look, no decorative background.
-```
-
-<details><summary>Chinese prompt</summary>
-
-```text
-画一张【PM2.5 的来源与传输】科学插画，从左往右是一幅景观：左边是公路、工厂和农田，右边是城市，风从左往右吹。严格按下面列出的关系画，不多画：
-1. 【公路上的车辆和工厂烟囱直接向空中排放一次 PM2.5（灰色小点上升）。】
-2. 【车辆、工厂和农田还释放前体气体（淡彩色的气流上升）。】
-3. 【前体气体在空气中反应，转化为二次 PM2.5（气流变成细小颗粒）。】
-4. 【风把颗粒物霾从左往右带向城市：区域传输。】
-5. 【一部分颗粒落回地面或被雨水冲刷：沉降。】
-6. 【城市里的人吸入颗粒物：吸入。】
-不画图表，不画带数值的地图，除 PM2.5 里的 2.5 外不写任何数字。
-图中没有 T 形线。不要把编号句子写进图里。整张图里每个标签只写一次。
-标签（每个只出现一次，不加其他文字）：【Traffic, Industry, Primary PM2.5, Precursor gases, Secondary PM2.5, Regional transport, Deposition, Inhalation】。
-
-风格：期刊式科学插画。干净的半写实矢量插画，带柔和的明暗；需要说明结构时使用剖面或剖切视图，白色背景。配色低饱和、协调，只用一个强调色突出关键过程。用细的方向箭头表示流动。留白充足，阅读方向清晰。图中文字只用英文无衬线字体，每个标签只出现一次，拼写与给定完全一致。不要卡通风格、不要光滑的 CG 渲染、不要深色背景、不要图库照片感、不要装饰性背景。
-```
-
-</details>
-
-Model: Nano Banana 2 Lite (gemini-3.1-flash-lite-image, 1K) · Generated 4 times in total; shown are the outputs that passed review
-
-[↑ Back to top](#top)
-
-<sub><a href="https://yila.ai/?utm_source=github&utm_medium=readme&utm_campaign=sci-figure-prompts&utm_content=pm25-sources-transport">Try in Yila →</a></sub>
-
----
-
-<a id="no-160"></a>
-
-### No. 160: Remote sensing processing workflow
-
-by [@Yila-AI](https://github.com/Yila-AI)
-
-Technique: **one panel per step, step names only** · Style: flat workflow · Aspect ratio: 16:9
-
-| English prompt | Chinese prompt |
-|---|---|
-| <img src="gallery/earth-environment/remote-sensing-workflow-en.jpg" width="420"> | <img src="gallery/earth-environment/remote-sensing-workflow-zh.jpg" width="420"> |
-
-**English prompt**
-
-```text
-Create a workflow figure for 【a satellite remote sensing study】, 6 steps from left to right:
-1. 【Image acquisition: a satellite above a patch of land】
-2. 【Preprocessing: a hazy image becoming clear and snapping onto a map grid】
-3. 【Feature extraction: stacked colored image bands merging into one layer】
-4. 【Classification: the image turning into patches of a few flat colors for land types】
-5. 【Accuracy assessment: field points with check marks over the classified map】
-6. 【Mapping and analysis: a finished map with a north arrow beside a magnifier】
-Do not write the numbered sentences in the figure.
-Step names, each used once, no other text: 【Image acquisition, Preprocessing, Feature extraction, Classification, Accuracy assessment, Mapping and analysis】.
-
-Style: journal-style experimental workflow figure. Clean flat vector icons on a white background, one light pastel rounded panel per step, thin gray arrows between panels. Only 3-4 muted colors. Each panel shows one simple scene with no text inside it; the only text in the whole figure is the step names given. Sans-serif English, each step name appears exactly once, spelled exactly as given. No legends, no captions, no extra labels, no 3D rendering, no shadows, no decorative background.
-```
-
-<details><summary>Chinese prompt</summary>
-
-```text
-画一张【卫星遥感研究】的流程图，从左往右六步：
-1. 【影像获取：一颗卫星位于一片土地上方】
-2. 【预处理：朦胧的影像变清晰，并对齐到地图网格上】
-3. 【特征提取：几层彩色波段叠在一起，合成一层】
-4. 【分类：影像变成几种纯色块，代表不同地类】
-5. 【精度评价：分类图上几个带对勾的野外核查点】
-6. 【制图与分析：一张带指北针的成图，旁边一个放大镜】
-不要把编号句子写进图里。
-步骤名（每个只出现一次，不加其他文字）：【Image acquisition, Preprocessing, Feature extraction, Classification, Accuracy assessment, Mapping and analysis】。
-
-风格：期刊式实验流程图。白色背景上干净的扁平矢量图标，每一步一个浅色圆角面板，面板之间用细灰色箭头连接。只用 3–4 种低饱和度颜色。每个面板里只画一个简洁的小场景，面板内不写任何文字；整张图唯一的文字就是给定的步骤名。用英文无衬线字体，每个步骤名只出现一次，拼写与给定完全一致。不要图例、不要说明文字、不要额外标签、不要 3D 渲染、阴影或装饰性背景。
-```
-
-</details>
-
-Model: Nano Banana 2 Lite (gemini-3.1-flash-lite-image, 1K) · Generated 2 times in total; shown are the outputs that passed review
-
-[↑ Back to top](#top)
-
-<sub><a href="https://yila.ai/?utm_source=github&utm_medium=readme&utm_campaign=sci-figure-prompts&utm_content=remote-sensing-workflow">Try in Yila →</a></sub>
-
----
-
-<a id="no-161"></a>
-
-### No. 161: Soil sampling and analysis workflow
-
-by [@Yila-AI](https://github.com/Yila-AI)
-
-Technique: **one panel per step, step names only** · Style: flat workflow · Aspect ratio: 16:9
-
-| English prompt | Chinese prompt |
-|---|---|
-| <img src="gallery/earth-environment/soil-sampling-analysis-en.jpg" width="420"> | <img src="gallery/earth-environment/soil-sampling-analysis-zh.jpg" width="420"> |
-
-**English prompt**
-
-```text
-Create a workflow figure for 【soil sampling and analysis】, 6 steps from left to right:
-1. 【Grid layout: a field divided into a grid with dots】
-2. 【Coring: a soil auger pulling up a core】
-3. 【Composite sample: several cores mixed in a bag】
-4. 【Air drying and sieving: soil spread on a tray and a sieve】
-5. 【Lab analysis: a lab bench with test tubes】
-6. 【Soil map: a field colored in zones】
-Do not write the numbered sentences in the figure.
-Step names, each used once, no other text: 【Grid layout, Coring, Composite sample, Air drying and sieving, Lab analysis, Soil map】.
-
-Style: journal-style experimental workflow figure. Clean flat vector icons on a white background, one light pastel rounded panel per step, thin gray arrows between panels. Only 3-4 muted colors. Each panel shows one simple scene with no text inside it; the only text in the whole figure is the step names given. Sans-serif English, each step name appears exactly once, spelled exactly as given. No legends, no captions, no extra labels, no 3D rendering, no shadows, no decorative background.
-```
-
-<details><summary>Chinese prompt</summary>
-
-```text
-画一张【土壤采样与分析】的流程图，从左往右六步：
-1. 【网格布点：画了网格和圆点的田块】
-2. 【取土：土钻提出一根土柱】
-3. 【混合样：几根土柱混装进袋】
-4. 【风干过筛：摊开的土和一个筛子】
-5. 【实验室分析：放试管的实验台】
-6. 【土壤分区图：分区着色的田块】
-不要把编号句子写进图里。
-步骤名（每个只出现一次，不加其他文字）：【Grid layout, Coring, Composite sample, Air drying and sieving, Lab analysis, Soil map】。
-
-风格：期刊式实验流程图。白色背景上干净的扁平矢量图标，每一步一个浅色圆角面板，面板之间用细灰色箭头连接。只用 3–4 种低饱和度颜色。每个面板里只画一个简洁的小场景，面板内不写任何文字；整张图唯一的文字就是给定的步骤名。用英文无衬线字体，每个步骤名只出现一次，拼写与给定完全一致。不要图例、不要说明文字、不要额外标签、不要 3D 渲染、阴影或装饰性背景。
-```
-
-</details>
-
-Model: Nano Banana 2 Lite (gemini-3.1-flash-lite-image, 1K) · Generated 4 times in total; shown are the outputs that passed review
-
-[↑ Back to top](#top)
-
-<sub><a href="https://yila.ai/?utm_source=github&utm_medium=readme&utm_campaign=sci-figure-prompts&utm_content=soil-sampling-analysis">Try in Yila →</a></sub>
-
----
-
-<a id="no-162"></a>
-
-### No. 162: Urban heat island and mitigation
-
-by [@Yila-AI](https://github.com/Yila-AI)
-
-Technique: **side-by-side comparison + cross-section** · Style: scientific illustration · Aspect ratio: 16:9
-
-| English prompt | Chinese prompt |
-|---|---|
-| <img src="gallery/earth-environment/urban-heat-island-en.jpg" width="420"> | <img src="gallery/earth-environment/urban-heat-island-zh.jpg" width="420"> |
-
-**English prompt**
-
-```text
-Create a side-by-side cross-section illustration comparing 【a hot dense city block and a cooled city block】, separated by a thin dashed vertical line.
-Left: 【tall buildings, dark asphalt and few trees; orange-red heat rising from roofs and roads】.
-Right: 【the same block with green roofs, street trees, a small water body and light-colored pavement; blue arrows show cooler air and shade】.
-Labels, each used once, no other text: 【Heat island, Green roof, Street trees, Water body, Cooling】.
-
-Style: journal-style scientific illustration. Clean semi-realistic vector illustration with gentle shading, using cross-sections or cutaways where they explain the structure, on a white background. Muted, harmonious palette with one accent color for the key process. Thin directional arrows for flows. Generous white space and a clear reading direction. Sans-serif English labels only, each label appears exactly once, spelled exactly as given. No cartoon style, no glossy CGI, no dark background, no stock-photo look, no decorative background.
-```
-
-<details><summary>Chinese prompt</summary>
-
-```text
-画一张左右对比的剖面插画，比较【炎热密集的城市街区和降温后的城市街区】，中间用一条细虚线分开。
-左：【高楼林立、深色沥青路面、几乎没有树；橙红色的热量从屋顶和路面升起】。
-右：【同一个街区加上了屋顶绿化、行道树、一小片水体和浅色路面；蓝色箭头表示更凉的空气和树荫】。
-标签（每个只出现一次，不加其他文字）：【Heat island, Green roof, Street trees, Water body, Cooling】。
-
-风格：期刊式科学插画。干净的半写实矢量插画，带柔和的明暗；需要说明结构时使用剖面或剖切视图，白色背景。配色低饱和、协调，只用一个强调色突出关键过程。用细的方向箭头表示流动。留白充足，阅读方向清晰。图中文字只用英文无衬线字体，每个标签只出现一次，拼写与给定完全一致。不要卡通风格、不要光滑的 CG 渲染、不要深色背景、不要图库照片感、不要装饰性背景。
-```
-
-</details>
-
-Model: Nano Banana 2 Lite (gemini-3.1-flash-lite-image, 1K) · Generated 3 times in total; shown are the outputs that passed review
-
-[↑ Back to top](#top)
-
-<sub><a href="https://yila.ai/?utm_source=github&utm_medium=readme&utm_campaign=sci-figure-prompts&utm_content=urban-heat-island">Try in Yila →</a></sub>
-
----
-
-<a id="no-163"></a>
-
-### No. 163: Wastewater treatment process
-
-by [@Yila-AI](https://github.com/Yila-AI)
-
-Technique: **main flow plus a dashed sludge-return loop** · Style: schematic diagram · Aspect ratio: 16:9
-
-| English prompt | Chinese prompt |
-|---|---|
-| <img src="gallery/earth-environment/wastewater-treatment-en.jpg" width="420"> | <img src="gallery/earth-environment/wastewater-treatment-zh.jpg" width="420"> |
-
-**English prompt**
-
-```text
-Create a process diagram of 【a municipal wastewater treatment plant】, read from left to right. Each unit is a simple tank icon. Draw each relationship exactly as listed and nothing more:
-1. 【Influent → screening → primary clarifier → aeration tank (with air bubbles) → secondary clarifier → disinfection → effluent.】
-2. 【A dashed arrow returns sludge from the secondary clarifier to the aeration tank.】
-Labels, each used once, no other text: 【Influent, Screening, Primary clarifier, Aeration tank, Secondary clarifier, Disinfection, Effluent, Return sludge】.
-
-Style: journal-style schematic diagram. Clean flat vector graphics on a white background. Modules are rounded rectangles or simple icons with their short names inside; light pastel panels group related layers. Only 3-4 muted colors, each with one fixed meaning. Thin, uniform arrows show the flow of data, energy, material or influence; dashed arrows for indirect or feedback links. Sans-serif English labels only, each label appears exactly once, spelled exactly as given. No 3D rendering, no shadows, no glow, no cyberpunk or tech-background decoration, no photorealism.
-```
-
-<details><summary>Chinese prompt</summary>
-
-```text
-画一张【城市污水处理厂】的工艺流程图，从左往右读，每个单元画成一个简单的池体图标。严格按下面列出的关系画，不多画：
-1. 【进水 → 格栅 → 初沉池 → 曝气池（带气泡）→ 二沉池 → 消毒 → 出水。】
-2. 【一条虚线箭头把污泥从二沉池回流到曝气池。】
-标签（每个只出现一次，不加其他文字）：【Influent, Screening, Primary clarifier, Aeration tank, Secondary clarifier, Disinfection, Effluent, Return sludge】。
-
-风格：期刊式示意框图。白色背景上干净的扁平矢量图形。模块画成圆角矩形或简洁图标，名称写在里面；用浅色面板把相关的层归在一起。只用 3–4 种低饱和度颜色，每种颜色含义固定。细而粗细一致的箭头表示数据、能量、物质或影响的流向，间接或反馈关系用虚线箭头。图中文字只用英文无衬线字体，每个标签只出现一次，拼写与给定完全一致。不要 3D 渲染、阴影、发光、赛博朋克或科技感背景装饰，不要照片质感。
-```
-
-</details>
-
-Model: Nano Banana 2 Lite (gemini-3.1-flash-lite-image, 1K) · Generated 2 times in total; shown are the outputs that passed review
-
-[↑ Back to top](#top)
-
-<sub><a href="https://yila.ai/?utm_source=github&utm_medium=readme&utm_campaign=sci-figure-prompts&utm_content=wastewater-treatment">Try in Yila →</a></sub>
-
----
-
-<a id="no-164"></a>
-
-### No. 164: Water cycle
-
-by [@Yila-AI](https://github.com/Yila-AI)
-
-Technique: **landscape cross-section with every arrow direction stated** · Style: scientific illustration · Aspect ratio: 16:9
-
-| English prompt | Chinese prompt |
-|---|---|
-| <img src="gallery/earth-environment/water-cycle-en.jpg" width="420"> | <img src="gallery/earth-environment/water-cycle-zh.jpg" width="420"> |
-
-**English prompt**
-
-```text
-Create a scientific illustration of 【the water cycle】 in a landscape cross-section: the ocean on the left, a coast and green hills in the middle, snowy mountains on the right, clouds above, and soil and rock layers below the land. Draw each relationship exactly as listed and nothing more:
-1. 【The sun heats the ocean; water vapor rises from the ocean surface into the air (upward arrows): evaporation.】
-2. 【Trees on the hills release water vapor from their leaves into the air (upward arrows): transpiration.】
-3. 【The rising vapor cools and forms clouds (condensation).】
-4. 【Wind carries the clouds from over the ocean toward the mountains (an arrow pointing from left to right).】
-5. 【Rain and snow fall from the clouds onto the hills and mountains (downward arrows): precipitation.】
-6. 【Water flows downhill in a river from the mountains back into the ocean (an arrow pointing from right to left): surface runoff.】
-7. 【Some rain soaks into the soil (downward arrows): infiltration; it then moves slowly through the rock layers toward the ocean (an underground arrow pointing from right to left): groundwater flow.】
-Check every arrow before finishing: evaporation and transpiration point up, precipitation and infiltration point down, surface runoff and groundwater flow point toward the ocean.
-There are no T-bars in this figure. Do not write the numbered sentences in the figure. Write each label only once in the whole figure.
-Labels, each used once, no other text: 【Evaporation, Transpiration, Condensation, Precipitation, Surface runoff, Infiltration, Groundwater flow】.
-
-Style: journal-style scientific illustration. Clean semi-realistic vector illustration with gentle shading, using cross-sections or cutaways where they explain the structure, on a white background. Muted, harmonious palette with one accent color for the key process. Thin directional arrows for flows. Generous white space and a clear reading direction. Sans-serif English labels only, each label appears exactly once, spelled exactly as given. No cartoon style, no glossy CGI, no dark background, no stock-photo look, no decorative background.
-```
-
-<details><summary>Chinese prompt</summary>
-
-```text
-画一张【水循环】的景观截面科学插画：左边是海洋，中间是海岸和绿色丘陵，右边是积雪的高山，上方是云，陆地下方是土壤和岩层。严格按下面列出的关系画，不多画：
-1. 【太阳加热海洋，水汽从海面升入空中（向上的箭头）：蒸发。】
-2. 【丘陵上的树木从叶片向空中释放水汽（向上的箭头）：蒸腾。】
-3. 【上升的水汽冷却，形成云（凝结）。】
-4. 【风把云从海洋上空吹向高山（从左指向右的箭头）。】
-5. 【雨雪从云中落到丘陵和高山上（向下的箭头）：降水。】
-6. 【水沿河流从高山流下，回到海洋（从右指向左的箭头）：地表径流。】
-7. 【一部分雨水渗入土壤（向下的箭头）：下渗；之后在岩层中缓慢流向海洋（地下一条从右指向左的箭头）：地下水流。】
-画完逐一检查箭头：蒸发和蒸腾向上，降水和下渗向下，地表径流和地下水流都指向海洋。
-图中没有 T 形线。不要把编号句子写进图里。整张图里每个标签只写一次。
-标签（每个只出现一次，不加其他文字）：【Evaporation, Transpiration, Condensation, Precipitation, Surface runoff, Infiltration, Groundwater flow】。
-
-风格：期刊式科学插画。干净的半写实矢量插画，带柔和的明暗；需要说明结构时使用剖面或剖切视图，白色背景。配色低饱和、协调，只用一个强调色突出关键过程。用细的方向箭头表示流动。留白充足，阅读方向清晰。图中文字只用英文无衬线字体，每个标签只出现一次，拼写与给定完全一致。不要卡通风格、不要光滑的 CG 渲染、不要深色背景、不要图库照片感、不要装饰性背景。
-```
-
-</details>
-
-Model: Nano Banana 2 Lite (gemini-3.1-flash-lite-image, 1K) · Generated 4 times in total; shown are the outputs that passed review
-
-[↑ Back to top](#top)
-
-<sub><a href="https://yila.ai/?utm_source=github&utm_medium=readme&utm_campaign=sci-figure-prompts&utm_content=water-cycle">Try in Yila →</a></sub>
-
----
-
-<a id="no-165"></a>
-
-### No. 165: Water quality sampling and testing workflow
-
-by [@Yila-AI](https://github.com/Yila-AI)
-
-Technique: **one panel per step, step names only** · Style: flat workflow · Aspect ratio: 16:9
-
-| English prompt | Chinese prompt |
-|---|---|
-| <img src="gallery/earth-environment/water-quality-sampling-en.jpg" width="420"> | <img src="gallery/earth-environment/water-quality-sampling-zh.jpg" width="420"> |
-
-**English prompt**
-
-```text
-Create a workflow figure for 【water quality monitoring of a river】, 6 steps from left to right:
-1. 【Site selection: a map with three pins along a river】
-2. 【Sampling: a bottle lowered into the river】
-3. 【On-site measurement: a handheld probe in the water】
-4. 【Preservation: sample bottles in a cooler】
-5. 【Lab analysis: a lab bench with a spectrometer】
-6. 【Assessment: a river icon with a quality badge】
-Do not write the numbered sentences in the figure.
-Step names, each used once, no other text: 【Site selection, Sampling, On-site measurement, Preservation, Lab analysis, Assessment】.
-
-Style: journal-style experimental workflow figure. Clean flat vector icons on a white background, one light pastel rounded panel per step, thin gray arrows between panels. Only 3-4 muted colors. Each panel shows one simple scene with no text inside it; the only text in the whole figure is the step names given. Sans-serif English, each step name appears exactly once, spelled exactly as given. No legends, no captions, no extra labels, no 3D rendering, no shadows, no decorative background.
-```
-
-<details><summary>Chinese prompt</summary>
-
-```text
-画一张【河流水质监测】的流程图，从左往右六步：
-1. 【选点：河流沿线有三个定位钉的地图】
-2. 【采样：瓶子放入河中】
-3. 【现场测定：手持探头插入水中】
-4. 【样品保存：放在保温箱里的样品瓶】
-5. 【实验室分析：带分光光度计的实验台】
-6. 【水质评价：河流图标配质量徽章】
-不要把编号句子写进图里。
-步骤名（每个只出现一次，不加其他文字）：【Site selection, Sampling, On-site measurement, Preservation, Lab analysis, Assessment】。
-
-风格：期刊式实验流程图。白色背景上干净的扁平矢量图标，每一步一个浅色圆角面板，面板之间用细灰色箭头连接。只用 3–4 种低饱和度颜色。每个面板里只画一个简洁的小场景，面板内不写任何文字；整张图唯一的文字就是给定的步骤名。用英文无衬线字体，每个步骤名只出现一次，拼写与给定完全一致。不要图例、不要说明文字、不要额外标签、不要 3D 渲染、阴影或装饰性背景。
-```
-
-</details>
-
-Model: Nano Banana 2 Lite (gemini-3.1-flash-lite-image, 1K) · Generated 4 times in total; shown are the outputs that passed review
-
-[↑ Back to top](#top)
-
-<sub><a href="https://yila.ai/?utm_source=github&utm_medium=readme&utm_campaign=sci-figure-prompts&utm_content=water-quality-sampling">Try in Yila →</a></sub>
-
----
-
-<a id="no-166"></a>
-
-### No. 166: Watershed nutrient runoff to a lake
-
-by [@Yila-AI](https://github.com/Yila-AI)
-
-Technique: **cross-section from hillslope to lake** · Style: scientific illustration · Aspect ratio: 16:9
-
-| English prompt |
-|---|
-| <img src="gallery/earth-environment/watershed-nutrient-runoff-en.jpg" width="420"> |
-
-> The Chinese-prompt output did not pass review, so it is not shown.
-
-**English prompt**
-
-```text
-Create a scientific illustration of 【nutrient runoff in a watershed】: a landscape cross-section with hills on the left sloping down to a lake on the right, a stream running between them, and soil and groundwater below. Draw each relationship exactly as listed and nothing more:
-1. 【Fertilizer on cropland on the hills washes off with rain into the stream (arrows pointing downhill from the field to the stream).】
-2. 【Nitrate also leaches down through the soil into groundwater, which seeps into the stream (arrows pointing down, then toward the stream): leaching.】
-3. 【Manure from a livestock farm and effluent from a town's wastewater pipe also flow into the stream.】
-4. 【The stream flows downhill into the lake, carrying nitrogen and phosphorus (an arrow pointing from the stream into the lake).】
-5. 【In the lake, the nutrients fuel an algal bloom, a thick green layer on the surface.】
-6. 【Dead algae sink and bacteria decompose them, using up oxygen near the lake bottom: hypoxia, with a few dead fish.】
-7. 【A strip of trees along one stretch of the stream catches part of the runoff before it reaches the water: riparian buffer.】
-There are no T-bars in this figure. Do not write the numbered sentences in the figure. Write each label only once in the whole figure.
-Keep the landscape simple: no more than eight labels in total, and write each label exactly once.
-Labels, each used once, no other text: 【Cropland, Livestock, Wastewater, Leaching, Nitrogen and phosphorus, Algal bloom, Hypoxia, Riparian buffer】.
-
-Style: journal-style scientific illustration. Clean semi-realistic vector illustration with gentle shading, using cross-sections or cutaways where they explain the structure, on a white background. Muted, harmonious palette with one accent color for the key process. Thin directional arrows for flows. Generous white space and a clear reading direction. Sans-serif English labels only, each label appears exactly once, spelled exactly as given. No cartoon style, no glossy CGI, no dark background, no stock-photo look, no decorative background.
-```
-
-<details><summary>Chinese prompt</summary>
-
-```text
-画一张【流域营养盐径流】的科学插画：景观截面，左边丘陵向右倾斜到湖泊，中间有一条溪流，下方是土壤和地下水。严格按下面列出的关系画，不多画：
-1. 【坡地农田上的化肥随雨水冲进溪流（从农田指向溪流的下坡箭头）。】
-2. 【硝酸盐还会穿过土壤淋溶到地下水，再渗入溪流（先向下、再指向溪流的箭头）：淋溶。】
-3. 【养殖场的粪污和城镇污水管的排水也流进溪流。】
-4. 【溪流向下流入湖泊，带去氮和磷（从溪流指向湖泊的箭头）。】
-5. 【在湖里，营养盐引发藻华，水面覆盖一层厚厚的绿色。】
-6. 【死亡的藻类下沉，被细菌分解，耗尽湖底附近的氧气：缺氧，湖底有几条死鱼。】
-7. 【溪流一段岸边的林带在径流入水前拦住一部分：河岸缓冲带。】
-图中没有 T 形线。不要把编号句子写进图里。整张图里每个标签只写一次。
-景观保持简洁：标签总数不超过八个，每个标签只写一次。
-标签（每个只出现一次，不加其他文字）：【Cropland, Livestock, Wastewater, Leaching, Nitrogen and phosphorus, Algal bloom, Hypoxia, Riparian buffer】。
-
-风格：期刊式科学插画。干净的半写实矢量插画，带柔和的明暗；需要说明结构时使用剖面或剖切视图，白色背景。配色低饱和、协调，只用一个强调色突出关键过程。用细的方向箭头表示流动。留白充足，阅读方向清晰。图中文字只用英文无衬线字体，每个标签只出现一次，拼写与给定完全一致。不要卡通风格、不要光滑的 CG 渲染、不要深色背景、不要图库照片感、不要装饰性背景。
-```
-
-</details>
-
-Model: Nano Banana 2 Lite (gemini-3.1-flash-lite-image, 1K) · Generated 6 times in total; shown are the outputs that passed review
-
-[↑ Back to top](#top)
-
-<sub><a href="https://yila.ai/?utm_source=github&utm_medium=readme&utm_campaign=sci-figure-prompts&utm_content=watershed-nutrient-runoff">Try in Yila →</a></sub>
+**[👉 Try it now in YILA →](https://yila.ai/scientific-figure-prompts/lca-framework?utm_source=github&utm_medium=readme&utm_campaign=sci-figure-prompts&utm_content=lca-framework)** · [↑ Back to top](#top)
 
 ---
 
 <a id="ai-computing"></a>
 
-## AI & Computing
+### 🤖 AI & Computing
 
 <a id="no-167"></a>
 
-### No. 167: Cloud–edge–device computing
+#### No. 167: Cloud–edge–device computing
 
-by [@Yila-AI](https://github.com/Yila-AI)
+![Model](https://img.shields.io/badge/Model-GPT%20Image%202.6-10a37f) ![Category](https://img.shields.io/badge/AI%20%26%20Computing-blue)
 
-Technique: **three stacked tiers with two-way flow** · Style: schematic diagram · Aspect ratio: 3:4
+##### 📖 Description
 
-| Chinese prompt |
-|---|
-| <img src="gallery/ai-computing/cloud-edge-device-zh.jpg" width="420"> |
+Technique: **three stacked tiers with two-way flow** · Style: schematic diagram · Aspect Ratio: `3:4`
 
-**English prompt**
+##### 📝 Prompt
 
 ```text
 Create a three-tier architecture diagram of 【cloud–edge–device computing】, stacked from top to bottom:
@@ -8545,27 +3623,34 @@ Style: journal-style schematic diagram. Clean flat vector graphics on a white ba
 
 </details>
 
-Model: Nano Banana 2 Lite (gemini-3.1-flash-lite-image, 1K) · Generated 2 times in total; shown are the outputs that passed review
+##### 🖼️ Generated Image
 
-[↑ Back to top](#top)
+<div align="center">
+<a href="https://yila.ai/scientific-figure-prompts/cloud-edge-device?utm_source=github&utm_medium=readme&utm_campaign=sci-figure-prompts&utm_content=cloud-edge-device"><img src="gallery/ai-computing/cloud-edge-device-zh.jpg" width="600" alt="Cloud–edge–device computing"></a>
+</div>
 
-<sub><a href="https://yila.ai/?utm_source=github&utm_medium=readme&utm_campaign=sci-figure-prompts&utm_content=cloud-edge-device">Try in Yila →</a></sub>
+##### 📌 Details
+
+- **Author:** [@Yila-AI](https://github.com/Yila-AI)
+- **Model:** GPT Image 2.6
+- **Aspect Ratio:** 3:4
+- **Languages:** en, zh
+
+**[👉 Try it now in YILA →](https://yila.ai/scientific-figure-prompts/cloud-edge-device?utm_source=github&utm_medium=readme&utm_campaign=sci-figure-prompts&utm_content=cloud-edge-device)** · [↑ Back to top](#top)
 
 ---
 
 <a id="no-168"></a>
 
-### No. 168: Convolutional neural network (CNN) architecture
+#### No. 168: Convolutional neural network (CNN) architecture
 
-by [@Yila-AI](https://github.com/Yila-AI)
+![Model](https://img.shields.io/badge/Model-GPT%20Image%202.6-10a37f) ![Category](https://img.shields.io/badge/AI%20%26%20Computing-blue)
 
-Technique: **feature maps that shrink layer by layer** · Style: schematic diagram · Aspect ratio: 16:9
+##### 📖 Description
 
-| English prompt | Chinese prompt |
-|---|---|
-| <img src="gallery/ai-computing/cnn-architecture-en.jpg" width="420"> | <img src="gallery/ai-computing/cnn-architecture-zh.jpg" width="420"> |
+Technique: **feature maps that shrink layer by layer** · Style: schematic diagram · Aspect Ratio: `16:9`
 
-**English prompt**
+##### 📝 Prompt
 
 ```text
 Create an architecture diagram of 【a convolutional neural network】, read from left to right: an input image (a small cat photo icon) → a stack of feature maps from a convolution layer → a smaller stack after pooling → a second, smaller convolution and pooling pair drawn without labels → a column of circles for the fully connected layer → three output boxes for classes.
@@ -8587,27 +3672,34 @@ Style: journal-style schematic diagram. Clean flat vector graphics on a white ba
 
 </details>
 
-Model: Nano Banana 2 Lite (gemini-3.1-flash-lite-image, 1K) · Generated 4 times in total; shown are the outputs that passed review
+##### 🖼️ Generated Image
 
-[↑ Back to top](#top)
+<div align="center">
+<a href="https://yila.ai/scientific-figure-prompts/cnn-architecture?utm_source=github&utm_medium=readme&utm_campaign=sci-figure-prompts&utm_content=cnn-architecture"><img src="gallery/ai-computing/cnn-architecture-en.jpg" width="600" alt="Convolutional neural network (CNN) architecture"></a>
+</div>
 
-<sub><a href="https://yila.ai/?utm_source=github&utm_medium=readme&utm_campaign=sci-figure-prompts&utm_content=cnn-architecture">Try in Yila →</a></sub>
+##### 📌 Details
+
+- **Author:** [@Yila-AI](https://github.com/Yila-AI)
+- **Model:** GPT Image 2.6
+- **Aspect Ratio:** 16:9
+- **Languages:** en, zh
+
+**[👉 Try it now in YILA →](https://yila.ai/scientific-figure-prompts/cnn-architecture?utm_source=github&utm_medium=readme&utm_campaign=sci-figure-prompts&utm_content=cnn-architecture)** · [↑ Back to top](#top)
 
 ---
 
 <a id="no-169"></a>
 
-### No. 169: Data annotation pipeline
+#### No. 169: Data annotation pipeline
 
-by [@Yila-AI](https://github.com/Yila-AI)
+![Model](https://img.shields.io/badge/Model-GPT%20Image%202.6-10a37f) ![Category](https://img.shields.io/badge/AI%20%26%20Computing-blue)
 
-Technique: **one panel per step, step names only** · Style: flat workflow · Aspect ratio: 16:9
+##### 📖 Description
 
-| English prompt | Chinese prompt |
-|---|---|
-| <img src="gallery/ai-computing/data-annotation-pipeline-en.jpg" width="420"> | <img src="gallery/ai-computing/data-annotation-pipeline-zh.jpg" width="420"> |
+Technique: **one panel per step, step names only** · Style: flat workflow · Aspect Ratio: `16:9`
 
-**English prompt**
+##### 📝 Prompt
 
 ```text
 Create a workflow figure for 【building a labeled dataset】, 6 steps from left to right:
@@ -8641,29 +3733,34 @@ Style: journal-style experimental workflow figure. Clean flat vector icons on a 
 
 </details>
 
-Model: Nano Banana 2 Lite (gemini-3.1-flash-lite-image, 1K) · Generated 4 times in total; shown are the outputs that passed review
+##### 🖼️ Generated Image
 
-[↑ Back to top](#top)
+<div align="center">
+<a href="https://yila.ai/scientific-figure-prompts/data-annotation-pipeline?utm_source=github&utm_medium=readme&utm_campaign=sci-figure-prompts&utm_content=data-annotation-pipeline"><img src="gallery/ai-computing/data-annotation-pipeline-en.jpg" width="600" alt="Data annotation pipeline"></a>
+</div>
 
-<sub><a href="https://yila.ai/?utm_source=github&utm_medium=readme&utm_campaign=sci-figure-prompts&utm_content=data-annotation-pipeline">Try in Yila →</a></sub>
+##### 📌 Details
+
+- **Author:** [@Yila-AI](https://github.com/Yila-AI)
+- **Model:** GPT Image 2.6
+- **Aspect Ratio:** 16:9
+- **Languages:** en, zh
+
+**[👉 Try it now in YILA →](https://yila.ai/scientific-figure-prompts/data-annotation-pipeline?utm_source=github&utm_medium=readme&utm_campaign=sci-figure-prompts&utm_content=data-annotation-pipeline)** · [↑ Back to top](#top)
 
 ---
 
 <a id="no-170"></a>
 
-### No. 170: Diffusion model: forward noising and reverse denoising
+#### No. 170: Diffusion model: forward noising and reverse denoising
 
-by [@Yila-AI](https://github.com/Yila-AI)
+![Model](https://img.shields.io/badge/Model-GPT%20Image%202.6-10a37f) ![Category](https://img.shields.io/badge/AI%20%26%20Computing-blue)
 
-Technique: **one row of images with opposite arrows above and below** · Style: schematic diagram · Aspect ratio: 16:9
+##### 📖 Description
 
-| English prompt |
-|---|
-| <img src="gallery/ai-computing/diffusion-model-en.jpg" width="420"> |
+Technique: **one row of images with opposite arrows above and below** · Style: schematic diagram · Aspect Ratio: `16:9`
 
-> The Chinese-prompt output did not pass review, so it is not shown.
-
-**English prompt**
+##### 📝 Prompt
 
 ```text
 Create a schematic of 【a diffusion model for image generation】: one horizontal row of five small images. The leftmost is a clear picture of 【a flower】; moving right, each image has more speckled noise, and the rightmost is pure gray static.
@@ -8693,29 +3790,34 @@ Style: journal-style schematic diagram. Clean flat vector graphics on a white ba
 
 </details>
 
-Model: Nano Banana 2 Lite (gemini-3.1-flash-lite-image, 1K) · Generated 2 times in total; shown are the outputs that passed review
+##### 🖼️ Generated Image
 
-[↑ Back to top](#top)
+<div align="center">
+<a href="https://yila.ai/scientific-figure-prompts/diffusion-model?utm_source=github&utm_medium=readme&utm_campaign=sci-figure-prompts&utm_content=diffusion-model"><img src="gallery/ai-computing/diffusion-model-en.jpg" width="600" alt="Diffusion model: forward noising and reverse denoising"></a>
+</div>
 
-<sub><a href="https://yila.ai/?utm_source=github&utm_medium=readme&utm_campaign=sci-figure-prompts&utm_content=diffusion-model">Try in Yila →</a></sub>
+##### 📌 Details
+
+- **Author:** [@Yila-AI](https://github.com/Yila-AI)
+- **Model:** GPT Image 2.6
+- **Aspect Ratio:** 16:9
+- **Languages:** en, zh
+
+**[👉 Try it now in YILA →](https://yila.ai/scientific-figure-prompts/diffusion-model?utm_source=github&utm_medium=readme&utm_campaign=sci-figure-prompts&utm_content=diffusion-model)** · [↑ Back to top](#top)
 
 ---
 
 <a id="no-171"></a>
 
-### No. 171: Digital twin
+#### No. 171: Digital twin
 
-by [@Yila-AI](https://github.com/Yila-AI)
+![Model](https://img.shields.io/badge/Model-GPT%20Image%202.6-10a37f) ![Category](https://img.shields.io/badge/AI%20%26%20Computing-blue)
 
-Technique: **two-way link between a physical asset and its virtual model** · Style: schematic diagram · Aspect ratio: 16:9
+##### 📖 Description
 
-| English prompt |
-|---|
-| <img src="gallery/ai-computing/digital-twin-en.jpg" width="420"> |
+Technique: **two-way link between a physical asset and its virtual model** · Style: schematic diagram · Aspect Ratio: `16:9`
 
-> The Chinese-prompt output did not pass review, so it is not shown.
-
-**English prompt**
+##### 📝 Prompt
 
 ```text
 Create a schematic of 【a digital twin of a factory machine】: the physical machine on the left and its digital twin, a blue wireframe 3D model of the same machine on a screen, on the right. Draw each relationship exactly as listed and nothing more:
@@ -8743,27 +3845,34 @@ Style: journal-style schematic diagram. Clean flat vector graphics on a white ba
 
 </details>
 
-Model: Nano Banana 2 Lite (gemini-3.1-flash-lite-image, 1K) · Generated 2 times in total; shown are the outputs that passed review
+##### 🖼️ Generated Image
 
-[↑ Back to top](#top)
+<div align="center">
+<a href="https://yila.ai/scientific-figure-prompts/digital-twin?utm_source=github&utm_medium=readme&utm_campaign=sci-figure-prompts&utm_content=digital-twin"><img src="gallery/ai-computing/digital-twin-en.jpg" width="600" alt="Digital twin"></a>
+</div>
 
-<sub><a href="https://yila.ai/?utm_source=github&utm_medium=readme&utm_campaign=sci-figure-prompts&utm_content=digital-twin">Try in Yila →</a></sub>
+##### 📌 Details
+
+- **Author:** [@Yila-AI](https://github.com/Yila-AI)
+- **Model:** GPT Image 2.6
+- **Aspect Ratio:** 16:9
+- **Languages:** en, zh
+
+**[👉 Try it now in YILA →](https://yila.ai/scientific-figure-prompts/digital-twin?utm_source=github&utm_medium=readme&utm_campaign=sci-figure-prompts&utm_content=digital-twin)** · [↑ Back to top](#top)
 
 ---
 
 <a id="no-172"></a>
 
-### No. 172: Federated learning
+#### No. 172: Federated learning
 
-by [@Yila-AI](https://github.com/Yila-AI)
+![Model](https://img.shields.io/badge/Model-GPT%20Image%202.6-10a37f) ![Category](https://img.shields.io/badge/AI%20%26%20Computing-blue)
 
-Technique: **central server with three clients** · Style: schematic diagram · Aspect ratio: 16:9
+##### 📖 Description
 
-| English prompt | Chinese prompt |
-|---|---|
-| <img src="gallery/ai-computing/federated-learning-en.jpg" width="420"> | <img src="gallery/ai-computing/federated-learning-zh.jpg" width="420"> |
+Technique: **central server with three clients** · Style: schematic diagram · Aspect Ratio: `16:9`
 
-**English prompt**
+##### 📝 Prompt
 
 ```text
 Create a schematic of 【federated learning across three hospitals】: one server at the top holding the global model, and three hospitals in a row below, each with its own local data (a database icon) and local model. Upward arrows carry model updates from each hospital to the server; downward arrows carry the global model back. The data icons never leave the hospitals.
@@ -8785,29 +3894,34 @@ Style: journal-style schematic diagram. Clean flat vector graphics on a white ba
 
 </details>
 
-Model: Nano Banana 2 Lite (gemini-3.1-flash-lite-image, 1K) · Generated 2 times in total; shown are the outputs that passed review
+##### 🖼️ Generated Image
 
-[↑ Back to top](#top)
+<div align="center">
+<a href="https://yila.ai/scientific-figure-prompts/federated-learning?utm_source=github&utm_medium=readme&utm_campaign=sci-figure-prompts&utm_content=federated-learning"><img src="gallery/ai-computing/federated-learning-en.jpg" width="600" alt="Federated learning"></a>
+</div>
 
-<sub><a href="https://yila.ai/?utm_source=github&utm_medium=readme&utm_campaign=sci-figure-prompts&utm_content=federated-learning">Try in Yila →</a></sub>
+##### 📌 Details
+
+- **Author:** [@Yila-AI](https://github.com/Yila-AI)
+- **Model:** GPT Image 2.6
+- **Aspect Ratio:** 16:9
+- **Languages:** en, zh
+
+**[👉 Try it now in YILA →](https://yila.ai/scientific-figure-prompts/federated-learning?utm_source=github&utm_medium=readme&utm_campaign=sci-figure-prompts&utm_content=federated-learning)** · [↑ Back to top](#top)
 
 ---
 
 <a id="no-173"></a>
 
-### No. 173: Generative adversarial network (GAN)
+#### No. 173: Generative adversarial network (GAN)
 
-by [@Yila-AI](https://github.com/Yila-AI)
+![Model](https://img.shields.io/badge/Model-GPT%20Image%202.6-10a37f) ![Category](https://img.shields.io/badge/AI%20%26%20Computing-blue)
 
-Technique: **generator versus discriminator** · Style: schematic diagram · Aspect ratio: 16:9
+##### 📖 Description
 
-| English prompt |
-|---|
-| <img src="gallery/ai-computing/gan-architecture-en.jpg" width="420"> |
+Technique: **generator versus discriminator** · Style: schematic diagram · Aspect Ratio: `16:9`
 
-> The Chinese-prompt output did not pass review, so it is not shown.
-
-**English prompt**
+##### 📝 Prompt
 
 ```text
 Create an architecture diagram of 【a generative adversarial network】, read from left to right, each network a rounded box. Draw each relationship exactly as listed and nothing more:
@@ -8839,29 +3953,34 @@ Style: journal-style schematic diagram. Clean flat vector graphics on a white ba
 
 </details>
 
-Model: Nano Banana 2 Lite (gemini-3.1-flash-lite-image, 1K) · Generated 2 times in total; shown are the outputs that passed review
+##### 🖼️ Generated Image
 
-[↑ Back to top](#top)
+<div align="center">
+<a href="https://yila.ai/scientific-figure-prompts/gan-architecture?utm_source=github&utm_medium=readme&utm_campaign=sci-figure-prompts&utm_content=gan-architecture"><img src="gallery/ai-computing/gan-architecture-en.jpg" width="600" alt="Generative adversarial network (GAN)"></a>
+</div>
 
-<sub><a href="https://yila.ai/?utm_source=github&utm_medium=readme&utm_campaign=sci-figure-prompts&utm_content=gan-architecture">Try in Yila →</a></sub>
+##### 📌 Details
+
+- **Author:** [@Yila-AI](https://github.com/Yila-AI)
+- **Model:** GPT Image 2.6
+- **Aspect Ratio:** 16:9
+- **Languages:** en, zh
+
+**[👉 Try it now in YILA →](https://yila.ai/scientific-figure-prompts/gan-architecture?utm_source=github&utm_medium=readme&utm_campaign=sci-figure-prompts&utm_content=gan-architecture)** · [↑ Back to top](#top)
 
 ---
 
 <a id="no-174"></a>
 
-### No. 174: Graph neural network: message passing
+#### No. 174: Graph neural network: message passing
 
-by [@Yila-AI](https://github.com/Yila-AI)
+![Model](https://img.shields.io/badge/Model-GPT%20Image%202.6-10a37f) ![Category](https://img.shields.io/badge/AI%20%26%20Computing-blue)
 
-Technique: **neighbors send, aggregate, update** · Style: schematic diagram · Aspect ratio: 16:9
+##### 📖 Description
 
-| English prompt |
-|---|
-| <img src="gallery/ai-computing/gnn-message-passing-en.jpg" width="420"> |
+Technique: **neighbors send, aggregate, update** · Style: schematic diagram · Aspect Ratio: `16:9`
 
-> The Chinese-prompt output did not pass review, so it is not shown.
-
-**English prompt**
+##### 📝 Prompt
 
 ```text
 Create a schematic of 【message passing in a graph neural network】, read from left to right in three panels:
@@ -8893,841 +4012,38 @@ Style: journal-style schematic diagram. Clean flat vector graphics on a white ba
 
 </details>
 
-Model: Nano Banana 2 Lite (gemini-3.1-flash-lite-image, 1K) · Generated 6 times in total; shown are the outputs that passed review
+##### 🖼️ Generated Image
 
-[↑ Back to top](#top)
+<div align="center">
+<a href="https://yila.ai/scientific-figure-prompts/gnn-message-passing?utm_source=github&utm_medium=readme&utm_campaign=sci-figure-prompts&utm_content=gnn-message-passing"><img src="gallery/ai-computing/gnn-message-passing-en.jpg" width="600" alt="Graph neural network: message passing"></a>
+</div>
 
-<sub><a href="https://yila.ai/?utm_source=github&utm_medium=readme&utm_campaign=sci-figure-prompts&utm_content=gnn-message-passing">Try in Yila →</a></sub>
+##### 📌 Details
 
----
+- **Author:** [@Yila-AI](https://github.com/Yila-AI)
+- **Model:** GPT Image 2.6
+- **Aspect Ratio:** 16:9
+- **Languages:** en, zh
 
-<a id="no-175"></a>
-
-### No. 175: Knowledge graph construction workflow
-
-by [@Yila-AI](https://github.com/Yila-AI)
-
-Technique: **one panel per step, step names only** · Style: flat workflow · Aspect ratio: 16:9
-
-| English prompt | Chinese prompt |
-|---|---|
-| <img src="gallery/ai-computing/knowledge-graph-construction-en.jpg" width="420"> | <img src="gallery/ai-computing/knowledge-graph-construction-zh.jpg" width="420"> |
-
-**English prompt**
-
-```text
-Create a workflow figure for 【building a knowledge graph】, 6 steps from left to right:
-1. 【Raw data: documents and tables】
-2. 【Entity extraction: words highlighted in color】
-3. 【Relation extraction: two highlighted words joined by an arrow】
-4. 【Knowledge fusion: duplicate nodes merging】
-5. 【Knowledge graph: a network of labeled-looking nodes without text】
-6. 【Applications: a search box and a chat bubble】
-Do not write the numbered sentences in the figure.
-Step names, each used once, no other text: 【Raw data, Entity extraction, Relation extraction, Knowledge fusion, Knowledge graph, Applications】.
-
-Style: journal-style experimental workflow figure. Clean flat vector icons on a white background, one light pastel rounded panel per step, thin gray arrows between panels. Only 3-4 muted colors. Each panel shows one simple scene with no text inside it; the only text in the whole figure is the step names given. Sans-serif English, each step name appears exactly once, spelled exactly as given. No legends, no captions, no extra labels, no 3D rendering, no shadows, no decorative background.
-```
-
-<details><summary>Chinese prompt</summary>
-
-```text
-画一张【知识图谱构建】的流程图，从左往右六步：
-1. 【原始数据：文档和表格】
-2. 【实体抽取：被彩色高亮的词】
-3. 【关系抽取：两个高亮词用箭头相连】
-4. 【知识融合：重复节点合并】
-5. 【知识图谱：一张节点网络（节点里不写字）】
-6. 【应用：搜索框和对话气泡】
-不要把编号句子写进图里。
-步骤名（每个只出现一次，不加其他文字）：【Raw data, Entity extraction, Relation extraction, Knowledge fusion, Knowledge graph, Applications】。
-
-风格：期刊式实验流程图。白色背景上干净的扁平矢量图标，每一步一个浅色圆角面板，面板之间用细灰色箭头连接。只用 3–4 种低饱和度颜色。每个面板里只画一个简洁的小场景，面板内不写任何文字；整张图唯一的文字就是给定的步骤名。用英文无衬线字体，每个步骤名只出现一次，拼写与给定完全一致。不要图例、不要说明文字、不要额外标签、不要 3D 渲染、阴影或装饰性背景。
-```
-
-</details>
-
-Model: Nano Banana 2 Lite (gemini-3.1-flash-lite-image, 1K) · Generated 4 times in total; shown are the outputs that passed review
-
-[↑ Back to top](#top)
-
-<sub><a href="https://yila.ai/?utm_source=github&utm_medium=readme&utm_campaign=sci-figure-prompts&utm_content=knowledge-graph-construction">Try in Yila →</a></sub>
-
----
-
-<a id="no-176"></a>
-
-### No. 176: LLM agent loop
-
-by [@Yila-AI](https://github.com/Yila-AI)
-
-Technique: **loop structure + icons** · Style: schematic diagram · Aspect ratio: 16:9
-
-| English prompt | Chinese prompt |
-|---|---|
-| <img src="gallery/ai-computing/llm-agent-loop-en.jpg" width="420"> | <img src="gallery/ai-computing/llm-agent-loop-zh.jpg" width="420"> |
-
-**English prompt**
-
-```text
-Create a schematic diagram of 【an LLM agent loop】. On the left, 【a user goal】 enters 【a planner box at the center】. From the planner, arrows go to 【a tools panel with three small icons: web search, code runner and database】 and to 【a memory box】. A dashed arrow returns 【the observation from the tools back to the planner】, forming a loop. When done, an arrow leads from the planner to 【the final answer on the right】.
-Labels, each used once, no other text: 【Goal, Planner, Tools, Memory, Answer】.
-
-Style: journal-style schematic diagram. Clean flat vector graphics on a white background. Modules are rounded rectangles or simple icons with their short names inside; light pastel panels group related layers. Only 3-4 muted colors, each with one fixed meaning. Thin, uniform arrows show the flow of data, energy, material or influence; dashed arrows for indirect or feedback links. Sans-serif English labels only, each label appears exactly once, spelled exactly as given. No 3D rendering, no shadows, no glow, no cyberpunk or tech-background decoration, no photorealism.
-```
-
-<details><summary>Chinese prompt</summary>
-
-```text
-画一张【大模型智能体工作循环】的示意框图。左边【用户目标】进入【中间的规划器方框】。从规划器出发，箭头分别指向【一个工具面板，里面有三个小图标：网页搜索、代码运行、数据库】和【一个记忆方框】。一条虚线箭头把【工具返回的观察结果送回规划器】，形成一个循环。任务完成后，一条箭头从规划器指向【右边的最终回答】。
-标签（每个只出现一次，不加其他文字）：【Goal, Planner, Tools, Memory, Answer】。
-
-风格：期刊式示意框图。白色背景上干净的扁平矢量图形。模块画成圆角矩形或简洁图标，名称写在里面；用浅色面板把相关的层归在一起。只用 3–4 种低饱和度颜色，每种颜色含义固定。细而粗细一致的箭头表示数据、能量、物质或影响的流向，间接或反馈关系用虚线箭头。图中文字只用英文无衬线字体，每个标签只出现一次，拼写与给定完全一致。不要 3D 渲染、阴影、发光、赛博朋克或科技感背景装饰，不要照片质感。
-```
-
-</details>
-
-Model: Nano Banana 2 Lite (gemini-3.1-flash-lite-image, 1K) · Generated 2 times in total; shown are the outputs that passed review
-
-[↑ Back to top](#top)
-
-<sub><a href="https://yila.ai/?utm_source=github&utm_medium=readme&utm_campaign=sci-figure-prompts&utm_content=llm-agent-loop">Try in Yila →</a></sub>
-
----
-
-<a id="no-177"></a>
-
-### No. 177: LoRA fine-tuning of a large language model
-
-by [@Yila-AI](https://github.com/Yila-AI)
-
-Technique: **a low-rank side path beside frozen weights** · Style: schematic diagram · Aspect ratio: 16:9
-
-| Chinese prompt |
-|---|
-| <img src="gallery/ai-computing/lora-fine-tuning-zh.jpg" width="420"> |
-
-**English prompt**
-
-```text
-Create a schematic of 【LoRA fine-tuning of a large language model】:
-1. Far left: 【a small stack of layers for the large language model; dashed zoom lines lead from one layer to the main diagram on the right】.
-2. Main diagram, read from bottom to top: 【the input x enters at the bottom and splits into two parallel paths】.
-3. Left path: 【a large gray square for the pretrained weights, with a small lock icon showing they are frozen】.
-4. Right path: 【a trapezoid A that narrows upward, then a trapezoid B that widens upward, both bright orange with a small flame icon showing they are trainable】.
-5. 【The two paths meet at a plus circle at the top, giving the output h.】
-Write each label only once in the whole figure.
-Labels, each used once, no other text: 【Large language model, x, Pretrained weights (frozen), A, B, Trainable, h】.
-
-Style: journal-style schematic diagram. Clean flat vector graphics on a white background. Modules are rounded rectangles or simple icons with their short names inside; light pastel panels group related layers. Only 3-4 muted colors, each with one fixed meaning. Thin, uniform arrows show the flow of data, energy, material or influence; dashed arrows for indirect or feedback links. Sans-serif English labels only, each label appears exactly once, spelled exactly as given. No 3D rendering, no shadows, no glow, no cyberpunk or tech-background decoration, no photorealism.
-```
-
-<details><summary>Chinese prompt</summary>
-
-```text
-画一张【大语言模型 LoRA 微调】示意图：
-1. 最左侧：【一小叠层代表大语言模型；从其中一层引出虚线放大线，连到右边的主图】。
-2. 主图从下往上读：【输入 x 从底部进入，分成两条并行路径】。
-3. 左路：【一个大的灰色方块代表预训练权重，带一个小锁图标，表示冻结】。
-4. 右路：【一个向上收窄的梯形 A，再接一个向上变宽的梯形 B，都是亮橙色，带小火焰图标，表示可训练】。
-5. 【两条路径在顶部的加号圆圈处汇合，得到输出 h。】
-整张图里每个标签只写一次。
-标签（每个只出现一次，不加其他文字）：【Large language model, x, Pretrained weights (frozen), A, B, Trainable, h】。
-
-风格：期刊式示意框图。白色背景上干净的扁平矢量图形。模块画成圆角矩形或简洁图标，名称写在里面；用浅色面板把相关的层归在一起。只用 3–4 种低饱和度颜色，每种颜色含义固定。细而粗细一致的箭头表示数据、能量、物质或影响的流向，间接或反馈关系用虚线箭头。图中文字只用英文无衬线字体，每个标签只出现一次，拼写与给定完全一致。不要 3D 渲染、阴影、发光、赛博朋克或科技感背景装饰，不要照片质感。
-```
-
-</details>
-
-Model: Nano Banana 2 Lite (gemini-3.1-flash-lite-image, 1K) · Generated 2 times in total; shown are the outputs that passed review
-
-[↑ Back to top](#top)
-
-<sub><a href="https://yila.ai/?utm_source=github&utm_medium=readme&utm_campaign=sci-figure-prompts&utm_content=lora-fine-tuning">Try in Yila →</a></sub>
-
----
-
-<a id="no-178"></a>
-
-### No. 178: Medical imaging and digital pathology AI workflow
-
-by [@Yila-AI](https://github.com/Yila-AI)
-
-Technique: **one panel per step, step names only** · Style: flat workflow · Aspect ratio: 16:9
-
-| English prompt | Chinese prompt |
-|---|---|
-| <img src="gallery/ai-computing/medical-imaging-ai-en.jpg" width="420"> | <img src="gallery/ai-computing/medical-imaging-ai-zh.jpg" width="420"> |
-
-**English prompt**
-
-```text
-Create a workflow figure for 【a medical imaging AI study】, 6 steps from left to right:
-1. 【Image acquisition: a CT scanner and a slide scanner】
-2. 【Annotation: a doctor outlining a region on a screen】
-3. 【Preprocessing: image tiles in a grid】
-4. 【Model training: a small neural network】
-5. 【Validation: a check mark over two hospitals】
-6. 【Deployment: a screen in a hospital reading room】
-Do not write the numbered sentences in the figure.
-Step names, each used once, no other text: 【Image acquisition, Annotation, Preprocessing, Model training, Validation, Deployment】.
-
-Style: journal-style experimental workflow figure. Clean flat vector icons on a white background, one light pastel rounded panel per step, thin gray arrows between panels. Only 3-4 muted colors. Each panel shows one simple scene with no text inside it; the only text in the whole figure is the step names given. Sans-serif English, each step name appears exactly once, spelled exactly as given. No legends, no captions, no extra labels, no 3D rendering, no shadows, no decorative background.
-```
-
-<details><summary>Chinese prompt</summary>
-
-```text
-画一张【医学影像 AI 研究】的流程图，从左往右六步：
-1. 【图像采集：CT 机和切片扫描仪】
-2. 【标注：医生在屏幕上圈画区域】
-3. 【预处理：切成网格的小图块】
-4. 【模型训练：一个小神经网络】
-5. 【验证：两家医院上方一个对勾】
-6. 【部署：医院阅片室里的一块屏幕】
-不要把编号句子写进图里。
-步骤名（每个只出现一次，不加其他文字）：【Image acquisition, Annotation, Preprocessing, Model training, Validation, Deployment】。
-
-风格：期刊式实验流程图。白色背景上干净的扁平矢量图标，每一步一个浅色圆角面板，面板之间用细灰色箭头连接。只用 3–4 种低饱和度颜色。每个面板里只画一个简洁的小场景，面板内不写任何文字；整张图唯一的文字就是给定的步骤名。用英文无衬线字体，每个步骤名只出现一次，拼写与给定完全一致。不要图例、不要说明文字、不要额外标签、不要 3D 渲染、阴影或装饰性背景。
-```
-
-</details>
-
-Model: Nano Banana 2 Lite (gemini-3.1-flash-lite-image, 1K) · Generated 2 times in total; shown are the outputs that passed review
-
-[↑ Back to top](#top)
-
-<sub><a href="https://yila.ai/?utm_source=github&utm_medium=readme&utm_campaign=sci-figure-prompts&utm_content=medical-imaging-ai">Try in Yila →</a></sub>
-
----
-
-<a id="no-179"></a>
-
-### No. 179: Machine learning modeling pipeline
-
-by [@Yila-AI](https://github.com/Yila-AI)
-
-Technique: **six steps with a dashed feedback loop** · Style: flat workflow · Aspect ratio: 16:9
-
-| English prompt | Chinese prompt |
-|---|---|
-| <img src="gallery/ai-computing/ml-pipeline-en.jpg" width="420"> | <img src="gallery/ai-computing/ml-pipeline-zh.jpg" width="420"> |
-
-**English prompt**
-
-```text
-Create a workflow figure for 【a machine learning project】, six steps from left to right, with one dashed arrow from the last step back to the first:
-1. 【Data collection: a database icon】
-2. 【Preprocessing: a broom cleaning a table】
-3. 【Feature engineering: puzzle pieces】
-4. 【Model training: a small neural network】
-5. 【Evaluation: a target with a check mark】
-6. 【Deployment: a cloud with an arrow】
-Step names, each used once, no other text: 【Data collection, Preprocessing, Feature engineering, Model training, Evaluation, Deployment】.
-
-Style: journal-style experimental workflow figure. Clean flat vector icons on a white background, one light pastel rounded panel per step, thin gray arrows between panels. Only 3-4 muted colors. Each panel shows one simple scene with no text inside it; the only text in the whole figure is the step names given. Sans-serif English, each step name appears exactly once, spelled exactly as given. No legends, no captions, no extra labels, no 3D rendering, no shadows, no decorative background.
-```
-
-<details><summary>Chinese prompt</summary>
-
-```text
-画一张【机器学习项目】的流程图，从左往右六步，最后一步用一条虚线箭头回到第一步：
-1. 【数据收集：数据库图标】
-2. 【数据预处理：扫帚清理表格】
-3. 【特征工程：拼图块】
-4. 【模型训练：一个小神经网络】
-5. 【模型评估：带对勾的靶心】
-6. 【部署：带箭头的云】
-步骤名（每个只出现一次，不加其他文字）：【Data collection, Preprocessing, Feature engineering, Model training, Evaluation, Deployment】。
-
-风格：期刊式实验流程图。白色背景上干净的扁平矢量图标，每一步一个浅色圆角面板，面板之间用细灰色箭头连接。只用 3–4 种低饱和度颜色。每个面板里只画一个简洁的小场景，面板内不写任何文字；整张图唯一的文字就是给定的步骤名。用英文无衬线字体，每个步骤名只出现一次，拼写与给定完全一致。不要图例、不要说明文字、不要额外标签、不要 3D 渲染、阴影或装饰性背景。
-```
-
-</details>
-
-Model: Nano Banana 2 Lite (gemini-3.1-flash-lite-image, 1K) · Generated 2 times in total; shown are the outputs that passed review
-
-[↑ Back to top](#top)
-
-<sub><a href="https://yila.ai/?utm_source=github&utm_medium=readme&utm_campaign=sci-figure-prompts&utm_content=ml-pipeline">Try in Yila →</a></sub>
-
----
-
-<a id="no-180"></a>
-
-### No. 180: Model evaluation workflow
-
-by [@Yila-AI](https://github.com/Yila-AI)
-
-Technique: **one panel per step, step names only** · Style: flat workflow · Aspect ratio: 16:9
-
-| English prompt | Chinese prompt |
-|---|---|
-| <img src="gallery/ai-computing/model-evaluation-workflow-en.jpg" width="420"> | <img src="gallery/ai-computing/model-evaluation-workflow-zh.jpg" width="420"> |
-
-**English prompt**
-
-```text
-Create a workflow figure for 【evaluating a machine learning model】, 6 steps from left to right:
-1. 【Held-out test set: a locked database】
-2. 【Prediction: a small neural network producing outputs】
-3. 【Metrics: a target with a check mark】
-4. 【Error analysis: a magnifier over a few wrong examples】
-5. 【Robustness check: a shield】
-6. 【Report: a document with a stamp】
-Do not write the numbered sentences in the figure.
-Step names, each used once, no other text: 【Test set, Prediction, Metrics, Error analysis, Robustness check, Report】.
-
-Style: journal-style experimental workflow figure. Clean flat vector icons on a white background, one light pastel rounded panel per step, thin gray arrows between panels. Only 3-4 muted colors. Each panel shows one simple scene with no text inside it; the only text in the whole figure is the step names given. Sans-serif English, each step name appears exactly once, spelled exactly as given. No legends, no captions, no extra labels, no 3D rendering, no shadows, no decorative background.
-```
-
-<details><summary>Chinese prompt</summary>
-
-```text
-画一张【评估机器学习模型】的流程图，从左往右六步：
-1. 【独立测试集：带锁的数据库】
-2. 【预测：一个小神经网络输出结果】
-3. 【评估指标：带对勾的靶心】
-4. 【误差分析：放大镜对着几个错例】
-5. 【鲁棒性检验：一面盾牌】
-6. 【报告：盖了章的文档】
-不要把编号句子写进图里。
-步骤名（每个只出现一次，不加其他文字）：【Test set, Prediction, Metrics, Error analysis, Robustness check, Report】。
-
-风格：期刊式实验流程图。白色背景上干净的扁平矢量图标，每一步一个浅色圆角面板，面板之间用细灰色箭头连接。只用 3–4 种低饱和度颜色。每个面板里只画一个简洁的小场景，面板内不写任何文字；整张图唯一的文字就是给定的步骤名。用英文无衬线字体，每个步骤名只出现一次，拼写与给定完全一致。不要图例、不要说明文字、不要额外标签、不要 3D 渲染、阴影或装饰性背景。
-```
-
-</details>
-
-Model: Nano Banana 2 Lite (gemini-3.1-flash-lite-image, 1K) · Generated 4 times in total; shown are the outputs that passed review
-
-[↑ Back to top](#top)
-
-<sub><a href="https://yila.ai/?utm_source=github&utm_medium=readme&utm_campaign=sci-figure-prompts&utm_content=model-evaluation-workflow">Try in Yila →</a></sub>
-
----
-
-<a id="no-181"></a>
-
-### No. 181: Multi-agent collaboration framework
-
-by [@Yila-AI](https://github.com/Yila-AI)
-
-Technique: **plan, divide, review** · Style: schematic diagram · Aspect ratio: 16:9
-
-| English prompt | Chinese prompt |
-|---|---|
-| <img src="gallery/ai-computing/multi-agent-collaboration-en.jpg" width="420"> | <img src="gallery/ai-computing/multi-agent-collaboration-zh.jpg" width="420"> |
-
-**English prompt**
-
-```text
-Create a schematic of 【a multi-agent system that completes a research task】, read from left to right, each agent a rounded box with a small robot icon. Draw each relationship exactly as listed and nothing more:
-1. 【A task → a planner agent.】
-2. 【The planner splits the work among three worker agents stacked vertically: searcher, coder and writer.】
-3. 【All three workers read from and write to one shared memory box below them (dashed arrows).】
-4. 【The three workers send their results to a reviewer agent.】
-5. 【The reviewer produces the final output.】
-Do not write the numbered sentences in the figure.
-Labels, each used once, no other text: 【Task, Planner, Searcher, Coder, Writer, Shared memory, Reviewer, Output】.
-
-Style: journal-style schematic diagram. Clean flat vector graphics on a white background. Modules are rounded rectangles or simple icons with their short names inside; light pastel panels group related layers. Only 3-4 muted colors, each with one fixed meaning. Thin, uniform arrows show the flow of data, energy, material or influence; dashed arrows for indirect or feedback links. Sans-serif English labels only, each label appears exactly once, spelled exactly as given. No 3D rendering, no shadows, no glow, no cyberpunk or tech-background decoration, no photorealism.
-```
-
-<details><summary>Chinese prompt</summary>
-
-```text
-画一张【完成科研任务的多智能体系统】示意图，从左往右读，每个智能体是一个带小机器人图标的圆角框。严格按下面列出的关系画，不多画：
-1. 【任务 → 规划智能体。】
-2. 【规划智能体把工作分给上下排列的三个执行智能体：检索、编程、写作。】
-3. 【三个执行智能体都与下方一个共享记忆框双向读写（虚线箭头）。】
-4. 【三个执行智能体把结果交给审核智能体。】
-5. 【审核智能体给出最终输出。】
-不要把编号句子写进图里。
-标签（每个只出现一次，不加其他文字）：【Task, Planner, Searcher, Coder, Writer, Shared memory, Reviewer, Output】。
-
-风格：期刊式示意框图。白色背景上干净的扁平矢量图形。模块画成圆角矩形或简洁图标，名称写在里面；用浅色面板把相关的层归在一起。只用 3–4 种低饱和度颜色，每种颜色含义固定。细而粗细一致的箭头表示数据、能量、物质或影响的流向，间接或反馈关系用虚线箭头。图中文字只用英文无衬线字体，每个标签只出现一次，拼写与给定完全一致。不要 3D 渲染、阴影、发光、赛博朋克或科技感背景装饰，不要照片质感。
-```
-
-</details>
-
-Model: Nano Banana 2 Lite (gemini-3.1-flash-lite-image, 1K) · Generated 4 times in total; shown are the outputs that passed review
-
-[↑ Back to top](#top)
-
-<sub><a href="https://yila.ai/?utm_source=github&utm_medium=readme&utm_campaign=sci-figure-prompts&utm_content=multi-agent-collaboration">Try in Yila →</a></sub>
-
----
-
-<a id="no-182"></a>
-
-### No. 182: Multimodal large language model architecture
-
-by [@Yila-AI](https://github.com/Yila-AI)
-
-Technique: **two input branches into one model** · Style: schematic diagram · Aspect ratio: 16:9
-
-| English prompt | Chinese prompt |
-|---|---|
-| <img src="gallery/ai-computing/multimodal-llm-en.jpg" width="420"> | <img src="gallery/ai-computing/multimodal-llm-zh.jpg" width="420"> |
-
-**English prompt**
-
-```text
-Create an architecture diagram of 【a multimodal large language model】, read from left to right. Draw each relationship exactly as listed and nothing more:
-1. 【Top branch: an image icon → vision encoder → projector.】
-2. 【Bottom branch: a text icon → tokenizer.】
-3. 【Both branches join into one large LLM block.】
-4. 【The LLM produces a response, shown as a speech bubble.】
-Labels, each used once, no other text: 【Image, Vision encoder, Projector, Text, Tokenizer, LLM, Response】.
-
-Style: journal-style schematic diagram. Clean flat vector graphics on a white background. Modules are rounded rectangles or simple icons with their short names inside; light pastel panels group related layers. Only 3-4 muted colors, each with one fixed meaning. Thin, uniform arrows show the flow of data, energy, material or influence; dashed arrows for indirect or feedback links. Sans-serif English labels only, each label appears exactly once, spelled exactly as given. No 3D rendering, no shadows, no glow, no cyberpunk or tech-background decoration, no photorealism.
-```
-
-<details><summary>Chinese prompt</summary>
-
-```text
-画一张【多模态大模型】的结构图，从左往右读。严格按下面列出的关系画，不多画：
-1. 【上路：图片图标 → 视觉编码器 → 投影层。】
-2. 【下路：文本图标 → 分词器。】
-3. 【两路汇入一个大的 LLM 模块。】
-4. 【LLM 生成回答，画成一个对话气泡。】
-标签（每个只出现一次，不加其他文字）：【Image, Vision encoder, Projector, Text, Tokenizer, LLM, Response】。
-
-风格：期刊式示意框图。白色背景上干净的扁平矢量图形。模块画成圆角矩形或简洁图标，名称写在里面；用浅色面板把相关的层归在一起。只用 3–4 种低饱和度颜色，每种颜色含义固定。细而粗细一致的箭头表示数据、能量、物质或影响的流向，间接或反馈关系用虚线箭头。图中文字只用英文无衬线字体，每个标签只出现一次，拼写与给定完全一致。不要 3D 渲染、阴影、发光、赛博朋克或科技感背景装饰，不要照片质感。
-```
-
-</details>
-
-Model: Nano Banana 2 Lite (gemini-3.1-flash-lite-image, 1K) · Generated 2 times in total; shown are the outputs that passed review
-
-[↑ Back to top](#top)
-
-<sub><a href="https://yila.ai/?utm_source=github&utm_medium=readme&utm_campaign=sci-figure-prompts&utm_content=multimodal-llm">Try in Yila →</a></sub>
-
----
-
-<a id="no-183"></a>
-
-### No. 183: Retrieval-augmented generation (RAG) pipeline
-
-by [@Yila-AI](https://github.com/Yila-AI)
-
-Technique: **numbered relationships + module diagram** · Style: schematic diagram · Aspect ratio: 16:9
-
-| English prompt |
-|---|
-| <img src="gallery/ai-computing/rag-pipeline-en.jpg" width="420"> |
-
-> The Chinese-prompt output did not pass review, so it is not shown.
-
-**English prompt**
-
-```text
-Create a schematic diagram of 【a retrieval-augmented generation (RAG) pipeline】, read from left to right. Draw each relationship exactly as listed and nothing more:
-1. 【A user query is turned into a vector by an embedding model.】
-2. 【The vector searches a vector database of document chunks.】
-3. 【The top matching chunks are returned as retrieved documents.】
-4. 【The query and the retrieved documents go into a large language model.】
-5. 【The language model writes the answer.】
-Above the main flow, a lighter panel shows 【documents being split into chunks and stored in the vector database】.
-Labels, each used once, no other text: 【Query, Embedding, Vector DB, Retrieved docs, LLM, Answer】.
-
-Style: journal-style schematic diagram. Clean flat vector graphics on a white background. Modules are rounded rectangles or simple icons with their short names inside; light pastel panels group related layers. Only 3-4 muted colors, each with one fixed meaning. Thin, uniform arrows show the flow of data, energy, material or influence; dashed arrows for indirect or feedback links. Sans-serif English labels only, each label appears exactly once, spelled exactly as given. No 3D rendering, no shadows, no glow, no cyberpunk or tech-background decoration, no photorealism.
-```
-
-<details><summary>Chinese prompt</summary>
-
-```text
-画一张【检索增强生成（RAG）流程】的示意框图，从左往右读。严格按下面列出的关系画，不多画：
-1. 【用户的问题经嵌入模型变成向量。】
-2. 【用这个向量在存放文档片段的向量数据库里检索。】
-3. 【返回最匹配的几个片段，作为检索到的文档。】
-4. 【问题和检索到的文档一起输入大语言模型。】
-5. 【大语言模型写出回答。】
-主流程上方用一个浅色面板展示【文档被切成片段并存入向量数据库】。
-标签（每个只出现一次，不加其他文字）：【Query, Embedding, Vector DB, Retrieved docs, LLM, Answer】。
-
-风格：期刊式示意框图。白色背景上干净的扁平矢量图形。模块画成圆角矩形或简洁图标，名称写在里面；用浅色面板把相关的层归在一起。只用 3–4 种低饱和度颜色，每种颜色含义固定。细而粗细一致的箭头表示数据、能量、物质或影响的流向，间接或反馈关系用虚线箭头。图中文字只用英文无衬线字体，每个标签只出现一次，拼写与给定完全一致。不要 3D 渲染、阴影、发光、赛博朋克或科技感背景装饰，不要照片质感。
-```
-
-</details>
-
-Model: Nano Banana 2 Lite (gemini-3.1-flash-lite-image, 1K) · Generated 3 times in total; shown are the outputs that passed review
-
-[↑ Back to top](#top)
-
-<sub><a href="https://yila.ai/?utm_source=github&utm_medium=readme&utm_campaign=sci-figure-prompts&utm_content=rag-pipeline">Try in Yila →</a></sub>
-
----
-
-<a id="no-184"></a>
-
-### No. 184: Recommender system: retrieval, ranking and feedback
-
-by [@Yila-AI](https://github.com/Yila-AI)
-
-Technique: **a funnel plus a feedback loop** · Style: schematic diagram · Aspect ratio: 16:9
-
-| English prompt | Chinese prompt |
-|---|---|
-| <img src="gallery/ai-computing/recommender-system-en.jpg" width="420"> | <img src="gallery/ai-computing/recommender-system-zh.jpg" width="420"> |
-
-**English prompt**
-
-```text
-Create a system diagram of 【a recommender system】, read from left to right. Draw each relationship exactly as listed and nothing more:
-1. 【User behavior (small click, view and cart icons) and the item catalog (a large grid of item cards) both feed into candidate generation.】
-2. 【Candidate generation is a funnel that narrows the whole catalog to a small set of candidates.】
-3. 【The candidates → a ranking model (a small network) → recommendations shown on a phone screen as a few item cards.】
-4. 【A dashed arrow runs from the phone back to user behavior, showing the user's new clicks as feedback.】
-There are no T-bars in this figure. Do not write the numbered sentences in the figure. Write each label only once in the whole figure.
-Labels, each used once, no other text: 【User behavior, Item catalog, Candidate generation, Ranking model, Recommendations, Feedback】.
-
-Style: journal-style schematic diagram. Clean flat vector graphics on a white background. Modules are rounded rectangles or simple icons with their short names inside; light pastel panels group related layers. Only 3-4 muted colors, each with one fixed meaning. Thin, uniform arrows show the flow of data, energy, material or influence; dashed arrows for indirect or feedback links. Sans-serif English labels only, each label appears exactly once, spelled exactly as given. No 3D rendering, no shadows, no glow, no cyberpunk or tech-background decoration, no photorealism.
-```
-
-<details><summary>Chinese prompt</summary>
-
-```text
-画一张【推荐系统】系统图，从左往右读。严格按下面列出的关系画，不多画：
-1. 【用户行为（小的点击、浏览、加购图标）和商品库（一大片商品卡片网格）都进入候选召回。】
-2. 【候选召回画成一个漏斗，把整个商品库收窄成一小批候选。】
-3. 【候选 → 排序模型（一个小网络）→ 推荐结果，显示在手机屏幕上的几张商品卡片。】
-4. 【一条虚线箭头从手机回到用户行为，表示用户新的点击作为反馈。】
-图中没有 T 形线。不要把编号句子写进图里。整张图里每个标签只写一次。
-标签（每个只出现一次，不加其他文字）：【User behavior, Item catalog, Candidate generation, Ranking model, Recommendations, Feedback】。
-
-风格：期刊式示意框图。白色背景上干净的扁平矢量图形。模块画成圆角矩形或简洁图标，名称写在里面；用浅色面板把相关的层归在一起。只用 3–4 种低饱和度颜色，每种颜色含义固定。细而粗细一致的箭头表示数据、能量、物质或影响的流向，间接或反馈关系用虚线箭头。图中文字只用英文无衬线字体，每个标签只出现一次，拼写与给定完全一致。不要 3D 渲染、阴影、发光、赛博朋克或科技感背景装饰，不要照片质感。
-```
-
-</details>
-
-Model: Nano Banana 2 Lite (gemini-3.1-flash-lite-image, 1K) · Generated 2 times in total; shown are the outputs that passed review
-
-[↑ Back to top](#top)
-
-<sub><a href="https://yila.ai/?utm_source=github&utm_medium=readme&utm_campaign=sci-figure-prompts&utm_content=recommender-system">Try in Yila →</a></sub>
-
----
-
-<a id="no-185"></a>
-
-### No. 185: Reinforcement learning: agent–environment loop
-
-by [@Yila-AI](https://github.com/Yila-AI)
-
-Technique: **a closed loop between two boxes** · Style: schematic diagram · Aspect ratio: 4:3
-
-| Chinese prompt |
-|---|
-| <img src="gallery/ai-computing/reinforcement-learning-loop-zh.jpg" width="420"> |
-
-**English prompt**
-
-```text
-Create a schematic of 【the reinforcement learning loop】: an agent box (a small robot icon) at the top and an environment box (a small maze) at the bottom, joined into one loop. Draw each relationship exactly as listed and nothing more:
-1. 【The agent sends an action down to the environment along the right side of the loop.】
-2. 【The environment sends the new state and a reward up to the agent along the left side of the loop.】
-3. 【Inside the agent, a small policy box chooses the action from the state.】
-4. 【A short dashed arrow from the reward to the policy shows the reward updating the policy.】
-There are no T-bars in this figure. Do not write the numbered sentences in the figure. Write each label only once in the whole figure.
-Labels, each used once, no other text: 【Agent, Environment, Action, State, Reward, Policy】.
-
-Style: journal-style schematic diagram. Clean flat vector graphics on a white background. Modules are rounded rectangles or simple icons with their short names inside; light pastel panels group related layers. Only 3-4 muted colors, each with one fixed meaning. Thin, uniform arrows show the flow of data, energy, material or influence; dashed arrows for indirect or feedback links. Sans-serif English labels only, each label appears exactly once, spelled exactly as given. No 3D rendering, no shadows, no glow, no cyberpunk or tech-background decoration, no photorealism.
-```
-
-<details><summary>Chinese prompt</summary>
-
-```text
-画一张【强化学习循环】示意图：上方是智能体框（小机器人图标），下方是环境框（一个小迷宫），两者连成一个闭环。严格按下面列出的关系画，不多画：
-1. 【智能体沿闭环右侧向下把动作发给环境。】
-2. 【环境沿闭环左侧向上把新状态和奖励发给智能体。】
-3. 【智能体内部有一个小策略框，根据状态选择动作。】
-4. 【一条短虚线箭头从奖励指向策略，表示奖励用于更新策略。】
-图中没有 T 形线。不要把编号句子写进图里。整张图里每个标签只写一次。
-标签（每个只出现一次，不加其他文字）：【Agent, Environment, Action, State, Reward, Policy】。
-
-风格：期刊式示意框图。白色背景上干净的扁平矢量图形。模块画成圆角矩形或简洁图标，名称写在里面；用浅色面板把相关的层归在一起。只用 3–4 种低饱和度颜色，每种颜色含义固定。细而粗细一致的箭头表示数据、能量、物质或影响的流向，间接或反馈关系用虚线箭头。图中文字只用英文无衬线字体，每个标签只出现一次，拼写与给定完全一致。不要 3D 渲染、阴影、发光、赛博朋克或科技感背景装饰，不要照片质感。
-```
-
-</details>
-
-Model: Nano Banana 2 Lite (gemini-3.1-flash-lite-image, 1K) · Generated 2 times in total; shown are the outputs that passed review
-
-[↑ Back to top](#top)
-
-<sub><a href="https://yila.ai/?utm_source=github&utm_medium=readme&utm_campaign=sci-figure-prompts&utm_content=reinforcement-learning-loop">Try in Yila →</a></sub>
-
----
-
-<a id="no-186"></a>
-
-### No. 186: Transfer learning
-
-by [@Yila-AI](https://github.com/Yila-AI)
-
-Technique: **pretraining then fine-tuning** · Style: schematic diagram · Aspect ratio: 16:9
-
-| Chinese prompt |
-|---|
-| <img src="gallery/ai-computing/transfer-learning-zh.jpg" width="420"> |
-
-**English prompt**
-
-```text
-Create a schematic of 【transfer learning】, read from left to right, in two light panels. Draw each relationship exactly as listed and nothing more:
-1. 【Left panel: a large source dataset (a big database icon) → a pretrained model (a network drawn in blue).】
-2. 【A thick arrow carries the pretrained layers from the left panel into the right panel.】
-3. 【Right panel: a small target dataset (a small database icon) → the same network, its early layers in blue marked frozen with a small lock, and its last layer in orange → target task (a check mark).】
-There are no T-bars in this figure. Do not write the numbered sentences in the figure. Write each label only once in the whole figure.
-Labels, each used once, no other text: 【Source dataset, Pretrained model, Target dataset, Frozen layers, Fine-tuned layer, Target task】.
-
-Style: journal-style schematic diagram. Clean flat vector graphics on a white background. Modules are rounded rectangles or simple icons with their short names inside; light pastel panels group related layers. Only 3-4 muted colors, each with one fixed meaning. Thin, uniform arrows show the flow of data, energy, material or influence; dashed arrows for indirect or feedback links. Sans-serif English labels only, each label appears exactly once, spelled exactly as given. No 3D rendering, no shadows, no glow, no cyberpunk or tech-background decoration, no photorealism.
-```
-
-<details><summary>Chinese prompt</summary>
-
-```text
-画一张【迁移学习】示意图，从左往右读，两个浅色面板。严格按下面列出的关系画，不多画：
-1. 【左面板：大型源数据集（大数据库图标）→ 预训练模型（画成蓝色的网络）。】
-2. 【一条粗箭头把预训练层从左面板带到右面板。】
-3. 【右面板：小型目标数据集（小数据库图标）→ 同一个网络，前面几层为蓝色并带小锁表示冻结，最后一层为橙色 → 目标任务（对勾）。】
-图中没有 T 形线。不要把编号句子写进图里。整张图里每个标签只写一次。
-标签（每个只出现一次，不加其他文字）：【Source dataset, Pretrained model, Target dataset, Frozen layers, Fine-tuned layer, Target task】。
-
-风格：期刊式示意框图。白色背景上干净的扁平矢量图形。模块画成圆角矩形或简洁图标，名称写在里面；用浅色面板把相关的层归在一起。只用 3–4 种低饱和度颜色，每种颜色含义固定。细而粗细一致的箭头表示数据、能量、物质或影响的流向，间接或反馈关系用虚线箭头。图中文字只用英文无衬线字体，每个标签只出现一次，拼写与给定完全一致。不要 3D 渲染、阴影、发光、赛博朋克或科技感背景装饰，不要照片质感。
-```
-
-</details>
-
-Model: Nano Banana 2 Lite (gemini-3.1-flash-lite-image, 1K) · Generated 4 times in total; shown are the outputs that passed review
-
-[↑ Back to top](#top)
-
-<sub><a href="https://yila.ai/?utm_source=github&utm_medium=readme&utm_campaign=sci-figure-prompts&utm_content=transfer-learning">Try in Yila →</a></sub>
-
----
-
-<a id="no-187"></a>
-
-### No. 187: Transformer architecture
-
-by [@Yila-AI](https://github.com/Yila-AI)
-
-Technique: **encoder and decoder side by side** · Style: schematic diagram · Aspect ratio: 4:3
-
-| English prompt | Chinese prompt |
-|---|---|
-| <img src="gallery/ai-computing/transformer-architecture-en.jpg" width="420"> | <img src="gallery/ai-computing/transformer-architecture-zh.jpg" width="420"> |
-
-**English prompt**
-
-```text
-Create an architecture diagram of 【the Transformer】, read from bottom to top. Draw each relationship exactly as listed and nothing more:
-1. 【Input tokens pass through input embedding plus positional encoding at the bottom left.】
-2. 【They enter the encoder: one light panel stacking multi-head attention and a feed-forward layer, marked ×N.】
-3. 【The decoder sits in a second panel on the right, stacking masked attention, cross-attention and a feed-forward layer, marked ×N.】
-4. 【An arrow carries the encoder output into the decoder's cross-attention.】
-5. 【The decoder output goes to a softmax box at the top right, giving output probabilities.】
-Labels, each used once, no other text: 【Input embedding, Positional encoding, Encoder, Decoder, Multi-head attention, Masked attention, Cross-attention, Feed-forward, Softmax】.
-
-Style: journal-style schematic diagram. Clean flat vector graphics on a white background. Modules are rounded rectangles or simple icons with their short names inside; light pastel panels group related layers. Only 3-4 muted colors, each with one fixed meaning. Thin, uniform arrows show the flow of data, energy, material or influence; dashed arrows for indirect or feedback links. Sans-serif English labels only, each label appears exactly once, spelled exactly as given. No 3D rendering, no shadows, no glow, no cyberpunk or tech-background decoration, no photorealism.
-```
-
-<details><summary>Chinese prompt</summary>
-
-```text
-画一张【Transformer】的结构图，从下往上读。严格按下面列出的关系画，不多画：
-1. 【输入词元在左下角经过输入嵌入加位置编码。】
-2. 【进入编码器：一个浅色面板，叠放多头注意力和前馈层，标注 ×N。】
-3. 【解码器在右侧第二个面板里，叠放掩码注意力、交叉注意力和前馈层，标注 ×N。】
-4. 【一条箭头把编码器输出送进解码器的交叉注意力。】
-5. 【解码器输出进入右上角的 softmax 框，得到输出概率。】
-标签（每个只出现一次，不加其他文字）：【Input embedding, Positional encoding, Encoder, Decoder, Multi-head attention, Masked attention, Cross-attention, Feed-forward, Softmax】。
-
-风格：期刊式示意框图。白色背景上干净的扁平矢量图形。模块画成圆角矩形或简洁图标，名称写在里面；用浅色面板把相关的层归在一起。只用 3–4 种低饱和度颜色，每种颜色含义固定。细而粗细一致的箭头表示数据、能量、物质或影响的流向，间接或反馈关系用虚线箭头。图中文字只用英文无衬线字体，每个标签只出现一次，拼写与给定完全一致。不要 3D 渲染、阴影、发光、赛博朋克或科技感背景装饰，不要照片质感。
-```
-
-</details>
-
-Model: Nano Banana 2 Lite (gemini-3.1-flash-lite-image, 1K) · Generated 2 times in total; shown are the outputs that passed review
-
-[↑ Back to top](#top)
-
-<sub><a href="https://yila.ai/?utm_source=github&utm_medium=readme&utm_campaign=sci-figure-prompts&utm_content=transformer-architecture">Try in Yila →</a></sub>
-
----
-
-<a id="no-188"></a>
-
-### No. 188: U-Net architecture
-
-by [@Yila-AI](https://github.com/Yila-AI)
-
-Technique: **U-shaped encoder–decoder with skip connections** · Style: schematic diagram · Aspect ratio: 16:9
-
-| English prompt |
-|---|
-| <img src="gallery/ai-computing/unet-architecture-en.jpg" width="420"> |
-
-> The Chinese-prompt output did not pass review, so it is not shown.
-
-**English prompt**
-
-```text
-Create an architecture diagram of 【U-Net】 shaped like a U: on the left, an encoder path of blocks getting smaller going down; at the bottom, a bottleneck block; on the right, a decoder path of blocks getting larger going up. Horizontal gray arrows (skip connections) link each encoder level to the decoder level at the same height. An input image enters at top left and a segmentation map exits at top right.
-Write each label only once in the whole figure.
-Labels, each used once, no other text: 【Input image, Encoder, Bottleneck, Decoder, Skip connections, Segmentation map】.
-
-Style: journal-style schematic diagram. Clean flat vector graphics on a white background. Modules are rounded rectangles or simple icons with their short names inside; light pastel panels group related layers. Only 3-4 muted colors, each with one fixed meaning. Thin, uniform arrows show the flow of data, energy, material or influence; dashed arrows for indirect or feedback links. Sans-serif English labels only, each label appears exactly once, spelled exactly as given. No 3D rendering, no shadows, no glow, no cyberpunk or tech-background decoration, no photorealism.
-```
-
-<details><summary>Chinese prompt</summary>
-
-```text
-画一张【U-Net】结构图，整体呈 U 形：左侧编码器路径的方块向下逐渐变小；底部一个瓶颈方块；右侧解码器路径的方块向上逐渐变大。横向的灰色箭头（跳跃连接）把编码器每一层连到同高度的解码器层。输入图像从左上进入，分割图从右上输出。
-整张图里每个标签只写一次。
-标签（每个只出现一次，不加其他文字）：【Input image, Encoder, Bottleneck, Decoder, Skip connections, Segmentation map】。
-
-风格：期刊式示意框图。白色背景上干净的扁平矢量图形。模块画成圆角矩形或简洁图标，名称写在里面；用浅色面板把相关的层归在一起。只用 3–4 种低饱和度颜色，每种颜色含义固定。细而粗细一致的箭头表示数据、能量、物质或影响的流向，间接或反馈关系用虚线箭头。图中文字只用英文无衬线字体，每个标签只出现一次，拼写与给定完全一致。不要 3D 渲染、阴影、发光、赛博朋克或科技感背景装饰，不要照片质感。
-```
-
-</details>
-
-Model: Nano Banana 2 Lite (gemini-3.1-flash-lite-image, 1K) · Generated 4 times in total; shown are the outputs that passed review
-
-[↑ Back to top](#top)
-
-<sub><a href="https://yila.ai/?utm_source=github&utm_medium=readme&utm_campaign=sci-figure-prompts&utm_content=unet-architecture">Try in Yila →</a></sub>
-
----
-
-<a id="no-189"></a>
-
-### No. 189: Variational autoencoder (VAE)
-
-by [@Yila-AI](https://github.com/Yila-AI)
-
-Technique: **an hourglass of encoding, sampling and decoding** · Style: schematic diagram · Aspect ratio: 16:9
-
-| English prompt | Chinese prompt |
-|---|---|
-| <img src="gallery/ai-computing/vae-autoencoder-en.jpg" width="420"> | <img src="gallery/ai-computing/vae-autoencoder-zh.jpg" width="420"> |
-
-**English prompt**
-
-```text
-Create an architecture diagram of 【a variational autoencoder】, read from left to right, shaped like an hourglass:
-1. 【An input image (a simple shoe icon) → an encoder drawn as a trapezoid that narrows to the right.】
-2. 【The encoder outputs two small boxes stacked vertically: mean and variance.】
-3. 【Both feed a sampling step (a small dice icon) that draws one latent vector z, drawn as a short column of circles.】
-4. 【z → a decoder drawn as a trapezoid that widens to the right → a reconstructed image (the same shoe icon, slightly blurrier).】
-Write each label only once in the whole figure.
-If a component appears in more than one place or panel, write its label only at its first appearance; every other copy has no text. No label may appear twice anywhere in the figure. Spell every label exactly as given and add no titles.
-Labels, each used once, no other text: 【Input, Encoder, Mean, Variance, Sampling, Latent z, Decoder, Reconstruction】.
-
-Style: journal-style schematic diagram. Clean flat vector graphics on a white background. Modules are rounded rectangles or simple icons with their short names inside; light pastel panels group related layers. Only 3-4 muted colors, each with one fixed meaning. Thin, uniform arrows show the flow of data, energy, material or influence; dashed arrows for indirect or feedback links. Sans-serif English labels only, each label appears exactly once, spelled exactly as given. No 3D rendering, no shadows, no glow, no cyberpunk or tech-background decoration, no photorealism.
-```
-
-<details><summary>Chinese prompt</summary>
-
-```text
-画一张【变分自编码器】的结构图，从左往右读，整体像沙漏：
-1. 【输入图像（一个简单的鞋子图标）→ 编码器，画成向右收窄的梯形。】
-2. 【编码器输出上下两个小框：均值和方差。】
-3. 【两者都进入采样步骤（小骰子图标），抽出一个潜变量 z，画成一小列圆圈。】
-4. 【z → 解码器，画成向右变宽的梯形 → 重建图像（同样的鞋子图标，稍微模糊一点）。】
-整张图里每个标签只写一次。
-如果同一组件在多处或多个面板出现，只在第一次出现时写标签，其余副本不写字。整张图里任何标签都不能出现两次。每个标签拼写与给定完全一致，不加标题。
-标签（每个只出现一次，不加其他文字）：【Input, Encoder, Mean, Variance, Sampling, Latent z, Decoder, Reconstruction】。
-
-风格：期刊式示意框图。白色背景上干净的扁平矢量图形。模块画成圆角矩形或简洁图标，名称写在里面；用浅色面板把相关的层归在一起。只用 3–4 种低饱和度颜色，每种颜色含义固定。细而粗细一致的箭头表示数据、能量、物质或影响的流向，间接或反馈关系用虚线箭头。图中文字只用英文无衬线字体，每个标签只出现一次，拼写与给定完全一致。不要 3D 渲染、阴影、发光、赛博朋克或科技感背景装饰，不要照片质感。
-```
-
-</details>
-
-Model: Nano Banana 2 Lite (gemini-3.1-flash-lite-image, 1K) · Generated 6 times in total; shown are the outputs that passed review
-
-[↑ Back to top](#top)
-
-<sub><a href="https://yila.ai/?utm_source=github&utm_medium=readme&utm_campaign=sci-figure-prompts&utm_content=vae-autoencoder">Try in Yila →</a></sub>
-
----
-
-<a id="no-190"></a>
-
-### No. 190: Vision Transformer (ViT) architecture
-
-by [@Yila-AI](https://github.com/Yila-AI)
-
-Technique: **image patches turned into a token sequence** · Style: schematic diagram · Aspect ratio: 16:9
-
-| English prompt |
-|---|
-| <img src="gallery/ai-computing/vision-transformer-vit-en.jpg" width="420"> |
-
-> The Chinese-prompt output did not pass review, so it is not shown.
-
-**English prompt**
-
-```text
-Create an architecture diagram of 【a Vision Transformer】, read from left to right:
-1. 【An input image (a small landscape photo icon) cut by thin lines into a grid of square patches.】
-2. 【The patches laid out in one row of small squares.】
-3. 【Each square passes through one shared linear projection box and becomes a colored token bar; one extra gray token bar sits at the front of the row, and small position marks are added to every bar.】
-4. 【The token row enters one tall block for the Transformer encoder, drawn with a faint shadow of stacked copies behind it; the copies have no labels.】
-5. 【Only the gray front token continues to a small MLP head box, which points to one output box for the class.】
-Write each label only once in the whole figure.
-If a component appears in more than one place or panel, write its label only at its first appearance; every other copy has no text. No label may appear twice anywhere in the figure. Spell every label exactly as given and add no titles.
-Labels, each used once, no other text: 【Input image, Patches, Linear projection, Class token, Position embedding, Transformer encoder, MLP head, Class】.
-
-Style: journal-style schematic diagram. Clean flat vector graphics on a white background. Modules are rounded rectangles or simple icons with their short names inside; light pastel panels group related layers. Only 3-4 muted colors, each with one fixed meaning. Thin, uniform arrows show the flow of data, energy, material or influence; dashed arrows for indirect or feedback links. Sans-serif English labels only, each label appears exactly once, spelled exactly as given. No 3D rendering, no shadows, no glow, no cyberpunk or tech-background decoration, no photorealism.
-```
-
-<details><summary>Chinese prompt</summary>
-
-```text
-画一张【视觉 Transformer】的结构图，从左往右读：
-1. 【一张输入图像（小风景照图标），用细线切成方形小块的网格。】
-2. 【这些小块排成一行小方块。】
-3. 【每个方块经过同一个线性投影框，变成一根彩色词元条；这一行最前面多一根灰色词元条，每根条上都加一个小的位置标记。】
-4. 【整行词元进入一个代表 Transformer 编码器的高方块，方块后面淡淡画出几层叠放的副本，副本不标注。】
-5. 【只有最前面的灰色词元继续进入一个小的 MLP 头框，再指向一个代表类别的输出框。】
-整张图里每个标签只写一次。
-如果同一组件在多处或多个面板出现，只在第一次出现时写标签，其余副本不写字。整张图里任何标签都不能出现两次。每个标签拼写与给定完全一致，不加标题。
-标签（每个只出现一次，不加其他文字）：【Input image, Patches, Linear projection, Class token, Position embedding, Transformer encoder, MLP head, Class】。
-
-风格：期刊式示意框图。白色背景上干净的扁平矢量图形。模块画成圆角矩形或简洁图标，名称写在里面；用浅色面板把相关的层归在一起。只用 3–4 种低饱和度颜色，每种颜色含义固定。细而粗细一致的箭头表示数据、能量、物质或影响的流向，间接或反馈关系用虚线箭头。图中文字只用英文无衬线字体，每个标签只出现一次，拼写与给定完全一致。不要 3D 渲染、阴影、发光、赛博朋克或科技感背景装饰，不要照片质感。
-```
-
-</details>
-
-Model: Nano Banana 2 Lite (gemini-3.1-flash-lite-image, 1K) · Generated 6 times in total; shown are the outputs that passed review
-
-[↑ Back to top](#top)
-
-<sub><a href="https://yila.ai/?utm_source=github&utm_medium=readme&utm_campaign=sci-figure-prompts&utm_content=vision-transformer-vit">Try in Yila →</a></sub>
+**[👉 Try it now in YILA →](https://yila.ai/scientific-figure-prompts/gnn-message-passing?utm_source=github&utm_medium=readme&utm_campaign=sci-figure-prompts&utm_content=gnn-message-passing)** · [↑ Back to top](#top)
 
 ---
 
 <a id="engineering-systems"></a>
 
-## Engineering Systems
+### ⚙️ Engineering Systems
 
 <a id="no-191"></a>
 
-### No. 191: Autonomous driving perception to control
+#### No. 191: Autonomous driving perception to control
 
-by [@Yila-AI](https://github.com/Yila-AI)
+![Model](https://img.shields.io/badge/Model-GPT%20Image%202.6-10a37f) ![Category](https://img.shields.io/badge/Engineering%20Systems-blue)
 
-Technique: **three sensors feeding one pipeline** · Style: schematic diagram · Aspect ratio: 16:9
+##### 📖 Description
 
-| English prompt | Chinese prompt |
-|---|---|
-| <img src="gallery/engineering-systems/autonomous-driving-stack-en.jpg" width="420"> | <img src="gallery/engineering-systems/autonomous-driving-stack-zh.jpg" width="420"> |
+Technique: **three sensors feeding one pipeline** · Style: schematic diagram · Aspect Ratio: `16:9`
 
-**English prompt**
+##### 📝 Prompt
 
 ```text
 Create a system diagram of 【an autonomous driving software stack】, read from left to right. Draw each relationship exactly as listed and nothing more:
@@ -9753,29 +4069,34 @@ Style: journal-style schematic diagram. Clean flat vector graphics on a white ba
 
 </details>
 
-Model: Nano Banana 2 Lite (gemini-3.1-flash-lite-image, 1K) · Generated 2 times in total; shown are the outputs that passed review
+##### 🖼️ Generated Image
 
-[↑ Back to top](#top)
+<div align="center">
+<a href="https://yila.ai/scientific-figure-prompts/autonomous-driving-stack?utm_source=github&utm_medium=readme&utm_campaign=sci-figure-prompts&utm_content=autonomous-driving-stack"><img src="gallery/engineering-systems/autonomous-driving-stack-en.jpg" width="600" alt="Autonomous driving perception to control"></a>
+</div>
 
-<sub><a href="https://yila.ai/?utm_source=github&utm_medium=readme&utm_campaign=sci-figure-prompts&utm_content=autonomous-driving-stack">Try in Yila →</a></sub>
+##### 📌 Details
+
+- **Author:** [@Yila-AI](https://github.com/Yila-AI)
+- **Model:** GPT Image 2.6
+- **Aspect Ratio:** 16:9
+- **Languages:** en, zh
+
+**[👉 Try it now in YILA →](https://yila.ai/scientific-figure-prompts/autonomous-driving-stack?utm_source=github&utm_medium=readme&utm_campaign=sci-figure-prompts&utm_content=autonomous-driving-stack)** · [↑ Back to top](#top)
 
 ---
 
 <a id="no-192"></a>
 
-### No. 192: Bridge structural health monitoring
+#### No. 192: Bridge structural health monitoring
 
-by [@Yila-AI](https://github.com/Yila-AI)
+![Model](https://img.shields.io/badge/Model-GPT%20Image%202.6-10a37f) ![Category](https://img.shields.io/badge/Engineering%20Systems-blue)
 
-Technique: **sensors on the bridge, data to a monitoring center** · Style: scientific illustration · Aspect ratio: 16:9
+##### 📖 Description
 
-| English prompt |
-|---|
-| <img src="gallery/engineering-systems/bridge-health-monitoring-en.jpg" width="420"> |
+Technique: **sensors on the bridge, data to a monitoring center** · Style: scientific illustration · Aspect Ratio: `16:9`
 
-> The Chinese-prompt output did not pass review, so it is not shown.
-
-**English prompt**
+##### 📝 Prompt
 
 ```text
 Create a scientific illustration of 【structural health monitoring of a cable-stayed bridge】:
@@ -9807,29 +4128,34 @@ Style: journal-style scientific illustration. Clean semi-realistic vector illust
 
 </details>
 
-Model: Nano Banana 2 Lite (gemini-3.1-flash-lite-image, 1K) · Generated 6 times in total; shown are the outputs that passed review
+##### 🖼️ Generated Image
 
-[↑ Back to top](#top)
+<div align="center">
+<a href="https://yila.ai/scientific-figure-prompts/bridge-health-monitoring?utm_source=github&utm_medium=readme&utm_campaign=sci-figure-prompts&utm_content=bridge-health-monitoring"><img src="gallery/engineering-systems/bridge-health-monitoring-en.jpg" width="600" alt="Bridge structural health monitoring"></a>
+</div>
 
-<sub><a href="https://yila.ai/?utm_source=github&utm_medium=readme&utm_campaign=sci-figure-prompts&utm_content=bridge-health-monitoring">Try in Yila →</a></sub>
+##### 📌 Details
+
+- **Author:** [@Yila-AI](https://github.com/Yila-AI)
+- **Model:** GPT Image 2.6
+- **Aspect Ratio:** 16:9
+- **Languages:** en, zh
+
+**[👉 Try it now in YILA →](https://yila.ai/scientific-figure-prompts/bridge-health-monitoring?utm_source=github&utm_medium=readme&utm_campaign=sci-figure-prompts&utm_content=bridge-health-monitoring)** · [↑ Back to top](#top)
 
 ---
 
 <a id="no-193"></a>
 
-### No. 193: Electric vehicle powertrain
+#### No. 193: Electric vehicle powertrain
 
-by [@Yila-AI](https://github.com/Yila-AI)
+![Model](https://img.shields.io/badge/Model-GPT%20Image%202.6-10a37f) ![Category](https://img.shields.io/badge/Engineering%20Systems-blue)
 
-Technique: **energy flow inside a top-view car outline** · Style: schematic diagram · Aspect ratio: 16:9
+##### 📖 Description
 
-| English prompt |
-|---|
-| <img src="gallery/engineering-systems/ev-powertrain-en.jpg" width="420"> |
+Technique: **energy flow inside a top-view car outline** · Style: schematic diagram · Aspect Ratio: `16:9`
 
-> The Chinese-prompt output did not pass review, so it is not shown.
-
-**English prompt**
+##### 📝 Prompt
 
 ```text
 Create a system diagram of 【a battery electric vehicle powertrain】 drawn inside a light top-view outline of a car, read from left to right. Draw each relationship exactly as listed and nothing more:
@@ -9861,27 +4187,34 @@ Style: journal-style schematic diagram. Clean flat vector graphics on a white ba
 
 </details>
 
-Model: Nano Banana 2 Lite (gemini-3.1-flash-lite-image, 1K) · Generated 6 times in total; shown are the outputs that passed review
+##### 🖼️ Generated Image
 
-[↑ Back to top](#top)
+<div align="center">
+<a href="https://yila.ai/scientific-figure-prompts/ev-powertrain?utm_source=github&utm_medium=readme&utm_campaign=sci-figure-prompts&utm_content=ev-powertrain"><img src="gallery/engineering-systems/ev-powertrain-en.jpg" width="600" alt="Electric vehicle powertrain"></a>
+</div>
 
-<sub><a href="https://yila.ai/?utm_source=github&utm_medium=readme&utm_campaign=sci-figure-prompts&utm_content=ev-powertrain">Try in Yila →</a></sub>
+##### 📌 Details
+
+- **Author:** [@Yila-AI](https://github.com/Yila-AI)
+- **Model:** GPT Image 2.6
+- **Aspect Ratio:** 16:9
+- **Languages:** en, zh
+
+**[👉 Try it now in YILA →](https://yila.ai/scientific-figure-prompts/ev-powertrain?utm_source=github&utm_medium=readme&utm_campaign=sci-figure-prompts&utm_content=ev-powertrain)** · [↑ Back to top](#top)
 
 ---
 
 <a id="no-194"></a>
 
-### No. 194: Integrated energy system
+#### No. 194: Integrated energy system
 
-by [@Yila-AI](https://github.com/Yila-AI)
+![Model](https://img.shields.io/badge/Model-GPT%20Image%202.6-10a37f) ![Category](https://img.shields.io/badge/Engineering%20Systems-blue)
 
-Technique: **source–conversion–storage–use layers** · Style: schematic diagram · Aspect ratio: 16:9
+##### 📖 Description
 
-| English prompt | Chinese prompt |
-|---|---|
-| <img src="gallery/engineering-systems/integrated-energy-system-en.jpg" width="420"> | <img src="gallery/engineering-systems/integrated-energy-system-zh.jpg" width="420"> |
+Technique: **source–conversion–storage–use layers** · Style: schematic diagram · Aspect Ratio: `16:9`
 
-**English prompt**
+##### 📝 Prompt
 
 ```text
 Create a schematic diagram of 【an integrated energy system】 in four columns from left to right: 【sources (solar panels, a wind turbine, the power grid) → conversion (an inverter and a heat pump) → storage (a battery bank and a hot-water tank) → loads (an office building and an electric vehicle)】. Orange arrows carry electricity and red arrows carry heat.
@@ -9901,27 +4234,34 @@ Style: journal-style schematic diagram. Clean flat vector graphics on a white ba
 
 </details>
 
-Model: Nano Banana 2 Lite (gemini-3.1-flash-lite-image, 1K) · Generated 2 times in total; shown are the outputs that passed review
+##### 🖼️ Generated Image
 
-[↑ Back to top](#top)
+<div align="center">
+<a href="https://yila.ai/scientific-figure-prompts/integrated-energy-system?utm_source=github&utm_medium=readme&utm_campaign=sci-figure-prompts&utm_content=integrated-energy-system"><img src="gallery/engineering-systems/integrated-energy-system-en.jpg" width="600" alt="Integrated energy system"></a>
+</div>
 
-<sub><a href="https://yila.ai/?utm_source=github&utm_medium=readme&utm_campaign=sci-figure-prompts&utm_content=integrated-energy-system">Try in Yila →</a></sub>
+##### 📌 Details
+
+- **Author:** [@Yila-AI](https://github.com/Yila-AI)
+- **Model:** GPT Image 2.6
+- **Aspect Ratio:** 16:9
+- **Languages:** en, zh
+
+**[👉 Try it now in YILA →](https://yila.ai/scientific-figure-prompts/integrated-energy-system?utm_source=github&utm_medium=readme&utm_campaign=sci-figure-prompts&utm_content=integrated-energy-system)** · [↑ Back to top](#top)
 
 ---
 
 <a id="no-195"></a>
 
-### No. 195: IoT monitoring architecture
+#### No. 195: IoT monitoring architecture
 
-by [@Yila-AI](https://github.com/Yila-AI)
+![Model](https://img.shields.io/badge/Model-GPT%20Image%202.6-10a37f) ![Category](https://img.shields.io/badge/Engineering%20Systems-blue)
 
-Technique: **layered architecture + feedback loop** · Style: schematic diagram · Aspect ratio: 16:9
+##### 📖 Description
 
-| English prompt | Chinese prompt |
-|---|---|
-| <img src="gallery/engineering-systems/iot-monitoring-en.jpg" width="420"> | <img src="gallery/engineering-systems/iot-monitoring-zh.jpg" width="420"> |
+Technique: **layered architecture + feedback loop** · Style: schematic diagram · Aspect Ratio: `16:9`
 
-**English prompt**
+##### 📝 Prompt
 
 ```text
 Create a layered architecture diagram of 【an IoT environmental monitoring system】, from left to right in five layers, each in its own light pastel panel: 【field sensors (temperature, humidity, water quality icons) → an edge gateway → a cloud server → an analytics model → a dashboard on a screen】. A dashed feedback arrow returns 【from the dashboard to a valve actuator next to the sensors】.
@@ -9941,27 +4281,34 @@ Style: journal-style schematic diagram. Clean flat vector graphics on a white ba
 
 </details>
 
-Model: Nano Banana 2 Lite (gemini-3.1-flash-lite-image, 1K) · Generated 2 times in total; shown are the outputs that passed review
+##### 🖼️ Generated Image
 
-[↑ Back to top](#top)
+<div align="center">
+<a href="https://yila.ai/scientific-figure-prompts/iot-monitoring?utm_source=github&utm_medium=readme&utm_campaign=sci-figure-prompts&utm_content=iot-monitoring"><img src="gallery/engineering-systems/iot-monitoring-en.jpg" width="600" alt="IoT monitoring architecture"></a>
+</div>
 
-<sub><a href="https://yila.ai/?utm_source=github&utm_medium=readme&utm_campaign=sci-figure-prompts&utm_content=iot-monitoring">Try in Yila →</a></sub>
+##### 📌 Details
+
+- **Author:** [@Yila-AI](https://github.com/Yila-AI)
+- **Model:** GPT Image 2.6
+- **Aspect Ratio:** 16:9
+- **Languages:** en, zh
+
+**[👉 Try it now in YILA →](https://yila.ai/scientific-figure-prompts/iot-monitoring?utm_source=github&utm_medium=readme&utm_campaign=sci-figure-prompts&utm_content=iot-monitoring)** · [↑ Back to top](#top)
 
 ---
 
 <a id="no-196"></a>
 
-### No. 196: Microgrid
+#### No. 196: Microgrid
 
-by [@Yila-AI](https://github.com/Yila-AI)
+![Model](https://img.shields.io/badge/Model-GPT%20Image%202.6-10a37f) ![Category](https://img.shields.io/badge/Engineering%20Systems-blue)
 
-Technique: **one bus linking sources, storage and loads** · Style: schematic diagram · Aspect ratio: 16:9
+##### 📖 Description
 
-| English prompt | Chinese prompt |
-|---|---|
-| <img src="gallery/engineering-systems/microgrid-en.jpg" width="420"> | <img src="gallery/engineering-systems/microgrid-zh.jpg" width="420"> |
+Technique: **one bus linking sources, storage and loads** · Style: schematic diagram · Aspect Ratio: `16:9`
 
-**English prompt**
+##### 📝 Prompt
 
 ```text
 Create a system diagram of 【a microgrid】: one horizontal power bus in the middle. Above it, solar panels and a wind turbine feed in. Below it, a battery (two-way arrow) and a backup generator connect. On the right, houses draw power. A controller box is linked to every unit by dashed control lines. On the far left, a switch connects the bus to the main grid.
@@ -9983,27 +4330,34 @@ Style: journal-style schematic diagram. Clean flat vector graphics on a white ba
 
 </details>
 
-Model: Nano Banana 2 Lite (gemini-3.1-flash-lite-image, 1K) · Generated 2 times in total; shown are the outputs that passed review
+##### 🖼️ Generated Image
 
-[↑ Back to top](#top)
+<div align="center">
+<a href="https://yila.ai/scientific-figure-prompts/microgrid?utm_source=github&utm_medium=readme&utm_campaign=sci-figure-prompts&utm_content=microgrid"><img src="gallery/engineering-systems/microgrid-en.jpg" width="600" alt="Microgrid"></a>
+</div>
 
-<sub><a href="https://yila.ai/?utm_source=github&utm_medium=readme&utm_campaign=sci-figure-prompts&utm_content=microgrid">Try in Yila →</a></sub>
+##### 📌 Details
+
+- **Author:** [@Yila-AI](https://github.com/Yila-AI)
+- **Model:** GPT Image 2.6
+- **Aspect Ratio:** 16:9
+- **Languages:** en, zh
+
+**[👉 Try it now in YILA →](https://yila.ai/scientific-figure-prompts/microgrid?utm_source=github&utm_medium=readme&utm_campaign=sci-figure-prompts&utm_content=microgrid)** · [↑ Back to top](#top)
 
 ---
 
 <a id="no-197"></a>
 
-### No. 197: PID closed-loop control
+#### No. 197: PID closed-loop control
 
-by [@Yila-AI](https://github.com/Yila-AI)
+![Model](https://img.shields.io/badge/Model-GPT%20Image%202.6-10a37f) ![Category](https://img.shields.io/badge/Engineering%20Systems-blue)
 
-Technique: **forward path plus feedback loop** · Style: schematic diagram · Aspect ratio: 16:9
+##### 📖 Description
 
-| English prompt | Chinese prompt |
-|---|---|
-| <img src="gallery/engineering-systems/pid-control-loop-en.jpg" width="420"> | <img src="gallery/engineering-systems/pid-control-loop-zh.jpg" width="420"> |
+Technique: **forward path plus feedback loop** · Style: schematic diagram · Aspect Ratio: `16:9`
 
-**English prompt**
+##### 📝 Prompt
 
 ```text
 Create a block diagram of 【a PID closed-loop control system】, read from left to right. Draw each relationship exactly as listed and nothing more:
@@ -10033,29 +4387,34 @@ Style: journal-style schematic diagram. Clean flat vector graphics on a white ba
 
 </details>
 
-Model: Nano Banana 2 Lite (gemini-3.1-flash-lite-image, 1K) · Generated 3 times in total; shown are the outputs that passed review
+##### 🖼️ Generated Image
 
-[↑ Back to top](#top)
+<div align="center">
+<a href="https://yila.ai/scientific-figure-prompts/pid-control-loop?utm_source=github&utm_medium=readme&utm_campaign=sci-figure-prompts&utm_content=pid-control-loop"><img src="gallery/engineering-systems/pid-control-loop-en.jpg" width="600" alt="PID closed-loop control"></a>
+</div>
 
-<sub><a href="https://yila.ai/?utm_source=github&utm_medium=readme&utm_campaign=sci-figure-prompts&utm_content=pid-control-loop">Try in Yila →</a></sub>
+##### 📌 Details
+
+- **Author:** [@Yila-AI](https://github.com/Yila-AI)
+- **Model:** GPT Image 2.6
+- **Aspect Ratio:** 16:9
+- **Languages:** en, zh
+
+**[👉 Try it now in YILA →](https://yila.ai/scientific-figure-prompts/pid-control-loop?utm_source=github&utm_medium=readme&utm_campaign=sci-figure-prompts&utm_content=pid-control-loop)** · [↑ Back to top](#top)
 
 ---
 
 <a id="no-198"></a>
 
-### No. 198: Robotic arm system
+#### No. 198: Robotic arm system
 
-by [@Yila-AI](https://github.com/Yila-AI)
+![Model](https://img.shields.io/badge/Model-GPT%20Image%202.6-10a37f) ![Category](https://img.shields.io/badge/Engineering%20Systems-blue)
 
-Technique: **a closed loop of vision, controller and joints** · Style: scientific illustration · Aspect ratio: 16:9
+##### 📖 Description
 
-| English prompt |
-|---|
-| <img src="gallery/engineering-systems/robotic-arm-system-en.jpg" width="420"> |
+Technique: **a closed loop of vision, controller and joints** · Style: scientific illustration · Aspect Ratio: `16:9`
 
-> The Chinese-prompt output did not pass review, so it is not shown.
-
-**English prompt**
+##### 📝 Prompt
 
 ```text
 Create an illustration of 【an industrial robotic arm system picking parts】:
@@ -10089,189 +4448,38 @@ Style: journal-style scientific illustration. Clean semi-realistic vector illust
 
 </details>
 
-Model: Nano Banana 2 Lite (gemini-3.1-flash-lite-image, 1K) · Generated 6 times in total; shown are the outputs that passed review
+##### 🖼️ Generated Image
 
-[↑ Back to top](#top)
+<div align="center">
+<a href="https://yila.ai/scientific-figure-prompts/robotic-arm-system?utm_source=github&utm_medium=readme&utm_campaign=sci-figure-prompts&utm_content=robotic-arm-system"><img src="gallery/engineering-systems/robotic-arm-system-en.jpg" width="600" alt="Robotic arm system"></a>
+</div>
 
-<sub><a href="https://yila.ai/?utm_source=github&utm_medium=readme&utm_campaign=sci-figure-prompts&utm_content=robotic-arm-system">Try in Yila →</a></sub>
+##### 📌 Details
 
----
+- **Author:** [@Yila-AI](https://github.com/Yila-AI)
+- **Model:** GPT Image 2.6
+- **Aspect Ratio:** 16:9
+- **Languages:** en, zh
 
-<a id="no-199"></a>
-
-### No. 199: Smart grid
-
-by [@Yila-AI](https://github.com/Yila-AI)
-
-Technique: **a power layer and a data layer** · Style: schematic diagram · Aspect ratio: 16:9
-
-| English prompt |
-|---|
-| <img src="gallery/engineering-systems/smart-grid-en.jpg" width="420"> |
-
-> The Chinese-prompt output did not pass review, so it is not shown.
-
-**English prompt**
-
-```text
-Create a system diagram of 【a smart grid】, read from left to right: power flows along solid lines and data along dashed lines. Draw each relationship exactly as listed and nothing more:
-1. 【A power plant and renewables (a wind farm and a solar farm) on the left send power along high-voltage transmission lines to a substation.】
-2. 【The substation distributes power to the right side: homes with smart meters, EV charging stations and energy storage.】
-3. 【Rooftop solar on the homes and the energy storage can send power back into the network (two-way solid arrows).】
-4. 【A control center at the top is linked to every part by two-way dashed lines: meter data goes up, control signals come down.】
-There are no T-bars in this figure. Do not write the numbered sentences in the figure. Write each label only once in the whole figure.
-Labels, each used once, no other text: 【Power plant, Renewables, Transmission, Substation, Smart meters, EV charging, Energy storage, Control center】.
-
-Style: journal-style schematic diagram. Clean flat vector graphics on a white background. Modules are rounded rectangles or simple icons with their short names inside; light pastel panels group related layers. Only 3-4 muted colors, each with one fixed meaning. Thin, uniform arrows show the flow of data, energy, material or influence; dashed arrows for indirect or feedback links. Sans-serif English labels only, each label appears exactly once, spelled exactly as given. No 3D rendering, no shadows, no glow, no cyberpunk or tech-background decoration, no photorealism.
-```
-
-<details><summary>Chinese prompt</summary>
-
-```text
-画一张【智能电网】系统图，从左往右读：电力沿实线流动，数据沿虚线流动。严格按下面列出的关系画，不多画：
-1. 【左侧的发电厂和可再生能源（风电场和光伏电站）通过高压输电线把电送到变电站。】
-2. 【变电站把电分配到右侧：装有智能电表的住宅、电动汽车充电站和储能。】
-3. 【住宅屋顶光伏和储能可以把电送回电网（双向实线箭头）。】
-4. 【顶部的控制中心用双向虚线连到每个部分：电表数据向上传，控制信号向下发。】
-图中没有 T 形线。不要把编号句子写进图里。整张图里每个标签只写一次。
-标签（每个只出现一次，不加其他文字）：【Power plant, Renewables, Transmission, Substation, Smart meters, EV charging, Energy storage, Control center】。
-
-风格：期刊式示意框图。白色背景上干净的扁平矢量图形。模块画成圆角矩形或简洁图标，名称写在里面；用浅色面板把相关的层归在一起。只用 3–4 种低饱和度颜色，每种颜色含义固定。细而粗细一致的箭头表示数据、能量、物质或影响的流向，间接或反馈关系用虚线箭头。图中文字只用英文无衬线字体，每个标签只出现一次，拼写与给定完全一致。不要 3D 渲染、阴影、发光、赛博朋克或科技感背景装饰，不要照片质感。
-```
-
-</details>
-
-Model: Nano Banana 2 Lite (gemini-3.1-flash-lite-image, 1K) · Generated 2 times in total; shown are the outputs that passed review
-
-[↑ Back to top](#top)
-
-<sub><a href="https://yila.ai/?utm_source=github&utm_medium=readme&utm_campaign=sci-figure-prompts&utm_content=smart-grid">Try in Yila →</a></sub>
-
----
-
-<a id="no-200"></a>
-
-### No. 200: Wind turbine nacelle cutaway
-
-by [@Yila-AI](https://github.com/Yila-AI)
-
-Technique: **the whole turbine plus a nacelle cutaway** · Style: scientific illustration · Aspect ratio: 16:9
-
-| Chinese prompt |
-|---|
-| <img src="gallery/engineering-systems/wind-turbine-nacelle-zh.jpg" width="420"> |
-
-**English prompt**
-
-```text
-Create a cutaway illustration of 【a horizontal-axis wind turbine】:
-1. Left: 【the whole turbine standing in a green field: a tall tower, the nacelle on top and three blades】.
-2. Right: 【an enlarged cutaway of the nacelle; from front to back: the hub holding the blades, the slow main shaft, the gearbox, a fast shaft and the generator】. Rotation passes from the hub through the main shaft and gearbox to the generator.
-3. 【A yaw drive under the nacelle turns it to face the wind; an anemometer sits on the roof at the back.】
-Label only one blade.
-Write each label only once in the whole figure.
-Labels, each used once, no other text: 【Blade, Tower, Hub, Main shaft, Gearbox, Generator, Yaw drive, Anemometer】.
-
-Style: journal-style scientific illustration. Clean semi-realistic vector illustration with gentle shading, using cross-sections or cutaways where they explain the structure, on a white background. Muted, harmonious palette with one accent color for the key process. Thin directional arrows for flows. Generous white space and a clear reading direction. Sans-serif English labels only, each label appears exactly once, spelled exactly as given. No cartoon style, no glossy CGI, no dark background, no stock-photo look, no decorative background.
-```
-
-<details><summary>Chinese prompt</summary>
-
-```text
-画一张【水平轴风力发电机】的剖面插画：
-1. 左：【整台风机立在绿色田野上：高塔筒、顶部的机舱和三片叶片】。
-2. 右：【机舱的放大剖面；从前往后依次是：固定叶片的轮毂、低速主轴、齿轮箱、高速轴和发电机】。转动从轮毂经主轴和齿轮箱传到发电机。
-3. 【机舱下方的偏航驱动让机舱转向迎风；机舱顶部后方装着风速计。】
-只标注一片叶片。
-整张图里每个标签只写一次。
-标签（每个只出现一次，不加其他文字）：【Blade, Tower, Hub, Main shaft, Gearbox, Generator, Yaw drive, Anemometer】。
-
-风格：期刊式科学插画。干净的半写实矢量插画，带柔和的明暗；需要说明结构时使用剖面或剖切视图，白色背景。配色低饱和、协调，只用一个强调色突出关键过程。用细的方向箭头表示流动。留白充足，阅读方向清晰。图中文字只用英文无衬线字体，每个标签只出现一次，拼写与给定完全一致。不要卡通风格、不要光滑的 CG 渲染、不要深色背景、不要图库照片感、不要装饰性背景。
-```
-
-</details>
-
-Model: Nano Banana 2 Lite (gemini-3.1-flash-lite-image, 1K) · Generated 2 times in total; shown are the outputs that passed review
-
-[↑ Back to top](#top)
-
-<sub><a href="https://yila.ai/?utm_source=github&utm_medium=readme&utm_campaign=sci-figure-prompts&utm_content=wind-turbine-nacelle">Try in Yila →</a></sub>
-
----
-
-<a id="no-201"></a>
-
-### No. 201: Wireless sensor network
-
-by [@Yila-AI](https://github.com/Yila-AI)
-
-Technique: **clustered multi-hop to a sink** · Style: schematic diagram · Aspect ratio: 16:9
-
-| Chinese prompt |
-|---|
-| <img src="gallery/engineering-systems/wireless-sensor-network-zh.jpg" width="420"> |
-
-**English prompt**
-
-```text
-Create a schematic of 【a wireless sensor network monitoring a forest】:
-1. 【A light green field on the left scattered with many small sensor nodes (small circles with antennas), grouped into three clusters.】
-2. 【Inside each cluster, nodes send data to one larger cluster head along short dotted wireless links.】
-3. 【The cluster heads relay data hop by hop toward a sink node at the edge of the field.】
-4. 【The sink node sends data through the internet (a globe icon) to a cloud server and on to a user with a laptop on the right.】
-Label only one sensor node and one cluster head.
-Write each label only once in the whole figure.
-If a component appears in more than one place or panel, write its label only at its first appearance; every other copy has no text. No label may appear twice anywhere in the figure. Spell every label exactly as given and add no titles.
-Labels, each used once, no other text: 【Sensor node, Cluster head, Multi-hop link, Sink node, Internet, Cloud server, User】.
-
-Style: journal-style schematic diagram. Clean flat vector graphics on a white background. Modules are rounded rectangles or simple icons with their short names inside; light pastel panels group related layers. Only 3-4 muted colors, each with one fixed meaning. Thin, uniform arrows show the flow of data, energy, material or influence; dashed arrows for indirect or feedback links. Sans-serif English labels only, each label appears exactly once, spelled exactly as given. No 3D rendering, no shadows, no glow, no cyberpunk or tech-background decoration, no photorealism.
-```
-
-<details><summary>Chinese prompt</summary>
-
-```text
-画一张【监测森林的无线传感器网络】示意图：
-1. 【左侧一片浅绿色区域，散布许多小传感器节点（带天线的小圆），分成三簇。】
-2. 【每簇内，节点沿短的点状无线链路把数据发给一个较大的簇头。】
-3. 【各簇头逐跳把数据转发到区域边缘的汇聚节点。】
-4. 【汇聚节点通过互联网（地球图标）把数据发到云服务器，再传给右侧拿笔记本电脑的用户。】
-传感器节点和簇头各只标注一个。
-整张图里每个标签只写一次。
-如果同一组件在多处或多个面板出现，只在第一次出现时写标签，其余副本不写字。整张图里任何标签都不能出现两次。每个标签拼写与给定完全一致，不加标题。
-标签（每个只出现一次，不加其他文字）：【Sensor node, Cluster head, Multi-hop link, Sink node, Internet, Cloud server, User】。
-
-风格：期刊式示意框图。白色背景上干净的扁平矢量图形。模块画成圆角矩形或简洁图标，名称写在里面；用浅色面板把相关的层归在一起。只用 3–4 种低饱和度颜色，每种颜色含义固定。细而粗细一致的箭头表示数据、能量、物质或影响的流向，间接或反馈关系用虚线箭头。图中文字只用英文无衬线字体，每个标签只出现一次，拼写与给定完全一致。不要 3D 渲染、阴影、发光、赛博朋克或科技感背景装饰，不要照片质感。
-```
-
-</details>
-
-Model: Nano Banana 2 Lite (gemini-3.1-flash-lite-image, 1K) · Generated 6 times in total; shown are the outputs that passed review
-
-[↑ Back to top](#top)
-
-<sub><a href="https://yila.ai/?utm_source=github&utm_medium=readme&utm_campaign=sci-figure-prompts&utm_content=wireless-sensor-network">Try in Yila →</a></sub>
+**[👉 Try it now in YILA →](https://yila.ai/scientific-figure-prompts/robotic-arm-system?utm_source=github&utm_medium=readme&utm_campaign=sci-figure-prompts&utm_content=robotic-arm-system)** · [↑ Back to top](#top)
 
 ---
 
 <a id="chemistry-instruments"></a>
 
-## Chemistry & Instruments
+### ⚗️ Chemistry & Instruments
 
 <a id="no-202"></a>
 
-### No. 202: Continuous flow chemistry setup
+#### No. 202: Continuous flow chemistry setup
 
-by [@Yila-AI](https://github.com/Yila-AI)
+![Model](https://img.shields.io/badge/Model-GPT%20Image%202.6-10a37f) ![Category](https://img.shields.io/badge/Chemistry%20%26%20Instruments-blue)
 
-Technique: **pumps, mixer, coil reactor, in-line analysis** · Style: scientific illustration · Aspect ratio: 16:9
+##### 📖 Description
 
-| English prompt |
-|---|
-| <img src="gallery/chemistry-instruments/continuous-flow-chemistry-en.jpg" width="420"> |
+Technique: **pumps, mixer, coil reactor, in-line analysis** · Style: scientific illustration · Aspect Ratio: `16:9`
 
-> The Chinese-prompt output did not pass review, so it is not shown.
-
-**English prompt**
+##### 📝 Prompt
 
 ```text
 Create a scientific illustration of 【a continuous flow chemistry setup】, read from left to right, with liquid moving through thin tubing in that direction:
@@ -10305,29 +4513,34 @@ Style: journal-style scientific illustration. Clean semi-realistic vector illust
 
 </details>
 
-Model: Nano Banana 2 Lite (gemini-3.1-flash-lite-image, 1K) · Generated 2 times in total; shown are the outputs that passed review
+##### 🖼️ Generated Image
 
-[↑ Back to top](#top)
+<div align="center">
+<a href="https://yila.ai/scientific-figure-prompts/continuous-flow-chemistry?utm_source=github&utm_medium=readme&utm_campaign=sci-figure-prompts&utm_content=continuous-flow-chemistry"><img src="gallery/chemistry-instruments/continuous-flow-chemistry-en.jpg" width="600" alt="Continuous flow chemistry setup"></a>
+</div>
 
-<sub><a href="https://yila.ai/?utm_source=github&utm_medium=readme&utm_campaign=sci-figure-prompts&utm_content=continuous-flow-chemistry">Try in Yila →</a></sub>
+##### 📌 Details
+
+- **Author:** [@Yila-AI](https://github.com/Yila-AI)
+- **Model:** GPT Image 2.6
+- **Aspect Ratio:** 16:9
+- **Languages:** en, zh
+
+**[👉 Try it now in YILA →](https://yila.ai/scientific-figure-prompts/continuous-flow-chemistry?utm_source=github&utm_medium=readme&utm_campaign=sci-figure-prompts&utm_content=continuous-flow-chemistry)** · [↑ Back to top](#top)
 
 ---
 
 <a id="no-203"></a>
 
-### No. 203: Cross-coupling catalytic cycle (Suzuki)
+#### No. 203: Cross-coupling catalytic cycle (Suzuki)
 
-by [@Yila-AI](https://github.com/Yila-AI)
+![Model](https://img.shields.io/badge/Model-GPT%20Image%202.6-10a37f) ![Category](https://img.shields.io/badge/Chemistry%20%26%20Instruments-blue)
 
-Technique: **three-step circular cycle** · Style: schematic diagram · Aspect ratio: 1:1
+##### 📖 Description
 
-| English prompt |
-|---|
-| <img src="gallery/chemistry-instruments/cross-coupling-cycle-en.jpg" width="420"> |
+Technique: **three-step circular cycle** · Style: schematic diagram · Aspect Ratio: `1:1`
 
-> The Chinese-prompt output did not pass review, so it is not shown.
-
-**English prompt**
+##### 📝 Prompt
 
 ```text
 Create a catalytic cycle diagram of 【a palladium-catalyzed Suzuki cross-coupling】: Pd(0) at the top of a circle, with three steps placed clockwise around it. Draw molecules as short text formulas only, with no chemical structures. Draw each relationship exactly as listed and nothing more:
@@ -10355,27 +4568,34 @@ Style: journal-style schematic diagram. Clean flat vector graphics on a white ba
 
 </details>
 
-Model: Nano Banana 2 Lite (gemini-3.1-flash-lite-image, 1K) · Generated 4 times in total; shown are the outputs that passed review
+##### 🖼️ Generated Image
 
-[↑ Back to top](#top)
+<div align="center">
+<a href="https://yila.ai/scientific-figure-prompts/cross-coupling-cycle?utm_source=github&utm_medium=readme&utm_campaign=sci-figure-prompts&utm_content=cross-coupling-cycle"><img src="gallery/chemistry-instruments/cross-coupling-cycle-en.jpg" width="600" alt="Cross-coupling catalytic cycle (Suzuki)"></a>
+</div>
 
-<sub><a href="https://yila.ai/?utm_source=github&utm_medium=readme&utm_campaign=sci-figure-prompts&utm_content=cross-coupling-cycle">Try in Yila →</a></sub>
+##### 📌 Details
+
+- **Author:** [@Yila-AI](https://github.com/Yila-AI)
+- **Model:** GPT Image 2.6
+- **Aspect Ratio:** 1:1
+- **Languages:** en, zh
+
+**[👉 Try it now in YILA →](https://yila.ai/scientific-figure-prompts/cross-coupling-cycle?utm_source=github&utm_medium=readme&utm_campaign=sci-figure-prompts&utm_content=cross-coupling-cycle)** · [↑ Back to top](#top)
 
 ---
 
 <a id="no-204"></a>
 
-### No. 204: Enzyme catalysis and induced fit
+#### No. 204: Enzyme catalysis and induced fit
 
-by [@Yila-AI](https://github.com/Yila-AI)
+![Model](https://img.shields.io/badge/Model-GPT%20Image%202.6-10a37f) ![Category](https://img.shields.io/badge/Chemistry%20%26%20Instruments-blue)
 
-Technique: **three panels: binding, fitting, release** · Style: soft semi-realistic illustration · Aspect ratio: 16:9
+##### 📖 Description
 
-| English prompt | Chinese prompt |
-|---|---|
-| <img src="gallery/chemistry-instruments/enzyme-induced-fit-en.jpg" width="420"> | <img src="gallery/chemistry-instruments/enzyme-induced-fit-zh.jpg" width="420"> |
+Technique: **three panels: binding, fitting, release** · Style: soft semi-realistic illustration · Aspect Ratio: `16:9`
 
-**English prompt**
+##### 📝 Prompt
 
 ```text
 Create an illustration of 【enzyme catalysis by induced fit】, read from left to right in three panels:
@@ -10405,27 +4625,34 @@ Style: journal graphical-abstract illustration. Soft semi-realistic medical illu
 
 </details>
 
-Model: Nano Banana 2 Lite (gemini-3.1-flash-lite-image, 1K) · Generated 2 times in total; shown are the outputs that passed review
+##### 🖼️ Generated Image
 
-[↑ Back to top](#top)
+<div align="center">
+<a href="https://yila.ai/scientific-figure-prompts/enzyme-induced-fit?utm_source=github&utm_medium=readme&utm_campaign=sci-figure-prompts&utm_content=enzyme-induced-fit"><img src="gallery/chemistry-instruments/enzyme-induced-fit-en.jpg" width="600" alt="Enzyme catalysis and induced fit"></a>
+</div>
 
-<sub><a href="https://yila.ai/?utm_source=github&utm_medium=readme&utm_campaign=sci-figure-prompts&utm_content=enzyme-induced-fit">Try in Yila →</a></sub>
+##### 📌 Details
+
+- **Author:** [@Yila-AI](https://github.com/Yila-AI)
+- **Model:** GPT Image 2.6
+- **Aspect Ratio:** 16:9
+- **Languages:** en, zh
+
+**[👉 Try it now in YILA →](https://yila.ai/scientific-figure-prompts/enzyme-induced-fit?utm_source=github&utm_medium=readme&utm_campaign=sci-figure-prompts&utm_content=enzyme-induced-fit)** · [↑ Back to top](#top)
 
 ---
 
 <a id="no-205"></a>
 
-### No. 205: Fluorescent probe sensing mechanism
+#### No. 205: Fluorescent probe sensing mechanism
 
-by [@Yila-AI](https://github.com/Yila-AI)
+![Model](https://img.shields.io/badge/Model-GPT%20Image%202.6-10a37f) ![Category](https://img.shields.io/badge/Chemistry%20%26%20Instruments-blue)
 
-Technique: **off, recognition, on in three stages** · Style: scientific illustration · Aspect ratio: 16:9
+##### 📖 Description
 
-| English prompt | Chinese prompt |
-|---|---|
-| <img src="gallery/chemistry-instruments/fluorescent-probe-en.jpg" width="420"> | <img src="gallery/chemistry-instruments/fluorescent-probe-zh.jpg" width="420"> |
+Technique: **off, recognition, on in three stages** · Style: scientific illustration · Aspect Ratio: `16:9`
 
-**English prompt**
+##### 📝 Prompt
 
 ```text
 Create a scientific illustration of 【a turn-on fluorescent probe】, read from left to right. Draw molecules as simple geometric shapes, with no chemical structures:
@@ -10453,27 +4680,34 @@ Style: journal-style scientific illustration. Clean semi-realistic vector illust
 
 </details>
 
-Model: Nano Banana 2 Lite (gemini-3.1-flash-lite-image, 1K) · Generated 4 times in total; shown are the outputs that passed review
+##### 🖼️ Generated Image
 
-[↑ Back to top](#top)
+<div align="center">
+<a href="https://yila.ai/scientific-figure-prompts/fluorescent-probe?utm_source=github&utm_medium=readme&utm_campaign=sci-figure-prompts&utm_content=fluorescent-probe"><img src="gallery/chemistry-instruments/fluorescent-probe-en.jpg" width="600" alt="Fluorescent probe sensing mechanism"></a>
+</div>
 
-<sub><a href="https://yila.ai/?utm_source=github&utm_medium=readme&utm_campaign=sci-figure-prompts&utm_content=fluorescent-probe">Try in Yila →</a></sub>
+##### 📌 Details
+
+- **Author:** [@Yila-AI](https://github.com/Yila-AI)
+- **Model:** GPT Image 2.6
+- **Aspect Ratio:** 16:9
+- **Languages:** en, zh
+
+**[👉 Try it now in YILA →](https://yila.ai/scientific-figure-prompts/fluorescent-probe?utm_source=github&utm_medium=readme&utm_campaign=sci-figure-prompts&utm_content=fluorescent-probe)** · [↑ Back to top](#top)
 
 ---
 
 <a id="no-206"></a>
 
-### No. 206: HPLC system
+#### No. 206: HPLC system
 
-by [@Yila-AI](https://github.com/Yila-AI)
+![Model](https://img.shields.io/badge/Model-GPT%20Image%202.6-10a37f) ![Category](https://img.shields.io/badge/Chemistry%20%26%20Instruments-blue)
 
-Technique: **flow path + magnified detail** · Style: scientific illustration · Aspect ratio: 16:9
+##### 📖 Description
 
-| English prompt | Chinese prompt |
-|---|---|
-| <img src="gallery/chemistry-instruments/hplc-system-en.jpg" width="420"> | <img src="gallery/chemistry-instruments/hplc-system-zh.jpg" width="420"> |
+Technique: **flow path + magnified detail** · Style: scientific illustration · Aspect Ratio: `16:9`
 
-**English prompt**
+##### 📝 Prompt
 
 ```text
 Create an instrument illustration of 【a high-performance liquid chromatography (HPLC) system】, from left to right connected by thin tubing: 【solvent bottles, a pump, an autosampler injector, a column, a UV detector, and a computer showing a chromatogram with a few peaks】. A circular magnified inset on the column shows 【molecules of different colors separating as they pass through packed beads】.
@@ -10493,27 +4727,34 @@ Style: journal-style scientific illustration. Clean semi-realistic vector illust
 
 </details>
 
-Model: Nano Banana 2 Lite (gemini-3.1-flash-lite-image, 1K) · Generated 3 times in total; shown are the outputs that passed review
+##### 🖼️ Generated Image
 
-[↑ Back to top](#top)
+<div align="center">
+<a href="https://yila.ai/scientific-figure-prompts/hplc-system?utm_source=github&utm_medium=readme&utm_campaign=sci-figure-prompts&utm_content=hplc-system"><img src="gallery/chemistry-instruments/hplc-system-en.jpg" width="600" alt="HPLC system"></a>
+</div>
 
-<sub><a href="https://yila.ai/?utm_source=github&utm_medium=readme&utm_campaign=sci-figure-prompts&utm_content=hplc-system">Try in Yila →</a></sub>
+##### 📌 Details
+
+- **Author:** [@Yila-AI](https://github.com/Yila-AI)
+- **Model:** GPT Image 2.6
+- **Aspect Ratio:** 16:9
+- **Languages:** en, zh
+
+**[👉 Try it now in YILA →](https://yila.ai/scientific-figure-prompts/hplc-system?utm_source=github&utm_medium=readme&utm_campaign=sci-figure-prompts&utm_content=hplc-system)** · [↑ Back to top](#top)
 
 ---
 
 <a id="no-207"></a>
 
-### No. 207: Triple quadrupole mass spectrometer
+#### No. 207: Triple quadrupole mass spectrometer
 
-by [@Yila-AI](https://github.com/Yila-AI)
+![Model](https://img.shields.io/badge/Model-GPT%20Image%202.6-10a37f) ![Category](https://img.shields.io/badge/Chemistry%20%26%20Instruments-blue)
 
-Technique: **technical cutaway + path arrows** · Style: scientific illustration · Aspect ratio: 16:9
+##### 📖 Description
 
-| Chinese prompt |
-|---|
-| <img src="gallery/chemistry-instruments/mass-spectrometer-zh.jpg" width="420"> |
+Technique: **technical cutaway + path arrows** · Style: scientific illustration · Aspect Ratio: `16:9`
 
-**English prompt**
+##### 📝 Prompt
 
 ```text
 Create a technical cutaway illustration of 【a triple quadrupole mass spectrometer】, from left to right: 【an electrospray ion source spraying a fine plume, a first quadrupole of four parallel rods, a collision cell where ions break into fragments, a second quadrupole, and a detector】. A thin colored line traces 【the ion path from the source to the detector】; shading shows 【vacuum increasing from left to right】.
@@ -10533,27 +4774,34 @@ Style: journal-style scientific illustration. Clean semi-realistic vector illust
 
 </details>
 
-Model: Nano Banana 2 Lite (gemini-3.1-flash-lite-image, 1K) · Generated 3 times in total; shown are the outputs that passed review
+##### 🖼️ Generated Image
 
-[↑ Back to top](#top)
+<div align="center">
+<a href="https://yila.ai/scientific-figure-prompts/mass-spectrometer?utm_source=github&utm_medium=readme&utm_campaign=sci-figure-prompts&utm_content=mass-spectrometer"><img src="gallery/chemistry-instruments/mass-spectrometer-zh.jpg" width="600" alt="Triple quadrupole mass spectrometer"></a>
+</div>
 
-<sub><a href="https://yila.ai/?utm_source=github&utm_medium=readme&utm_campaign=sci-figure-prompts&utm_content=mass-spectrometer">Try in Yila →</a></sub>
+##### 📌 Details
+
+- **Author:** [@Yila-AI](https://github.com/Yila-AI)
+- **Model:** GPT Image 2.6
+- **Aspect Ratio:** 16:9
+- **Languages:** en, zh
+
+**[👉 Try it now in YILA →](https://yila.ai/scientific-figure-prompts/mass-spectrometer?utm_source=github&utm_medium=readme&utm_campaign=sci-figure-prompts&utm_content=mass-spectrometer)** · [↑ Back to top](#top)
 
 ---
 
 <a id="no-208"></a>
 
-### No. 208: NMR principle
+#### No. 208: NMR principle
 
-by [@Yila-AI](https://github.com/Yila-AI)
+![Model](https://img.shields.io/badge/Model-GPT%20Image%202.6-10a37f) ![Category](https://img.shields.io/badge/Chemistry%20%26%20Instruments-blue)
 
-Technique: **principle sketch plus an instrument cutaway** · Style: scientific illustration · Aspect ratio: 16:9
+##### 📖 Description
 
-| English prompt | Chinese prompt |
-|---|---|
-| <img src="gallery/chemistry-instruments/nmr-principle-en.jpg" width="420"> | <img src="gallery/chemistry-instruments/nmr-principle-zh.jpg" width="420"> |
+Technique: **principle sketch plus an instrument cutaway** · Style: scientific illustration · Aspect Ratio: `16:9`
 
-**English prompt**
+##### 📝 Prompt
 
 ```text
 Create a scientific illustration of 【the principle of NMR spectroscopy】 in two parts, with no spectrum and no numbers:
@@ -10581,29 +4829,34 @@ Style: journal-style scientific illustration. Clean semi-realistic vector illust
 
 </details>
 
-Model: Nano Banana 2 Lite (gemini-3.1-flash-lite-image, 1K) · Generated 6 times in total; shown are the outputs that passed review
+##### 🖼️ Generated Image
 
-[↑ Back to top](#top)
+<div align="center">
+<a href="https://yila.ai/scientific-figure-prompts/nmr-principle?utm_source=github&utm_medium=readme&utm_campaign=sci-figure-prompts&utm_content=nmr-principle"><img src="gallery/chemistry-instruments/nmr-principle-en.jpg" width="600" alt="NMR principle"></a>
+</div>
 
-<sub><a href="https://yila.ai/?utm_source=github&utm_medium=readme&utm_campaign=sci-figure-prompts&utm_content=nmr-principle">Try in Yila →</a></sub>
+##### 📌 Details
+
+- **Author:** [@Yila-AI](https://github.com/Yila-AI)
+- **Model:** GPT Image 2.6
+- **Aspect Ratio:** 16:9
+- **Languages:** en, zh
+
+**[👉 Try it now in YILA →](https://yila.ai/scientific-figure-prompts/nmr-principle?utm_source=github&utm_medium=readme&utm_campaign=sci-figure-prompts&utm_content=nmr-principle)** · [↑ Back to top](#top)
 
 ---
 
 <a id="no-209"></a>
 
-### No. 209: Three-electrode electrochemical cell
+#### No. 209: Three-electrode electrochemical cell
 
-by [@Yila-AI](https://github.com/Yila-AI)
+![Model](https://img.shields.io/badge/Model-GPT%20Image%202.6-10a37f) ![Category](https://img.shields.io/badge/Chemistry%20%26%20Instruments-blue)
 
-Technique: **setup cross-section with wiring** · Style: scientific illustration · Aspect ratio: 4:3
+##### 📖 Description
 
-| English prompt |
-|---|
-| <img src="gallery/chemistry-instruments/three-electrode-cell-en.jpg" width="420"> |
+Technique: **setup cross-section with wiring** · Style: scientific illustration · Aspect Ratio: `4:3`
 
-> The Chinese-prompt output did not pass review, so it is not shown.
-
-**English prompt**
+##### 📝 Prompt
 
 ```text
 Create a scientific illustration of 【a three-electrode electrochemical cell】: a glass beaker of electrolyte with three electrodes dipping in: a flat working electrode in the middle, a reference electrode with a glass body on the left, and a coiled platinum wire counter electrode on the right. Three wires run up to a potentiostat box above.
@@ -10625,89 +4878,38 @@ Style: journal-style scientific illustration. Clean semi-realistic vector illust
 
 </details>
 
-Model: Nano Banana 2 Lite (gemini-3.1-flash-lite-image, 1K) · Generated 4 times in total; shown are the outputs that passed review
+##### 🖼️ Generated Image
 
-[↑ Back to top](#top)
+<div align="center">
+<a href="https://yila.ai/scientific-figure-prompts/three-electrode-cell?utm_source=github&utm_medium=readme&utm_campaign=sci-figure-prompts&utm_content=three-electrode-cell"><img src="gallery/chemistry-instruments/three-electrode-cell-en.jpg" width="600" alt="Three-electrode electrochemical cell"></a>
+</div>
 
-<sub><a href="https://yila.ai/?utm_source=github&utm_medium=readme&utm_campaign=sci-figure-prompts&utm_content=three-electrode-cell">Try in Yila →</a></sub>
+##### 📌 Details
 
----
+- **Author:** [@Yila-AI](https://github.com/Yila-AI)
+- **Model:** GPT Image 2.6
+- **Aspect Ratio:** 4:3
+- **Languages:** en, zh
 
-<a id="no-210"></a>
-
-### No. 210: UV-Vis spectrophotometer principle
-
-by [@Yila-AI](https://github.com/Yila-AI)
-
-Technique: **a left-to-right light path** · Style: scientific illustration · Aspect ratio: 16:9
-
-| English prompt | Chinese prompt |
-|---|---|
-| <img src="gallery/chemistry-instruments/uv-vis-spectroscopy-en.jpg" width="420"> | <img src="gallery/chemistry-instruments/uv-vis-spectroscopy-zh.jpg" width="420"> |
-
-**English prompt**
-
-```text
-Create a scientific illustration of 【the light path in a UV-Vis spectrophotometer】, read from left to right, with no spectrum and no numbers:
-1. 【A lamp emits a beam of white light.】
-2. 【A diffraction grating spreads the light into a rainbow fan.】
-3. 【A narrow slit lets only one color through.】
-4. 【That single-color beam passes through a cuvette of colored sample solution; the beam is thick before the cuvette and visibly thinner after it, because the solution absorbs part of the light.】
-5. 【The weaker beam reaches a detector.】
-Mark the beam entering the cuvette I0 and the beam leaving it I.
-Write each label only once in the whole figure.
-If a component appears in more than one place or panel, write its label only at its first appearance; every other copy has no text. No label may appear twice anywhere in the figure. Spell every label exactly as given and add no titles.
-Labels, each used once, no other text: 【Light source, Grating, Slit, Cuvette, Detector, I0, I】.
-
-Style: journal-style scientific illustration. Clean semi-realistic vector illustration with gentle shading, using cross-sections or cutaways where they explain the structure, on a white background. Muted, harmonious palette with one accent color for the key process. Thin directional arrows for flows. Generous white space and a clear reading direction. Sans-serif English labels only, each label appears exactly once, spelled exactly as given. No cartoon style, no glossy CGI, no dark background, no stock-photo look, no decorative background.
-```
-
-<details><summary>Chinese prompt</summary>
-
-```text
-画一张【紫外-可见分光光度计光路】的科学插画，从左往右读，不画光谱，不写数字：
-1. 【灯发出一束白光。】
-2. 【衍射光栅把光展开成彩虹色的扇形。】
-3. 【一条窄缝只让一种颜色的光通过。】
-4. 【这束单色光穿过装有彩色样品溶液的比色皿；光束在比色皿前较粗、穿过后明显变细，因为溶液吸收了部分光。】
-5. 【变弱的光束到达检测器。】
-进入比色皿的光束标 I0，离开的光束标 I。
-整张图里每个标签只写一次。
-如果同一组件在多处或多个面板出现，只在第一次出现时写标签，其余副本不写字。整张图里任何标签都不能出现两次。每个标签拼写与给定完全一致，不加标题。
-标签（每个只出现一次，不加其他文字）：【Light source, Grating, Slit, Cuvette, Detector, I0, I】。
-
-风格：期刊式科学插画。干净的半写实矢量插画，带柔和的明暗；需要说明结构时使用剖面或剖切视图，白色背景。配色低饱和、协调，只用一个强调色突出关键过程。用细的方向箭头表示流动。留白充足，阅读方向清晰。图中文字只用英文无衬线字体，每个标签只出现一次，拼写与给定完全一致。不要卡通风格、不要光滑的 CG 渲染、不要深色背景、不要图库照片感、不要装饰性背景。
-```
-
-</details>
-
-Model: Nano Banana 2 Lite (gemini-3.1-flash-lite-image, 1K) · Generated 6 times in total; shown are the outputs that passed review
-
-[↑ Back to top](#top)
-
-<sub><a href="https://yila.ai/?utm_source=github&utm_medium=readme&utm_campaign=sci-figure-prompts&utm_content=uv-vis-spectroscopy">Try in Yila →</a></sub>
+**[👉 Try it now in YILA →](https://yila.ai/scientific-figure-prompts/three-electrode-cell?utm_source=github&utm_medium=readme&utm_campaign=sci-figure-prompts&utm_content=three-electrode-cell)** · [↑ Back to top](#top)
 
 ---
 
 <a id="plant-agriculture"></a>
 
-## Plant & Agriculture
+### 🌱 Plant & Agriculture
 
 <a id="no-211"></a>
 
-### No. 211: C3 versus C4 photosynthesis
+#### No. 211: C3 versus C4 photosynthesis
 
-by [@Yila-AI](https://github.com/Yila-AI)
+![Model](https://img.shields.io/badge/Model-GPT%20Image%202.6-10a37f) ![Category](https://img.shields.io/badge/Plant%20%26%20Agriculture-blue)
 
-Technique: **two leaf cross-sections side by side** · Style: scientific illustration · Aspect ratio: 16:9
+##### 📖 Description
 
-| English prompt |
-|---|
-| <img src="gallery/plant-agriculture/c3-vs-c4-photosynthesis-en.jpg" width="420"> |
+Technique: **two leaf cross-sections side by side** · Style: scientific illustration · Aspect Ratio: `16:9`
 
-> The Chinese-prompt output did not pass review, so it is not shown.
-
-**English prompt**
+##### 📝 Prompt
 
 ```text
 Create a side-by-side scientific illustration comparing 【C3 and C4 photosynthesis】 in leaf cross-sections. In both panels, draw Rubisco as the same small green enzyme shape and the Calvin cycle as a small circular arrow without text.
@@ -10735,27 +4937,34 @@ Rubisco 和 Photorespiration 只写在左面板，Mesophyll cell 和 Bundle shea
 
 </details>
 
-Model: Nano Banana 2 Lite (gemini-3.1-flash-lite-image, 1K) · Generated 4 times in total; shown are the outputs that passed review
+##### 🖼️ Generated Image
 
-[↑ Back to top](#top)
+<div align="center">
+<a href="https://yila.ai/scientific-figure-prompts/c3-vs-c4-photosynthesis?utm_source=github&utm_medium=readme&utm_campaign=sci-figure-prompts&utm_content=c3-vs-c4-photosynthesis"><img src="gallery/plant-agriculture/c3-vs-c4-photosynthesis-en.jpg" width="600" alt="C3 versus C4 photosynthesis"></a>
+</div>
 
-<sub><a href="https://yila.ai/?utm_source=github&utm_medium=readme&utm_campaign=sci-figure-prompts&utm_content=c3-vs-c4-photosynthesis">Try in Yila →</a></sub>
+##### 📌 Details
+
+- **Author:** [@Yila-AI](https://github.com/Yila-AI)
+- **Model:** GPT Image 2.6
+- **Aspect Ratio:** 16:9
+- **Languages:** en, zh
+
+**[👉 Try it now in YILA →](https://yila.ai/scientific-figure-prompts/c3-vs-c4-photosynthesis?utm_source=github&utm_medium=readme&utm_campaign=sci-figure-prompts&utm_content=c3-vs-c4-photosynthesis)** · [↑ Back to top](#top)
 
 ---
 
 <a id="no-212"></a>
 
-### No. 212: CRISPR gene-edited crop breeding workflow
+#### No. 212: CRISPR gene-edited crop breeding workflow
 
-by [@Yila-AI](https://github.com/Yila-AI)
+![Model](https://img.shields.io/badge/Model-GPT%20Image%202.6-10a37f) ![Category](https://img.shields.io/badge/Plant%20%26%20Agriculture-blue)
 
-Technique: **one panel per step, step names only** · Style: flat workflow · Aspect ratio: 16:9
+##### 📖 Description
 
-| Chinese prompt |
-|---|
-| <img src="gallery/plant-agriculture/crispr-crop-breeding-zh.jpg" width="420"> |
+Technique: **one panel per step, step names only** · Style: flat workflow · Aspect Ratio: `16:9`
 
-**English prompt**
+##### 📝 Prompt
 
 ```text
 Create a workflow figure for 【breeding a gene-edited crop with CRISPR】, 8 steps from left to right:
@@ -10793,27 +5002,34 @@ Style: journal-style experimental workflow figure. Clean flat vector icons on a 
 
 </details>
 
-Model: Nano Banana 2 Lite (gemini-3.1-flash-lite-image, 1K) · Generated 4 times in total; shown are the outputs that passed review
+##### 🖼️ Generated Image
 
-[↑ Back to top](#top)
+<div align="center">
+<a href="https://yila.ai/scientific-figure-prompts/crispr-crop-breeding?utm_source=github&utm_medium=readme&utm_campaign=sci-figure-prompts&utm_content=crispr-crop-breeding"><img src="gallery/plant-agriculture/crispr-crop-breeding-zh.jpg" width="600" alt="CRISPR gene-edited crop breeding workflow"></a>
+</div>
 
-<sub><a href="https://yila.ai/?utm_source=github&utm_medium=readme&utm_campaign=sci-figure-prompts&utm_content=crispr-crop-breeding">Try in Yila →</a></sub>
+##### 📌 Details
+
+- **Author:** [@Yila-AI](https://github.com/Yila-AI)
+- **Model:** GPT Image 2.6
+- **Aspect Ratio:** 16:9
+- **Languages:** en, zh
+
+**[👉 Try it now in YILA →](https://yila.ai/scientific-figure-prompts/crispr-crop-breeding?utm_source=github&utm_medium=readme&utm_campaign=sci-figure-prompts&utm_content=crispr-crop-breeding)** · [↑ Back to top](#top)
 
 ---
 
 <a id="no-213"></a>
 
-### No. 213: Drought stress and ABA signaling
+#### No. 213: Drought stress and ABA signaling
 
-by [@Yila-AI](https://github.com/Yila-AI)
+![Model](https://img.shields.io/badge/Model-GPT%20Image%202.6-10a37f) ![Category](https://img.shields.io/badge/Plant%20%26%20Agriculture-blue)
 
-Technique: **from roots to leaves to guard cells** · Style: flat vector schematic · Aspect ratio: 16:9
+##### 📖 Description
 
-| Chinese prompt |
-|---|
-| <img src="gallery/plant-agriculture/drought-aba-zh.jpg" width="420"> |
+Technique: **from roots to leaves to guard cells** · Style: flat vector schematic · Aspect Ratio: `16:9`
 
-**English prompt**
+##### 📝 Prompt
 
 ```text
 Create a schematic of 【ABA signaling under drought】: a small plant on the left and a magnified guard cell pair on the right. Draw each relationship exactly as listed and nothing more:
@@ -10845,27 +5061,34 @@ Drought 和 ABA 各只写一次，不加标题。只在列出的地方用红色 
 
 </details>
 
-Model: Nano Banana 2 Lite (gemini-3.1-flash-lite-image, 1K) · Generated 6 times in total; shown are the outputs that passed review
+##### 🖼️ Generated Image
 
-[↑ Back to top](#top)
+<div align="center">
+<a href="https://yila.ai/scientific-figure-prompts/drought-aba?utm_source=github&utm_medium=readme&utm_campaign=sci-figure-prompts&utm_content=drought-aba"><img src="gallery/plant-agriculture/drought-aba-zh.jpg" width="600" alt="Drought stress and ABA signaling"></a>
+</div>
 
-<sub><a href="https://yila.ai/?utm_source=github&utm_medium=readme&utm_campaign=sci-figure-prompts&utm_content=drought-aba">Try in Yila →</a></sub>
+##### 📌 Details
+
+- **Author:** [@Yila-AI](https://github.com/Yila-AI)
+- **Model:** GPT Image 2.6
+- **Aspect Ratio:** 16:9
+- **Languages:** en, zh
+
+**[👉 Try it now in YILA →](https://yila.ai/scientific-figure-prompts/drought-aba?utm_source=github&utm_medium=readme&utm_campaign=sci-figure-prompts&utm_content=drought-aba)** · [↑ Back to top](#top)
 
 ---
 
 <a id="no-214"></a>
 
-### No. 214: Field trial layout: randomized complete block design
+#### No. 214: Field trial layout: randomized complete block design
 
-by [@Yila-AI](https://github.com/Yila-AI)
+![Model](https://img.shields.io/badge/Model-GPT%20Image%202.6-10a37f) ![Category](https://img.shields.io/badge/Plant%20%26%20Agriculture-blue)
 
-Technique: **top-down grid, colors stand for treatments** · Style: schematic diagram · Aspect ratio: 16:9
+##### 📖 Description
 
-| English prompt | Chinese prompt |
-|---|---|
-| <img src="gallery/plant-agriculture/field-trial-rcbd-en.jpg" width="420"> | <img src="gallery/plant-agriculture/field-trial-rcbd-zh.jpg" width="420"> |
+Technique: **top-down grid, colors stand for treatments** · Style: schematic diagram · Aspect Ratio: `16:9`
 
-**English prompt**
+##### 📝 Prompt
 
 ```text
 Create a top-down layout of 【a field trial in a randomized complete block design】: a rectangular field divided into three horizontal blocks, each block split into four plots of crop rows. In each block, the four plots are filled with four different light colors in a different order. No two blocks use the same order of colors. A thin buffer strip surrounds the field. A small legend on the right maps the four colors to the treatments.
@@ -10885,29 +5108,34 @@ Style: journal-style schematic diagram. Clean flat vector graphics on a white ba
 
 </details>
 
-Model: Nano Banana 2 Lite (gemini-3.1-flash-lite-image, 1K) · Generated 5 times in total; shown are the outputs that passed review
+##### 🖼️ Generated Image
 
-[↑ Back to top](#top)
+<div align="center">
+<a href="https://yila.ai/scientific-figure-prompts/field-trial-rcbd?utm_source=github&utm_medium=readme&utm_campaign=sci-figure-prompts&utm_content=field-trial-rcbd"><img src="gallery/plant-agriculture/field-trial-rcbd-en.jpg" width="600" alt="Field trial layout: randomized complete block design"></a>
+</div>
 
-<sub><a href="https://yila.ai/?utm_source=github&utm_medium=readme&utm_campaign=sci-figure-prompts&utm_content=field-trial-rcbd">Try in Yila →</a></sub>
+##### 📌 Details
+
+- **Author:** [@Yila-AI](https://github.com/Yila-AI)
+- **Model:** GPT Image 2.6
+- **Aspect Ratio:** 16:9
+- **Languages:** en, zh
+
+**[👉 Try it now in YILA →](https://yila.ai/scientific-figure-prompts/field-trial-rcbd?utm_source=github&utm_medium=readme&utm_campaign=sci-figure-prompts&utm_content=field-trial-rcbd)** · [↑ Back to top](#top)
 
 ---
 
 <a id="no-215"></a>
 
-### No. 215: Leaf structure and photosynthesis
+#### No. 215: Leaf structure and photosynthesis
 
-by [@Yila-AI](https://github.com/Yila-AI)
+![Model](https://img.shields.io/badge/Model-GPT%20Image%202.6-10a37f) ![Category](https://img.shields.io/badge/Plant%20%26%20Agriculture-blue)
 
-Technique: **multi-scale magnified insets** · Style: scientific illustration · Aspect ratio: 4:3
+##### 📖 Description
 
-| English prompt |
-|---|
-| <img src="gallery/plant-agriculture/leaf-photosynthesis-en.jpg" width="420"> |
+Technique: **multi-scale magnified insets** · Style: scientific illustration · Aspect Ratio: `4:3`
 
-> The Chinese-prompt output did not pass review, so it is not shown.
-
-**English prompt**
+##### 📝 Prompt
 
 ```text
 Create a scientific illustration of 【photosynthesis in a leaf】. Left: 【a green leaf on a stem in sunlight】. Center: a circular magnified inset shows 【a leaf cross-section with upper epidermis, palisade cells full of chloroplasts, spongy cells with air spaces, and an open stoma on the underside】. Right: a second inset zooms into 【one chloroplast with stacked thylakoids】. Arrows show 【carbon dioxide entering and oxygen leaving through the stoma, and sunlight reaching the chloroplasts】.
@@ -10927,29 +5155,34 @@ Style: journal-style scientific illustration. Clean semi-realistic vector illust
 
 </details>
 
-Model: Nano Banana 2 Lite (gemini-3.1-flash-lite-image, 1K) · Generated 3 times in total; shown are the outputs that passed review
+##### 🖼️ Generated Image
 
-[↑ Back to top](#top)
+<div align="center">
+<a href="https://yila.ai/scientific-figure-prompts/leaf-photosynthesis?utm_source=github&utm_medium=readme&utm_campaign=sci-figure-prompts&utm_content=leaf-photosynthesis"><img src="gallery/plant-agriculture/leaf-photosynthesis-en.jpg" width="600" alt="Leaf structure and photosynthesis"></a>
+</div>
 
-<sub><a href="https://yila.ai/?utm_source=github&utm_medium=readme&utm_campaign=sci-figure-prompts&utm_content=leaf-photosynthesis">Try in Yila →</a></sub>
+##### 📌 Details
+
+- **Author:** [@Yila-AI](https://github.com/Yila-AI)
+- **Model:** GPT Image 2.6
+- **Aspect Ratio:** 4:3
+- **Languages:** en, zh
+
+**[👉 Try it now in YILA →](https://yila.ai/scientific-figure-prompts/leaf-photosynthesis?utm_source=github&utm_medium=readme&utm_campaign=sci-figure-prompts&utm_content=leaf-photosynthesis)** · [↑ Back to top](#top)
 
 ---
 
 <a id="no-216"></a>
 
-### No. 216: Plant hormone crosstalk: auxin, cytokinin, ABA and GA
+#### No. 216: Plant hormone crosstalk: auxin, cytokinin, ABA and GA
 
-by [@Yila-AI](https://github.com/Yila-AI)
+![Model](https://img.shields.io/badge/Model-GPT%20Image%202.6-10a37f) ![Category](https://img.shields.io/badge/Plant%20%26%20Agriculture-blue)
 
-Technique: **two panels, five relationships** · Style: flat vector schematic · Aspect ratio: 16:9
+##### 📖 Description
 
-| English prompt |
-|---|
-| <img src="gallery/plant-agriculture/plant-hormone-crosstalk-en.jpg" width="420"> |
+Technique: **two panels, five relationships** · Style: flat vector schematic · Aspect Ratio: `16:9`
 
-> The Chinese-prompt output did not pass review, so it is not shown.
-
-**English prompt**
+##### 📝 Prompt
 
 ```text
 Create a flat schematic of 【plant hormone crosstalk】 in two panels: on the left, a shoot with its tip and one lateral bud; on the right, a seed in soil. Draw each relationship exactly as listed and nothing more:
@@ -10981,29 +5214,34 @@ Style: journal-style scientific schematic. Clean flat vector illustration on a w
 
 </details>
 
-Model: Nano Banana 2 Lite (gemini-3.1-flash-lite-image, 1K) · Generated 4 times in total; shown are the outputs that passed review
+##### 🖼️ Generated Image
 
-[↑ Back to top](#top)
+<div align="center">
+<a href="https://yila.ai/scientific-figure-prompts/plant-hormone-crosstalk?utm_source=github&utm_medium=readme&utm_campaign=sci-figure-prompts&utm_content=plant-hormone-crosstalk"><img src="gallery/plant-agriculture/plant-hormone-crosstalk-en.jpg" width="600" alt="Plant hormone crosstalk: auxin, cytokinin, ABA and GA"></a>
+</div>
 
-<sub><a href="https://yila.ai/?utm_source=github&utm_medium=readme&utm_campaign=sci-figure-prompts&utm_content=plant-hormone-crosstalk">Try in Yila →</a></sub>
+##### 📌 Details
+
+- **Author:** [@Yila-AI](https://github.com/Yila-AI)
+- **Model:** GPT Image 2.6
+- **Aspect Ratio:** 16:9
+- **Languages:** en, zh
+
+**[👉 Try it now in YILA →](https://yila.ai/scientific-figure-prompts/plant-hormone-crosstalk?utm_source=github&utm_medium=readme&utm_campaign=sci-figure-prompts&utm_content=plant-hormone-crosstalk)** · [↑ Back to top](#top)
 
 ---
 
 <a id="no-217"></a>
 
-### No. 217: Plant immunity: PTI and ETI
+#### No. 217: Plant immunity: PTI and ETI
 
-by [@Yila-AI](https://github.com/Yila-AI)
+![Model](https://img.shields.io/badge/Model-GPT%20Image%202.6-10a37f) ![Category](https://img.shields.io/badge/Plant%20%26%20Agriculture-blue)
 
-Technique: **surface recognition and inner recognition** · Style: flat vector schematic · Aspect ratio: 16:9
+##### 📖 Description
 
-| English prompt |
-|---|
-| <img src="gallery/plant-agriculture/plant-immunity-pti-eti-en.jpg" width="420"> |
+Technique: **surface recognition and inner recognition** · Style: flat vector schematic · Aspect Ratio: `16:9`
 
-> The Chinese-prompt output did not pass review, so it is not shown.
-
-**English prompt**
+##### 📝 Prompt
 
 ```text
 Create a schematic of 【the two layers of plant immunity】 at one plant cell, with a bacterium on the left outside the cell wall. Draw each relationship exactly as listed and nothing more:
@@ -11033,27 +5271,34 @@ Style: journal-style scientific schematic. Clean flat vector illustration on a w
 
 </details>
 
-Model: Nano Banana 2 Lite (gemini-3.1-flash-lite-image, 1K) · Generated 6 times in total; shown are the outputs that passed review
+##### 🖼️ Generated Image
 
-[↑ Back to top](#top)
+<div align="center">
+<a href="https://yila.ai/scientific-figure-prompts/plant-immunity-pti-eti?utm_source=github&utm_medium=readme&utm_campaign=sci-figure-prompts&utm_content=plant-immunity-pti-eti"><img src="gallery/plant-agriculture/plant-immunity-pti-eti-en.jpg" width="600" alt="Plant immunity: PTI and ETI"></a>
+</div>
 
-<sub><a href="https://yila.ai/?utm_source=github&utm_medium=readme&utm_campaign=sci-figure-prompts&utm_content=plant-immunity-pti-eti">Try in Yila →</a></sub>
+##### 📌 Details
+
+- **Author:** [@Yila-AI](https://github.com/Yila-AI)
+- **Model:** GPT Image 2.6
+- **Aspect Ratio:** 16:9
+- **Languages:** en, zh
+
+**[👉 Try it now in YILA →](https://yila.ai/scientific-figure-prompts/plant-immunity-pti-eti?utm_source=github&utm_medium=readme&utm_campaign=sci-figure-prompts&utm_content=plant-immunity-pti-eti)** · [↑ Back to top](#top)
 
 ---
 
 <a id="no-218"></a>
 
-### No. 218: Plant tissue culture workflow
+#### No. 218: Plant tissue culture workflow
 
-by [@Yila-AI](https://github.com/Yila-AI)
+![Model](https://img.shields.io/badge/Model-GPT%20Image%202.6-10a37f) ![Category](https://img.shields.io/badge/Plant%20%26%20Agriculture-blue)
 
-Technique: **one panel per step, step names only** · Style: flat workflow · Aspect ratio: 16:9
+##### 📖 Description
 
-| English prompt | Chinese prompt |
-|---|---|
-| <img src="gallery/plant-agriculture/plant-tissue-culture-en.jpg" width="420"> | <img src="gallery/plant-agriculture/plant-tissue-culture-zh.jpg" width="420"> |
+Technique: **one panel per step, step names only** · Style: flat workflow · Aspect Ratio: `16:9`
 
-**English prompt**
+##### 📝 Prompt
 
 ```text
 Create a workflow figure for 【plant tissue culture】, 6 steps from left to right:
@@ -11087,235 +5332,38 @@ Style: journal-style experimental workflow figure. Clean flat vector icons on a 
 
 </details>
 
-Model: Nano Banana 2 Lite (gemini-3.1-flash-lite-image, 1K) · Generated 4 times in total; shown are the outputs that passed review
+##### 🖼️ Generated Image
 
-[↑ Back to top](#top)
+<div align="center">
+<a href="https://yila.ai/scientific-figure-prompts/plant-tissue-culture?utm_source=github&utm_medium=readme&utm_campaign=sci-figure-prompts&utm_content=plant-tissue-culture"><img src="gallery/plant-agriculture/plant-tissue-culture-en.jpg" width="600" alt="Plant tissue culture workflow"></a>
+</div>
 
-<sub><a href="https://yila.ai/?utm_source=github&utm_medium=readme&utm_campaign=sci-figure-prompts&utm_content=plant-tissue-culture">Try in Yila →</a></sub>
+##### 📌 Details
 
----
+- **Author:** [@Yila-AI](https://github.com/Yila-AI)
+- **Model:** GPT Image 2.6
+- **Aspect Ratio:** 16:9
+- **Languages:** en, zh
 
-<a id="no-219"></a>
-
-### No. 219: Precision agriculture with drones
-
-by [@Yila-AI](https://github.com/Yila-AI)
-
-Technique: **scan, analyze, then spray only where needed** · Style: scientific illustration · Aspect ratio: 16:9
-
-| English prompt | Chinese prompt |
-|---|---|
-| <img src="gallery/plant-agriculture/precision-agriculture-drones-en.jpg" width="420"> | <img src="gallery/plant-agriculture/precision-agriculture-drones-zh.jpg" width="420"> |
-
-**English prompt**
-
-```text
-Create a scientific illustration of 【precision agriculture with drones】 over a crop field, read from left to right. Draw each relationship exactly as listed and nothing more:
-1. 【A survey drone flies over the field and scans it with a multispectral camera (a pale scan cone pointing down at the crops).】
-2. 【Soil sensors in the field send data wirelessly up to a cloud icon.】
-3. 【Survey drone → cloud analysis (a wireless arrow from the drone to the cloud).】
-4. 【Cloud analysis → a crop health map on a farmer's tablet, with green, yellow and red zones and no numbers.】
-5. 【Crop health map → a spraying drone that sprays only over the yellow and red zones of the field.】
-There are no T-bars in this figure. Do not write the numbered sentences in the figure. Write each label only once in the whole figure.
-Labels, each used once, no other text: 【Survey drone, Multispectral imaging, Soil sensors, Cloud analysis, Crop health map, Variable-rate spraying】.
-
-Style: journal-style scientific illustration. Clean semi-realistic vector illustration with gentle shading, using cross-sections or cutaways where they explain the structure, on a white background. Muted, harmonious palette with one accent color for the key process. Thin directional arrows for flows. Generous white space and a clear reading direction. Sans-serif English labels only, each label appears exactly once, spelled exactly as given. No cartoon style, no glossy CGI, no dark background, no stock-photo look, no decorative background.
-```
-
-<details><summary>Chinese prompt</summary>
-
-```text
-画一张【无人机精准农业】的科学插画，背景是一片农田，从左往右读。严格按下面列出的关系画，不多画：
-1. 【一架巡检无人机飞过农田，用多光谱相机扫描（一个指向作物的浅色扫描锥）。】
-2. 【田里的土壤传感器把数据无线发送到一个云图标。】
-3. 【巡检无人机 → 云端分析（从无人机指向云的无线箭头）。】
-4. 【云端分析 → 农户平板上的作物长势图，分成绿、黄、红三种区域，不写数字。】
-5. 【作物长势图 → 一架植保无人机，只在田里黄色和红色区域上方喷洒。】
-图中没有 T 形线。不要把编号句子写进图里。整张图里每个标签只写一次。
-标签（每个只出现一次，不加其他文字）：【Survey drone, Multispectral imaging, Soil sensors, Cloud analysis, Crop health map, Variable-rate spraying】。
-
-风格：期刊式科学插画。干净的半写实矢量插画，带柔和的明暗；需要说明结构时使用剖面或剖切视图，白色背景。配色低饱和、协调，只用一个强调色突出关键过程。用细的方向箭头表示流动。留白充足，阅读方向清晰。图中文字只用英文无衬线字体，每个标签只出现一次，拼写与给定完全一致。不要卡通风格、不要光滑的 CG 渲染、不要深色背景、不要图库照片感、不要装饰性背景。
-```
-
-</details>
-
-Model: Nano Banana 2 Lite (gemini-3.1-flash-lite-image, 1K) · Generated 4 times in total; shown are the outputs that passed review
-
-[↑ Back to top](#top)
-
-<sub><a href="https://yila.ai/?utm_source=github&utm_medium=readme&utm_campaign=sci-figure-prompts&utm_content=precision-agriculture-drones">Try in Yila →</a></sub>
-
----
-
-<a id="no-220"></a>
-
-### No. 220: Root nodule nitrogen fixation
-
-by [@Yila-AI](https://github.com/Yila-AI)
-
-Technique: **whole plant plus two magnified insets** · Style: scientific illustration · Aspect ratio: 16:9
-
-| English prompt | Chinese prompt |
-|---|---|
-| <img src="gallery/plant-agriculture/root-nodule-nitrogen-fixation-en.jpg" width="420"> | <img src="gallery/plant-agriculture/root-nodule-nitrogen-fixation-zh.jpg" width="420"> |
-
-**English prompt**
-
-```text
-Create a scientific illustration of 【nitrogen fixation in legume root nodules】: on the left, a small legume plant with round nodules on its roots in soil; to the right, two circular magnified insets. Draw each relationship exactly as listed and nothing more:
-1. 【The root and the rhizobia in the soil exchange chemical signals (small dots moving both ways between them).】
-2. 【In the first inset, a root hair curls around rhizobia, and an infection thread carries them inward into the root.】
-3. 【Root cells around the infection divide and form a nodule; inside, the rhizobia change into bacteroids.】
-4. 【In the second inset, a nodule cell full of bacteroids: N2 from the soil air enters, and the bacteroids convert it into NH3, which passes to the plant.】
-5. 【The plant sends sugars to the bacteroids (an arrow from the root into the nodule cell).】
-Color the inside of the nodules pink. Write 'Nodule' beside one nodule only.
-There are no T-bars in this figure. Do not write the numbered sentences in the figure. Write each label only once in the whole figure.
-Labels, each used once, no other text: 【Rhizobia, Root hair, Infection thread, Nodule, Bacteroid, N2, NH3, Sugars】.
-
-Style: journal-style scientific illustration. Clean semi-realistic vector illustration with gentle shading, using cross-sections or cutaways where they explain the structure, on a white background. Muted, harmonious palette with one accent color for the key process. Thin directional arrows for flows. Generous white space and a clear reading direction. Sans-serif English labels only, each label appears exactly once, spelled exactly as given. No cartoon style, no glossy CGI, no dark background, no stock-photo look, no decorative background.
-```
-
-<details><summary>Chinese prompt</summary>
-
-```text
-画一张【豆科植物根瘤固氮】的科学插画：左侧一株小豆科植物，土里的根上长着圆形根瘤；右侧两个圆形放大插图。严格按下面列出的关系画，不多画：
-1. 【根与土壤中的根瘤菌互相交换化学信号（两者之间双向移动的小点）。】
-2. 【第一个放大图中，根毛卷曲包住根瘤菌，侵染线把它们带进根内。】
-3. 【侵染处周围的根细胞分裂形成根瘤；根瘤里的根瘤菌转变为类菌体。】
-4. 【第二个放大图中，一个充满类菌体的根瘤细胞：土壤空气中的 N2 进入，类菌体把它转化为 NH3，交给植物。】
-5. 【植物把糖输送给类菌体（从根指向根瘤细胞的箭头）。】
-根瘤内部涂成粉红色。Nodule 只写在一个根瘤旁边。
-图中没有 T 形线。不要把编号句子写进图里。整张图里每个标签只写一次。
-标签（每个只出现一次，不加其他文字）：【Rhizobia, Root hair, Infection thread, Nodule, Bacteroid, N2, NH3, Sugars】。
-
-风格：期刊式科学插画。干净的半写实矢量插画，带柔和的明暗；需要说明结构时使用剖面或剖切视图，白色背景。配色低饱和、协调，只用一个强调色突出关键过程。用细的方向箭头表示流动。留白充足，阅读方向清晰。图中文字只用英文无衬线字体，每个标签只出现一次，拼写与给定完全一致。不要卡通风格、不要光滑的 CG 渲染、不要深色背景、不要图库照片感、不要装饰性背景。
-```
-
-</details>
-
-Model: Nano Banana 2 Lite (gemini-3.1-flash-lite-image, 1K) · Generated 4 times in total; shown are the outputs that passed review
-
-[↑ Back to top](#top)
-
-<sub><a href="https://yila.ai/?utm_source=github&utm_medium=readme&utm_campaign=sci-figure-prompts&utm_content=root-nodule-nitrogen-fixation">Try in Yila →</a></sub>
-
----
-
-<a id="no-221"></a>
-
-### No. 221: Roots and the rhizosphere
-
-by [@Yila-AI](https://github.com/Yila-AI)
-
-Technique: **cross-section + magnified inset** · Style: scientific illustration · Aspect ratio: 16:9
-
-| English prompt |
-|---|
-| <img src="gallery/plant-agriculture/root-rhizosphere-en.jpg" width="420"> |
-
-> The Chinese-prompt output did not pass review, so it is not shown.
-
-**English prompt**
-
-```text
-Create a soil cross-section illustration of 【a crop plant's roots and rhizosphere】: 【the plant above ground and its branching roots in brown soil below】. A circular magnified inset zooms into 【one root tip with fine root hairs, fungal threads wrapping around it, and small bacteria nearby】. Arrows show 【water and nutrients moving from the soil into the root, and sugars moving from the root to the fungi and bacteria】.
-Labels, each used once, no other text: 【Root hair, Mycorrhiza, Bacteria, Nutrients】.
-
-Style: journal-style scientific illustration. Clean semi-realistic vector illustration with gentle shading, using cross-sections or cutaways where they explain the structure, on a white background. Muted, harmonious palette with one accent color for the key process. Thin directional arrows for flows. Generous white space and a clear reading direction. Sans-serif English labels only, each label appears exactly once, spelled exactly as given. No cartoon style, no glossy CGI, no dark background, no stock-photo look, no decorative background.
-```
-
-<details><summary>Chinese prompt</summary>
-
-```text
-画一张【作物根系与根际】的土壤剖面插画：【地面上是植株，下方棕色土壤里是分叉的根系】。用一个圆形放大框放大【一个根尖：细细的根毛、缠绕在根上的真菌菌丝，旁边有一些小细菌】。箭头表示【水和养分从土壤进入根，糖分从根流向真菌和细菌】。
-标签（每个只出现一次，不加其他文字）：【Root hair, Mycorrhiza, Bacteria, Nutrients】。
-
-风格：期刊式科学插画。干净的半写实矢量插画，带柔和的明暗；需要说明结构时使用剖面或剖切视图，白色背景。配色低饱和、协调，只用一个强调色突出关键过程。用细的方向箭头表示流动。留白充足，阅读方向清晰。图中文字只用英文无衬线字体，每个标签只出现一次，拼写与给定完全一致。不要卡通风格、不要光滑的 CG 渲染、不要深色背景、不要图库照片感、不要装饰性背景。
-```
-
-</details>
-
-Model: Nano Banana 2 Lite (gemini-3.1-flash-lite-image, 1K) · Generated 4 times in total; shown are the outputs that passed review
-
-[↑ Back to top](#top)
-
-<sub><a href="https://yila.ai/?utm_source=github&utm_medium=readme&utm_campaign=sci-figure-prompts&utm_content=root-rhizosphere">Try in Yila →</a></sub>
-
----
-
-<a id="no-222"></a>
-
-### No. 222: Seed germination stages
-
-by [@Yila-AI](https://github.com/Yila-AI)
-
-Technique: **six stages along one soil cross-section** · Style: scientific illustration · Aspect ratio: 16:9
-
-| English prompt | Chinese prompt |
-|---|---|
-| <img src="gallery/plant-agriculture/seed-germination-stages-en.jpg" width="420"> | <img src="gallery/plant-agriculture/seed-germination-stages-zh.jpg" width="420"> |
-
-**English prompt**
-
-```text
-Create a scientific illustration of 【the germination of a bean seed】 as six stages from left to right along one soil cross-section, with the soil surface as a horizontal line:
-1. 【A dry, dormant seed in the soil.】
-2. 【The seed swollen after taking up water, with small blue water arrows pointing into it.】
-3. 【The radicle breaking through the seed coat and growing downward.】
-4. 【The hypocotyl elongating as a hook that pushes up toward the soil surface, with root hairs on the young root.】
-5. 【The hook straightened above the soil, lifting the two cotyledons into the light.】
-6. 【A seedling with its first true leaves open above the cotyledons and a branched root below.】
-Each stage has one label below it.
-Write each label only once in the whole figure.
-Labels, each used once, no other text: 【Dry seed, Imbibition, Radicle emergence, Hypocotyl hook, Cotyledon emergence, Seedling】.
-
-Style: journal-style scientific illustration. Clean semi-realistic vector illustration with gentle shading, using cross-sections or cutaways where they explain the structure, on a white background. Muted, harmonious palette with one accent color for the key process. Thin directional arrows for flows. Generous white space and a clear reading direction. Sans-serif English labels only, each label appears exactly once, spelled exactly as given. No cartoon style, no glossy CGI, no dark background, no stock-photo look, no decorative background.
-```
-
-<details><summary>Chinese prompt</summary>
-
-```text
-画一张【菜豆种子萌发】的科学插画：沿同一个土壤截面从左往右排六个阶段，土壤表面是一条水平线：
-1. 【土里一粒干燥、休眠的种子。】
-2. 【吸水后膨胀的种子，几支蓝色小水滴箭头指向种子。】
-3. 【胚根突破种皮，向下生长。】
-4. 【下胚轴伸长，弯成钩状向土面顶出，幼根上长出根毛。】
-5. 【弯钩在土面上方伸直，把两片子叶托到光下。】
-6. 【一株幼苗，子叶上方展开第一对真叶，下方是分枝的根。】
-每个阶段下方写一个标签。
-整张图里每个标签只写一次。
-标签（每个只出现一次，不加其他文字）：【Dry seed, Imbibition, Radicle emergence, Hypocotyl hook, Cotyledon emergence, Seedling】。
-
-风格：期刊式科学插画。干净的半写实矢量插画，带柔和的明暗；需要说明结构时使用剖面或剖切视图，白色背景。配色低饱和、协调，只用一个强调色突出关键过程。用细的方向箭头表示流动。留白充足，阅读方向清晰。图中文字只用英文无衬线字体，每个标签只出现一次，拼写与给定完全一致。不要卡通风格、不要光滑的 CG 渲染、不要深色背景、不要图库照片感、不要装饰性背景。
-```
-
-</details>
-
-Model: Nano Banana 2 Lite (gemini-3.1-flash-lite-image, 1K) · Generated 2 times in total; shown are the outputs that passed review
-
-[↑ Back to top](#top)
-
-<sub><a href="https://yila.ai/?utm_source=github&utm_medium=readme&utm_campaign=sci-figure-prompts&utm_content=seed-germination-stages">Try in Yila →</a></sub>
+**[👉 Try it now in YILA →](https://yila.ai/scientific-figure-prompts/plant-tissue-culture?utm_source=github&utm_medium=readme&utm_campaign=sci-figure-prompts&utm_content=plant-tissue-culture)** · [↑ Back to top](#top)
 
 ---
 
 <a id="social-science"></a>
 
-## Social Science
+### 📊 Social Science
 
 <a id="no-223"></a>
 
-### No. 223: ADDIE instructional design model
+#### No. 223: ADDIE instructional design model
 
-by [@Yila-AI](https://github.com/Yila-AI)
+![Model](https://img.shields.io/badge/Model-GPT%20Image%202.6-10a37f) ![Category](https://img.shields.io/badge/Social%20Science-blue)
 
-Technique: **four phases in a circle, evaluation in the center** · Style: schematic diagram · Aspect ratio: 1:1
+##### 📖 Description
 
-| English prompt | Chinese prompt |
-|---|---|
-| <img src="gallery/social-science/addie-model-en.jpg" width="420"> | <img src="gallery/social-science/addie-model-zh.jpg" width="420"> |
+Technique: **four phases in a circle, evaluation in the center** · Style: schematic diagram · Aspect Ratio: `1:1`
 
-**English prompt**
+##### 📝 Prompt
 
 ```text
 Create a model diagram of 【the ADDIE instructional design model】 as a clean circle of boxes, each box with one icon. Draw each relationship exactly as listed and nothing more:
@@ -11343,29 +5391,34 @@ Style: journal-style schematic diagram. Clean flat vector graphics on a white ba
 
 </details>
 
-Model: Nano Banana 2 Lite (gemini-3.1-flash-lite-image, 1K) · Generated 2 times in total; shown are the outputs that passed review
+##### 🖼️ Generated Image
 
-[↑ Back to top](#top)
+<div align="center">
+<a href="https://yila.ai/scientific-figure-prompts/addie-model?utm_source=github&utm_medium=readme&utm_campaign=sci-figure-prompts&utm_content=addie-model"><img src="gallery/social-science/addie-model-en.jpg" width="600" alt="ADDIE instructional design model"></a>
+</div>
 
-<sub><a href="https://yila.ai/?utm_source=github&utm_medium=readme&utm_campaign=sci-figure-prompts&utm_content=addie-model">Try in Yila →</a></sub>
+##### 📌 Details
+
+- **Author:** [@Yila-AI](https://github.com/Yila-AI)
+- **Model:** GPT Image 2.6
+- **Aspect Ratio:** 1:1
+- **Languages:** en, zh
+
+**[👉 Try it now in YILA →](https://yila.ai/scientific-figure-prompts/addie-model?utm_source=github&utm_medium=readme&utm_campaign=sci-figure-prompts&utm_content=addie-model)** · [↑ Back to top](#top)
 
 ---
 
 <a id="no-224"></a>
 
-### No. 224: AI-enabled education framework
+#### No. 224: AI-enabled education framework
 
-by [@Yila-AI](https://github.com/Yila-AI)
+![Model](https://img.shields.io/badge/Model-GPT%20Image%202.6-10a37f) ![Category](https://img.shields.io/badge/Social%20Science-blue)
 
-Technique: **data, AI capability and user layers with ethics alongside** · Style: schematic diagram · Aspect ratio: 16:9
+##### 📖 Description
 
-| English prompt |
-|---|
-| <img src="gallery/social-science/ai-enabled-education-framework-en.jpg" width="420"> |
+Technique: **data, AI capability and user layers with ethics alongside** · Style: schematic diagram · Aspect Ratio: `16:9`
 
-> The Chinese-prompt output did not pass review, so it is not shown.
-
-**English prompt**
+##### 📝 Prompt
 
 ```text
 Create a layered framework diagram of 【AI-enabled education】, with icons and short labels only:
@@ -11397,29 +5450,34 @@ Style: journal-style schematic diagram. Clean flat vector graphics on a white ba
 
 </details>
 
-Model: Nano Banana 2 Lite (gemini-3.1-flash-lite-image, 1K) · Generated 4 times in total; shown are the outputs that passed review
+##### 🖼️ Generated Image
 
-[↑ Back to top](#top)
+<div align="center">
+<a href="https://yila.ai/scientific-figure-prompts/ai-enabled-education-framework?utm_source=github&utm_medium=readme&utm_campaign=sci-figure-prompts&utm_content=ai-enabled-education-framework"><img src="gallery/social-science/ai-enabled-education-framework-en.jpg" width="600" alt="AI-enabled education framework"></a>
+</div>
 
-<sub><a href="https://yila.ai/?utm_source=github&utm_medium=readme&utm_campaign=sci-figure-prompts&utm_content=ai-enabled-education-framework">Try in Yila →</a></sub>
+##### 📌 Details
+
+- **Author:** [@Yila-AI](https://github.com/Yila-AI)
+- **Model:** GPT Image 2.6
+- **Aspect Ratio:** 16:9
+- **Languages:** en, zh
+
+**[👉 Try it now in YILA →](https://yila.ai/scientific-figure-prompts/ai-enabled-education-framework?utm_source=github&utm_medium=readme&utm_campaign=sci-figure-prompts&utm_content=ai-enabled-education-framework)** · [↑ Back to top](#top)
 
 ---
 
 <a id="no-225"></a>
 
-### No. 225: Bronfenbrenner's ecological systems theory
+#### No. 225: Bronfenbrenner's ecological systems theory
 
-by [@Yila-AI](https://github.com/Yila-AI)
+![Model](https://img.shields.io/badge/Model-GPT%20Image%202.6-10a37f) ![Category](https://img.shields.io/badge/Social%20Science-blue)
 
-Technique: **concentric rings plus an outer time arrow** · Style: schematic diagram · Aspect ratio: 1:1
+##### 📖 Description
 
-| English prompt |
-|---|
-| <img src="gallery/social-science/bronfenbrenner-ecological-systems-en.jpg" width="420"> |
+Technique: **concentric rings plus an outer time arrow** · Style: schematic diagram · Aspect Ratio: `1:1`
 
-> The Chinese-prompt output did not pass review, so it is not shown.
-
-**English prompt**
+##### 📝 Prompt
 
 ```text
 Create a diagram of 【Bronfenbrenner's ecological systems theory】 as four concentric rings around a child, each ring a different soft color, plus a time arrow outside them. Each system name is written once, inside its own ring.
@@ -11453,27 +5511,34 @@ Style: journal-style schematic diagram. Clean flat vector graphics on a white ba
 
 </details>
 
-Model: Nano Banana 2 Lite (gemini-3.1-flash-lite-image, 1K) · Generated 4 times in total; shown are the outputs that passed review
+##### 🖼️ Generated Image
 
-[↑ Back to top](#top)
+<div align="center">
+<a href="https://yila.ai/scientific-figure-prompts/bronfenbrenner-ecological-systems?utm_source=github&utm_medium=readme&utm_campaign=sci-figure-prompts&utm_content=bronfenbrenner-ecological-systems"><img src="gallery/social-science/bronfenbrenner-ecological-systems-en.jpg" width="600" alt="Bronfenbrenner's ecological systems theory"></a>
+</div>
 
-<sub><a href="https://yila.ai/?utm_source=github&utm_medium=readme&utm_campaign=sci-figure-prompts&utm_content=bronfenbrenner-ecological-systems">Try in Yila →</a></sub>
+##### 📌 Details
+
+- **Author:** [@Yila-AI](https://github.com/Yila-AI)
+- **Model:** GPT Image 2.6
+- **Aspect Ratio:** 1:1
+- **Languages:** en, zh
+
+**[👉 Try it now in YILA →](https://yila.ai/scientific-figure-prompts/bronfenbrenner-ecological-systems?utm_source=github&utm_medium=readme&utm_campaign=sci-figure-prompts&utm_content=bronfenbrenner-ecological-systems)** · [↑ Back to top](#top)
 
 ---
 
 <a id="no-226"></a>
 
-### No. 226: Difference-in-differences policy evaluation design
+#### No. 226: Difference-in-differences policy evaluation design
 
-by [@Yila-AI](https://github.com/Yila-AI)
+![Model](https://img.shields.io/badge/Model-GPT%20Image%202.6-10a37f) ![Category](https://img.shields.io/badge/Social%20Science-blue)
 
-Technique: **two groups by before and after** · Style: schematic diagram · Aspect ratio: 16:9
+##### 📖 Description
 
-| English prompt | Chinese prompt |
-|---|---|
-| <img src="gallery/social-science/difference-in-differences-design-en.jpg" width="420"> | <img src="gallery/social-science/difference-in-differences-design-zh.jpg" width="420"> |
+Technique: **two groups by before and after** · Style: schematic diagram · Aspect Ratio: `16:9`
 
-**English prompt**
+##### 📝 Prompt
 
 ```text
 Create a conceptual study design diagram of 【a difference-in-differences evaluation of a policy】, with no axes, no plotted lines, no values and no numbers.
@@ -11505,27 +5570,34 @@ Style: journal-style schematic diagram. Clean flat vector graphics on a white ba
 
 </details>
 
-Model: Nano Banana 2 Lite (gemini-3.1-flash-lite-image, 1K) · Generated 2 times in total; shown are the outputs that passed review
+##### 🖼️ Generated Image
 
-[↑ Back to top](#top)
+<div align="center">
+<a href="https://yila.ai/scientific-figure-prompts/difference-in-differences-design?utm_source=github&utm_medium=readme&utm_campaign=sci-figure-prompts&utm_content=difference-in-differences-design"><img src="gallery/social-science/difference-in-differences-design-en.jpg" width="600" alt="Difference-in-differences policy evaluation design"></a>
+</div>
 
-<sub><a href="https://yila.ai/?utm_source=github&utm_medium=readme&utm_campaign=sci-figure-prompts&utm_content=difference-in-differences-design">Try in Yila →</a></sub>
+##### 📌 Details
+
+- **Author:** [@Yila-AI](https://github.com/Yila-AI)
+- **Model:** GPT Image 2.6
+- **Aspect Ratio:** 16:9
+- **Languages:** en, zh
+
+**[👉 Try it now in YILA →](https://yila.ai/scientific-figure-prompts/difference-in-differences-design?utm_source=github&utm_medium=readme&utm_campaign=sci-figure-prompts&utm_content=difference-in-differences-design)** · [↑ Back to top](#top)
 
 ---
 
 <a id="no-227"></a>
 
-### No. 227: FAIR research data lifecycle
+#### No. 227: FAIR research data lifecycle
 
-by [@Yila-AI](https://github.com/Yila-AI)
+![Model](https://img.shields.io/badge/Model-GPT%20Image%202.6-10a37f) ![Category](https://img.shields.io/badge/Social%20Science-blue)
 
-Technique: **lifecycle ring with four FAIR tiles in the center** · Style: schematic diagram · Aspect ratio: 1:1
+##### 📖 Description
 
-| English prompt | Chinese prompt |
-|---|---|
-| <img src="gallery/social-science/fair-data-lifecycle-en.jpg" width="420"> | <img src="gallery/social-science/fair-data-lifecycle-zh.jpg" width="420"> |
+Technique: **lifecycle ring with four FAIR tiles in the center** · Style: schematic diagram · Aspect Ratio: `1:1`
 
-**English prompt**
+##### 📝 Prompt
 
 ```text
 Create a diagram of 【the research data lifecycle under the FAIR principles】: four stage boxes on a clean circle, read clockwise, and four FAIR tiles in the center.
@@ -11553,29 +5625,34 @@ Style: journal-style schematic diagram. Clean flat vector graphics on a white ba
 
 </details>
 
-Model: Nano Banana 2 Lite (gemini-3.1-flash-lite-image, 1K) · Generated 2 times in total; shown are the outputs that passed review
+##### 🖼️ Generated Image
 
-[↑ Back to top](#top)
+<div align="center">
+<a href="https://yila.ai/scientific-figure-prompts/fair-data-lifecycle?utm_source=github&utm_medium=readme&utm_campaign=sci-figure-prompts&utm_content=fair-data-lifecycle"><img src="gallery/social-science/fair-data-lifecycle-en.jpg" width="600" alt="FAIR research data lifecycle"></a>
+</div>
 
-<sub><a href="https://yila.ai/?utm_source=github&utm_medium=readme&utm_campaign=sci-figure-prompts&utm_content=fair-data-lifecycle">Try in Yila →</a></sub>
+##### 📌 Details
+
+- **Author:** [@Yila-AI](https://github.com/Yila-AI)
+- **Model:** GPT Image 2.6
+- **Aspect Ratio:** 1:1
+- **Languages:** en, zh
+
+**[👉 Try it now in YILA →](https://yila.ai/scientific-figure-prompts/fair-data-lifecycle?utm_source=github&utm_medium=readme&utm_campaign=sci-figure-prompts&utm_content=fair-data-lifecycle)** · [↑ Back to top](#top)
 
 ---
 
 <a id="no-228"></a>
 
-### No. 228: Flipped classroom model
+#### No. 228: Flipped classroom model
 
-by [@Yila-AI](https://github.com/Yila-AI)
+![Model](https://img.shields.io/badge/Model-GPT%20Image%202.6-10a37f) ![Category](https://img.shields.io/badge/Social%20Science-blue)
 
-Technique: **before, during and after class in three panels** · Style: schematic diagram · Aspect ratio: 16:9
+##### 📖 Description
 
-| English prompt |
-|---|
-| <img src="gallery/social-science/flipped-classroom-model-en.jpg" width="420"> |
+Technique: **before, during and after class in three panels** · Style: schematic diagram · Aspect Ratio: `16:9`
 
-> The Chinese-prompt output did not pass review, so it is not shown.
-
-**English prompt**
+##### 📝 Prompt
 
 ```text
 Create a model diagram of 【a flipped classroom】 as three large panels from left to right, each with simple icons:
@@ -11605,27 +5682,34 @@ Style: journal-style schematic diagram. Clean flat vector graphics on a white ba
 
 </details>
 
-Model: Nano Banana 2 Lite (gemini-3.1-flash-lite-image, 1K) · Generated 4 times in total; shown are the outputs that passed review
+##### 🖼️ Generated Image
 
-[↑ Back to top](#top)
+<div align="center">
+<a href="https://yila.ai/scientific-figure-prompts/flipped-classroom-model?utm_source=github&utm_medium=readme&utm_campaign=sci-figure-prompts&utm_content=flipped-classroom-model"><img src="gallery/social-science/flipped-classroom-model-en.jpg" width="600" alt="Flipped classroom model"></a>
+</div>
 
-<sub><a href="https://yila.ai/?utm_source=github&utm_medium=readme&utm_campaign=sci-figure-prompts&utm_content=flipped-classroom-model">Try in Yila →</a></sub>
+##### 📌 Details
+
+- **Author:** [@Yila-AI](https://github.com/Yila-AI)
+- **Model:** GPT Image 2.6
+- **Aspect Ratio:** 16:9
+- **Languages:** en, zh
+
+**[👉 Try it now in YILA →](https://yila.ai/scientific-figure-prompts/flipped-classroom-model?utm_source=github&utm_medium=readme&utm_campaign=sci-figure-prompts&utm_content=flipped-classroom-model)** · [↑ Back to top](#top)
 
 ---
 
 <a id="no-229"></a>
 
-### No. 229: Learning analytics workflow
+#### No. 229: Learning analytics workflow
 
-by [@Yila-AI](https://github.com/Yila-AI)
+![Model](https://img.shields.io/badge/Model-GPT%20Image%202.6-10a37f) ![Category](https://img.shields.io/badge/Social%20Science-blue)
 
-Technique: **one panel per step, step names only** · Style: flat workflow · Aspect ratio: 16:9
+##### 📖 Description
 
-| English prompt | Chinese prompt |
-|---|---|
-| <img src="gallery/social-science/learning-analytics-workflow-en.jpg" width="420"> | <img src="gallery/social-science/learning-analytics-workflow-zh.jpg" width="420"> |
+Technique: **one panel per step, step names only** · Style: flat workflow · Aspect Ratio: `16:9`
 
-**English prompt**
+##### 📝 Prompt
 
 ```text
 Create a workflow figure for 【learning analytics in a course】, 6 steps from left to right:
@@ -11659,27 +5743,34 @@ Style: journal-style experimental workflow figure. Clean flat vector icons on a 
 
 </details>
 
-Model: Nano Banana 2 Lite (gemini-3.1-flash-lite-image, 1K) · Generated 2 times in total; shown are the outputs that passed review
+##### 🖼️ Generated Image
 
-[↑ Back to top](#top)
+<div align="center">
+<a href="https://yila.ai/scientific-figure-prompts/learning-analytics-workflow?utm_source=github&utm_medium=readme&utm_campaign=sci-figure-prompts&utm_content=learning-analytics-workflow"><img src="gallery/social-science/learning-analytics-workflow-en.jpg" width="600" alt="Learning analytics workflow"></a>
+</div>
 
-<sub><a href="https://yila.ai/?utm_source=github&utm_medium=readme&utm_campaign=sci-figure-prompts&utm_content=learning-analytics-workflow">Try in Yila →</a></sub>
+##### 📌 Details
+
+- **Author:** [@Yila-AI](https://github.com/Yila-AI)
+- **Model:** GPT Image 2.6
+- **Aspect Ratio:** 16:9
+- **Languages:** en, zh
+
+**[👉 Try it now in YILA →](https://yila.ai/scientific-figure-prompts/learning-analytics-workflow?utm_source=github&utm_medium=readme&utm_campaign=sci-figure-prompts&utm_content=learning-analytics-workflow)** · [↑ Back to top](#top)
 
 ---
 
 <a id="no-230"></a>
 
-### No. 230: Logic model: inputs, activities, outputs, outcomes
+#### No. 230: Logic model: inputs, activities, outputs, outcomes
 
-by [@Yila-AI](https://github.com/Yila-AI)
+![Model](https://img.shields.io/badge/Model-GPT%20Image%202.6-10a37f) ![Category](https://img.shields.io/badge/Social%20Science-blue)
 
-Technique: **left-to-right results chain with assumptions and external factors below** · Style: schematic diagram · Aspect ratio: 16:9
+##### 📖 Description
 
-| English prompt | Chinese prompt |
-|---|---|
-| <img src="gallery/social-science/logic-model-en.jpg" width="420"> | <img src="gallery/social-science/logic-model-zh.jpg" width="420"> |
+Technique: **left-to-right results chain with assumptions and external factors below** · Style: schematic diagram · Aspect Ratio: `16:9`
 
-**English prompt**
+##### 📝 Prompt
 
 ```text
 Create a logic model of 【a community health program】, read from left to right, each stage a rounded box with one icon. Draw each relationship exactly as listed and nothing more:
@@ -11709,470 +5800,91 @@ Style: journal-style schematic diagram. Clean flat vector graphics on a white ba
 
 </details>
 
-Model: Nano Banana 2 Lite (gemini-3.1-flash-lite-image, 1K) · Generated 2 times in total; shown are the outputs that passed review
+##### 🖼️ Generated Image
 
-[↑ Back to top](#top)
+<div align="center">
+<a href="https://yila.ai/scientific-figure-prompts/logic-model?utm_source=github&utm_medium=readme&utm_campaign=sci-figure-prompts&utm_content=logic-model"><img src="gallery/social-science/logic-model-en.jpg" width="600" alt="Logic model: inputs, activities, outputs, outcomes"></a>
+</div>
 
-<sub><a href="https://yila.ai/?utm_source=github&utm_medium=readme&utm_campaign=sci-figure-prompts&utm_content=logic-model">Try in Yila →</a></sub>
+##### 📌 Details
 
----
+- **Author:** [@Yila-AI](https://github.com/Yila-AI)
+- **Model:** GPT Image 2.6
+- **Aspect Ratio:** 16:9
+- **Languages:** en, zh
 
-<a id="no-231"></a>
-
-### No. 231: Explanatory sequential mixed-methods design
-
-by [@Yila-AI](https://github.com/Yila-AI)
-
-Technique: **quantitative first, qualitative second, connected in the middle** · Style: schematic diagram · Aspect ratio: 16:9
-
-| English prompt | Chinese prompt |
-|---|---|
-| <img src="gallery/social-science/mixed-methods-explanatory-en.jpg" width="420"> | <img src="gallery/social-science/mixed-methods-explanatory-zh.jpg" width="420"> |
-
-**English prompt**
-
-```text
-Create a research design diagram of 【an explanatory sequential mixed-methods study】, read from left to right. Draw each relationship exactly as listed and nothing more:
-1. 【Quantitative data collection (a survey icon) → quantitative analysis (a chart icon), in a blue panel.】
-2. 【An arrow to a connecting step: selecting participants for follow-up.】
-3. 【Qualitative data collection (an interview icon) → qualitative analysis (a speech-bubble icon), in a green panel.】
-4. 【Both panels point into a final box for integration and interpretation.】
-Labels, each used once, no other text: 【QUAN data, QUAN analysis, Participant selection, QUAL data, QUAL analysis, Integration】.
-
-Style: journal-style schematic diagram. Clean flat vector graphics on a white background. Modules are rounded rectangles or simple icons with their short names inside; light pastel panels group related layers. Only 3-4 muted colors, each with one fixed meaning. Thin, uniform arrows show the flow of data, energy, material or influence; dashed arrows for indirect or feedback links. Sans-serif English labels only, each label appears exactly once, spelled exactly as given. No 3D rendering, no shadows, no glow, no cyberpunk or tech-background decoration, no photorealism.
-```
-
-<details><summary>Chinese prompt</summary>
-
-```text
-画一张【解释性顺序混合研究】的研究设计图，从左往右读。严格按下面列出的关系画，不多画：
-1. 【定量数据收集（问卷图标）→ 定量分析（图表图标），放在蓝色面板里。】
-2. 【箭头指向衔接步骤：挑选参与者做后续访谈。】
-3. 【定性数据收集（访谈图标）→ 定性分析（对话气泡图标），放在绿色面板里。】
-4. 【两个面板都指向最后一个代表整合与解释的框。】
-标签（每个只出现一次，不加其他文字）：【QUAN data, QUAN analysis, Participant selection, QUAL data, QUAL analysis, Integration】。
-
-风格：期刊式示意框图。白色背景上干净的扁平矢量图形。模块画成圆角矩形或简洁图标，名称写在里面；用浅色面板把相关的层归在一起。只用 3–4 种低饱和度颜色，每种颜色含义固定。细而粗细一致的箭头表示数据、能量、物质或影响的流向，间接或反馈关系用虚线箭头。图中文字只用英文无衬线字体，每个标签只出现一次，拼写与给定完全一致。不要 3D 渲染、阴影、发光、赛博朋克或科技感背景装饰，不要照片质感。
-```
-
-</details>
-
-Model: Nano Banana 2 Lite (gemini-3.1-flash-lite-image, 1K) · Generated 2 times in total; shown are the outputs that passed review
-
-[↑ Back to top](#top)
-
-<sub><a href="https://yila.ai/?utm_source=github&utm_medium=readme&utm_campaign=sci-figure-prompts&utm_content=mixed-methods-explanatory">Try in Yila →</a></sub>
+**[👉 Try it now in YILA →](https://yila.ai/scientific-figure-prompts/logic-model?utm_source=github&utm_medium=readme&utm_campaign=sci-figure-prompts&utm_content=logic-model)** · [↑ Back to top](#top)
 
 ---
 
-<a id="no-232"></a>
+## 📚 More Prompts Available
 
-### No. 232: Open science research lifecycle
+<div align="center">
 
-by [@Yila-AI](https://github.com/Yila-AI)
+### 🎯 900+ more prompts not shown here
 
-Technique: **eight boxes in a clockwise circle** · Style: schematic diagram · Aspect ratio: 1:1
+Due to GitHub's README length limits, this page showcases the featured set plus 96 curated prompts across all 12 disciplines.
 
-| English prompt | Chinese prompt |
-|---|---|
-| <img src="gallery/social-science/open-science-lifecycle-en.jpg" width="420"> | <img src="gallery/social-science/open-science-lifecycle-zh.jpg" width="420"> |
+**[👉 View all 1000+ prompts in the YILA Web Gallery](https://yila.ai/scientific-figure-prompts?utm_source=github&utm_medium=readme_more&utm_campaign=sci-figure-prompts)**
 
-**English prompt**
+✨ Beautiful masonry gallery with high-res previews
 
-```text
-Create a lifecycle diagram of 【open science】 as a clean circle of eight boxes, each with one icon, read clockwise from the top. Draw each relationship exactly as listed and nothing more:
-1. 【Clockwise arrows: preregistration (a time-stamped plan) → data collection (a clipboard) → open code (a code window) → preprint (a document with a globe).】
-2. 【Preprint → open peer review (two reviewers with speech bubbles) → open access (an unlocked journal) → data sharing (a database with a share icon) → replication (two matching flasks).】
-3. 【Replication → preregistration, closing the circle.】
-There are no T-bars in this figure. Do not write the numbered sentences in the figure. Write each label only once in the whole figure.
-Labels, each used once, no other text: 【Preregistration, Data collection, Open code, Preprint, Open peer review, Open access, Data sharing, Replication】.
+🔍 Full-text search and 12-discipline filtering
 
-Style: journal-style schematic diagram. Clean flat vector graphics on a white background. Modules are rounded rectangles or simple icons with their short names inside; light pastel panels group related layers. Only 3-4 muted colors, each with one fixed meaning. Thin, uniform arrows show the flow of data, energy, material or influence; dashed arrows for indirect or feedback links. Sans-serif English labels only, each label appears exactly once, spelled exactly as given. No 3D rendering, no shadows, no glow, no cyberpunk or tech-background decoration, no photorealism.
-```
+🤖 One-click GPT Image 2.6 generation from your abstract
 
-<details><summary>Chinese prompt</summary>
+🌍 Multilingual interface & mobile-friendly experience
 
-```text
-画一张【开放科学】生命周期图，八个方框排成一个干净的圆环，每个框配一个图标，从顶部开始顺时针读。严格按下面列出的关系画，不多画：
-1. 【顺时针箭头：预注册（带时间戳的计划书）→ 数据收集（写字板）→ 开放代码（代码窗口）→ 预印本（带地球图标的文档）。】
-2. 【预印本 → 开放同行评审（两个带对话气泡的审稿人）→ 开放获取（解锁的期刊）→ 数据共享（带分享图标的数据库）→ 重复验证（两个一样的烧瓶）。】
-3. 【重复验证 → 预注册，形成闭环。】
-图中没有 T 形线。不要把编号句子写进图里。整张图里每个标签只写一次。
-标签（每个只出现一次，不加其他文字）：【Preregistration, Data collection, Open code, Preprint, Open peer review, Open access, Data sharing, Replication】。
-
-风格：期刊式示意框图。白色背景上干净的扁平矢量图形。模块画成圆角矩形或简洁图标，名称写在里面；用浅色面板把相关的层归在一起。只用 3–4 种低饱和度颜色，每种颜色含义固定。细而粗细一致的箭头表示数据、能量、物质或影响的流向，间接或反馈关系用虚线箭头。图中文字只用英文无衬线字体，每个标签只出现一次，拼写与给定完全一致。不要 3D 渲染、阴影、发光、赛博朋克或科技感背景装饰，不要照片质感。
-```
-
-</details>
-
-Model: Nano Banana 2 Lite (gemini-3.1-flash-lite-image, 1K) · Generated 4 times in total; shown are the outputs that passed review
-
-[↑ Back to top](#top)
-
-<sub><a href="https://yila.ai/?utm_source=github&utm_medium=readme&utm_campaign=sci-figure-prompts&utm_content=open-science-lifecycle">Try in Yila →</a></sub>
+</div>
 
 ---
 
-<a id="no-233"></a>
+<a id="how-to-contribute"></a>
 
-### No. 233: Research framework with mediator and moderator
+## 🤝 How to Contribute
 
-by [@Yila-AI](https://github.com/Yila-AI)
+We welcome contributions from researchers across all disciplines! Submit a prompt via:
 
-Technique: **numbered relationships + block diagram** · Style: schematic diagram · Aspect ratio: 16:9
+1. Open [**Submit New Prompt**](https://github.com/Yila-AI/awesome-scientific-figure-prompts/issues/new?template=new-prompt.yml) or report an issue via [**Scientific Error**](https://github.com/Yila-AI/awesome-scientific-figure-prompts/issues/new?template=scientific-error.yml)
+2. Fill in the prompt template, discipline, and verified GPT Image 2.6 output
+3. Submit a Pull Request or Issue — accepted entries are credited to your GitHub profile
 
-| English prompt |
-|---|
-| <img src="gallery/social-science/research-framework-en.jpg" width="420"> |
-
-> The Chinese-prompt output did not pass review, so it is not shown.
-
-**English prompt**
-
-```text
-Create a conceptual research framework diagram, read from left to right. Draw each relationship exactly as listed and nothing more:
-1. 【Social media use → Social comparison (solid arrow).】
-2. 【Social comparison → Well-being (solid arrow).】
-3. 【Social media use → Well-being (a direct solid arrow below the other two).】
-4. 【Self-esteem points with a dashed arrow onto the middle of arrow 2.】
-5. 【A gray box at the bottom lists control variables.】
-Each variable is a rounded rectangle.
-Labels, each used once, no other text: 【Social media use, Social comparison, Well-being, Self-esteem, Control variables】.
-
-Style: journal-style schematic diagram. Clean flat vector graphics on a white background. Modules are rounded rectangles or simple icons with their short names inside; light pastel panels group related layers. Only 3-4 muted colors, each with one fixed meaning. Thin, uniform arrows show the flow of data, energy, material or influence; dashed arrows for indirect or feedback links. Sans-serif English labels only, each label appears exactly once, spelled exactly as given. No 3D rendering, no shadows, no glow, no cyberpunk or tech-background decoration, no photorealism.
-```
-
-<details><summary>Chinese prompt</summary>
-
-```text
-画一张概念研究框架图，从左往右读。严格按下面列出的关系画，不多画：
-1. 【社交媒体使用 → 社会比较（实线箭头）。】
-2. 【社会比较 → 幸福感（实线箭头）。】
-3. 【社交媒体使用 → 幸福感（在前两条下方，一条直接的实线箭头）。】
-4. 【自尊用一条虚线箭头指向第 2 条箭头的中间。】
-5. 【底部一个灰色方框列出控制变量。】
-每个变量画成一个圆角矩形。
-标签（每个只出现一次，不加其他文字）：【Social media use, Social comparison, Well-being, Self-esteem, Control variables】。
-
-风格：期刊式示意框图。白色背景上干净的扁平矢量图形。模块画成圆角矩形或简洁图标，名称写在里面；用浅色面板把相关的层归在一起。只用 3–4 种低饱和度颜色，每种颜色含义固定。细而粗细一致的箭头表示数据、能量、物质或影响的流向，间接或反馈关系用虚线箭头。图中文字只用英文无衬线字体，每个标签只出现一次，拼写与给定完全一致。不要 3D 渲染、阴影、发光、赛博朋克或科技感背景装饰，不要照片质感。
-```
-
-</details>
-
-Model: Nano Banana 2 Lite (gemini-3.1-flash-lite-image, 1K) · Generated 3 times in total; shown are the outputs that passed review
-
-[↑ Back to top](#top)
-
-<sub><a href="https://yila.ai/?utm_source=github&utm_medium=readme&utm_campaign=sci-figure-prompts&utm_content=research-framework">Try in Yila →</a></sub>
+See [CONTRIBUTING.md](CONTRIBUTING.md) for detailed guidelines.
 
 ---
 
-<a id="no-234"></a>
+<a id="license"></a>
 
-### No. 234: Scale development and validation workflow
+## 📄 License
 
-by [@Yila-AI](https://github.com/Yila-AI)
-
-Technique: **one panel per step, step names only** · Style: flat workflow · Aspect ratio: 16:9
-
-| English prompt | Chinese prompt |
-|---|---|
-| <img src="gallery/social-science/scale-development-validation-en.jpg" width="420"> | <img src="gallery/social-science/scale-development-validation-zh.jpg" width="420"> |
-
-**English prompt**
-
-```text
-Create a workflow figure for 【scale development and validation】, 7 steps from left to right:
-1. 【Item generation: a lightbulb over a list of draft items】
-2. 【Expert review: a panel of experts checking the items】
-3. 【Pilot testing: a few people filling in the questionnaire】
-4. 【Exploratory factor analysis: scattered items grouping into a few clusters】
-5. 【Confirmatory factor analysis: ovals for factors with arrows to item boxes】
-6. 【Reliability: a tight cluster of darts on a target】
-7. 【Validity: darts hitting the center of a target】
-Do not write the numbered sentences in the figure.
-Step names, each used once, no other text: 【Item generation, Expert review, Pilot testing, Exploratory factor analysis, Confirmatory factor analysis, Reliability, Validity】.
-
-Style: journal-style experimental workflow figure. Clean flat vector icons on a white background, one light pastel rounded panel per step, thin gray arrows between panels. Only 3-4 muted colors. Each panel shows one simple scene with no text inside it; the only text in the whole figure is the step names given. Sans-serif English, each step name appears exactly once, spelled exactly as given. No legends, no captions, no extra labels, no 3D rendering, no shadows, no decorative background.
-```
-
-<details><summary>Chinese prompt</summary>
-
-```text
-画一张【量表编制与验证】的流程图，从左往右七步：
-1. 【条目生成：一张草拟条目清单上方的灯泡】
-2. 【专家评审：几位专家在审阅条目】
-3. 【预测试：几个人在填写问卷】
-4. 【探索性因子分析：零散的条目聚成几簇】
-5. 【验证性因子分析：代表因子的椭圆用箭头指向条目方框】
-6. 【信度检验：飞镖紧密集中在靶上一处】
-7. 【效度检验：飞镖正中靶心】
-不要把编号句子写进图里。
-步骤名（每个只出现一次，不加其他文字）：【Item generation, Expert review, Pilot testing, Exploratory factor analysis, Confirmatory factor analysis, Reliability, Validity】。
-
-风格：期刊式实验流程图。白色背景上干净的扁平矢量图标，每一步一个浅色圆角面板，面板之间用细灰色箭头连接。只用 3–4 种低饱和度颜色。每个面板里只画一个简洁的小场景，面板内不写任何文字；整张图唯一的文字就是给定的步骤名。用英文无衬线字体，每个步骤名只出现一次，拼写与给定完全一致。不要图例、不要说明文字、不要额外标签、不要 3D 渲染、阴影或装饰性背景。
-```
-
-</details>
-
-Model: Nano Banana 2 Lite (gemini-3.1-flash-lite-image, 1K) · Generated 4 times in total; shown are the outputs that passed review
-
-[↑ Back to top](#top)
-
-<sub><a href="https://yila.ai/?utm_source=github&utm_medium=readme&utm_campaign=sci-figure-prompts&utm_content=scale-development-validation">Try in Yila →</a></sub>
+Prompts are licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Example images are AI-generated.
 
 ---
 
-<a id="no-235"></a>
+<a id="acknowledgements"></a>
 
-### No. 235: Stakeholder map (power–interest grid)
+## 🙏 Acknowledgements
 
-by [@Yila-AI](https://github.com/Yila-AI)
-
-Technique: **four-quadrant grid with icons for each group** · Style: schematic diagram · Aspect ratio: 1:1
-
-| Chinese prompt |
-|---|
-| <img src="gallery/social-science/stakeholder-power-interest-map-zh.jpg" width="420"> |
-
-**English prompt**
-
-```text
-Create a stakeholder map of 【a public health program】 as a power–interest grid: a square divided into four quadrants. The vertical axis is power, increasing upward, and the horizontal axis is interest, increasing to the right, with arrowheads only and no numbers or scale.
-1. Top right, manage closely: 【a government health agency and funders (a building and a money-bag icon)】.
-2. Top left, keep satisfied: 【regulators and media (a gavel and a camera icon)】.
-3. Bottom right, keep informed: 【patients and community groups (people icons)】.
-4. Bottom left, monitor: 【the general public (a crowd icon)】.
-Each quadrant has its strategy name written once in its corner; the stakeholders are icons without names.
-Write each label only once in the whole figure.
-Labels, each used once, no other text: 【Power, Interest, Manage closely, Keep satisfied, Keep informed, Monitor】.
-
-Style: journal-style schematic diagram. Clean flat vector graphics on a white background. Modules are rounded rectangles or simple icons with their short names inside; light pastel panels group related layers. Only 3-4 muted colors, each with one fixed meaning. Thin, uniform arrows show the flow of data, energy, material or influence; dashed arrows for indirect or feedback links. Sans-serif English labels only, each label appears exactly once, spelled exactly as given. No 3D rendering, no shadows, no glow, no cyberpunk or tech-background decoration, no photorealism.
-```
-
-<details><summary>Chinese prompt</summary>
-
-```text
-画一张【公共卫生项目】的利益相关者地图，用权力—利益矩阵表示：一个正方形分成四个象限。纵轴是权力，向上增大；横轴是利益，向右增大；坐标轴只画箭头，不写数字或刻度。
-1. 右上，重点管理：【政府卫生部门和资助方（建筑和钱袋图标）】。
-2. 左上，保持满意：【监管机构和媒体（法槌和摄像机图标）】。
-3. 右下，及时告知：【患者和社区团体（人形图标）】。
-4. 左下，持续关注：【普通公众（人群图标）】。
-每个象限的角上写一次策略名；利益相关者只画图标，不写名字。
-整张图里每个标签只写一次。
-标签（每个只出现一次，不加其他文字）：【Power, Interest, Manage closely, Keep satisfied, Keep informed, Monitor】。
-
-风格：期刊式示意框图。白色背景上干净的扁平矢量图形。模块画成圆角矩形或简洁图标，名称写在里面；用浅色面板把相关的层归在一起。只用 3–4 种低饱和度颜色，每种颜色含义固定。细而粗细一致的箭头表示数据、能量、物质或影响的流向，间接或反馈关系用虚线箭头。图中文字只用英文无衬线字体，每个标签只出现一次，拼写与给定完全一致。不要 3D 渲染、阴影、发光、赛博朋克或科技感背景装饰，不要照片质感。
-```
-
-</details>
-
-Model: Nano Banana 2 Lite (gemini-3.1-flash-lite-image, 1K) · Generated 4 times in total; shown are the outputs that passed review
-
-[↑ Back to top](#top)
-
-<sub><a href="https://yila.ai/?utm_source=github&utm_medium=readme&utm_campaign=sci-figure-prompts&utm_content=stakeholder-power-interest-map">Try in Yila →</a></sub>
+- **[YILA AI](https://yila.ai/scientific-figure-prompts?utm_source=github&utm_medium=readme_footer&utm_campaign=sci-figure-prompts)** — Academic research agent & interactive scientific figure gallery
+- **[FigPad](https://figpad.ai/?utm_source=github&utm_medium=readme&utm_campaign=sci-figure-prompts)** — Post-draft vector label, arrow, and layout editor
+- **[awesome-research-skills](https://github.com/Yila-AI/awesome-research-skills)** — Open-source academic agent skills
 
 ---
 
-<a id="no-236"></a>
+<a id="star-history"></a>
 
-### No. 236: Technology acceptance model (TAM)
+## ⭐ Star History
 
-by [@Yila-AI](https://github.com/Yila-AI)
-
-Technique: **variable boxes with solid paths** · Style: schematic diagram · Aspect ratio: 16:9
-
-| English prompt | Chinese prompt |
-|---|---|
-| <img src="gallery/social-science/tam-model-en.jpg" width="420"> | <img src="gallery/social-science/tam-model-zh.jpg" width="420"> |
-
-**English prompt**
-
-```text
-Create a conceptual model diagram of 【the technology acceptance model】, read from left to right, each variable a rounded rectangle. Draw each relationship exactly as listed and nothing more:
-1. 【External variables → perceived usefulness and → perceived ease of use.】
-2. 【Perceived ease of use → perceived usefulness.】
-3. 【Both perceptions → attitude → behavioral intention → actual use.】
-4. 【Perceived usefulness → behavioral intention.】
-Do not write the numbered sentences in the figure.
-Labels, each used once, no other text: 【External variables, Perceived usefulness, Perceived ease of use, Attitude, Behavioral intention, Actual use】.
-
-Style: journal-style schematic diagram. Clean flat vector graphics on a white background. Modules are rounded rectangles or simple icons with their short names inside; light pastel panels group related layers. Only 3-4 muted colors, each with one fixed meaning. Thin, uniform arrows show the flow of data, energy, material or influence; dashed arrows for indirect or feedback links. Sans-serif English labels only, each label appears exactly once, spelled exactly as given. No 3D rendering, no shadows, no glow, no cyberpunk or tech-background decoration, no photorealism.
-```
-
-<details><summary>Chinese prompt</summary>
-
-```text
-画一张【技术接受模型】概念图，从左往右读，每个变量画成一个圆角矩形。严格按下面列出的关系画，不多画：
-1. 【外部变量 → 感知有用性，并 → 感知易用性。】
-2. 【感知易用性 → 感知有用性。】
-3. 【两个感知 → 态度 → 行为意向 → 实际使用。】
-4. 【感知有用性 → 行为意向。】
-不要把编号句子写进图里。
-标签（每个只出现一次，不加其他文字）：【External variables, Perceived usefulness, Perceived ease of use, Attitude, Behavioral intention, Actual use】。
-
-风格：期刊式示意框图。白色背景上干净的扁平矢量图形。模块画成圆角矩形或简洁图标，名称写在里面；用浅色面板把相关的层归在一起。只用 3–4 种低饱和度颜色，每种颜色含义固定。细而粗细一致的箭头表示数据、能量、物质或影响的流向，间接或反馈关系用虚线箭头。图中文字只用英文无衬线字体，每个标签只出现一次，拼写与给定完全一致。不要 3D 渲染、阴影、发光、赛博朋克或科技感背景装饰，不要照片质感。
-```
-
-</details>
-
-Model: Nano Banana 2 Lite (gemini-3.1-flash-lite-image, 1K) · Generated 2 times in total; shown are the outputs that passed review
-
-[↑ Back to top](#top)
-
-<sub><a href="https://yila.ai/?utm_source=github&utm_medium=readme&utm_campaign=sci-figure-prompts&utm_content=tam-model">Try in Yila →</a></sub>
+[![Star History Chart](https://api.star-history.com/svg?repos=Yila-AI/awesome-scientific-figure-prompts&type=Date)](https://star-history.com/#Yila-AI/awesome-scientific-figure-prompts&Date)
 
 ---
 
-<a id="no-237"></a>
+<div align="center">
 
-### No. 237: Research technical roadmap
+**[🌐 View in Web Gallery](https://yila.ai/scientific-figure-prompts?utm_source=github&utm_medium=readme_bottom&utm_campaign=sci-figure-prompts)** •
+**[📝 Submit a Prompt](https://github.com/Yila-AI/awesome-scientific-figure-prompts/issues/new?template=new-prompt.yml)** •
+**[⭐ Star this repo](https://github.com/Yila-AI/awesome-scientific-figure-prompts)**
 
-by [@Yila-AI](https://github.com/Yila-AI)
+<sub>🤖 This README is automatically generated. Last updated: 2026-11-22T04:09:04Z</sub>
 
-Technique: **vertical technology roadmap** · Style: schematic diagram · Aspect ratio: 3:4
-
-| English prompt | Chinese prompt |
-|---|---|
-| <img src="gallery/social-science/technical-roadmap-en.jpg" width="420"> | <img src="gallery/social-science/technical-roadmap-zh.jpg" width="420"> |
-
-**English prompt**
-
-```text
-Create a vertical technical roadmap for 【a research project】, read from top to bottom, each stage a light pastel rounded panel with a small icon, connected by thin arrows: 【Research question (a question-mark icon) → Data collection, split into three side-by-side boxes for survey, interviews and archives → Analysis (a chart icon) → Findings (a lightbulb icon) → Policy implications (a document icon)】.
-Labels, each used once, no other text: 【Research question, Data collection, Analysis, Findings, Implications】.
-
-Style: journal-style schematic diagram. Clean flat vector graphics on a white background. Modules are rounded rectangles or simple icons with their short names inside; light pastel panels group related layers. Only 3-4 muted colors, each with one fixed meaning. Thin, uniform arrows show the flow of data, energy, material or influence; dashed arrows for indirect or feedback links. Sans-serif English labels only, each label appears exactly once, spelled exactly as given. No 3D rendering, no shadows, no glow, no cyberpunk or tech-background decoration, no photorealism.
-```
-
-<details><summary>Chinese prompt</summary>
-
-```text
-画一张【课题研究】的竖向技术路线图，从上往下读，每个阶段是一个带小图标的浅色圆角面板，用细箭头连接：【研究问题（问号图标）→ 数据收集，分成并排的三个小框：问卷、访谈、档案 → 分析（图表图标）→ 研究发现（灯泡图标）→ 政策启示（文件图标）】。
-标签（每个只出现一次，不加其他文字）：【Research question, Data collection, Analysis, Findings, Implications】。
-
-风格：期刊式示意框图。白色背景上干净的扁平矢量图形。模块画成圆角矩形或简洁图标，名称写在里面；用浅色面板把相关的层归在一起。只用 3–4 种低饱和度颜色，每种颜色含义固定。细而粗细一致的箭头表示数据、能量、物质或影响的流向，间接或反馈关系用虚线箭头。图中文字只用英文无衬线字体，每个标签只出现一次，拼写与给定完全一致。不要 3D 渲染、阴影、发光、赛博朋克或科技感背景装饰，不要照片质感。
-```
-
-</details>
-
-Model: Nano Banana 2 Lite (gemini-3.1-flash-lite-image, 1K) · Generated 3 times in total; shown are the outputs that passed review
-
-[↑ Back to top](#top)
-
-<sub><a href="https://yila.ai/?utm_source=github&utm_medium=readme&utm_campaign=sci-figure-prompts&utm_content=technical-roadmap">Try in Yila →</a></sub>
-
----
-
-<a id="no-238"></a>
-
-### No. 238: Theory of planned behavior (TPB)
-
-by [@Yila-AI](https://github.com/Yila-AI)
-
-Technique: **three antecedents converging on intention** · Style: schematic diagram · Aspect ratio: 16:9
-
-| English prompt | Chinese prompt |
-|---|---|
-| <img src="gallery/social-science/theory-of-planned-behavior-en.jpg" width="420"> | <img src="gallery/social-science/theory-of-planned-behavior-zh.jpg" width="420"> |
-
-**English prompt**
-
-```text
-Create a conceptual model diagram of 【the theory of planned behavior】, read from left to right, each variable a rounded rectangle. Draw each relationship exactly as listed and nothing more:
-1. 【Attitude, subjective norm and perceived behavioral control, stacked on the left, each → intention.】
-2. 【Intention → behavior.】
-3. 【Perceived behavioral control → behavior (a curved solid arrow along the bottom).】
-Do not write the numbered sentences in the figure.
-Labels, each used once, no other text: 【Attitude, Subjective norm, Perceived behavioral control, Intention, Behavior】.
-
-Style: journal-style schematic diagram. Clean flat vector graphics on a white background. Modules are rounded rectangles or simple icons with their short names inside; light pastel panels group related layers. Only 3-4 muted colors, each with one fixed meaning. Thin, uniform arrows show the flow of data, energy, material or influence; dashed arrows for indirect or feedback links. Sans-serif English labels only, each label appears exactly once, spelled exactly as given. No 3D rendering, no shadows, no glow, no cyberpunk or tech-background decoration, no photorealism.
-```
-
-<details><summary>Chinese prompt</summary>
-
-```text
-画一张【计划行为理论】概念图，从左往右读，每个变量画成一个圆角矩形。严格按下面列出的关系画，不多画：
-1. 【左侧上下排列的态度、主观规范和知觉行为控制，分别 → 行为意向。】
-2. 【行为意向 → 行为。】
-3. 【知觉行为控制 → 行为（沿底部的一条弧形实线箭头）。】
-不要把编号句子写进图里。
-标签（每个只出现一次，不加其他文字）：【Attitude, Subjective norm, Perceived behavioral control, Intention, Behavior】。
-
-风格：期刊式示意框图。白色背景上干净的扁平矢量图形。模块画成圆角矩形或简洁图标，名称写在里面；用浅色面板把相关的层归在一起。只用 3–4 种低饱和度颜色，每种颜色含义固定。细而粗细一致的箭头表示数据、能量、物质或影响的流向，间接或反馈关系用虚线箭头。图中文字只用英文无衬线字体，每个标签只出现一次，拼写与给定完全一致。不要 3D 渲染、阴影、发光、赛博朋克或科技感背景装饰，不要照片质感。
-```
-
-</details>
-
-Model: Nano Banana 2 Lite (gemini-3.1-flash-lite-image, 1K) · Generated 2 times in total; shown are the outputs that passed review
-
-[↑ Back to top](#top)
-
-<sub><a href="https://yila.ai/?utm_source=github&utm_medium=readme&utm_campaign=sci-figure-prompts&utm_content=theory-of-planned-behavior">Try in Yila →</a></sub>
-
----
-
-<a id="no-239"></a>
-
-### No. 239: Unified theory of acceptance and use of technology (UTAUT)
-
-by [@Yila-AI](https://github.com/Yila-AI)
-
-Technique: **four antecedents plus moderators** · Style: schematic diagram · Aspect ratio: 16:9
-
-| English prompt | Chinese prompt |
-|---|---|
-| <img src="gallery/social-science/utaut-model-en.jpg" width="420"> | <img src="gallery/social-science/utaut-model-zh.jpg" width="420"> |
-
-**English prompt**
-
-```text
-Create a conceptual model diagram of 【UTAUT】, read from left to right, each variable a rounded rectangle. Draw each relationship exactly as listed and nothing more:
-1. 【Performance expectancy, effort expectancy and social influence each → behavioral intention.】
-2. 【Behavioral intention → use behavior.】
-3. 【Facilitating conditions → use behavior.】
-4. 【A row of four small gray moderator boxes along the bottom (gender, age, experience, voluntariness) points with dashed arrows to the middle of the paths.】
-Do not write the numbered sentences in the figure.
-Labels, each used once, no other text: 【Performance expectancy, Effort expectancy, Social influence, Facilitating conditions, Behavioral intention, Use behavior, Gender, Age, Experience, Voluntariness】.
-
-Style: journal-style schematic diagram. Clean flat vector graphics on a white background. Modules are rounded rectangles or simple icons with their short names inside; light pastel panels group related layers. Only 3-4 muted colors, each with one fixed meaning. Thin, uniform arrows show the flow of data, energy, material or influence; dashed arrows for indirect or feedback links. Sans-serif English labels only, each label appears exactly once, spelled exactly as given. No 3D rendering, no shadows, no glow, no cyberpunk or tech-background decoration, no photorealism.
-```
-
-<details><summary>Chinese prompt</summary>
-
-```text
-画一张【UTAUT】概念图，从左往右读，每个变量画成一个圆角矩形。严格按下面列出的关系画，不多画：
-1. 【绩效期望、努力期望和社会影响分别 → 行为意向。】
-2. 【行为意向 → 使用行为。】
-3. 【便利条件 → 使用行为。】
-4. 【底部一排四个灰色小调节变量框（性别、年龄、经验、自愿性），用虚线箭头指向路径中间。】
-不要把编号句子写进图里。
-标签（每个只出现一次，不加其他文字）：【Performance expectancy, Effort expectancy, Social influence, Facilitating conditions, Behavioral intention, Use behavior, Gender, Age, Experience, Voluntariness】。
-
-风格：期刊式示意框图。白色背景上干净的扁平矢量图形。模块画成圆角矩形或简洁图标，名称写在里面；用浅色面板把相关的层归在一起。只用 3–4 种低饱和度颜色，每种颜色含义固定。细而粗细一致的箭头表示数据、能量、物质或影响的流向，间接或反馈关系用虚线箭头。图中文字只用英文无衬线字体，每个标签只出现一次，拼写与给定完全一致。不要 3D 渲染、阴影、发光、赛博朋克或科技感背景装饰，不要照片质感。
-```
-
-</details>
-
-Model: Nano Banana 2 Lite (gemini-3.1-flash-lite-image, 1K) · Generated 2 times in total; shown are the outputs that passed review
-
-[↑ Back to top](#top)
-
-<sub><a href="https://yila.ai/?utm_source=github&utm_medium=readme&utm_campaign=sci-figure-prompts&utm_content=utaut-model">Try in Yila →</a></sub>
-
----
-
-## Contributing
-
-Submit a prompt and its output through a pull request or an issue; accepted entries are credited. See [CONTRIBUTING.md](CONTRIBUTING.md), or open a [new prompt](https://github.com/Yila-AI/awesome-scientific-figure-prompts/issues/new?template=new-prompt.yml) or a [scientific error](https://github.com/Yila-AI/awesome-scientific-figure-prompts/issues/new?template=scientific-error.yml).
-
-## License
-
-Prompts are released under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Example images are AI-generated and carry the model's SynthID watermark.
-
----
-
-Made by [Yila-AI](https://yila.ai/?utm_source=github&utm_medium=readme_footer&utm_campaign=sci-figure-prompts).
-
-To adjust labels, arrows, or layout after the draft, edit the figure in [FigPad](https://figpad.ai/?utm_source=github&utm_medium=readme&utm_campaign=sci-figure-prompts).
+</div>

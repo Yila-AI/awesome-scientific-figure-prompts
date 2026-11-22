@@ -13,10 +13,18 @@ body:
       label: Category
       description: Which figure type is this?
       options:
+        - research-design
         - graphical-abstract
         - signaling-pathway
         - medical-illustration
         - experimental-workflow
+        - materials-energy
+        - earth-environment
+        - ai-computing
+        - engineering-systems
+        - chemistry-instruments
+        - plant-agriculture
+        - social-science
     validations:
       required: true
   - type: textarea
@@ -30,8 +38,8 @@ body:
     id: model
     attributes:
       label: Model
-      description: The image model you used. Any Gemini or ChatGPT UI is fine.
-      placeholder: Gemini
+      description: The image model you used (e.g. GPT Image 2.6 or Yila).
+      placeholder: GPT Image 2.6
     validations:
       required: true
   - type: textarea
